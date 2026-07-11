@@ -39,4 +39,6 @@ func main() {
 	fmt.Println(urmom)
 	fmt.Println(add(30000, 39))
 
+	fmt.Println("this is a number ", 30+39)
+
 }
