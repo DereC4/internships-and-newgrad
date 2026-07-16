@@ -1,6 +1,30 @@
 package internshipsandnewgrad
 
-import "fmt"
+import (
+	"fmt"
+	"io"
+	"net/http"
+)
+
+func dogWorker(url string, ch chan string) {
+	// function signature in Go is variableName dataType
+	// channels are type safe in Go so you have to define what type a channel takes
+	response, err := http.Get(url)
+	if err != nil {
+		ch <- fmt.Sprintf("Error fetching %s: %v", url, err)
+		return
+	}
+
+	bodyBytes, err := io.ReadAll(response.Body)
+
+	if err != nil {
+		ch <- fmt.Sprintf("Error reading body for %s: %v", url, err)
+		return
+	}
+
+	ch <- string(bodyBytes)
+
+}
 
 func main() {
 	urls := []string{
@@ -14,6 +38,7 @@ func main() {
 	fmt.Println("Starting fetches")
 	for _, url := range urls {
 		// underscore is so we ignore the index, discard it
+		go dogWorker(url, resultsChannel)
 	}
 
 	for i := 0; i < len(urls); i++ {
