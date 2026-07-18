@@ -97,7 +97,7 @@ func dogWorker(url string, ch chan string) {
 		return
 	}
 
-	ch <- string(bodyBytes)
+	ch <- url + "|derexXD certified separator|" + string(bodyBytes)
 
 }
 
@@ -125,11 +125,11 @@ func main() {
 	}
 
 	for i := 0; i < len(urls); i++ {
-		data := <-resultsChannel
-		fetchedURL := data[0]
-		results := data[1]
+		rawPayload := <-resultsChannel
+		// separate the url from results
+		fetchedURL, results, _ := strings.Cut(rawPayload, "|derexXD certified separator|")
 		// channels will get consumed when you read them all one by one, so our two for loop approach was writing nothing
-		fmt.Printf("--- Document Received #%d ---\n", i+1)
+		fmt.Printf("--- Document Received #%d from %s ---\n", i+1, fetchedURL)
 		fmt.Println(results)
 		fmt.Println("-------------------------------")
 
@@ -146,7 +146,18 @@ func main() {
 		fmt.Printf("Saved document #%d to combined_output.md\n", i+1)
 
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
-			fmt.Println(parseSimplify(results))
+			fmt.Println("Processing Simplify Repo...")
+
+			_, afterHeader, foundHeader := strings.Cut(results, "## 💻 Software Engineering Internship Roles")
+			if foundHeader {
+				sweTable, _, _ := strings.Cut(afterHeader, "</table>")
+				sweTable = sweTable + "</table>"
+
+				parsedJobs := parseSimplify(sweTable)
+				fmt.Printf("Parsed %d jobs from Simplify!\n", len(parsedJobs))
+			}
+		} else if strings.Contains(fetchedURL, "vanshb03") {
+			fmt.Println("Processing Vansh Repo...")
 		}
 	}
 
