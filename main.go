@@ -21,18 +21,21 @@ func cleanHTML(val string) string {
 	val = strings.ReplaceAll(val, "<br/>", " ")
 	val = strings.ReplaceAll(val, "</br>", " ")
 
-	for strings.Contains(val, "<") && strings.Contains(val, ">") {
-		_, afterOpen, foundOpen := strings.Cut(val, ">")
-		if !foundOpen {
+	for {
+		start := strings.Index(val, "<")
+		if start == -1 {
 			break
 		}
-		innerText, afterClose, foundClose := strings.Cut(afterOpen, "<")
-		if !foundClose {
+
+		end := strings.Index(val[start:], ">")
+		if end == -1 {
 			break
 		}
-		val = innerText + afterClose
+
+		val = val[:start] + val[start+end+1:]
 	}
 
+	val = strings.ReplaceAll(val, "  ", " ")
 	return strings.TrimSpace(val)
 }
 
@@ -53,6 +56,7 @@ func parseSimplify(rawHTML string) []JobListing {
 		if row == "" {
 			continue
 		}
+		row = strings.ReplaceAll(row, "<td align=\"center\">", "<td>")
 
 		cols := strings.Split(row, "<td>")
 		if len(cols) < 6 {
@@ -135,7 +139,7 @@ func main() {
 	}
 
 	// you have to open the file before reading from channel
-	file, err := os.OpenFile("testing.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	_, err := os.OpenFile("testing.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("Error opening file: %v\n", err)
 		return
@@ -147,7 +151,7 @@ func main() {
 		fetchedURL, results, _ := strings.Cut(rawPayload, "|derexXD certified separator|")
 		// channels will get consumed when you read them all one by one, so our two for loop approach was writing nothing
 		fmt.Printf("--- Document Received #%d from %s ---\n", i+1, fetchedURL)
-		fmt.Println(results)
+		// fmt.Println(results)
 		fmt.Println("-------------------------------")
 
 		// separator := fmt.Sprintf("\n\n# --- Document Received #%d ---\n\n", i+1)
@@ -185,6 +189,11 @@ func main() {
 				parsedJobs := parseSimplify(tableBlock)
 
 				fmt.Printf("-> Found %d jobs under category: [%s]\n", len(parsedJobs), catName)
+
+				for _, job := range parsedJobs {
+					fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+				}
+				fmt.Println()
 
 			}
 		} else if strings.Contains(fetchedURL, "vanshb03") {
