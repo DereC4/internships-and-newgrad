@@ -102,6 +102,76 @@ func parseSimplify(rawHTML string) []JobListing {
 	return jobs
 }
 
+func parseVansh(rawMarkdown string) []JobListing {
+	var jobs []JobListing
+	var lastCompany string
+
+	// discard the before return string, we do not need that
+	_, afterStart, foundStart := strings.Cut(rawMarkdown, "<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->")
+	tableContent, _, foundEnd := strings.Cut(afterStart, "[⬆️ Back to Top ⬆️]")
+
+	if !foundStart || !foundEnd {
+		return nil
+	}
+
+	lines := strings.Split(tableContent, "\n")
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+
+		if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") {
+			continue
+		}
+
+		cols := strings.Split(line, "|")
+		if len(cols) < 6 {
+			continue
+		}
+
+		// cols[0] = "" (prefix)
+		// cols[1] = Company
+		// cols[2] = Role
+		// cols[3] = Location
+		// cols[4] = Application / Link
+		// cols[5] = Date Posted
+		appCell := cols[4]
+
+		if strings.Contains(appCell, "🔒") {
+			continue
+		}
+
+		var appURL string
+		if strings.Contains(appCell, "href=\"") {
+			_, afterHref, _ := strings.Cut(appCell, "href=\"")
+			appURL, _, _ = strings.Cut(afterHref, "\"")
+		}
+
+		if appURL == "" {
+			continue
+		}
+
+		company := cleanHTML(cols[1])
+		role := cleanHTML(cols[2])
+		location := cleanHTML(cols[3])
+		datePosted := cleanHTML(cols[5])
+
+		if company == "↳" || company == "" {
+			company = lastCompany
+		} else {
+			lastCompany = company
+		}
+
+		jobs = append(jobs, JobListing{
+			Company:  company,
+			Role:     role,
+			Location: location,
+			Link:     appURL,
+			Age:      datePosted,
+		})
+	}
+
+	return jobs
+}
+
 func dogWorker(url string, ch chan string) {
 	// function signature in Go is variableName dataType
 	// channels are type safe in Go so you have to define what type a channel takes
