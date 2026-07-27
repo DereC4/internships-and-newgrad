@@ -290,11 +290,12 @@ func main() {
 		}
 	}
 
-	file.WriteString("| Company | Role | Location | Application |\n")
-	file.WriteString("| --- | --- | --- | --- |\n")
+	file.WriteString("| Company | Role | Location |\n")
+	file.WriteString("| --- | --- | --- |\n")
 
 	for _, job := range totalJobs {
-		formattedLine := fmt.Sprintf("🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
+		formattedLine := fmt.Sprintf("🏢 %s | 💼 %s | 📍 %s | \n", job.Company, roleLink, job.Location)
 
 		fmt.Println(formattedLine)
 
