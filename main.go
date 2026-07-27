@@ -215,6 +215,8 @@ func main() {
 		return
 	}
 
+	var totalJobs []JobListing
+
 	for i := 0; i < len(urls); i++ {
 		rawPayload := <-resultsChannel
 		// separate the url from results
@@ -235,8 +237,6 @@ func main() {
 		// }
 
 		// fmt.Printf("Saved document #%d to combined_output.md\n", i+1)
-
-		var totalJobs []JobListing
 
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
 			fmt.Println("Processing Simplify Repo...")
@@ -262,9 +262,10 @@ func main() {
 
 				fmt.Printf("-> Found %d jobs under category: [%s]\n", len(parsedJobs), catName)
 
-				for _, job := range parsedJobs {
-					fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
-				}
+				// for _, job := range parsedJobs {
+				// 	fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+				// }
+
 				fmt.Println()
 
 				totalJobs = append(totalJobs, parsedJobs...)
@@ -273,14 +274,18 @@ func main() {
 		} else if strings.Contains(fetchedURL, "vanshb03") {
 			fmt.Println("Processing Vansh Repo...")
 			jobs := parseVansh(results)
-			fmt.Printf("-> Found %d active jobs in Vansh Repo!\n", len(jobs))
+			fmt.Printf("-> Found %d active jobs in Vansh Repo\n", len(jobs))
 
-			for _, job := range jobs {
-				fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
-			}
+			// for _, job := range jobs {
+			// 	fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+			// }
 
 			totalJobs = append(totalJobs, jobs...)
 		}
+	}
+
+	for _, job := range totalJobs {
+		fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
 	}
 
 	for i := 0; i < len(urls); i++ {
