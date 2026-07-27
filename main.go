@@ -215,7 +215,7 @@ func main() {
 	}
 
 	// you have to open the file before reading from channel
-	file, err := os.OpenFile("testing.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	_, err := os.OpenFile("TESTING.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("Error opening file: %v\n", err)
 		return
@@ -290,18 +290,21 @@ func main() {
 		}
 	}
 
-	file.WriteString("| Company | Role | Location |\n")
-	file.WriteString("| --- | --- | --- |\n")
+	var table strings.Builder
+
+	table.WriteString("| Company | Role | Location |\n")
+	table.WriteString("| --- | --- | --- |\n")
 
 	for _, job := range totalJobs {
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
-		formattedLine := fmt.Sprintf("%s | %s | %s | \n", job.Company, roleLink, job.Location)
-
-		fmt.Println(formattedLine)
-
-		if _, err := file.WriteString(formattedLine); err != nil {
-			fmt.Printf("Error writing to file: %v\n", err)
-		}
+		table.WriteString(fmt.Sprintf("| %s | %s | %s |\n", job.Company, roleLink, job.Location))
 	}
+
+	content, _ := os.ReadFile("README.md")
+	before, afterStart, _ := strings.Cut(string(content), jobTableStart)
+	_, afterEnd, _ := strings.Cut(afterStart, jobTableEnd)
+
+	updatedReadme := before + jobTableStart + "\n\n" + table.String() + "\n" + jobTableEnd + afterEnd
+	os.WriteFile("README.md", []byte(updatedReadme), 0644)
 
 }
