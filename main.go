@@ -209,7 +209,7 @@ func main() {
 	}
 
 	// you have to open the file before reading from channel
-	_, err := os.OpenFile("testing.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file, err := os.OpenFile("testing.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("Error opening file: %v\n", err)
 		return
@@ -285,7 +285,13 @@ func main() {
 	}
 
 	for _, job := range totalJobs {
-		fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+		formattedLine := fmt.Sprintf("🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+
+		fmt.Println(formattedLine)
+
+		if _, err := file.WriteString("- " + formattedLine); err != nil {
+			fmt.Printf("Error writing to file: %v\n", err)
+		}
 	}
 
 	for i := 0; i < len(urls); i++ {
