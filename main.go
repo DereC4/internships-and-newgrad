@@ -236,6 +236,8 @@ func main() {
 
 		// fmt.Printf("Saved document #%d to combined_output.md\n", i+1)
 
+		var totalJobs []JobListing
+
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
 			fmt.Println("Processing Simplify Repo...")
 
@@ -265,9 +267,19 @@ func main() {
 				}
 				fmt.Println()
 
+				totalJobs = append(totalJobs, parsedJobs...)
+
 			}
 		} else if strings.Contains(fetchedURL, "vanshb03") {
 			fmt.Println("Processing Vansh Repo...")
+			jobs := parseVansh(results)
+			fmt.Printf("-> Found %d active jobs in Vansh Repo!\n", len(jobs))
+
+			for _, job := range jobs {
+				fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
+			}
+
+			totalJobs = append(totalJobs, jobs...)
 		}
 	}
 
