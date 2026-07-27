@@ -295,7 +295,7 @@ func main() {
 
 	for _, job := range totalJobs {
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
-		formattedLine := fmt.Sprintf("🏢 %s | 💼 %s | 📍 %s | \n", job.Company, roleLink, job.Location)
+		formattedLine := fmt.Sprintf("%s | %s | %s | \n", job.Company, roleLink, job.Location)
 
 		fmt.Println(formattedLine)
 
