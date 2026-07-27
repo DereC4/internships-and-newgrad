@@ -16,6 +16,12 @@ type JobListing struct {
 	Age      string
 }
 
+// You cannot use the short declaration operator := with constants.
+const (
+	jobTableStart = "<!-- A DerexXD certified divider lives here -->"
+	jobTableEnd   = "<!-- End of DerexXD divider 1 -->"
+)
+
 func cleanHTML(val string) string {
 	val = strings.ReplaceAll(val, "<br>", " ")
 	val = strings.ReplaceAll(val, "<br/>", " ")
@@ -284,17 +290,17 @@ func main() {
 		}
 	}
 
+	file.WriteString("| Company | Role | Location | Application |\n")
+	file.WriteString("| --- | --- | --- | --- |\n")
+
 	for _, job := range totalJobs {
 		formattedLine := fmt.Sprintf("🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
 
 		fmt.Println(formattedLine)
 
-		if _, err := file.WriteString("- " + formattedLine); err != nil {
+		if _, err := file.WriteString(formattedLine); err != nil {
 			fmt.Printf("Error writing to file: %v\n", err)
 		}
-	}
-
-	for i := 0; i < len(urls); i++ {
 	}
 
 }

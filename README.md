@@ -9,3 +9,4 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 ![Companies](https://img.shields.io/badge/Companies-272-blue?style=flat&logo=building)
 
 <!-- A DerexXD certified divider lives here -->
+<!-- End of DerexXD divider 1 -->
