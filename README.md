@@ -7,3 +7,5 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 ![Total Internships](https://img.shields.io/badge/Total_Internships-1367-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-685-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-272-blue?style=flat&logo=building)
+
+<!-- A DerexXD certified divider lives here -->
