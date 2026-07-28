@@ -189,27 +189,36 @@ func parseSpeedyApply(rawMarkdown string) []JobListing {
 
 	for _, sec := range sections {
 		_, afterStart, foundStart := strings.Cut(rawMarkdown, sec.start)
+		if !foundStart {
+			continue
+		}
+
 		tableContent, _, foundEnd := strings.Cut(afterStart, sec.end)
-		if !foundStart || !foundEnd {
+		if !foundEnd {
 			continue
 		}
 
 		for _, line := range strings.Split(tableContent, "\n") {
 			line = strings.TrimSpace(line)
+
 			if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") || strings.Contains(line, "Company") {
 				continue
 			}
 
 			cols := strings.Split(line, "|")
-			if len(cols) < 6 {
+			if len(cols) < 7 {
 				continue
 			}
 
-			appCell := cols[4]
-			ageCell := cols[5]
-			if len(cols) >= 7 {
+			var appCell, ageCell string
+
+			if len(cols) >= 8 {
 				appCell = cols[5]
 				ageCell = cols[6]
+			} else {
+				// cols[1]=Company, cols[2]=Role, cols[3]=Location, cols[4]=Link, cols[5]=Age
+				appCell = cols[4]
+				ageCell = cols[5]
 			}
 
 			if strings.Contains(appCell, "🔒") {
@@ -234,7 +243,6 @@ func parseSpeedyApply(rawMarkdown string) []JobListing {
 
 	return jobs
 }
-
 func dogWorker(url string, ch chan string) {
 	// function signature in Go is variableName dataType
 	// channels are type safe in Go so you have to define what type a channel takes
