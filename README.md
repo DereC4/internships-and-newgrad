@@ -12,6 +12,8 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 
 | Company | Role | Location |
 | --- | --- | --- |
+| Intel Corporation | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916?utm_source=github-vansh-ouckah) | Hillsboro, OR |
+| Appian | [Information Security Engineer Intern 🛂](https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah) | McLean, VA |
 | Virtu Financial | [Software Engineer Intern](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=github-vansh-ouckah) | Austin, TX New York |
 | Virtu | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=github-vansh-ouckah) | Austin, TX Chicago, IL New York, NY |
 | Stevens Capital Management | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895?utm_source=github-vansh-ouckah) | Radnor, PA |
@@ -119,6 +121,24 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 | Point72 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah) | **5 locations**New York, NY San Francisco, CA Chicago, IL West Palm Beach, FL Miami, FL |
 | Point72 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah) | New York, NY |
 | Point72 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah) | New York, NY |
+| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768?utm_source=Simplify&ref=Simplify) | Inverness, NS, Canada |
+| Citadel Securities | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Citadel Securities | [Quantitative Trading Intern](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
+| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Jump Trading | [Campus Quantitative Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=8010307&utm_source=Simplify&ref=Simplify) | London, UK |
+| Citadel Securities | [Quantitative Research Analyst Bachelor's or master's degree Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
+| Citadel Securities | [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
+| Citadel Securities | [Designated Market Maker Intern - Designated Market Maker - Trader](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
+| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/?utm_source=Simplify&ref=Simplify) | Greenwich, CT Miami, FL NYC |
+| Tower Research Capital | [Quantitative Trader Intern 🎓](https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify) | NYC |
+| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547?utm_source=Simplify&ref=Simplify) | Madawaska County, NB, Canada |
+| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
+| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
+| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
+| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Citadel Securities | [Quantitative Research Engineer Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
+| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
+| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
 | Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify) | McLean, VA |
 | Tenstorrent | [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
 | Onware | [Full Stack Developer-Intern Opportunity](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify) | Edmonton, AB, Canada |
@@ -204,13 +224,12 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 | Magna | [Junior Full Stack Developer Co-op](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793?utm_source=Simplify&ref=Simplify) | Oakville, ON, Canada |
 | Autodesk | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2?utm_source=Simplify&ref=Simplify) | Canada |
 | Autodesk | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1?utm_source=Simplify&ref=Simplify) | Canada |
-| pony.ai | [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply?utm_source=Simplify&ref=Simplify) | Fremont, CA |
-| Apogee Engineering | [Systems Architect Apprentice](https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Wright-Patterson AFB, OH |
 | TJX | [Product & Quality Specialist Apprentice](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1?utm_source=Simplify&ref=Simplify) | Watford, UK |
 | Kensington | [Product Intern](https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
 | Kensington | [Operations Intern - Ultraluxe Product](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
 | Niural | [Product Design Intern 🛂](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify) | New York City, NY |
 | Flagright | [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
+| Deloitte | [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259?utm_source=Simplify&ref=Simplify) | Arlington, VA |
 | Mistral AI | [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
 | Primetals Technologies | [Data Science Internship - Governance](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Lake Mary, FL |
 | Kinetic Systems | [Applied AI Intern 🎓](https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
@@ -303,24 +322,5 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 | 🔥 ByteDance | [Machine Learning Engineer Intern - Global E-commerce Risk Control 🎓](https://jobs.bytedance.com/en/position/7535951608832657682/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
 | 🔥 ByteDance | [Research Intern - AI/LLM Network 🎓](https://jobs.bytedance.com/en/position/7539992380817639687/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
 | 🔥 ByteDance | [Research Intern - AI/LLM Network 🎓](https://jobs.bytedance.com/en/position/7539991964504017170/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| pony.ai | [Research Intern - Deep Learning 🎓](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply?utm_source=Simplify&ref=Simplify) | Fremont, CA |
-| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768?utm_source=Simplify&ref=Simplify) | Inverness, NS, Canada |
-| Citadel Securities | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Citadel Securities | [Quantitative Trading Intern](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
-| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Jump Trading | [Campus Quantitative Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=8010307&utm_source=Simplify&ref=Simplify) | London, UK |
-| Citadel Securities | [Quantitative Research Analyst Bachelor's or master's degree Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
-| Citadel Securities | [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
-| Citadel Securities | [Designated Market Maker Intern - Designated Market Maker - Trader](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
-| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/?utm_source=Simplify&ref=Simplify) | Greenwich, CT Miami, FL NYC |
-| Tower Research Capital | [Quantitative Trader Intern 🎓](https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify) | NYC |
-| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547?utm_source=Simplify&ref=Simplify) | Madawaska County, NB, Canada |
-| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
-| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
-| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
-| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Citadel Securities | [Quantitative Research Engineer Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
-| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
-| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
 
 <!-- End of DerexXD divider 1 -->
