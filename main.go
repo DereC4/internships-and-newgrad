@@ -178,6 +178,63 @@ func parseVansh(rawMarkdown string) []JobListing {
 	return jobs
 }
 
+func parseSpeedyApply(rawMarkdown string) []JobListing {
+	var jobs []JobListing
+
+	sections := []struct{ start, end string }{
+		{"<!-- TABLE_FAANG_START -->", "<!-- TABLE_FAANG_END -->"},
+		{"<!-- TABLE_QUANT_START -->", "<!-- TABLE_QUANT_END -->"},
+		{"<!-- TABLE_START -->", "<!-- TABLE_END -->"},
+	}
+
+	for _, sec := range sections {
+		_, afterStart, foundStart := strings.Cut(rawMarkdown, sec.start)
+		tableContent, _, foundEnd := strings.Cut(afterStart, sec.end)
+		if !foundStart || !foundEnd {
+			continue
+		}
+
+		for _, line := range strings.Split(tableContent, "\n") {
+			line = strings.TrimSpace(line)
+			if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") || strings.Contains(line, "Company") {
+				continue
+			}
+
+			cols := strings.Split(line, "|")
+			if len(cols) < 6 {
+				continue
+			}
+
+			appCell := cols[4]
+			ageCell := cols[5]
+			if len(cols) >= 7 {
+				appCell = cols[5]
+				ageCell = cols[6]
+			}
+
+			if strings.Contains(appCell, "🔒") {
+				continue
+			}
+
+			_, afterHref, foundHref := strings.Cut(appCell, "href=\"")
+			if !foundHref {
+				continue
+			}
+			appURL, _, _ := strings.Cut(afterHref, "\"")
+
+			jobs = append(jobs, JobListing{
+				Company:  cleanHTML(cols[1]),
+				Role:     cleanHTML(cols[2]),
+				Location: cleanHTML(cols[3]),
+				Link:     appURL,
+				Age:      cleanHTML(ageCell),
+			})
+		}
+	}
+
+	return jobs
+}
+
 func dogWorker(url string, ch chan string) {
 	// function signature in Go is variableName dataType
 	// channels are type safe in Go so you have to define what type a channel takes
@@ -203,6 +260,7 @@ func main() {
 		// this is a slice
 		"https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
 		"https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/refs/heads/dev/README.md",
+		"https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/refs/heads/main/README.md",
 	}
 
 	resultsChannel := make(chan string)
