@@ -12,6 +12,241 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 
 | Company | Role | Location |
 | --- | --- | --- |
+| Deloitte | [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259?utm_source=Simplify&ref=Simplify) | Arlington, VA |
+| Mistral AI | [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| Primetals Technologies | [Data Science Internship - Governance](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Lake Mary, FL |
+| Kinetic Systems | [Applied AI Intern 🎓](https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
+| JP Morgan Chase | [Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns… 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify) | London, UK |
+| CAE | [Data Specialist Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada |
+| National Laboratory of the Rockies | [Graduate Intern - Transportation Systems Analysis](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153?utm_source=Simplify&ref=Simplify) | Golden, CO |
+| Jump Trading | [Campus Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7975008&utm_source=Simplify&ref=Simplify) | London, UK |
+| 🔥 Meta | [Research Scientist Intern - Monetization Computer Vision 🎓](https://www.metacareers.com/jobs/2281218542616482?utm_source=Simplify&ref=Simplify) | Menlo Park, CA |
+| Jump Trading | [Campus Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8002998&utm_source=Simplify&ref=Simplify) | Chicago, IL |
+| EquipmentShare | [Uptime Management Center Intern](https://www.equipmentshare.com/careers/openings/?gh_jid=7623013&utm_source=Simplify&ref=Simplify) | Columbia, MO |
+| KLA Corporation | [AI Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/AI-Summer-Intern_2638689?utm_source=Simplify&ref=Simplify) | Cardiff, UK |
+| Blue River Technology | [Machine Learning Intern - Autonomy](https://www.bluerivertechnology.com/job/?gh_jid=7947246&utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
+| Magna | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865?utm_source=Simplify&ref=Simplify) | Ferndale, MI |
+| Moss & Associates | [Construction Technologies Intern](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710?utm_source=Simplify&ref=Simplify) | McKinney, TX Tampa, FL Fort Lauderdale, FL |
+| JP Morgan Chase | [Machine Learning Center of Excellence Intern - NLP 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492?utm_source=Simplify&ref=Simplify) | London, UK |
+| Valeo | [Warranty Engineering Co-op](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365?utm_source=Simplify&ref=Simplify) | Troy, MI |
+| Blue Cross Blue Shield of Michigan | [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393?utm_source=Simplify&ref=Simplify) | Detroit, MI |
+| The Wonderful Company | [Summer Internship Intern - Business Systems Analyst](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439?utm_source=Simplify&ref=Simplify) | Bakersfield, CA |
+| Citadel Securities | [Machine Learning Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
+| 🔥 Tesla | [RL Engineer Intern - RL Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275494?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| thyssenkrupp | [Analytics Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify) | Cleveland, OH |
+| Susquehanna International Group (SIG) | [AI Co-op](https://careers-sig.icims.com/jobs/11078/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ardmore, PA |
+| Sony | [Research on Generative and Protective AI for Content Creation Intern 🎓](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335?utm_source=Simplify&ref=Simplify) | NYC |
+| Truland Equipment | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007&utm_source=Simplify&ref=Simplify) | Fort Wayne, IN |
+| 🔥 Tesla | [Data Engineer Intern - Applications Engineering](https://www.tesla.com/careers/search/job/272928?utm_source=Simplify&ref=Simplify) | Fremont, CA |
+| Torc Robotics | [System Triage Engineer Intern](https://job-boards.greenhouse.io/torcrobotics/jobs/8597138002?utm_source=Simplify&ref=Simplify) | Blacksburg, VA Ann Arbor, MI Fort Worth, TX |
+| Applied Intuition | [Research Intern - Robotic Hardware - Simulation and Data 🎓](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
+| Applied Intuition | [Research Intern - Reinforcement Learning - Self-Driving 🎓](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
+| Applied Intuition | [Research Intern - 3D Vision and Generation - Self-Driving 🎓](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
+| Lila Sciences | [Automation Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009?utm_source=Simplify&ref=Simplify) | Cambridge, MA |
+| National Laboratory of the Rockies | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160?utm_source=Simplify&ref=Simplify) | Golden, CO |
+| RFCUNY | [Data Analyst Intern](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987?utm_source=Simplify&ref=Simplify) | NYC |
+| Phamily | [Business Intelligence & Data Analytics Intern - Undergraduate](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008?utm_source=Simplify&ref=Simplify) | NYC |
+| Institute of Foundation Models | [Inference Optimization Intern - Performance Modeling](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
+| F. Schumacher & Co. | [Product Data Strategy and Operations Intern](https://job-boards.greenhouse.io/fschumacherco/jobs/5279316008?utm_source=Simplify&ref=Simplify) | NYC |
+| Hiverge | [Research Engineer Intern 🎓](https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application?utm_source=Simplify&ref=Simplify) | Cambridge, UK |
+| MyEmployment | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263?utm_source=Simplify&ref=Simplify) | Remote in US |
+| Centerfield | [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application?utm_source=Simplify&ref=Simplify) | LA |
+| Core & Main | [Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804?utm_source=Simplify&ref=Simplify) | St. Louis, MO |
+| CAE | [Configuration and Data Management Analyst Co-op](https://cae.wd3.myworkdayjobs.com/career/job/Little-Rock/Configuration-and-Data-Management-Analyst-Co-Op_122365?utm_source=Simplify&ref=Simplify) | Little Rock, AR |
+| Tencent | [Video Generation Content Understanding and Feedback Research Intern 🎓](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680-1?utm_source=Simplify&ref=Simplify) | London, UK |
+| Tencent | [Video Generation Content Understanding and Feedback Research Intern 🎓](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680?utm_source=Simplify&ref=Simplify) | London, UK |
+| Nelnet | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763?utm_source=Simplify&ref=Simplify) | Lincoln, NE |
+| Toyota Research Institute | [Energy & Materials Intern - XRD Advanced Analysis 🎓](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8/apply?utm_source=Simplify&ref=Simplify) | Mountain View, CA |
+| United Parcel Service (UPS) | [Buildings and Systems Engineering Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Summer-2026-Buildings---Systems-Engineering--BaSE--Intern---Information-Systems-Intern_R26015318?utm_source=Simplify&ref=Simplify) | United States |
+| 🔥 Meta | [Research Scientist Intern - Photorealistic Telepresence 🎓](https://www.metacareers.com/jobs/924149567345400?utm_source=Simplify&ref=Simplify) | London, UK |
+| 🔥 Meta | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470?utm_source=Simplify&ref=Simplify) | Redmond, WA |
+| Definity Financial | [Data Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
+| Synchrony Financial | [Data Analytics Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688?utm_source=Simplify&ref=Simplify) | Stamford, CT |
+| Cotiviti | [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19416/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA |
+| Cotiviti | [Generative AI Research Engineer Intern 🎓](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA |
+| 🔥 TikTok | [Data Scientist Intern - TikTok Shop User Product DS 🎓](https://lifeattiktok.com/search/7532254890627696903?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 TikTok | [Machine Learning Engineer Intern - Tiktok-Recommendation 🎓](https://lifeattiktok.com/search/7527065936093858055?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM 🎓](https://lifeattiktok.com/search/7527589557336869138?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM 🎓](https://lifeattiktok.com/search/7527585101065652498?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 TikTok | [Research Scientist Intern - Trust and Safety 🎓](https://lifeattiktok.com/search/7527582397938223367?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Machine Learning Engineer Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7527077153591675154?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| Autodesk | [AI in Design & Manufacturing Intern 🎓](https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
+| The Campbell's Company | [Data Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843?utm_source=Simplify&ref=Simplify) | Philadelphia, PA |
+| The Campbell's Company | [Data Engineer Co-op - Operational Support](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842?utm_source=Simplify&ref=Simplify) | Philadelphia, PA |
+| Solar Turbines | [Gas Compressor Data Analyst Intern](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786?utm_source=Simplify&ref=Simplify) | San Diego, CA |
+| Institute of Foundation Models | [AI Research Intern 🎓](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
+| The Campbell's Company | [Data Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837?utm_source=Simplify&ref=Simplify) | Philadelphia, PA |
+| The Campbell's Company | [Modeling and Visualization Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65846?utm_source=Simplify&ref=Simplify) | Gettysburg, PA |
+| The Campbell's Company | [Modeling and Visualization Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65847?utm_source=Simplify&ref=Simplify) | Gettysburg, PA |
+| Lila Sciences | [Data Extraction Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009?utm_source=Simplify&ref=Simplify) | Cambridge, MA |
+| Lila Sciences | [Machine Learning for Digital Twins Co-op 🎓](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009?utm_source=Simplify&ref=Simplify) | Cambridge, MA |
+| Toyota Research Institute | [Human Interactive Driving Intern - World Models 🎓](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply?utm_source=Simplify&ref=Simplify) | Mountain View, CA |
+| Evolver | [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| SHEIN | [Data Analysis Intern](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940?utm_source=Simplify&ref=Simplify) | United States |
+| Eurofins | [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249?utm_source=Simplify&ref=Simplify) | Lancaster, PA |
+| Ancestry | [Machine Learning Engineer Co-op 🎓](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378?utm_source=Simplify&ref=Simplify) | Remote in USA |
+| 🔥 Tesla | [Energy Engineering Intern - Cost Reduction](https://www.tesla.com/careers/search/job/270511?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| 🔥 Tesla | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| 🔥 Tesla | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Fremont, CA Austin, TX |
+| XPENG Motors | [AI Infrastructure Onboard Performance Intern 🎓](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
+| Peraton | [Generative AI Engineer Intern 🎓](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA |
+| Tencent | [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| Nio | [Data Analysis Intern 🎓](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Payment Partnership Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7642450978503641397/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Applied Research Intern - AI Safety Security - Global Tech Research Program 🎓](https://jobs.bytedance.com/en/position/7645070235035044101/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Software Engineer Intern - Applied Machine Learning-Enterprise 🎓](https://jobs.bytedance.com/en/position/7533045355162044690/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Student Researcher Intern 🎓](https://jobs.bytedance.com/en/position/7538943251756910856/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing](https://jobs.bytedance.com/en/position/7543005612200970503/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Machine Learning Engineer Intern - E-commerce Governance Algorithms](https://jobs.bytedance.com/en/position/7535168003103033618/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Machine Learning Engineer Intern - E-commerce Governance Algorithms 🎓](https://jobs.bytedance.com/en/position/7535171166420453639/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Research Scientist Intern - Applied Machine Learning-Enterprise 🎓](https://jobs.bytedance.com/en/position/7539697151993268488/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Machine Learning Engineer Intern - Global E-commerce Risk Control](https://jobs.bytedance.com/en/position/7535953226975054098/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Machine Learning Engineer Intern - Global E-commerce Risk Control 🎓](https://jobs.bytedance.com/en/position/7535951608832657682/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Research Intern - AI/LLM Network 🎓](https://jobs.bytedance.com/en/position/7539992380817639687/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Research Intern - AI/LLM Network 🎓](https://jobs.bytedance.com/en/position/7539991964504017170/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768?utm_source=Simplify&ref=Simplify) | Inverness, NS, Canada |
+| Citadel Securities | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Citadel Securities | [Quantitative Trading Intern](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
+| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Jump Trading | [Campus Quantitative Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=8010307&utm_source=Simplify&ref=Simplify) | London, UK |
+| Citadel Securities | [Quantitative Research Analyst Bachelor's or master's degree Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
+| Citadel Securities | [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
+| Citadel Securities | [Designated Market Maker Intern - Designated Market Maker - Trader](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
+| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/?utm_source=Simplify&ref=Simplify) | Greenwich, CT Miami, FL NYC |
+| Tower Research Capital | [Quantitative Trader Intern 🎓](https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify) | NYC |
+| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547?utm_source=Simplify&ref=Simplify) | Madawaska County, NB, Canada |
+| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
+| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
+| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
+| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Citadel Securities | [Quantitative Research Engineer Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
+| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
+| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
+| Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify) | McLean, VA |
+| Tenstorrent | [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
+| Onware | [Full Stack Developer-Intern Opportunity](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify) | Edmonton, AB, Canada |
+| Bloxd | [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK |
+| Spacial AI | [Software Engineer Intern](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| Varick Agents | [Engineer Intern](https://jobs.ashbyhq.com/varick-agents/b2df1c3b-43c7-40d4-8271-150a06f10bf2/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
+| Denari | [Product & Software Internship](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify) | Madison, WI |
+| Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
+| Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
+| Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
+| Solar Turbines | [Gas Turbine Products Engineering Intern](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293?utm_source=Simplify&ref=Simplify) | San Diego, CA |
+| Jump Trading | [Campus Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7975026&utm_source=Simplify&ref=Simplify) | London, UK |
+| DRW | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281?utm_source=Simplify&ref=Simplify) | London, UK |
+| Jump Trading | [Campus Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8002989&utm_source=Simplify&ref=Simplify) | Chicago, IL |
+| National Laboratory of the Rockies | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394?utm_source=Simplify&ref=Simplify) | Golden, CO |
+| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
+| The Boeing Company | [Intern to Entry Level Conversion Intern Program - Engineering](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292?utm_source=Simplify&ref=Simplify) | 30 locationsGermantown, MD Seattle, WA Houston, TX New Orleans, LA Long Beach, CA Newburgh, NY Mesa, AZ Miami, FL Colorado Springs, CO Fairfax, VA Philadelphia, PA Merritt Island, FL Seal Beach, CA Tukwila, WA St Charles, MO San Antonio, TX St. Louis, MO Everett, WA Auburn, WA Ridgecrest, CA Heath, OH Fort Walton Beach, FL Oklahoma City, OK Kent, WA Portland, OR Huntsville, AL North Charleston, SC Huntington Beach, CA Hazelwood, MO El Segundo, CA |
+| Eulerity | [Website Development & Content Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4694300006?utm_source=Simplify&ref=Simplify) | NYC |
+| Palo Alto Networks | [Software Engineer Intern 🎓](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598?utm_source=Simplify&ref=Simplify) | California |
+| Palo Alto Networks | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590?utm_source=Simplify&ref=Simplify) | California |
+| Palo Alto Networks | [Software Engineer Intern 🎓](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594?utm_source=Simplify&ref=Simplify) | California |
+| Palo Alto Networks | [Software Engineer Intern 🎓](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595?utm_source=Simplify&ref=Simplify) | California |
+| Palo Alto Networks | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570?utm_source=Simplify&ref=Simplify) | California |
+| Palo Alto Networks | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589?utm_source=Simplify&ref=Simplify) | California |
+| 🔥 Tesla | [Vehicle Software Intern - Torque Path & Chassis Controls](https://www.tesla.com/careers/search/job/274760?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| Susquehanna International Group (SIG) | [Financial Reporting AI Co-op](https://careers-sig.icims.com/jobs/11137/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ardmore, PA |
+| Equifax | [Technology Intern](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964?utm_source=Simplify&ref=Simplify) | Alpharetta, GA |
+| Copart | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify) | Dallas, TX |
+| kos.ai | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application?utm_source=Simplify&ref=Simplify) | SF |
+| Maxima | [Software Engineer Intern](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application?utm_source=Simplify&ref=Simplify) | San Mateo, CA |
+| Espa AI | [Software Engineer Intern](https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application?utm_source=Simplify&ref=Simplify) | SF |
+| Clera | [Founding Engineer Intern](https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application?utm_source=Simplify&ref=Simplify) | SF |
+| AfterQuery | [Software Engineer Intern](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application?utm_source=Simplify&ref=Simplify) | SF |
+| Altasciences | [Software Engineer Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750?utm_source=Simplify&ref=Simplify) | Overland Park, KS |
+| Copart | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636?utm_source=Simplify&ref=Simplify) | Dallas, TX |
+| Later | [AI Automation Engineer Co-op](https://job-boards.greenhouse.io/later/jobs/8604889002?utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada |
+| HARMAN | [Intern – Software Engineering 🛂](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
+| VetsEZ | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity?utm_source=Simplify&ref=Simplify) | Remote in US |
+| Mindsmith | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e?utm_source=Simplify&ref=Simplify) | Lehi, UT |
+| Sandhills Global | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern?utm_source=Simplify&ref=Simplify) | Scottsdale, AZ |
+| ACI Worldwide | [Software Engineering Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19501?utm_source=Simplify&ref=Simplify) | Norcross, GA |
+| ACI Worldwide | [Software Engineering Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500?utm_source=Simplify&ref=Simplify) | Norcross, GA |
+| Copart | [Software Engineer Intern 🎓](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify) | Dallas, TX |
+| iHerb | [Software Development Intern](https://job-boards.greenhouse.io/iherb/jobs/7776154003?utm_source=Simplify&ref=Simplify) | Remote in USA |
+| Beyondsoft | [Software Engineer Intern](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | United States |
+| Sony | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify) | San Diego, CA |
+| Viridien | [Software Engineer Intern](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1?utm_source=Simplify&ref=Simplify) | Crawley, UK |
+| RELX | [Software Engineer Apprentice](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2?utm_source=Simplify&ref=Simplify) | Southampton, UK |
+| The Campbell's Company | [Agentic AI Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015?utm_source=Simplify&ref=Simplify) | Remote in USA |
+| Synchrony Financial | [Technology Intern - Technology](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1?utm_source=Simplify&ref=Simplify) | Stamford, CT |
+| LexisNexis Risk Solutions | [Software Engineer Apprentice](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1?utm_source=Simplify&ref=Simplify) | Southampton, UK |
+| 🔥 TikTok | [Backend Software Engineer Intern - Media Platform](https://lifeattiktok.com/search/7538301580093720840?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration](https://lifeattiktok.com/search/7532444719809628424?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Software Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7561941583777941813?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 TikTok | [Software Engineer Intern - Capital Platform](https://lifeattiktok.com/search/7534536157456058632?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| Delta Dental | [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349?utm_source=Simplify&ref=Simplify) | East Lansing, MI |
+| TribalScale | [Agile Software Engineer Co-op](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
+| Centerfield | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application?utm_source=Simplify&ref=Simplify) | LA |
+| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706?utm_source=Simplify&ref=Simplify) | Remote in USA |
+| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3?utm_source=Simplify&ref=Simplify) | Remote in USA |
+| 🔥 TikTok | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| Copart | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393?utm_source=Simplify&ref=Simplify) | Dallas, TX |
+| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709?utm_source=Simplify&ref=Simplify) | United States |
+| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041709-1?utm_source=Simplify&ref=Simplify) | United States |
+| 🔥 Tesla | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| 🔥 Tesla | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| 🔥 Tesla | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/270063?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| 🔥 Tesla | [Software Engineer Intern - Fullstack Software Engineer - Fleetnet](https://www.tesla.com/careers/search/job/266764?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
+| 🔥 Tesla | [Software Engineer Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271362?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Fremont, CA |
+| Nidec | [Application Engineering Co-op](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineering-Co-Op_R0016076?utm_source=Simplify&ref=Simplify) | St. Louis, MO |
+| Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005?utm_source=Simplify&ref=Simplify) | SF NYC |
+| Clarity Innovations | [Junior Software Engineer Intern](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007?utm_source=Simplify&ref=Simplify) | Reston, VA |
+| 🔥 ByteDance | [Software Engineer Intern - Developer Infrastructure](https://jobs.bytedance.com/en/position/7595707875767699765/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [3D Graphics Engineer Intern - PICO Foundation](https://jobs.bytedance.com/en/position/7564516412456306997/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Software Engineer Intern - Payment Network - Global Payment](https://jobs.bytedance.com/en/position/7533369475380070663/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| University System of New Hampshire | [Broadband Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298?utm_source=Simplify&ref=Simplify) | Dover, NH |
+| Instead | [Software Engineer Intern](https://job-boards.greenhouse.io/instead/jobs/7761472003?utm_source=Simplify&ref=Simplify) | SF |
+| 🔥 ByteDance | [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152240618195208/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Research Intern - SDN Traffic Intelligence & Control 🎓](https://jobs.bytedance.com/en/position/7537161874254776583/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152632018012424/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
+| 🔥 ByteDance | [Network Software Development Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7537117266451171592/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| 🔥 ByteDance | [Research Intern - SDN Traffic Intelligence & Control 🎓](https://jobs.bytedance.com/en/position/7537161497627281682/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
+| Magna | [Junior Full Stack Developer Co-op](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793?utm_source=Simplify&ref=Simplify) | Oakville, ON, Canada |
+| Autodesk | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2?utm_source=Simplify&ref=Simplify) | Canada |
+| Autodesk | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1?utm_source=Simplify&ref=Simplify) | Canada |
+| TJX | [Product & Quality Specialist Apprentice](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1?utm_source=Simplify&ref=Simplify) | Watford, UK |
+| Kensington | [Product Intern](https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
+| Kensington | [Operations Intern - Ultraluxe Product](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
+| Niural | [Product Design Intern 🛂](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify) | New York City, NY |
+| Flagright | [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
+| Google | [Software Engineering Intern - MS - Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) | Mountain View, CA +29 |
+| Google | [Software Engineering Intern - BS - Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) | Mountain View, CA +29 |
+| TikTok | [Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS）](https://lifeattiktok.com/search/7654431844394322229) | San Jose, CA |
+| Rivian | [Software Engineering Intern - Vehicle Controls - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | Irvine, CA +1 |
+| Rivian | [Software Engineering Intern - Embedded Platforms - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | Palo Alto, CA +1 |
+| Rivian | [Software Engineering Intern - Applications - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c) | Irvine, CA +1 |
+| Rivian | [Android Developer Intern - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) | Palo Alto, CA |
+| Rivian | [Software Engineering Intern - Connected Systems - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92) | Irvine, CA +1 |
+| TikTok | [AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS](https://lifeattiktok.com/search/7646621925436131637) | San Jose, CA |
+| Apple | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323-3810) | USA |
+| Apple | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320-3810) | USA |
+| Apple | [Software Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200664785-3810) | USA |
+| Meta | [Research Scientist Intern - Embedded Contextual AI on Wearables - PhD](https://www.metacareers.com/jobs/2160167211413098) | Sunnyvale, CA +1 |
+| TikTok | [Software Engineer Intern - Quality and Efficiency Technology - 2026 Summer - BS/MS](https://lifeattiktok.com/search/7637047421538404613) | San Jose, CA |
+| Amazon | [Software Development Engineer Intern - AWS Data Services - Fall 2026 - US](https://www.amazon.jobs/jobs/10412530/apply) | Seattle, WA |
+| TikTok | [Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS](https://lifeattiktok.com/search/7629500062003218741) | San Jose, CA |
+| TikTok | [Software Engineer Project Intern - Model Infrastructure - 2026 Start - BS/MS](https://lifeattiktok.com/search/7624284785283746053) | San Jose, CA |
+| Citadel | [Software Engineer - Intern - US](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Houston, TX +2 |
+| Citadel Securities | [Software Engineer - Intern - US](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, FL +1 |
+| Five Rings | [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York City, NY |
+| Akuna Capital | [Software Engineer Intern - Full Stack Web - Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | Chicago, IL |
+| Akuna Capital | [Software Engineer Intern - C++ - Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | Chicago, IL |
+| Akuna Capital | [Software Engineer Intern - Python - Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL |
+| Akuna Capital | [Software Engineer Intern - C# .NET Desktop - Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) | Chicago, IL |
+| Hudson River Trading | [Software Engineering Internship - C++ or Python - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | London, United Kingdom +4 |
+| Jump Trading | [Campus Software Engineer - Intern](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Chicago, IL |
+| Jump Trading | [Campus UI Software Engineer - Intern](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago, IL |
+| Jane Street | [Software Engineer Winter Co-Op](https://www.janestreet.com/join-jane-street/position/8419303002) | New York City, NY |
+| Jane Street | [Software Engineer Summer Internship](https://www.janestreet.com/join-jane-street/position/8599644002) | New York City, NY |
+| Optiver | [Software Engineer Intern - Summer 2027 - Chicago](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | Chicago, IL |
+| Optiver | [Software Engineer Intern - Summer 2027 - Austin](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | Austin, TX |
+| D. E. Shaw & Co. | [Quantitative Analyst and Software Developer Intern - Summer 2027](https://www.deshaw.com/careers/5906) | New York City, NY |
+| D. E. Shaw & Co. | [Software Developer Intern - New York - Summer 2027](https://www.deshaw.com/careers/5894) | New York City, NY |
+| D. E. Shaw & Co. | [Software Developer - Ph.D. Intern - New York - Summer 2027](https://www.deshaw.com/careers/5893) | New York City, NY |
 | Intel Corporation | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916?utm_source=github-vansh-ouckah) | Hillsboro, OR |
 | Appian | [Information Security Engineer Intern 🛂](https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah) | McLean, VA |
 | Virtu Financial | [Software Engineer Intern](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=github-vansh-ouckah) | Austin, TX New York |
@@ -121,206 +356,5 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 | Point72 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah) | **5 locations**New York, NY San Francisco, CA Chicago, IL West Palm Beach, FL Miami, FL |
 | Point72 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah) | New York, NY |
 | Point72 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah) | New York, NY |
-| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768?utm_source=Simplify&ref=Simplify) | Inverness, NS, Canada |
-| Citadel Securities | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Citadel Securities | [Quantitative Trading Intern](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
-| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Jump Trading | [Campus Quantitative Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=8010307&utm_source=Simplify&ref=Simplify) | London, UK |
-| Citadel Securities | [Quantitative Research Analyst Bachelor's or master's degree Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
-| Citadel Securities | [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
-| Citadel Securities | [Designated Market Maker Intern - Designated Market Maker - Trader](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/?utm_source=Simplify&ref=Simplify) | NYC |
-| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/?utm_source=Simplify&ref=Simplify) | Greenwich, CT Miami, FL NYC |
-| Tower Research Capital | [Quantitative Trader Intern 🎓](https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify) | NYC |
-| Royal Bank of Canada | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547?utm_source=Simplify&ref=Simplify) | Madawaska County, NB, Canada |
-| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
-| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify) | London, UK Paris, France |
-| Citadel | [Quantitative Research Engineer Intern 🎓](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
-| Citadel | [Quantitative Researcher – PhD Intern 🎓](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Citadel Securities | [Quantitative Research Engineer Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
-| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
-| Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
-| Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify) | McLean, VA |
-| Tenstorrent | [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
-| Onware | [Full Stack Developer-Intern Opportunity](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify) | Edmonton, AB, Canada |
-| Bloxd | [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK |
-| Spacial AI | [Software Engineer Intern](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| Varick Agents | [Engineer Intern](https://jobs.ashbyhq.com/varick-agents/b2df1c3b-43c7-40d4-8271-150a06f10bf2/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
-| Denari | [Product & Software Internship](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify) | Madison, WI |
-| Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
-| Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
-| Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
-| Solar Turbines | [Gas Turbine Products Engineering Intern](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293?utm_source=Simplify&ref=Simplify) | San Diego, CA |
-| Jump Trading | [Campus Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7975026&utm_source=Simplify&ref=Simplify) | London, UK |
-| DRW | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281?utm_source=Simplify&ref=Simplify) | London, UK |
-| Jump Trading | [Campus Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8002989&utm_source=Simplify&ref=Simplify) | Chicago, IL |
-| National Laboratory of the Rockies | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394?utm_source=Simplify&ref=Simplify) | Golden, CO |
-| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC |
-| The Boeing Company | [Intern to Entry Level Conversion Intern Program - Engineering](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292?utm_source=Simplify&ref=Simplify) | 30 locationsGermantown, MD Seattle, WA Houston, TX New Orleans, LA Long Beach, CA Newburgh, NY Mesa, AZ Miami, FL Colorado Springs, CO Fairfax, VA Philadelphia, PA Merritt Island, FL Seal Beach, CA Tukwila, WA St Charles, MO San Antonio, TX St. Louis, MO Everett, WA Auburn, WA Ridgecrest, CA Heath, OH Fort Walton Beach, FL Oklahoma City, OK Kent, WA Portland, OR Huntsville, AL North Charleston, SC Huntington Beach, CA Hazelwood, MO El Segundo, CA |
-| Eulerity | [Website Development & Content Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4694300006?utm_source=Simplify&ref=Simplify) | NYC |
-| Palo Alto Networks | [Software Engineer Intern 🎓](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598?utm_source=Simplify&ref=Simplify) | California |
-| Palo Alto Networks | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590?utm_source=Simplify&ref=Simplify) | California |
-| Palo Alto Networks | [Software Engineer Intern 🎓](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594?utm_source=Simplify&ref=Simplify) | California |
-| Palo Alto Networks | [Software Engineer Intern 🎓](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595?utm_source=Simplify&ref=Simplify) | California |
-| Palo Alto Networks | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570?utm_source=Simplify&ref=Simplify) | California |
-| Palo Alto Networks | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589?utm_source=Simplify&ref=Simplify) | California |
-| 🔥 Tesla | [Vehicle Software Intern - Torque Path & Chassis Controls](https://www.tesla.com/careers/search/job/274760?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| Susquehanna International Group (SIG) | [Financial Reporting AI Co-op](https://careers-sig.icims.com/jobs/11137/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ardmore, PA |
-| Equifax | [Technology Intern](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964?utm_source=Simplify&ref=Simplify) | Alpharetta, GA |
-| Copart | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify) | Dallas, TX |
-| kos.ai | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application?utm_source=Simplify&ref=Simplify) | SF |
-| Maxima | [Software Engineer Intern](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application?utm_source=Simplify&ref=Simplify) | San Mateo, CA |
-| Espa AI | [Software Engineer Intern](https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application?utm_source=Simplify&ref=Simplify) | SF |
-| Clera | [Founding Engineer Intern](https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application?utm_source=Simplify&ref=Simplify) | SF |
-| AfterQuery | [Software Engineer Intern](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application?utm_source=Simplify&ref=Simplify) | SF |
-| Altasciences | [Software Engineer Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750?utm_source=Simplify&ref=Simplify) | Overland Park, KS |
-| Copart | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636?utm_source=Simplify&ref=Simplify) | Dallas, TX |
-| Later | [AI Automation Engineer Co-op](https://job-boards.greenhouse.io/later/jobs/8604889002?utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada |
-| HARMAN | [Intern – Software Engineering 🛂](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
-| VetsEZ | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity?utm_source=Simplify&ref=Simplify) | Remote in US |
-| Mindsmith | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e?utm_source=Simplify&ref=Simplify) | Lehi, UT |
-| Sandhills Global | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern?utm_source=Simplify&ref=Simplify) | Scottsdale, AZ |
-| ACI Worldwide | [Software Engineering Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19501?utm_source=Simplify&ref=Simplify) | Norcross, GA |
-| ACI Worldwide | [Software Engineering Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500?utm_source=Simplify&ref=Simplify) | Norcross, GA |
-| Copart | [Software Engineer Intern 🎓](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify) | Dallas, TX |
-| iHerb | [Software Development Intern](https://job-boards.greenhouse.io/iherb/jobs/7776154003?utm_source=Simplify&ref=Simplify) | Remote in USA |
-| Beyondsoft | [Software Engineer Intern](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | United States |
-| Sony | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify) | San Diego, CA |
-| Viridien | [Software Engineer Intern](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1?utm_source=Simplify&ref=Simplify) | Crawley, UK |
-| RELX | [Software Engineer Apprentice](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2?utm_source=Simplify&ref=Simplify) | Southampton, UK |
-| The Campbell's Company | [Agentic AI Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015?utm_source=Simplify&ref=Simplify) | Remote in USA |
-| Synchrony Financial | [Technology Intern - Technology](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1?utm_source=Simplify&ref=Simplify) | Stamford, CT |
-| LexisNexis Risk Solutions | [Software Engineer Apprentice](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1?utm_source=Simplify&ref=Simplify) | Southampton, UK |
-| 🔥 TikTok | [Backend Software Engineer Intern - Media Platform](https://lifeattiktok.com/search/7538301580093720840?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration](https://lifeattiktok.com/search/7532444719809628424?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Software Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7561941583777941813?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Software Engineer Intern - Capital Platform](https://lifeattiktok.com/search/7534536157456058632?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| Delta Dental | [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349?utm_source=Simplify&ref=Simplify) | East Lansing, MI |
-| TribalScale | [Agile Software Engineer Co-op](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
-| Centerfield | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application?utm_source=Simplify&ref=Simplify) | LA |
-| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706?utm_source=Simplify&ref=Simplify) | Remote in USA |
-| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3?utm_source=Simplify&ref=Simplify) | Remote in USA |
-| 🔥 TikTok | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| Copart | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393?utm_source=Simplify&ref=Simplify) | Dallas, TX |
-| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709?utm_source=Simplify&ref=Simplify) | United States |
-| GE Vernova | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041709-1?utm_source=Simplify&ref=Simplify) | United States |
-| 🔥 Tesla | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| 🔥 Tesla | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| 🔥 Tesla | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/270063?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| 🔥 Tesla | [Software Engineer Intern - Fullstack Software Engineer - Fleetnet](https://www.tesla.com/careers/search/job/266764?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| 🔥 Tesla | [Software Engineer Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271362?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Fremont, CA |
-| Nidec | [Application Engineering Co-op](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineering-Co-Op_R0016076?utm_source=Simplify&ref=Simplify) | St. Louis, MO |
-| Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005?utm_source=Simplify&ref=Simplify) | SF NYC |
-| Clarity Innovations | [Junior Software Engineer Intern](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007?utm_source=Simplify&ref=Simplify) | Reston, VA |
-| 🔥 ByteDance | [Software Engineer Intern - Developer Infrastructure](https://jobs.bytedance.com/en/position/7595707875767699765/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [3D Graphics Engineer Intern - PICO Foundation](https://jobs.bytedance.com/en/position/7564516412456306997/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Software Engineer Intern - Payment Network - Global Payment](https://jobs.bytedance.com/en/position/7533369475380070663/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| University System of New Hampshire | [Broadband Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298?utm_source=Simplify&ref=Simplify) | Dover, NH |
-| Instead | [Software Engineer Intern](https://job-boards.greenhouse.io/instead/jobs/7761472003?utm_source=Simplify&ref=Simplify) | SF |
-| 🔥 ByteDance | [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152240618195208/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Research Intern - SDN Traffic Intelligence & Control 🎓](https://jobs.bytedance.com/en/position/7537161874254776583/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152632018012424/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Network Software Development Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7537117266451171592/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Research Intern - SDN Traffic Intelligence & Control 🎓](https://jobs.bytedance.com/en/position/7537161497627281682/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| Magna | [Junior Full Stack Developer Co-op](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793?utm_source=Simplify&ref=Simplify) | Oakville, ON, Canada |
-| Autodesk | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2?utm_source=Simplify&ref=Simplify) | Canada |
-| Autodesk | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1?utm_source=Simplify&ref=Simplify) | Canada |
-| TJX | [Product & Quality Specialist Apprentice](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1?utm_source=Simplify&ref=Simplify) | Watford, UK |
-| Kensington | [Product Intern](https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
-| Kensington | [Operations Intern - Ultraluxe Product](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
-| Niural | [Product Design Intern 🛂](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify) | New York City, NY |
-| Flagright | [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
-| Deloitte | [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259?utm_source=Simplify&ref=Simplify) | Arlington, VA |
-| Mistral AI | [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| Primetals Technologies | [Data Science Internship - Governance](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Lake Mary, FL |
-| Kinetic Systems | [Applied AI Intern 🎓](https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734/application?embed=true&utm_source=Simplify&ref=Simplify) | SF |
-| JP Morgan Chase | [Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns… 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify) | London, UK |
-| CAE | [Data Specialist Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada |
-| National Laboratory of the Rockies | [Graduate Intern - Transportation Systems Analysis](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153?utm_source=Simplify&ref=Simplify) | Golden, CO |
-| Jump Trading | [Campus Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7975008&utm_source=Simplify&ref=Simplify) | London, UK |
-| 🔥 Meta | [Research Scientist Intern - Monetization Computer Vision 🎓](https://www.metacareers.com/jobs/2281218542616482?utm_source=Simplify&ref=Simplify) | Menlo Park, CA |
-| Jump Trading | [Campus Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8002998&utm_source=Simplify&ref=Simplify) | Chicago, IL |
-| EquipmentShare | [Uptime Management Center Intern](https://www.equipmentshare.com/careers/openings/?gh_jid=7623013&utm_source=Simplify&ref=Simplify) | Columbia, MO |
-| KLA Corporation | [AI Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/AI-Summer-Intern_2638689?utm_source=Simplify&ref=Simplify) | Cardiff, UK |
-| Blue River Technology | [Machine Learning Intern - Autonomy](https://www.bluerivertechnology.com/job/?gh_jid=7947246&utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
-| Magna | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865?utm_source=Simplify&ref=Simplify) | Ferndale, MI |
-| Moss & Associates | [Construction Technologies Intern](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710?utm_source=Simplify&ref=Simplify) | McKinney, TX Tampa, FL Fort Lauderdale, FL |
-| JP Morgan Chase | [Machine Learning Center of Excellence Intern - NLP 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492?utm_source=Simplify&ref=Simplify) | London, UK |
-| Valeo | [Warranty Engineering Co-op](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365?utm_source=Simplify&ref=Simplify) | Troy, MI |
-| Blue Cross Blue Shield of Michigan | [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393?utm_source=Simplify&ref=Simplify) | Detroit, MI |
-| The Wonderful Company | [Summer Internship Intern - Business Systems Analyst](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439?utm_source=Simplify&ref=Simplify) | Bakersfield, CA |
-| Citadel Securities | [Machine Learning Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
-| 🔥 Tesla | [RL Engineer Intern - RL Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275494?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| thyssenkrupp | [Analytics Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify) | Cleveland, OH |
-| Susquehanna International Group (SIG) | [AI Co-op](https://careers-sig.icims.com/jobs/11078/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ardmore, PA |
-| Sony | [Research on Generative and Protective AI for Content Creation Intern 🎓](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335?utm_source=Simplify&ref=Simplify) | NYC |
-| Truland Equipment | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007&utm_source=Simplify&ref=Simplify) | Fort Wayne, IN |
-| 🔥 Tesla | [Data Engineer Intern - Applications Engineering](https://www.tesla.com/careers/search/job/272928?utm_source=Simplify&ref=Simplify) | Fremont, CA |
-| Torc Robotics | [System Triage Engineer Intern](https://job-boards.greenhouse.io/torcrobotics/jobs/8597138002?utm_source=Simplify&ref=Simplify) | Blacksburg, VA Ann Arbor, MI Fort Worth, TX |
-| Applied Intuition | [Research Intern - Robotic Hardware - Simulation and Data 🎓](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
-| Applied Intuition | [Research Intern - Reinforcement Learning - Self-Driving 🎓](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
-| Applied Intuition | [Research Intern - 3D Vision and Generation - Self-Driving 🎓](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
-| Lila Sciences | [Automation Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009?utm_source=Simplify&ref=Simplify) | Cambridge, MA |
-| National Laboratory of the Rockies | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160?utm_source=Simplify&ref=Simplify) | Golden, CO |
-| RFCUNY | [Data Analyst Intern](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987?utm_source=Simplify&ref=Simplify) | NYC |
-| Phamily | [Business Intelligence & Data Analytics Intern - Undergraduate](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008?utm_source=Simplify&ref=Simplify) | NYC |
-| Institute of Foundation Models | [Inference Optimization Intern - Performance Modeling](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
-| F. Schumacher & Co. | [Product Data Strategy and Operations Intern](https://job-boards.greenhouse.io/fschumacherco/jobs/5279316008?utm_source=Simplify&ref=Simplify) | NYC |
-| Hiverge | [Research Engineer Intern 🎓](https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application?utm_source=Simplify&ref=Simplify) | Cambridge, UK |
-| MyEmployment | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263?utm_source=Simplify&ref=Simplify) | Remote in US |
-| Centerfield | [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application?utm_source=Simplify&ref=Simplify) | LA |
-| Core & Main | [Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804?utm_source=Simplify&ref=Simplify) | St. Louis, MO |
-| CAE | [Configuration and Data Management Analyst Co-op](https://cae.wd3.myworkdayjobs.com/career/job/Little-Rock/Configuration-and-Data-Management-Analyst-Co-Op_122365?utm_source=Simplify&ref=Simplify) | Little Rock, AR |
-| Tencent | [Video Generation Content Understanding and Feedback Research Intern 🎓](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680-1?utm_source=Simplify&ref=Simplify) | London, UK |
-| Tencent | [Video Generation Content Understanding and Feedback Research Intern 🎓](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680?utm_source=Simplify&ref=Simplify) | London, UK |
-| Nelnet | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763?utm_source=Simplify&ref=Simplify) | Lincoln, NE |
-| Toyota Research Institute | [Energy & Materials Intern - XRD Advanced Analysis 🎓](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8/apply?utm_source=Simplify&ref=Simplify) | Mountain View, CA |
-| United Parcel Service (UPS) | [Buildings and Systems Engineering Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Summer-2026-Buildings---Systems-Engineering--BaSE--Intern---Information-Systems-Intern_R26015318?utm_source=Simplify&ref=Simplify) | United States |
-| 🔥 Meta | [Research Scientist Intern - Photorealistic Telepresence 🎓](https://www.metacareers.com/jobs/924149567345400?utm_source=Simplify&ref=Simplify) | London, UK |
-| 🔥 Meta | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470?utm_source=Simplify&ref=Simplify) | Redmond, WA |
-| Definity Financial | [Data Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
-| Synchrony Financial | [Data Analytics Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688?utm_source=Simplify&ref=Simplify) | Stamford, CT |
-| Cotiviti | [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19416/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA |
-| Cotiviti | [Generative AI Research Engineer Intern 🎓](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA |
-| 🔥 TikTok | [Data Scientist Intern - TikTok Shop User Product DS 🎓](https://lifeattiktok.com/search/7532254890627696903?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 TikTok | [Machine Learning Engineer Intern - Tiktok-Recommendation 🎓](https://lifeattiktok.com/search/7527065936093858055?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM 🎓](https://lifeattiktok.com/search/7527589557336869138?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM 🎓](https://lifeattiktok.com/search/7527585101065652498?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 TikTok | [Research Scientist Intern - Trust and Safety 🎓](https://lifeattiktok.com/search/7527582397938223367?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 TikTok | [Machine Learning Engineer Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7527077153591675154?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| Autodesk | [AI in Design & Manufacturing Intern 🎓](https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada |
-| The Campbell's Company | [Data Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843?utm_source=Simplify&ref=Simplify) | Philadelphia, PA |
-| The Campbell's Company | [Data Engineer Co-op - Operational Support](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842?utm_source=Simplify&ref=Simplify) | Philadelphia, PA |
-| Solar Turbines | [Gas Compressor Data Analyst Intern](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786?utm_source=Simplify&ref=Simplify) | San Diego, CA |
-| Institute of Foundation Models | [AI Research Intern 🎓](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA |
-| The Campbell's Company | [Data Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837?utm_source=Simplify&ref=Simplify) | Philadelphia, PA |
-| The Campbell's Company | [Modeling and Visualization Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65846?utm_source=Simplify&ref=Simplify) | Gettysburg, PA |
-| The Campbell's Company | [Modeling and Visualization Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65847?utm_source=Simplify&ref=Simplify) | Gettysburg, PA |
-| Lila Sciences | [Data Extraction Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009?utm_source=Simplify&ref=Simplify) | Cambridge, MA |
-| Lila Sciences | [Machine Learning for Digital Twins Co-op 🎓](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009?utm_source=Simplify&ref=Simplify) | Cambridge, MA |
-| Toyota Research Institute | [Human Interactive Driving Intern - World Models 🎓](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply?utm_source=Simplify&ref=Simplify) | Mountain View, CA |
-| Evolver | [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| SHEIN | [Data Analysis Intern](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940?utm_source=Simplify&ref=Simplify) | United States |
-| Eurofins | [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249?utm_source=Simplify&ref=Simplify) | Lancaster, PA |
-| Ancestry | [Machine Learning Engineer Co-op 🎓](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378?utm_source=Simplify&ref=Simplify) | Remote in USA |
-| 🔥 Tesla | [Energy Engineering Intern - Cost Reduction](https://www.tesla.com/careers/search/job/270511?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| 🔥 Tesla | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| 🔥 Tesla | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Fremont, CA Austin, TX |
-| XPENG Motors | [AI Infrastructure Onboard Performance Intern 🎓](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002?utm_source=Simplify&ref=Simplify) | Santa Clara, CA |
-| Peraton | [Generative AI Engineer Intern 🎓](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA |
-| Tencent | [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify) | Palo Alto, CA |
-| Nio | [Data Analysis Intern 🎓](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Payment Partnership Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7642450978503641397/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Applied Research Intern - AI Safety Security - Global Tech Research Program 🎓](https://jobs.bytedance.com/en/position/7645070235035044101/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Software Engineer Intern - Applied Machine Learning-Enterprise 🎓](https://jobs.bytedance.com/en/position/7533045355162044690/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Student Researcher Intern 🎓](https://jobs.bytedance.com/en/position/7538943251756910856/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing](https://jobs.bytedance.com/en/position/7543005612200970503/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Machine Learning Engineer Intern - E-commerce Governance Algorithms](https://jobs.bytedance.com/en/position/7535168003103033618/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Machine Learning Engineer Intern - E-commerce Governance Algorithms 🎓](https://jobs.bytedance.com/en/position/7535171166420453639/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Research Scientist Intern - Applied Machine Learning-Enterprise 🎓](https://jobs.bytedance.com/en/position/7539697151993268488/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
-| 🔥 ByteDance | [Machine Learning Engineer Intern - Global E-commerce Risk Control](https://jobs.bytedance.com/en/position/7535953226975054098/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Machine Learning Engineer Intern - Global E-commerce Risk Control 🎓](https://jobs.bytedance.com/en/position/7535951608832657682/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Research Intern - AI/LLM Network 🎓](https://jobs.bytedance.com/en/position/7539992380817639687/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA |
-| 🔥 ByteDance | [Research Intern - AI/LLM Network 🎓](https://jobs.bytedance.com/en/position/7539991964504017170/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA |
 
 <!-- End of DerexXD divider 1 -->

@@ -345,6 +345,11 @@ func main() {
 			// }
 
 			totalJobs = append(totalJobs, jobs...)
+		} else if strings.Contains(fetchedURL, "speedyapply") {
+			fmt.Println("Processing SpeedyApply Repo...")
+			jobs := parseSpeedyApply(results)
+			fmt.Printf("-> Found %d active jobs in SpeedyApply Repo\n", len(jobs))
+			totalJobs = append(totalJobs, jobs...)
 		}
 	}
 
