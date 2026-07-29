@@ -292,24 +292,13 @@ func main() {
 
 	for i := 0; i < len(urls); i++ {
 		rawPayload := <-resultsChannel
-		// separate the url from results
+
+		// separate the url from results for each part of the payload
 		fetchedURL, results, _ := strings.Cut(rawPayload, "|derexXD certified separator|")
+
 		// channels will get consumed when you read them all one by one, so our two for loop approach was writing nothing
 		fmt.Printf("--- Document Received #%d from %s ---\n", i+1, fetchedURL)
-		// fmt.Println(results)
 		fmt.Println("-------------------------------")
-
-		// separator := fmt.Sprintf("\n\n# --- Document Received #%d ---\n\n", i+1)
-
-		// if _, err := file.WriteString(separator); err != nil {
-		// 	fmt.Printf("Error writing separator to file: %v\n", err)
-		// }
-
-		// if _, err := file.WriteString(results); err != nil {
-		// 	fmt.Printf("Error writing content to file: %v\n", err)
-		// }
-
-		// fmt.Printf("Saved document #%d to combined_output.md\n", i+1)
 
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
 			fmt.Println("Processing Simplify Repo...")
