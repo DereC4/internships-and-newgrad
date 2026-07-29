@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"time"
 )
 
 // You cannot use the short declaration operator := with constants.
@@ -100,6 +101,25 @@ func parseSimplify(rawHTML string) []JobListing {
 	return jobs
 }
 
+func convertVanshDate(dateStr string) string {
+	if dateStr == "" {
+		return "N/A"
+	}
+	parsed, err := time.Parse("Jan 02 2006", dateStr+" 2026")
+	if err != nil {
+		return dateStr
+	}
+
+	days := int(time.Since(parsed).Hours() / 24)
+	if days < 0 {
+		days = 0
+	}
+	if days >= 30 {
+		return fmt.Sprintf("%dmo", days/30)
+	}
+	return fmt.Sprintf("%dd", days)
+}
+
 func parseVansh(rawMarkdown string) []JobListing {
 	var jobs []JobListing
 	var lastCompany string
@@ -150,7 +170,7 @@ func parseVansh(rawMarkdown string) []JobListing {
 		company := cleanHTML(cols[1])
 		role := cleanHTML(cols[2])
 		location := cleanHTML(cols[3])
-		datePosted := cleanHTML(cols[5])
+		datePosted := convertVanshDate(cleanHTML(cols[5]))
 
 		if company == "↳" || company == "" {
 			company = lastCompany
