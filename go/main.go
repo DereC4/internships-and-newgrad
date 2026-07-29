@@ -389,11 +389,11 @@ func main() {
 		table.WriteString(fmt.Sprintf("| %s | %s | %s |\n", job.Company, roleLink, job.Location))
 	}
 
-	content, _ := os.ReadFile("README.md")
+	content, _ := os.ReadFile("../README.md")
 	before, afterStart, _ := strings.Cut(string(content), jobTableStart)
 	_, afterEnd, _ := strings.Cut(afterStart, jobTableEnd)
 
 	updatedReadme := before + jobTableStart + "\n\n" + table.String() + "\n" + jobTableEnd + afterEnd
-	os.WriteFile("README.md", []byte(updatedReadme), 0644)
+	os.WriteFile("../README.md", []byte(updatedReadme), 0644)
 
 }
