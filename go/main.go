@@ -365,12 +365,12 @@ func main() {
 
 	var table strings.Builder
 
-	table.WriteString("| Company | Role | Location |\n")
-	table.WriteString("| --- | --- | --- |\n")
+	table.WriteString("| Company | Role | Location | Age |\n")
+	table.WriteString("| --- | --- | --- | --- |\n")
 
 	for _, job := range totalJobs {
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
-		table.WriteString(fmt.Sprintf("| %s | %s | %s |\n", job.Company, roleLink, job.Location))
+		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
 	}
 
 	unfilteredContent := table.String()
@@ -380,14 +380,15 @@ func main() {
 		fmt.Printf("Saved %d raw jobs to UNFILTERED.md\n", len(totalJobs))
 	}
 
+	// final output to README.md goes here
 	uniqueJobs := deduplicateJobs(totalJobs)
 	table.Reset()
-	table.WriteString("| Company | Role | Location |\n")
-	table.WriteString("| --- | --- | --- |\n")
+	table.WriteString("| Company | Role | Location | Age |\n")
+	table.WriteString("| --- | --- | --- | --- |\n")
 
 	for _, job := range uniqueJobs {
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
-		table.WriteString(fmt.Sprintf("| %s | %s | %s |\n", job.Company, roleLink, job.Location))
+		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
 	}
 
 	content, _ := os.ReadFile("../README.md")
