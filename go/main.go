@@ -293,13 +293,6 @@ func main() {
 		go dogWorker(url, resultsChannel)
 	}
 
-	// you have to open the file before reading from channel
-	_, err := os.OpenFile("TESTING.md", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	if err != nil {
-		fmt.Printf("Error opening file: %v\n", err)
-		return
-	}
-
 	var totalJobs []JobListing
 
 	for i := 0; i < len(urls); i++ {
