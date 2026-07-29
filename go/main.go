@@ -8,14 +8,6 @@ import (
 	"strings"
 )
 
-type JobListing struct {
-	Company  string
-	Role     string
-	Location string
-	Link     string
-	Age      string
-}
-
 // You cannot use the short declaration operator := with constants.
 const (
 	jobTableStart = "<!-- A DerexXD certified divider lives here -->"
