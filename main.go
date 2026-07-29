@@ -243,6 +243,7 @@ func parseSpeedyApply(rawMarkdown string) []JobListing {
 
 	return jobs
 }
+
 func dogWorker(url string, ch chan string) {
 	// function signature in Go is variableName dataType
 	// channels are type safe in Go so you have to define what type a channel takes
