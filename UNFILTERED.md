@@ -1,15 +1,3 @@
-# About
-
-When I was in college, aka literally just a month ago, and in the swamp of recruiting, there were like 3 billion different repos and job sites and it was such a headache keeping track of all those tabs, so I made a single site of my own to have a dead simple front end to collect all of the job postings in one place, sorted by date. Now, I will do it here. But when i wake up ofc. I am sleepy rn it is 6 am. 
-
-# Internships and Newgrad Job Listings
-
-![Total Internships](https://img.shields.io/badge/Total_Internships-1367-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-685-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-272-blue?style=flat&logo=building)
-
-<!-- A DerexXD certified divider lives here -->
-
 | Company | Role | Location |
 | --- | --- | --- |
 | TikTok | [Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS）](https://lifeattiktok.com/search/7654431844394322229) | San Jose, CA |
@@ -456,5 +444,3 @@ When I was in college, aka literally just a month ago, and in the swamp of recru
 | Citadel Securities | [Quantitative Research Engineer Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
 | Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify) | Miami, FL NYC |
 | Citadel Securities | [Quantitative Researcher PhD Intern 🎓](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify) | London, UK |
-
-<!-- End of DerexXD divider 1 -->

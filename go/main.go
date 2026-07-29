@@ -372,6 +372,13 @@ func main() {
 		table.WriteString(fmt.Sprintf("| %s | %s | %s |\n", job.Company, roleLink, job.Location))
 	}
 
+	unfilteredContent := table.String()
+	if err := os.WriteFile("UNFILTERED.md", []byte(unfilteredContent), 0644); err != nil {
+		fmt.Printf("Error writing unfiltered.md: %v\n", err)
+	} else {
+		fmt.Printf("Saved %d raw jobs to UNFILTERED.md\n", len(totalJobs))
+	}
+
 	content, _ := os.ReadFile("README.md")
 	before, afterStart, _ := strings.Cut(string(content), jobTableStart)
 	_, afterEnd, _ := strings.Cut(afterStart, jobTableEnd)
