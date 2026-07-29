@@ -379,6 +379,16 @@ func main() {
 		fmt.Printf("Saved %d raw jobs to UNFILTERED.md\n", len(totalJobs))
 	}
 
+	uniqueJobs := deduplicateJobs(totalJobs)
+	table.Reset()
+	table.WriteString("| Company | Role | Location |\n")
+	table.WriteString("| --- | --- | --- |\n")
+
+	for _, job := range uniqueJobs {
+		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
+		table.WriteString(fmt.Sprintf("| %s | %s | %s |\n", job.Company, roleLink, job.Location))
+	}
+
 	content, _ := os.ReadFile("README.md")
 	before, afterStart, _ := strings.Cut(string(content), jobTableStart)
 	_, afterEnd, _ := strings.Cut(afterStart, jobTableEnd)
