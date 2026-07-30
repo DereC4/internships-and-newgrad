@@ -1,10 +1,13 @@
 package main
 
 import (
+	"cmp"
 	"fmt"
 	"io"
 	"net/http"
 	"os"
+	"slices"
+	"strconv"
 	"strings"
 	"time"
 )
@@ -256,6 +259,24 @@ func parseSpeedyApply(rawMarkdown string) []JobListing {
 	return jobs
 }
 
+func ageToDays(ageStr string) int {
+	clean := strings.TrimSpace(ageStr)
+
+	if strings.HasSuffix(clean, "d") {
+		numStr := strings.TrimSuffix(clean, "d")
+		if val, err := strconv.Atoi(numStr); err == nil {
+			return val
+		}
+	} else if strings.HasSuffix(clean, "mo") {
+		numStr := strings.TrimSuffix(clean, "mo")
+		if val, err := strconv.Atoi(numStr); err == nil {
+			return val * 30 // Approximate 1 month = 30 days
+		}
+	}
+
+	return 9999 // Push unknown or "N/A" formats to the very bottom of the table
+}
+
 func dogWorker(url string, ch chan string) {
 	// function signature in Go is variableName dataType
 	// channels are type safe in Go so you have to define what type a channel takes
@@ -378,6 +399,17 @@ func main() {
 	table.Reset()
 	table.WriteString("| Company | Role | Location | Age |\n")
 	table.WriteString("| --- | --- | --- | --- |\n")
+
+	slices.SortFunc(uniqueJobs, func(a, b JobListing) int {
+		daysA := ageToDays(a.Age)
+		daysB := ageToDays(b.Age)
+
+		if ageComparison := cmp.Compare(daysA, daysB); ageComparison != 0 {
+			return ageComparison
+		}
+
+		return cmp.Compare(a.Company, b.Company)
+	})
 
 	for _, job := range uniqueJobs {
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
