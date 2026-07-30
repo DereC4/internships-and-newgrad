@@ -6,4 +6,5 @@ type JobListing struct {
 	Location string
 	Link     string
 	Age      string
+	NewGrad  bool
 }

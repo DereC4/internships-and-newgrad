@@ -100,6 +100,7 @@ func parseSimplify(rawHTML string) []JobListing {
 			Location: location,
 			Link:     appURL,
 			Age:      age,
+			NewGrad:  false,
 		})
 	}
 
@@ -189,6 +190,7 @@ func parseVansh(rawMarkdown string) []JobListing {
 			Location: location,
 			Link:     appURL,
 			Age:      datePosted,
+			NewGrad:  false,
 		})
 	}
 
@@ -254,6 +256,7 @@ func parseSpeedyApply(rawMarkdown string) []JobListing {
 				Location: cleanHTML(cols[3]),
 				Link:     appURL,
 				Age:      cleanHTML(ageCell),
+				NewGrad:  false,
 			})
 		}
 	}
