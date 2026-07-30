@@ -47,6 +47,7 @@ func main() {
 	}
 
 	resultsChannel := make(chan string)
+
 	// make a channel type so we can talk to main
 	// loop through urls and start a thread for each one
 	fmt.Println("Starting fetches")
@@ -69,46 +70,13 @@ func main() {
 
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
 			fmt.Println("Processing Simplify Repo...")
-
-			// basically HashMap <String, String> categories
-			// syntax: map [keytype] valuetype
-			categories := map[string]string{
-				"Software Engineering": "## 💻 Software Engineering Internship Roles",
-				"Product Management":   "## 📱 Product Management Internship Roles",
-				"Data Science / AI":    "## 🤖 Data Science, AI & Machine Learning Internship Roles",
-				"Quant Finance":        "## 📈 Quantitative Finance Internship Roles",
-			}
-
-			for catName, header := range categories {
-				_, afterHeader, foundHeader := strings.Cut(results, header)
-				if !foundHeader {
-					continue
-				}
-
-				tableBlock, _, _ := strings.Cut(afterHeader, "</table>")
-				tableBlock = tableBlock + "</table>"
-				parsedJobs := parseSimplify(tableBlock)
-
-				fmt.Printf("-> Found %d jobs under category: [%s]\n", len(parsedJobs), catName)
-
-				// for _, job := range parsedJobs {
-				// 	fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
-				// }
-
-				fmt.Println()
-
-				totalJobs = append(totalJobs, parsedJobs...)
-
-			}
+			jobs := parseSimplifyCategories(results)
+			fmt.Printf("-> Found %d active jobs in Simplify Repo\n", len(jobs))
+			totalJobs = append(totalJobs, jobs...)
 		} else if strings.Contains(fetchedURL, "vanshb03") {
 			fmt.Println("Processing Vansh Repo...")
 			jobs := parseVansh(results)
 			fmt.Printf("-> Found %d active jobs in Vansh Repo\n", len(jobs))
-
-			// for _, job := range jobs {
-			// 	fmt.Printf("   🏢 %s | 💼 %s | 📍 %s | 🔗 %s\n", job.Company, job.Role, job.Location, job.Link)
-			// }
-
 			totalJobs = append(totalJobs, jobs...)
 		} else if strings.Contains(fetchedURL, "speedyapply") {
 			fmt.Println("Processing SpeedyApply Repo...")

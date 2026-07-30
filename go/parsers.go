@@ -1,6 +1,37 @@
 package main
 
-import "strings"
+import (
+	"fmt"
+	"strings"
+)
+
+func parseSimplifyCategories(results string) []JobListing {
+	var categoryJobs []JobListing
+
+	categories := map[string]string{
+		"Software Engineering": "## 💻 Software Engineering Internship Roles",
+		"Product Management":   "## 📱 Product Management Internship Roles",
+		"Data Science / AI":    "## 🤖 Data Science, AI & Machine Learning Internship Roles",
+		"Quant Finance":        "## 📈 Quantitative Finance Internship Roles",
+	}
+
+	for catName, header := range categories {
+		_, afterHeader, foundHeader := strings.Cut(results, header)
+		if !foundHeader {
+			continue
+		}
+
+		tableBlock, _, _ := strings.Cut(afterHeader, "</table>")
+		tableBlock = tableBlock + "</table>"
+		parsedJobs := parseSimplify(tableBlock)
+
+		fmt.Printf("-> Found %d jobs under category: [%s]\n", len(parsedJobs), catName)
+		categoryJobs = append(categoryJobs, parsedJobs...)
+	}
+
+	fmt.Println()
+	return categoryJobs
+}
 
 func parseSimplify(rawHTML string) []JobListing {
 	var jobs []JobListing
