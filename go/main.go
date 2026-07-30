@@ -16,6 +16,8 @@ import (
 const (
 	jobTableStart = "<!-- A DerexXD certified divider lives here -->"
 	jobTableEnd   = "<!-- End of DerexXD divider 1 -->"
+	badgesStart   = "<!-- BADGES_START_DEREXXD -->"
+	badgesEnd     = "<!-- BADGES_END_DEREXXD -->"
 )
 
 func cleanHTML(val string) string {
@@ -411,16 +413,33 @@ func main() {
 		return cmp.Compare(a.Company, b.Company)
 	})
 
+	// update the fancy badges
+	companySet := make(map[string]bool)
+	for _, job := range uniqueJobs {
+		companySet[job.Company] = true
+	}
+	uniqueCompanyCount := len(companySet)
+
+	var badges strings.Builder
+	badges.WriteString(fmt.Sprintf("![Job Listings](https://img.shields.io/badge/Total_Scraped-%d-brightgreen?style=flat&logo=briefcase)\n", len(totalJobs)))
+	badges.WriteString(fmt.Sprintf("![Companies](https://img.shields.io/badge/Companies-%d-blue?style=flat&logo=building)\n", uniqueCompanyCount))
+
 	for _, job := range uniqueJobs {
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
 		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
 	}
 
 	content, _ := os.ReadFile("../README.md")
-	before, afterStart, _ := strings.Cut(string(content), jobTableStart)
-	_, afterEnd, _ := strings.Cut(afterStart, jobTableEnd)
+	updatedReadme := string(content)
 
-	updatedReadme := before + jobTableStart + "\n\n" + table.String() + "\n" + jobTableEnd + afterEnd
+	beforeTable, afterTableStart, _ := strings.Cut(updatedReadme, jobTableStart)
+	_, afterTableEnd, _ := strings.Cut(afterTableStart, jobTableEnd)
+	updatedReadme = beforeTable + jobTableStart + "\n\n" + table.String() + "\n" + jobTableEnd + afterTableEnd
+
+	beforeBadges, afterBadgesStart, _ := strings.Cut(updatedReadme, badgesStart)
+	_, afterBadgesEnd, _ := strings.Cut(afterBadgesStart, badgesEnd)
+	updatedReadme = beforeBadges + badgesStart + "\n" + badges.String() + badgesEnd + afterBadgesEnd
+
 	os.WriteFile("../README.md", []byte(updatedReadme), 0644)
 
 }
