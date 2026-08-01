@@ -309,3 +309,82 @@ func parseSandesh(rawMarkdown string) []JobListing {
 
 	return jobs
 }
+
+func parseZapply(rawMarkdown string) []JobListing {
+	var jobs []JobListing
+
+	// it's alr nicely wrapped up each section into a details dropdown menu
+	sections := strings.Split(rawMarkdown, "<details>")
+
+	for _, sec := range sections {
+		if !strings.Contains(sec, "</details>") {
+			continue
+		}
+
+		tableContent, _, _ := strings.Cut(sec, "</details>")
+		lines := strings.Split(tableContent, "\n")
+
+		var lastCompany string
+
+		for _, line := range lines {
+			line = strings.TrimSpace(line)
+
+			if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") || strings.Contains(line, "Company") {
+				continue
+			}
+
+			cols := strings.Split(line, "|")
+			if len(cols) < 7 {
+				continue
+			}
+
+			// cols[0] = "" (prefix split)
+			// cols[1] = Company (**ByteDance**)
+			// cols[2] = Role
+			// cols[3] = Location
+			// cols[4] = Posted
+			// cols[5] = Visa / Sponsorship
+			// cols[6] = Apply Link
+			applyCell := cols[6]
+
+			if strings.Contains(line, "🔒") || strings.Contains(applyCell, "🔒") {
+				continue
+			}
+
+			var appURL string
+			if strings.Contains(applyCell, "href=\"") {
+				_, afterHref, _ := strings.Cut(applyCell, "href=\"")
+				appURL, _, _ = strings.Cut(afterHref, "\"")
+			} else if strings.Contains(applyCell, "](") {
+				_, afterURL, _ := strings.Cut(applyCell, "](")
+				appURL, _, _ = strings.Cut(afterURL, ")")
+			}
+
+			if appURL == "" || appURL == "#" {
+				continue
+			}
+
+			company := cleanHTML(cols[1])
+			role := cleanHTML(cols[2])
+			location := cleanHTML(cols[3])
+			age := cleanHTML(cols[4])
+
+			if company == "↳" || company == "" {
+				company = lastCompany
+			} else {
+				lastCompany = company
+			}
+
+			jobs = append(jobs, JobListing{
+				Company:  company,
+				Role:     role,
+				Location: location,
+				Link:     appURL,
+				Age:      age,
+				NewGrad:  false,
+			})
+		}
+	}
+
+	return jobs
+}
