@@ -234,3 +234,78 @@ func parseSpeedyApply(rawMarkdown string) []JobListing {
 
 	return jobs
 }
+
+func parseSandesh(rawMarkdown string) []JobListing {
+	var jobs []JobListing
+	var lastCompany string
+
+	// this is the markdown as of 8/1/2026
+	_, afterTableHead, foundTable := strings.Cut(rawMarkdown, "| Company | Role | Location | Apply | Added |")
+	if !foundTable {
+		return nil
+	}
+
+	tableContent, _, _ := strings.Cut(afterTableHead, "Newest entries go at the top.🔝")
+
+	lines := strings.Split(tableContent, "\n")
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+
+		if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") {
+			continue
+		}
+
+		cols := strings.Split(line, "|")
+		if len(cols) < 6 {
+			continue
+		}
+
+		// cols[0] = "" (prefix split)
+		// cols[1] = Company
+		// cols[2] = Role
+		// cols[3] = Location
+		// cols[4] = Apply Link: [apply](https://...)
+		// cols[5] = Added Date: 2026-07-21 or "-"
+		applyCell := cols[4]
+
+		if strings.Contains(line, "🔒") || strings.Contains(applyCell, "🔒") {
+			continue
+		}
+
+		var appURL string
+		if strings.Contains(applyCell, "](") {
+			_, afterURL, foundURL := strings.Cut(applyCell, "](")
+			if foundURL {
+				appURL, _, _ = strings.Cut(afterURL, ")")
+			}
+		}
+
+		if appURL == "" {
+			continue
+		}
+
+		company := cleanHTML(cols[1])
+		role := cleanHTML(cols[2])
+		location := cleanHTML(cols[3])
+		rawDate := cleanHTML(cols[5])
+
+		age := convertISODate(rawDate)
+
+		if company == "↳" || company == "" {
+			company = lastCompany
+		} else {
+			lastCompany = company
+		}
+
+		jobs = append(jobs, JobListing{
+			Company:  company,
+			Role:     role,
+			Location: location,
+			Link:     appURL,
+			Age:      age,
+			NewGrad:  false,
+		})
+	}
+
+	return jobs
+}
