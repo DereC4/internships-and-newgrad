@@ -68,7 +68,6 @@ func main() {
 
 		// channels will get consumed when you read them all one by one, so our two for loop approach was writing nothing
 		fmt.Printf("--- Document Received #%d from %s ---\n", i+1, fetchedURL)
-		fmt.Println("-------------------------------")
 
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
 			fmt.Println("Processing Simplify Repo...")
@@ -89,6 +88,11 @@ func main() {
 			fmt.Println("Processing sndsh404 Repo...")
 			jobs := parseSandesh(results)
 			fmt.Printf("-> Found %d active jobs in sndsh404 Repo\n", len(jobs))
+			totalJobs = append(totalJobs, jobs...)
+		} else if strings.Contains(fetchedURL, "zapplyjobs") {
+			fmt.Println("Processing zapplyjobs Repo...")
+			jobs := parseSandesh(results)
+			fmt.Printf("-> Found %d active jobs in zapplyjobs Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
 		} else {
 			fmt.Println("[WARN] URL with no available parser found for " + fetchedURL)

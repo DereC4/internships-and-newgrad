@@ -1,126 +1,5 @@
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| SK Hynix Memory Solution | [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah) | San Jose, CA | 1d |
-| DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
-| DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687?utm_source=github-vansh-ouckah) | Montréal | 1d |
-| DRW | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
-| DRW | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670?utm_source=github-vansh-ouckah) | Chicago, IL New York City, NY | 1d |
-| DRW | [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
-| DRW | [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679?utm_source=github-vansh-ouckah) | Montréal | 1d |
-| DRW | [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
-| Castleton Commodities International | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346?utm_source=github-vansh-ouckah) | Stamford, CT Houston, TX New York City, NY | 1d |
-| Castleton Commodities International | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344?utm_source=github-vansh-ouckah) | Stamford, CT Houston, TX New York City, NY | 1d |
-| Castleton Commodities International | [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350?utm_source=github-vansh-ouckah) | Stamford, CT Houston, TX | 1d |
-| Virtu Financial | [Frontend & User Experience Intern](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=github-vansh-ouckah) | New York, NY | 2d |
-| General Dynamics Information Technology | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity?utm_source=github-vansh-ouckah) | Albany, NY | 2d |
-| Chicago Trading Company | [Software Engineer Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=github-vansh-ouckah) | Chicago, IL | 5d |
-| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=github-vansh-ouckah) | Chicago, IL | 5d |
-| Appian | [Information Security Engineer Intern 🛂](https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah) | McLean, VA | 5d |
-| Virtu Financial | [Software Engineer Intern](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=github-vansh-ouckah) | Austin, TX New York | 6d |
-| Virtu | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=github-vansh-ouckah) | Austin, TX Chicago, IL New York, NY | 6d |
-| Stevens Capital Management | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895?utm_source=github-vansh-ouckah) | Radnor, PA | 6d |
-| Quadrillion Labs | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05?utm_source=github-vansh-ouckah) | New York, NY | 6d |
-| PDT Partners | [Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685?utm_source=github-vansh-ouckah) | New York, NY | 6d |
-| HyperLight | [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/?utm_source=github-vansh-ouckah) | Cambridge, MA | 6d |
-| Appian | [Software Engineering Intern 🛂](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=github-vansh-ouckah) | McLean, VA | 6d |
-| Walleye Capital | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Walleye Capital | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=github-vansh-ouckah) | Miami, FL | 8d |
-| Walleye Capital | [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Walleye Capital | [Risk Technology Analyst Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Radix Trading | [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Palantir Technologies | [Software Engineer Intern, Production Infrastructure](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1?utm_source=github-vansh-ouckah) | Seattle, WA | 8d |
-| Palantir Technologies | [Software Engineer Intern, Infrastructure](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=github-vansh-ouckah) | Washington, D.C. | 8d |
-| Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=github-vansh-ouckah) | Palo Alto, CA | 8d |
-| Old Mission | [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Jane Street | [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8599644002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Windows Engineer Intern](https://www.janestreet.com/join-jane-street/position/8628843002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/position/8621450002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Network Engineer Intern](https://www.janestreet.com/join-jane-street/position/8620793002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Jane Street | [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| IMC | [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| IMC | [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| IMC | [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101?utm_source=github-vansh-ouckah) | Chicago | 8d |
-| Hudson River Trading | [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=&utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Hudson River Trading | [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=&utm_source=github-vansh-ouckah) | Austin, TX Chicago, IL New York, NY | 8d |
-| Google | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027?utm_source=github-vansh-ouckah) | **30 locations**Mountain View, CA Atlanta, GA Austin, TX Boulder, CO Cambridge, MA Bellevue, WA Chicago, IL Houston, TX Irvine, CA Kirkland, WA Los Angeles, CA Madison, WI New York, NY Palo Alto, CA Portland, OR Pittsburgh, PA Raleigh, NC Durham, NC Reston, VA Redmond, WA Redwood City, CA San Diego, CA Goleta, CA San Bruno, CA Seattle, WA San Francisco, CA San Jose, CA Santa Cruz, CA South San Francisco, CA Sunnyvale, CA | 8d |
-| Five Rings | [Software Developer Intern 🇺🇸](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008?utm_source=github-vansh-ouckah) | New York, NY | 8d |
-| Deepgram | [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1?utm_source=github-vansh-ouckah) | Remote US | 8d |
-| Appian | [Software Engineering Intern 🛂](https://careers.appian.com/jobs/8041237-software-engineering-intern?utm_source=github-vansh-ouckah) | McLean, VA | 8d |
-| Appian | [Product Manager Intern 🛂](https://careers.appian.com/jobs/8041243-product-manager-intern-?utm_source=github-vansh-ouckah) | McLean, VA | 8d |
-| Akuna Capital | [Quantitative Research Intern 🇺🇸](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614&utm_source=github-vansh-ouckah) | Chicago | 8d |
-| Akuna Capital | [Quantitative Development & Strategy Intern 🇺🇸](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481&utm_source=github-vansh-ouckah) | Chicago | 8d |
-| Akuna Capital | [Software Engineer Intern, C# .NET Desktop](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Akuna Capital | [Software Engineer Intern, Full Stack Web 🇺🇸](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Akuna Capital | [Python Software Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Akuna Capital | [Hardware Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Akuna Capital | [Platform Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018856/?gh_jid=8018856&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Akuna Capital | [Software Engineer Intern, C++ 🇺🇸](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
-| Jump Trading Group | [Campus UI Software Engineer Intern](https://www.jumptrading.com/hr/job?gh_jid=8003019&utm_source=github-vansh-ouckah) | Chicago, IL | 23d |
-| Jump Trading | [Campus Systems Engineer Intern](https://www.jumptrading.com/hr/job?gh_jid=8007788&utm_source=github-vansh-ouckah) | Chicago, IL | 23d |
-| Jump Trading | [Software Engineer Intern](https://www.jumptrading.com/hr/job?gh_jid=8002989&utm_source=github-vansh-ouckah) | Chicago, IL | 23d |
-| Jump Trading | [Quantitative Trader Intern](https://www.jumptrading.com/hr/job?gh_jid=7848371&utm_source=github-vansh-ouckah) | Chicago, IL New York, NY | 23d |
-| Tower Research | [Quantitative Developer Intern](https://tower-research.com/open-positions/?gh_jid=8044334&utm_source=github-vansh-ouckah) | Chicago, IL New York, NY | 25d |
-| Susquehanna Investment Group | [Quantitative Strategy Developer Intern](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us&utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 25d |
-| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/?utm_source=github-vansh-ouckah) | Chicago, IL | 25d |
-| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/?utm_source=github-vansh-ouckah) | Austin, TX | 25d |
-| IMC | [Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101?utm_source=github-vansh-ouckah) | Chicago, IL | 25d |
-| DE Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894?utm_source=github-vansh-ouckah) | New York, NY | 25d |
-| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=github-vansh-ouckah) | **4 locations**New York, NY Greenwich, CT Miami, FL Houston, TX | 25d |
-| Capital One | [Data Analyst Intern](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah) | Mclean, VA | 25d |
-| Aquatic | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002?utm_source=github-vansh-ouckah) | Chicago, IL | 25d |
-| Anduril | [Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007&utm_source=github-vansh-ouckah) | **6 locations**Atlanta, GA Boston, MA Costa Mesa, CA Irvine, CA Reston, VA Seattle, WA | 25d |
-| Voloridge Investment Management | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803&utm_source=github-vansh-ouckah) | Jupiter, FL | 2mo |
-| Susquehanna | [Trading System Engineering Intern](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088&utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 2mo |
-| Stoke Space | [Software Engineer Intern](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c&utm_source=github-vansh-ouckah) | Kent, WA | 2mo |
-| Etched | [Inference Intern, Architecture](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
-| Etched | [Firmware Intern](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
-| Etched | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
-| Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
-| Cubist Systematic Strategies | [Quantitative Developer Intern](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002&utm_source=github-vansh-ouckah) | New York, NY | 2mo |
-| Aquatic Capital | [Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002&utm_source=github-vansh-ouckah) | Chicago, IL | 2mo |
-| Apple | [Software Engineer Intern, Undergrad](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?utm_source=github-vansh-ouckah) | United States | 2mo |
-| Apple | [Software Engineering Intern, Masters](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships?utm_source=github-vansh-ouckah) | United States | 2mo |
-| StarSling | [Software Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/95003?utm_source=github-vansh-ouckah) | San Mateo, CA | 2mo |
-| Nash | [Full Stack Engineering Intern 🇺🇸](https://www.workatastartup.com/jobs/94993?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| Trata | [Research Scientist Intern 🇺🇸](https://www.workatastartup.com/jobs/94620?utm_source=github-vansh-ouckah) | San Francisco, CA New York, NY | 2mo |
-| Terranox AI | [Summer Intern - AI/ML Engineering 🇺🇸](https://www.workatastartup.com/jobs/94631?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| Naïve | [Software Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/94647?utm_source=github-vansh-ouckah) | San Francisco, CA Remote | 2mo |
-| Abundant | [Software Engineering Intern, Research Focused 🇺🇸](https://www.workatastartup.com/jobs/94634?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| WSP | [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808?utm_source=github-vansh-ouckah) | Dallas, TX | 2mo |
-| Apex Technology, Inc. | [Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah) | Los Angeles | 2mo |
-| Veeam Software | [Software Engineering Intern, Policy Engineering](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
-| Veeam Software | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
-| Paragon | [Forward Deployed Engineer (FDE) Intern 🇺🇸](https://www.workatastartup.com/jobs/93642?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| General Astronautics | [Engineering Intern 🇺🇸](https://www.workatastartup.com/jobs/94206?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| DimeHealth AI | [Forward Deployed Engineering Intern](https://www.workatastartup.com/jobs/94211?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
-| Dedalus Labs | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/94400?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| Amazon | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1&utm_source=github-vansh-ouckah) | **8 locations**Sunnyvale, CA North Reading, MA Westboro, MA Nashville, TN Austin, TX Arlington, VA Bellevue, WA Seattle, WA | 2mo |
-| Homebase | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2?utm_source=github-vansh-ouckah) | Houston, TX San Francisco, CA | 3mo |
-| TikTok | [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517?utm_source=github-vansh-ouckah) | San Jose, CA | 3mo |
-| Al Warren Oil Company | [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/?utm_source=github-vansh-ouckah) | Bensenville, IL | 3mo |
-| H&CO | [Software Development Intern](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507&utm_source=github-vansh-ouckah) | Coral Gables, FL | 3mo |
-| Ether.fi | [GTM Engineer Intern](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb?utm_source=github-vansh-ouckah) | Cayman Denver New York | 3mo |
-| TETRAMEM | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job&utm_source=github-vansh-ouckah) | San Jose, CA | 3mo |
-| Skyworks | [Analog IC Design Co-op](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100&utm_source=github-vansh-ouckah) | Irvine, CA | 3mo |
-| Poshmark | [Cloud Platform Engineer Intern, Growth 🛂](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa?utm_source=github-vansh-ouckah) | Redwood City, CA | 3mo |
-| Intercontinental Exchange, Inc. | [Artificial Intelligence, Data & Machine Learning Intern](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah) | New York, NY | 3mo |
-| Fiserv | [Application Development Intern 🛂](https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6&utm_source=github-vansh-ouckah) | Alpharetta, GA | 3mo |
-| Fiserv | [Technology Intern 🛂](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b&utm_source=github-vansh-ouckah) | Columbus, OH | 3mo |
-| Point72 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah) | **5 locations**New York, NY San Francisco, CA Chicago, IL West Palm Beach, FL Miami, FL | 3mo |
-| Point72 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah) | New York, NY | 3mo |
-| Point72 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah) | New York, NY | 3mo |
 | Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 11d |
 | Susquehanna | [Quantitative Systematic Trading Intern (Master's, Summer 2027)](https://careers.sig.com/jobs/10823) | New York, NY | 11d |
 | Google | [Software Engineering Intern, BS (Summer 2027)](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/) | Mountain View, CA (multiple US) | 12d |
@@ -471,3 +350,124 @@
 | Eulerity | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | New York City, NY | 114d |
 | Notion | [Software Engineer Intern - Fall 2026](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | San Francisco, CA | 115d |
 | Human Computer Lab | [Intern - Software/ML Engineering](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) | San Francisco, CA +1 | 118d |
+| SK Hynix Memory Solution | [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah) | San Jose, CA | 1d |
+| DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
+| DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687?utm_source=github-vansh-ouckah) | Montréal | 1d |
+| DRW | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
+| DRW | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670?utm_source=github-vansh-ouckah) | Chicago, IL New York City, NY | 1d |
+| DRW | [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
+| DRW | [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679?utm_source=github-vansh-ouckah) | Montréal | 1d |
+| DRW | [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
+| Castleton Commodities International | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346?utm_source=github-vansh-ouckah) | Stamford, CT Houston, TX New York City, NY | 1d |
+| Castleton Commodities International | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344?utm_source=github-vansh-ouckah) | Stamford, CT Houston, TX New York City, NY | 1d |
+| Castleton Commodities International | [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350?utm_source=github-vansh-ouckah) | Stamford, CT Houston, TX | 1d |
+| Virtu Financial | [Frontend & User Experience Intern](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=github-vansh-ouckah) | New York, NY | 2d |
+| General Dynamics Information Technology | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity?utm_source=github-vansh-ouckah) | Albany, NY | 2d |
+| Chicago Trading Company | [Software Engineer Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=github-vansh-ouckah) | Chicago, IL | 5d |
+| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=github-vansh-ouckah) | Chicago, IL | 5d |
+| Appian | [Information Security Engineer Intern 🛂](https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah) | McLean, VA | 5d |
+| Virtu Financial | [Software Engineer Intern](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=github-vansh-ouckah) | Austin, TX New York | 6d |
+| Virtu | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=github-vansh-ouckah) | Austin, TX Chicago, IL New York, NY | 6d |
+| Stevens Capital Management | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895?utm_source=github-vansh-ouckah) | Radnor, PA | 6d |
+| Quadrillion Labs | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05?utm_source=github-vansh-ouckah) | New York, NY | 6d |
+| PDT Partners | [Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685?utm_source=github-vansh-ouckah) | New York, NY | 6d |
+| HyperLight | [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/?utm_source=github-vansh-ouckah) | Cambridge, MA | 6d |
+| Appian | [Software Engineering Intern 🛂](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=github-vansh-ouckah) | McLean, VA | 6d |
+| Walleye Capital | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Walleye Capital | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=github-vansh-ouckah) | Miami, FL | 8d |
+| Walleye Capital | [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Walleye Capital | [Risk Technology Analyst Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Radix Trading | [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Palantir Technologies | [Software Engineer Intern, Production Infrastructure](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1?utm_source=github-vansh-ouckah) | Seattle, WA | 8d |
+| Palantir Technologies | [Software Engineer Intern, Infrastructure](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=github-vansh-ouckah) | Washington, D.C. | 8d |
+| Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=github-vansh-ouckah) | Palo Alto, CA | 8d |
+| Old Mission | [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Jane Street | [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8599644002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Windows Engineer Intern](https://www.janestreet.com/join-jane-street/position/8628843002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/position/8621450002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Network Engineer Intern](https://www.janestreet.com/join-jane-street/position/8620793002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Jane Street | [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| IMC | [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| IMC | [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| IMC | [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101?utm_source=github-vansh-ouckah) | Chicago | 8d |
+| Hudson River Trading | [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=&utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Hudson River Trading | [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=&utm_source=github-vansh-ouckah) | Austin, TX Chicago, IL New York, NY | 8d |
+| Google | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027?utm_source=github-vansh-ouckah) | **30 locations**Mountain View, CA Atlanta, GA Austin, TX Boulder, CO Cambridge, MA Bellevue, WA Chicago, IL Houston, TX Irvine, CA Kirkland, WA Los Angeles, CA Madison, WI New York, NY Palo Alto, CA Portland, OR Pittsburgh, PA Raleigh, NC Durham, NC Reston, VA Redmond, WA Redwood City, CA San Diego, CA Goleta, CA San Bruno, CA Seattle, WA San Francisco, CA San Jose, CA Santa Cruz, CA South San Francisco, CA Sunnyvale, CA | 8d |
+| Five Rings | [Software Developer Intern 🇺🇸](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| Deepgram | [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1?utm_source=github-vansh-ouckah) | Remote US | 8d |
+| Appian | [Software Engineering Intern 🛂](https://careers.appian.com/jobs/8041237-software-engineering-intern?utm_source=github-vansh-ouckah) | McLean, VA | 8d |
+| Appian | [Product Manager Intern 🛂](https://careers.appian.com/jobs/8041243-product-manager-intern-?utm_source=github-vansh-ouckah) | McLean, VA | 8d |
+| Akuna Capital | [Quantitative Research Intern 🇺🇸](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614&utm_source=github-vansh-ouckah) | Chicago | 8d |
+| Akuna Capital | [Quantitative Development & Strategy Intern 🇺🇸](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481&utm_source=github-vansh-ouckah) | Chicago | 8d |
+| Akuna Capital | [Software Engineer Intern, C# .NET Desktop](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Akuna Capital | [Software Engineer Intern, Full Stack Web 🇺🇸](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Akuna Capital | [Python Software Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Akuna Capital | [Hardware Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Akuna Capital | [Platform Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018856/?gh_jid=8018856&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Akuna Capital | [Software Engineer Intern, C++ 🇺🇸](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847&utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
+| Jump Trading Group | [Campus UI Software Engineer Intern](https://www.jumptrading.com/hr/job?gh_jid=8003019&utm_source=github-vansh-ouckah) | Chicago, IL | 23d |
+| Jump Trading | [Campus Systems Engineer Intern](https://www.jumptrading.com/hr/job?gh_jid=8007788&utm_source=github-vansh-ouckah) | Chicago, IL | 23d |
+| Jump Trading | [Software Engineer Intern](https://www.jumptrading.com/hr/job?gh_jid=8002989&utm_source=github-vansh-ouckah) | Chicago, IL | 23d |
+| Jump Trading | [Quantitative Trader Intern](https://www.jumptrading.com/hr/job?gh_jid=7848371&utm_source=github-vansh-ouckah) | Chicago, IL New York, NY | 23d |
+| Tower Research | [Quantitative Developer Intern](https://tower-research.com/open-positions/?gh_jid=8044334&utm_source=github-vansh-ouckah) | Chicago, IL New York, NY | 25d |
+| Susquehanna Investment Group | [Quantitative Strategy Developer Intern](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us&utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 25d |
+| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/?utm_source=github-vansh-ouckah) | Chicago, IL | 25d |
+| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/?utm_source=github-vansh-ouckah) | Austin, TX | 25d |
+| IMC | [Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101?utm_source=github-vansh-ouckah) | Chicago, IL | 25d |
+| DE Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=github-vansh-ouckah) | **4 locations**New York, NY Greenwich, CT Miami, FL Houston, TX | 25d |
+| Capital One | [Data Analyst Intern](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah) | Mclean, VA | 25d |
+| Aquatic | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002?utm_source=github-vansh-ouckah) | Chicago, IL | 25d |
+| Anduril | [Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007&utm_source=github-vansh-ouckah) | **6 locations**Atlanta, GA Boston, MA Costa Mesa, CA Irvine, CA Reston, VA Seattle, WA | 25d |
+| Voloridge Investment Management | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803&utm_source=github-vansh-ouckah) | Jupiter, FL | 2mo |
+| Susquehanna | [Trading System Engineering Intern](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088&utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 2mo |
+| Stoke Space | [Software Engineer Intern](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c&utm_source=github-vansh-ouckah) | Kent, WA | 2mo |
+| Etched | [Inference Intern, Architecture](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| Etched | [Firmware Intern](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| Etched | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| Etched | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| Cubist Systematic Strategies | [Quantitative Developer Intern](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002&utm_source=github-vansh-ouckah) | New York, NY | 2mo |
+| Aquatic Capital | [Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002&utm_source=github-vansh-ouckah) | Chicago, IL | 2mo |
+| Apple | [Software Engineer Intern, Undergrad](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?utm_source=github-vansh-ouckah) | United States | 2mo |
+| Apple | [Software Engineering Intern, Masters](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships?utm_source=github-vansh-ouckah) | United States | 2mo |
+| StarSling | [Software Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/95003?utm_source=github-vansh-ouckah) | San Mateo, CA | 2mo |
+| Nash | [Full Stack Engineering Intern 🇺🇸](https://www.workatastartup.com/jobs/94993?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| Trata | [Research Scientist Intern 🇺🇸](https://www.workatastartup.com/jobs/94620?utm_source=github-vansh-ouckah) | San Francisco, CA New York, NY | 2mo |
+| Terranox AI | [Summer Intern - AI/ML Engineering 🇺🇸](https://www.workatastartup.com/jobs/94631?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| Naïve | [Software Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/94647?utm_source=github-vansh-ouckah) | San Francisco, CA Remote | 2mo |
+| Abundant | [Software Engineering Intern, Research Focused 🇺🇸](https://www.workatastartup.com/jobs/94634?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| WSP | [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808?utm_source=github-vansh-ouckah) | Dallas, TX | 2mo |
+| Apex Technology, Inc. | [Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah) | Los Angeles | 2mo |
+| Veeam Software | [Software Engineering Intern, Policy Engineering](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| Veeam Software | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| Paragon | [Forward Deployed Engineer (FDE) Intern 🇺🇸](https://www.workatastartup.com/jobs/93642?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| General Astronautics | [Engineering Intern 🇺🇸](https://www.workatastartup.com/jobs/94206?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| DimeHealth AI | [Forward Deployed Engineering Intern](https://www.workatastartup.com/jobs/94211?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
+| Dedalus Labs | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/94400?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| Amazon | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1&utm_source=github-vansh-ouckah) | **8 locations**Sunnyvale, CA North Reading, MA Westboro, MA Nashville, TN Austin, TX Arlington, VA Bellevue, WA Seattle, WA | 2mo |
+| Homebase | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2?utm_source=github-vansh-ouckah) | Houston, TX San Francisco, CA | 3mo |
+| TikTok | [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517?utm_source=github-vansh-ouckah) | San Jose, CA | 3mo |
+| Al Warren Oil Company | [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/?utm_source=github-vansh-ouckah) | Bensenville, IL | 3mo |
+| H&CO | [Software Development Intern](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507&utm_source=github-vansh-ouckah) | Coral Gables, FL | 3mo |
+| Ether.fi | [GTM Engineer Intern](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb?utm_source=github-vansh-ouckah) | Cayman Denver New York | 3mo |
+| TETRAMEM | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job&utm_source=github-vansh-ouckah) | San Jose, CA | 3mo |
+| Skyworks | [Analog IC Design Co-op](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100&utm_source=github-vansh-ouckah) | Irvine, CA | 3mo |
+| Poshmark | [Cloud Platform Engineer Intern, Growth 🛂](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa?utm_source=github-vansh-ouckah) | Redwood City, CA | 3mo |
+| Intercontinental Exchange, Inc. | [Artificial Intelligence, Data & Machine Learning Intern](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah) | New York, NY | 3mo |
+| Fiserv | [Application Development Intern 🛂](https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6&utm_source=github-vansh-ouckah) | Alpharetta, GA | 3mo |
+| Fiserv | [Technology Intern 🛂](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b&utm_source=github-vansh-ouckah) | Columbus, OH | 3mo |
+| Point72 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah) | **5 locations**New York, NY San Francisco, CA Chicago, IL West Palm Beach, FL Miami, FL | 3mo |
+| Point72 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah) | New York, NY | 3mo |
+| Point72 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah) | New York, NY | 3mo |
