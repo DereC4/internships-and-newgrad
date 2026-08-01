@@ -49,6 +49,27 @@ func convertVanshDate(dateStr string) string {
 	return fmt.Sprintf("%dd", days)
 }
 
+func convertISODate(dateStr string) string {
+	dateStr = strings.TrimSpace(dateStr)
+	if dateStr == "" || dateStr == "-" {
+		return "N/A"
+	}
+
+	parsed, err := time.Parse("2006-01-02", dateStr)
+	if err != nil {
+		return dateStr
+	}
+
+	days := int(time.Since(parsed).Hours() / 24)
+	if days < 0 {
+		days = 0
+	}
+	if days >= 30 {
+		return fmt.Sprintf("%dmo", days/30)
+	}
+	return fmt.Sprintf("%dd", days)
+}
+
 // ageToDays converts relative age strings ("0d", "14d", "1mo") into approximate integer days for chronological sorting.
 // Other formats become 9999 to push them to the bottom of the table.
 func ageToDays(ageStr string) int {
