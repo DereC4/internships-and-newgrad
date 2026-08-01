@@ -1,6 +1,7 @@
 > Star and bookmark this repository if it helps you
  
-![GitHub Repo stars](https://img.shields.io/github/stars/DereC4/internships-and-newgrad?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/DereC4/internships-and-newgrad?style=for-the-badge)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 # About
 
