@@ -1,107 +1,125 @@
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| Melius | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 0d |
-| Heliux | [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1d |
-| Genworth Financial | [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1?utm_source=Simplify&ref=Simplify) | Richmond, VA | 1d |
-| GoDaddy | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=Simplify&ref=Simplify) | Tempe, AZ | 1d |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=Simplify&ref=Simplify) | Anaheim, CA | 2d |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072?utm_source=Simplify&ref=Simplify) | McKinney, TX | 2d |
-| Virtu Financial | [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=Simplify&ref=Simplify) | NYC | 2d |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842?utm_source=Simplify&ref=Simplify) | State College, PA | 3d |
-| Leidos | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 3d |
-| PDT Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685?utm_source=Simplify&ref=Simplify) | NYC | 7d |
-| Quadrillion | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 8d |
-| Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify) | McLean, VA | 8d |
-| Virtu Financial | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=Simplify&ref=Simplify) | Austin, TX NYC | 10d |
-| Axon | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=Simplify&ref=Simplify) | Boston, MA Seattle, WA | 11d |
-| Bloxd | [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK | 11d |
-| Castleton Commodities International | [Front Office Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
-| Castleton Commodities International | [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT | 11d |
-| Western Digital | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213?utm_source=Simplify&ref=Simplify) | 6 locationsFremont, CA Rochester, MN San Jose, CA Irvine, CA Colorado Springs, CO Longmont, CO | 11d |
-| Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
-| Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
-| Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
-| Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
-| Hudson River Trading | [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 18d |
-| Pylon | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application?utm_source=Simplify&ref=Simplify) | SF | 22d |
-| Marshall Wace | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002?utm_source=Simplify&ref=Simplify) | London, UK | 24d |
-| Marshall Wace | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002?utm_source=Simplify&ref=Simplify) | NYC | 25d |
-| CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application?utm_source=Simplify&ref=Simplify) | SF | 27d |
-| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002&utm_source=Simplify&ref=Simplify) | Austin, TX | 30d |
-| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
-| 🔥 Palantir | [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
-| 🔥 Palantir | [Privacy and Civil Liberties Software Engineer Intern](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| SimonComputing | [Software Development Internship](https://simoncomputing.applicantpro.com/jobs/4115690?utm_source=Simplify&ref=Simplify) | Alexandria, VA | 1mo |
-| Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?utm_source=Simplify&ref=Simplify) | 6 locationsBoston, MA Seattle, WA Newport Beach, CA Irvine, CA Reston, VA Atlanta, GA | 1mo |
-| Appian | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify) | McLean, VA | 8d |
-| 🔥 Databricks | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=Simplify&ref=Simplify) | SF Bellevue, WA Mountain View, CA | 15d |
-| FTI Consulting | [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339?utm_source=Simplify&ref=Simplify) | 7 locationsHouston, TX Washington, DC SF LA Chicago, IL NYC Atlanta, GA | 5d |
-| FTI Consulting | [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1?utm_source=Simplify&ref=Simplify) | 7 locationsHouston, TX Washington, DC SF LA Chicago, IL NYC Atlanta, GA | 5d |
-| Conagra Brands | [Demand Science Rotational Analyst](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Demand-Science-Rotational-Analyst---Summer-2027_Req-039400?utm_source=Simplify&ref=Simplify) | Chicago, IL | 5d |
-| G-Research | [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
-| G-Research | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
-| G-Research | [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
-| Castleton Commodities International | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT | 11d |
-| Castleton Commodities International | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT NYC | 11d |
-| Castleton Commodities International | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
-| Castleton Commodities International | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
-| Motorola | [Data Analyst Co-op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918?utm_source=Simplify&ref=Simplify) | Remote in Canada | 17d |
-| AlixPartners | [Data Scientist Intern 🎓](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify) | NYC | 25d |
-| IMC Trading | [Machine Learning Research Intern 🎓](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101?utm_source=Simplify&ref=Simplify) | London, UK | 25d |
-| Wells Fargo | [Corporate Risk Development Program Intern - Core Risk - Early Careers](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Corporate-Risk-Development-Program-Summer-Internship--Core-Risk----Early-Careers_R-556123?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 25d |
-| IMC Trading | [Machine Learning Research Intern 🎓](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
-| Walleye Capital | [Risk Technology Analyst Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Walleye Capital | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Susquehanna International Group (SIG) | [Electricity + Natural Gas Analyst Intern](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ardmore, PA | 1mo |
-| Maven Securities | [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
-| Susquehanna International Group (SIG) | [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | United States | 2d |
-| University of Virginia Investment Management Company (UVIMCO) | [Investment Analyst Intern](https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify) | Charlottesville, VA | 2d |
-| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007&utm_source=Simplify&ref=Simplify) | Miami, FL | 7d |
-| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007&utm_source=Simplify&ref=Simplify) | Chicago, IL | 7d |
-| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007&utm_source=Simplify&ref=Simplify) | Miami, FL Chicago, IL NYC | 7d |
-| Northwestern Mutual | [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705?utm_source=Simplify&ref=Simplify) | Milwaukee, WI | 8d |
-| Anthelion Capital | [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 8d |
-| Optiver | [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002?utm_source=Simplify&ref=Simplify) | Chicago, IL | 8d |
-| G-Research | [Quantitative Research Internship 🎓](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
-| Virtu Financial | [Quantitative Researcher Internship 🎓](https://job-boards.greenhouse.io/virtu/jobs/8624424002?utm_source=Simplify&ref=Simplify) | NYC | 9d |
-| Virtu Financial | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 10d |
-| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005?utm_source=Simplify&ref=Simplify) | London, UK | 10d |
-| AQR Capital Management | [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 10d |
-| Castleton Commodities International | [Commodities Trading Analyst Internship](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT | 11d |
-| Castleton Commodities International | [Commodities Trading Analyst Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
-| Prudential Financial | [Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2?utm_source=Simplify&ref=Simplify) | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | 13d |
-| PGIM | [Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634?utm_source=Simplify&ref=Simplify) | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | 13d |
-| Prudential Financial | [Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1?utm_source=Simplify&ref=Simplify) | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | 15d |
-| PGIM | [Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649?utm_source=Simplify&ref=Simplify) | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | 15d |
-| Susquehanna International Group (SIG) | [Quantitative Trading Internship](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK | 16d |
-| Susquehanna International Group (SIG) | [Quantitative Research Intern 🎓](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK | 16d |
-| Susquehanna International Group (SIG) | [Quantitative Systematic Trading Intern 🎓](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK | 16d |
-| Voloridge | [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009?utm_source=Simplify&ref=Simplify) | Jupiter, FL | 17d |
-| Hudson River Trading | [Algorithm Development Intern - Quant Research 🎓](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837&utm_source=Simplify&ref=Simplify) | NYC | 18d |
-| DRW | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243?utm_source=Simplify&ref=Simplify) | London, UK | 18d |
-| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505?utm_source=Simplify&ref=Simplify) | Boston, MA | 22d |
-| Jump Trading | [Campus Quantitative Researcher Intern - PhD 🎓](https://boards.greenhouse.io/embed/job_app?token=8049938&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 23d |
-| Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166?utm_source=Simplify&ref=Simplify) | NYC | 23d |
-| Susquehanna International Group (SIG) | [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 26d |
-| Tower Research Capital | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 26d |
-| Blackstone | [Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819?utm_source=Simplify&ref=Simplify) | London, UK | 29d |
-| IMC Trading | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
-| IMC Trading | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
-| Optiver | [Quantitative Research Intern 🎓](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002&utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 30d |
-| Optiver | [Quantitative Research Intern 🎓](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
-| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002&utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL | 30d |
-| Susquehanna International Group (SIG) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Susquehanna International Group (SIG) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
-| Susquehanna International Group (SIG) | [Quantitative Systematic Trading Intern 🎓](https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA NYC | 1mo |
-| Susquehanna International Group (SIG) | [Quantitative Research Intern 🎓](https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA NYC | 1mo |
-| Virtu Financial | [Quantitative Research Intern - Quant Research - Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Walleye Capital | [Volatility Trading Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Walleye Capital | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
-| Walleye Capital | [PhD Quantitative Researcher Intern 🎓](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
-| Walleye Capital | [Quantic – Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
-| Walleye Capital | [Central Equity Quant Research Intern - Ceqr](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Walleye Capital | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=Simplify&ref=Simplify) | Miami, FL | 1mo |
-| TransMarket Group | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 11d |
+| Susquehanna | [Quantitative Systematic Trading Intern (Master's, Summer 2027)](https://careers.sig.com/jobs/10823) | New York, NY | 11d |
+| Google | [Software Engineering Intern, BS (Summer 2027)](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/) | Mountain View, CA (multiple US) | 12d |
+| Uber | [Software Engineering Intern (Summer 2027, Uber Career Prep)](https://jobs.uber.com/en/jobs/300697/) | San Francisco, CA / Seattle, WA / Sunnyvale, CA | 12d |
+| Western Digital | [Software Engineering Intern (Summer 2027)](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) | San Jose, CA | 12d |
+| Chicago Trading Company | [Quant Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | 12d |
+| Kearney & Company | [IT Audit Intern (Summer 2027) 🇺🇸](https://careers.kearneyco.com/jobs/5168) | Alexandria, VA (remote) | 12d |
+| Second Order Effects | [Electrical Engineering Intern (Summer 2027)](https://jobs.gem.com/soeffects/am9icG9zdDqLIuZagE8SU-HqhGf7TGYo) | El Segundo, CA / Redmond, WA | 13d |
+| The Trade Desk | [Software Engineering Intern (North America, Summer 2027)](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Denver, CO (multiple US) | 16d |
+| Netic | [Software Engineer Intern, Agent Platform / Full Stack (2026-2027)](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | San Francisco, CA | 16d |
+| Databricks | [Product Management Intern (Summer 2027)](https://job-boards.greenhouse.io/databricks/jobs/6883068002) | San Francisco, CA | 16d |
+| Neuralink | [Software Engineer Intern, BCI Applications](https://job-boards.greenhouse.io/neuralink/jobs/6594422003) | Fremont, CA | 16d |
+| Western Digital | [Software Engineering Co-op (Winter 2027)](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | Milpitas, CA | 16d |
+| Point72 | [Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/point72/jobs/7297642002) | New York, NY | 16d |
+| Capital One | [Product Development Internship Program (Summer 2027)](https://www.capitalonecareers.com/job/-/-/234/97421687312) | McLean, VA / Plano, TX | 16d |
+| Solar Turbines (Caterpillar) | [IT Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | San Diego, CA | 16d |
+| Solar Turbines (Caterpillar) | [Business Analyst Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) | San Diego, CA | 16d |
+| Unison (GE Aerospace) | [Engineering Intern (Summer 2027) 🛂 🇺🇸](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) | Jacksonville, FL | 16d |
+| Five Rings | [Software Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York, NY | 17d |
+| Five Rings | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York, NY | 17d |
+| Old Mission | [Software Engineer Intern (Summer 2027, June Start)](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) | Chicago, IL | 17d |
+| Akuna Capital | [Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)](https://akunacapital.com/careers/job/8018847/) | Chicago, IL | 18d |
+| Hudson River Trading | [Software Engineering Intern (Summer 2027, C++ / Python)](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) | New York, NY (multiple) | 18d |
+| BAE Systems | [Software Engineering Intern I (Summer 2027) 🇺🇸](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) | Nashua, NH | 18d |
+| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 23d |
+| Arrowstreet Capital | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Boston, MA | 23d |
+| Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | New York, NY | 23d |
+| Palantir | [Software Engineer Intern](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | New York, NY (multiple US) | 23d |
+| Palantir | [Software Engineer Intern, Infrastructure](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | New York, NY (multiple US) | 23d |
+| Palantir | [Software Engineer Intern, Production Infrastructure](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | New York, NY (multiple US) | 23d |
+| Palantir | [Software Engineer Intern, Defense Tech](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | Washington, DC (multiple US) | 23d |
+| Palantir | [Forward Deployed Software Engineer Intern, Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | New York, NY (multiple US) | 23d |
+| Palantir | [Year at Palantir, Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | New York, NY (multiple US) | 23d |
+| LA-Tech.org | [Technical Intern, Software / Cyber / AI (Spring 2027, remote)](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) | Los Angeles, CA / Remote (US) | 23d |
+| JPMorganChase | [Corporate Analyst Development Program Summer Analyst 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) | New York, NY (multiple US) | 24d |
+| DTCC | [Information Technology Intern (2027 Summer) 🛂](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | Jersey City, NJ (multiple US) | 24d |
+| Two Sigma | [AI Research Scientist Intern (MS / PhD)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022) | New York, NY | 24d |
+| Tower Research Capital | [Quantitative Trader Intern](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128) | New York, NY / Chicago, IL | 26d |
+| Tower Research Capital | [Quantitative Developer Intern](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334) | New York, NY / Chicago, IL | 26d |
+| Optiver | [Quantitative Research Intern (PhD, Austin)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/) | Austin, TX | 1mo |
+| Optiver | [Quantitative Research Intern (PhD, Chicago)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/) | Chicago, IL | 1mo |
+| Two Sigma | [Quantitative Researcher Intern](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | New York, NY | 1mo |
+| Optiver | [Software Engineer Intern (Austin)](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | Austin, TX | 1mo |
+| Optiver | [Software Engineer Intern (Chicago)](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | Chicago, IL | 1mo |
+| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) | Chicago, IL | 1mo |
+| IMC Trading | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Chicago, IL | 1mo |
+| IMC Trading | [Quantitative Research Intern (BS / MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | 1mo |
+| IMC Trading | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago, IL | 1mo |
+| IMC Trading | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Chicago, IL | 1mo |
+| IMC Trading | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | 1mo |
+| Bank of America | [Global Technology Summer Analyst, Cybersecurity Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations) | multiple US | 1mo |
+| Bank of America | [Global Technology Summer Analyst, Business Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | multiple US | 1mo |
+| Bank of America | [Quantitative Data Analyst Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | multiple US | 1mo |
+| Susquehanna | [Operations Intern](https://careers.sig.com/jobs/10916) | Bala Cynwyd, PA | 1mo |
+| GE Appliances | [Software Engineering Co-op (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | Louisville, KY | 1mo |
+| Dedalus Labs | [Systems Engineer / Product Manager Intern (Summer 2027)](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) | San Francisco, CA | 1mo |
+| ByteDance | [Student Researcher, Multimodal Interaction & World Model (Seed)](https://joinbytedance.com/search/7623548747208739077) | San Jose, CA | 1mo |
+| ByteDance | [Student Researcher, Vision Foundation Model (Seed)](https://joinbytedance.com/search/7623544831999346997) | San Jose, CA | 1mo |
+| Rippling | [Software Engineer Intern, Backend / Full Stack / ML (Winter 2027)](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | San Francisco, CA / New York, NY / Seattle, WA | 1mo |
+| CTGT | [Software Engineering Intern / Research Intern, Interpretability (Summer 2027)](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | San Francisco, CA | 1mo |
+| Virtu Financial | [Quant Research Intern (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York, NY | 1mo |
+| Medpace | [Feasibility Informatics Intern / Co-op (Spring 2027)](https://careers.medpace.com/jobs/12803) | Cincinnati, OH | 1mo |
+| Amazon | [Operations Finance Rotational Program Intern 🛂](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | Seattle, WA / Arlington, VA | 1mo |
+| Delta Air Lines | [Reservations Co-op (Spring 2027, data analytics / process improvement)](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | Atlanta, GA | 1mo |
+| Midmark | [Firmware Engineering Co-op (Spring 2027)](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Versailles, OH | 1mo |
+| JPMorganChase | [Markets Summer Analyst (Sales / Trading / Structuring / Digital Markets) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | New York, NY (multiple US) | 1mo |
+| JPMorganChase | [Commercial & Investment Bank Innovation Development Summer Analyst, Product Track 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690743) | Chicago, IL (multiple US) | 1mo |
+| Affinius Capital | [Data Scientist Intern](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | San Antonio, TX | 1mo |
+| Circleback | [Software Engineering Intern (Summer 2027) 🛂](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | San Francisco, CA | 1mo |
+| StepStone Group | [Private Equity Infrastructure & Real Assets Summer Analyst 🛂](https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872890) | New York, NY | 1mo |
+| Voloridge Investment Management | [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | 1mo |
+| Voloridge Investment Management | [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | 1mo |
+| GE Aerospace | [Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) | Cincinnati, OH / Lynn, MA | 1mo |
+| Solar Turbines (Caterpillar) | [Gas Compressor Data Analyst Intern 🛂](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | San Diego, CA | 1mo |
+| Anduril | [Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | Costa Mesa, CA (multiple US) | 1mo |
+| TSMC Arizona | [Engineering Intern (12 roles: process, equipment, CIM / software)](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) | Phoenix, AZ | 1mo |
+| GE Appliances | [Digital Technology Intern (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) | Louisville, KY | 2mo |
+| Skydio | [Software Engineer Intern (Fall 2026 / Winter 2027)](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) | San Mateo, CA | 2mo |
+| Stoke Space | [Software Engineer Intern 🇺🇸](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | Kent, WA | 2mo |
+| D. E. Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY | 3mo |
+| D. E. Shaw | [Quantitative Analyst Intern](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY | 3mo |
+| D. E. Shaw | [Quantitative Analyst Intern (PhD)](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY | 3mo |
+| TikTok | [Research Scientist Intern, TikTok Recommendation NextGen LLM (PhD)](https://lifeattiktok.com/search/7633668061979543813) | San Jose, CA | 3mo |
+| TikTok | [Applied Scientist Intern, Trust & Safety Multimodal Foundation Model (PhD)](https://lifeattiktok.com/search/7633668456744503557) | San Jose, CA / Seattle, WA | 3mo |
+| ASM | [Software Engineering Intern (Spring 2027)](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) |  | 3mo |
+| TikTok | [Applied Scientist Intern, Business Integrity (PhD)](https://lifeattiktok.com/search/7631063087262419205) | San Jose, CA | 3mo |
+| TikTok | [Applied Scientist Intern, Monetization GenAI (PhD)](https://lifeattiktok.com/search/7631062649025857797) | San Jose, CA | 3mo |
+| TikTok | [Applied Scientist Intern, Monetization Technology (PhD)](https://lifeattiktok.com/search/7629248119245261061) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist Intern, E-commerce Recommendation LLM (PhD)](https://lifeattiktok.com/search/7629187524074342709) | San Jose, CA / Seattle, WA | 3mo |
+| Citi | [Services Summer Analyst 🛂](https://jobs.citi.com/job/-/-/287/93724104768) | New York, NY | 3mo |
+| Aquatic Capital | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | Chicago, IL | 4mo |
+| Aquatic Capital | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | Chicago, IL | 4mo |
+| Ellipsis Labs | [Software Engineer Intern](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | New York, NY | 4mo |
+| BlackRock | [Summer Internship Program, AMERS (all tracks)](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | New York, NY (multiple US) | 6mo |
+| JPMorganChase | [Asset & Wealth Management Risk Summer Analyst 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | Columbus, OH (multiple US) | 6mo |
+| D. E. Shaw | [Systems Engineering Intern](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) | New York, NY | N/A |
+| Citi | [Markets Quantitative Analysis Summer Analyst](https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472) | New York, NY | N/A |
+| Los Alamos National Laboratory | [Computing & AI Division Undergraduate Student (CS / Math / Stats) 🇺🇸](https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e) | Los Alamos, NM | N/A |
+| Susquehanna | [Macro Analyst Intern 🛂](https://careers.sig.com/jobs/10725) | New York, NY | N/A |
+| Baird | [Equity Research Analyst Intern 🛂](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | Milwaukee, WI | N/A |
+| LufCo | [Summer Intern (CS / Software / Engineering) 🇺🇸](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | Aberdeen, MD | N/A |
+| CloudFit Software | [Summer Intern, Early Interest (Software / AI/ML / Cyber) 🇺🇸](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) | Lynchburg, VA | N/A |
+| Susquehanna | [Quantitative Strategy Developer Intern](https://careers.sig.com/jobs/10838) | Bala Cynwyd, PA | N/A |
+| BNP Paribas | [Summer Analyst, Global Markets Sales](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | Boston, MA | N/A |
+| BNP Paribas | [Summer Analyst, Corporate Functions Operations](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) | Jersey City, NJ | N/A |
+| Epic | [Software Developer Intern](https://careers.epic.com/jobs/intern/) | Verona, WI | N/A |
+| Wipfli | [ERP Tech Consulting Intern](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | Milwaukee, WI (multiple US) | N/A |
+| Cargill | [Operations Management Intern](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | Minneapolis, MN (multiple US) | N/A |
+| Podium | [Software Engineering Intern](https://job-boards.greenhouse.io/podium81/jobs/7939921) | Lehi, UT | N/A |
+| Walleye Capital | [Quant Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | N/A |
+| Susquehanna | [Trading System Engineering Intern 🇺🇸](https://careers.sig.com/jobs/10837) | Bala Cynwyd, PA | N/A |
+| Kudu Dynamics | [Software Engineer Intern (1) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | Chantilly, VA | N/A |
+| Kudu Dynamics | [Software Engineer Intern (2) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | Chantilly, VA | N/A |
+| Kudu Dynamics | [Software Engineer Intern (3) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | Chantilly, VA | N/A |
+| Cubist Systematic Strategies | [Quantitative Developer Intern](https://job-boards.greenhouse.io/point72/jobs/7297613002) | New York, NY | N/A |
+| Nash | [Full Stack Engineering Intern 🇺🇸](https://www.workatastartup.com/jobs/94993) | San Francisco, CA | N/A |
+| Trata | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | San Francisco, CA / New York, NY | N/A |
+| Naive | [Software Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/94647) | San Francisco, CA / Remote (US) | N/A |
+| Paragon | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | N/A |
+| DimeHealth AI | [Forward Deployed Engineering Intern](https://www.workatastartup.com/jobs/94211) | New York, NY | N/A |
 | SK Hynix Memory Solution | [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah) | San Jose, CA | 1d |
 | DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah) | Chicago, IL | 1d |
 | DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687?utm_source=github-vansh-ouckah) | Montréal | 1d |
@@ -359,3 +377,99 @@
 | Eulerity | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | New York City, NY | 114d |
 | Notion | [Software Engineer Intern - Fall 2026](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | San Francisco, CA | 115d |
 | Human Computer Lab | [Intern - Software/ML Engineering](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) | San Francisco, CA +1 | 118d |
+| Melius | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 0d |
+| Heliux | [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1d |
+| Genworth Financial | [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1?utm_source=Simplify&ref=Simplify) | Richmond, VA | 1d |
+| GoDaddy | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=Simplify&ref=Simplify) | Tempe, AZ | 1d |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=Simplify&ref=Simplify) | Anaheim, CA | 2d |
+| Virtu Financial | [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=Simplify&ref=Simplify) | NYC | 2d |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842?utm_source=Simplify&ref=Simplify) | State College, PA | 3d |
+| PDT Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685?utm_source=Simplify&ref=Simplify) | NYC | 7d |
+| Quadrillion | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 8d |
+| Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify) | McLean, VA | 8d |
+| Virtu Financial | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=Simplify&ref=Simplify) | Austin, TX NYC | 10d |
+| Axon | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=Simplify&ref=Simplify) | Boston, MA Seattle, WA | 11d |
+| Bloxd | [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK | 11d |
+| Castleton Commodities International | [Front Office Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
+| Castleton Commodities International | [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT | 11d |
+| Western Digital | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213?utm_source=Simplify&ref=Simplify) | 6 locationsFremont, CA Rochester, MN San Jose, CA Irvine, CA Colorado Springs, CO Longmont, CO | 11d |
+| Cybernetic Labs | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
+| Cybernetic Labs | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
+| Cybernetic Labs | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 16d |
+| Circleback | [Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 17d |
+| Hudson River Trading | [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 18d |
+| Pylon | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application?utm_source=Simplify&ref=Simplify) | SF | 22d |
+| Marshall Wace | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002?utm_source=Simplify&ref=Simplify) | London, UK | 24d |
+| Marshall Wace | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002?utm_source=Simplify&ref=Simplify) | NYC | 25d |
+| CTGT | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application?utm_source=Simplify&ref=Simplify) | SF | 27d |
+| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002&utm_source=Simplify&ref=Simplify) | Austin, TX | 30d |
+| Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
+| 🔥 Palantir | [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| 🔥 Palantir | [Privacy and Civil Liberties Software Engineer Intern](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| SimonComputing | [Software Development Internship](https://simoncomputing.applicantpro.com/jobs/4115690?utm_source=Simplify&ref=Simplify) | Alexandria, VA | 1mo |
+| Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?utm_source=Simplify&ref=Simplify) | 6 locationsBoston, MA Seattle, WA Newport Beach, CA Irvine, CA Reston, VA Atlanta, GA | 1mo |
+| Appian | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify) | McLean, VA | 8d |
+| 🔥 Databricks | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=Simplify&ref=Simplify) | SF Bellevue, WA Mountain View, CA | 15d |
+| FTI Consulting | [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339?utm_source=Simplify&ref=Simplify) | 7 locationsHouston, TX Washington, DC SF LA Chicago, IL NYC Atlanta, GA | 5d |
+| FTI Consulting | [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1?utm_source=Simplify&ref=Simplify) | 7 locationsHouston, TX Washington, DC SF LA Chicago, IL NYC Atlanta, GA | 5d |
+| Conagra Brands | [Demand Science Rotational Analyst](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Demand-Science-Rotational-Analyst---Summer-2027_Req-039400?utm_source=Simplify&ref=Simplify) | Chicago, IL | 5d |
+| G-Research | [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
+| G-Research | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
+| G-Research | [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
+| Castleton Commodities International | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT NYC | 11d |
+| Castleton Commodities International | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
+| Castleton Commodities International | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
+| AlixPartners | [Data Scientist Intern 🎓](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify) | NYC | 25d |
+| IMC Trading | [Machine Learning Research Intern 🎓](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101?utm_source=Simplify&ref=Simplify) | London, UK | 25d |
+| IMC Trading | [Machine Learning Research Intern 🎓](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
+| Walleye Capital | [Risk Technology Analyst Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Walleye Capital | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Susquehanna International Group (SIG) | [Electricity + Natural Gas Analyst Intern](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ardmore, PA | 1mo |
+| Maven Securities | [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
+| Susquehanna International Group (SIG) | [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | United States | 2d |
+| University of Virginia Investment Management Company (UVIMCO) | [Investment Analyst Intern](https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify) | Charlottesville, VA | 2d |
+| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007&utm_source=Simplify&ref=Simplify) | Miami, FL | 7d |
+| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007&utm_source=Simplify&ref=Simplify) | Chicago, IL | 7d |
+| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007&utm_source=Simplify&ref=Simplify) | Miami, FL Chicago, IL NYC | 7d |
+| Northwestern Mutual | [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705?utm_source=Simplify&ref=Simplify) | Milwaukee, WI | 8d |
+| Anthelion Capital | [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 8d |
+| Optiver | [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002?utm_source=Simplify&ref=Simplify) | Chicago, IL | 8d |
+| G-Research | [Quantitative Research Internship 🎓](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691?utm_source=Simplify&ref=Simplify) | London, UK | 9d |
+| Virtu Financial | [Quantitative Researcher Internship 🎓](https://job-boards.greenhouse.io/virtu/jobs/8624424002?utm_source=Simplify&ref=Simplify) | NYC | 9d |
+| Virtu Financial | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 10d |
+| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005?utm_source=Simplify&ref=Simplify) | London, UK | 10d |
+| AQR Capital Management | [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 10d |
+| Castleton Commodities International | [Commodities Trading Analyst Internship](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1?utm_source=Simplify&ref=Simplify) | Houston, TX Stamford, CT | 11d |
+| Castleton Commodities International | [Commodities Trading Analyst Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1?utm_source=Simplify&ref=Simplify) | London, UK | 11d |
+| Prudential Financial | [Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634-2?utm_source=Simplify&ref=Simplify) | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | 13d |
+| PGIM | [Real Estate Equity Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Summer-Investment-Analyst-Program_R-124634?utm_source=Simplify&ref=Simplify) | 5 locationsSF Newark, NJ Chicago, IL NYC Atlanta, GA | 13d |
+| Prudential Financial | [Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649-1?utm_source=Simplify&ref=Simplify) | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | 15d |
+| PGIM | [Private Credit – Investment Analyst Program](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649?utm_source=Simplify&ref=Simplify) | 8 locationsSF LA Dallas, TX Newark, NJ Chicago, IL NYC Minneapolis, MN Atlanta, GA | 15d |
+| Susquehanna International Group (SIG) | [Quantitative Trading Internship](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK | 16d |
+| Susquehanna International Group (SIG) | [Quantitative Research Intern 🎓](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK | 16d |
+| Voloridge | [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009?utm_source=Simplify&ref=Simplify) | Jupiter, FL | 17d |
+| Hudson River Trading | [Algorithm Development Intern - Quant Research 🎓](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837&utm_source=Simplify&ref=Simplify) | NYC | 18d |
+| DRW | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243?utm_source=Simplify&ref=Simplify) | London, UK | 18d |
+| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505?utm_source=Simplify&ref=Simplify) | Boston, MA | 22d |
+| Jump Trading | [Campus Quantitative Researcher Intern - PhD 🎓](https://boards.greenhouse.io/embed/job_app?token=8049938&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 23d |
+| Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166?utm_source=Simplify&ref=Simplify) | NYC | 23d |
+| Susquehanna International Group (SIG) | [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 26d |
+| Tower Research Capital | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 26d |
+| Blackstone | [Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819?utm_source=Simplify&ref=Simplify) | London, UK | 30d |
+| IMC Trading | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
+| IMC Trading | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
+| Optiver | [Quantitative Research Intern 🎓](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002&utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 30d |
+| Optiver | [Quantitative Research Intern 🎓](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 30d |
+| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002&utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL | 30d |
+| Susquehanna International Group (SIG) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Susquehanna International Group (SIG) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Susquehanna International Group (SIG) | [Quantitative Systematic Trading Intern 🎓](https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA NYC | 1mo |
+| Susquehanna International Group (SIG) | [Quantitative Research Intern 🎓](https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA NYC | 1mo |
+| Virtu Financial | [Quantitative Research Intern - Quant Research - Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Walleye Capital | [Volatility Trading Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Walleye Capital | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
+| Walleye Capital | [PhD Quantitative Researcher Intern 🎓](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
+| Walleye Capital | [Quantic – Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
+| Walleye Capital | [Central Equity Quant Research Intern - Ceqr](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Walleye Capital | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=Simplify&ref=Simplify) | Miami, FL | 1mo |
+| TransMarket Group | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
