@@ -45,6 +45,7 @@ func main() {
 		"https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/refs/heads/dev/README.md",
 		"https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/sndsh404/summer-2027-internships/refs/heads/main/README.md",
+		"https://raw.githubusercontent.com/zapplyjobs/Internships-2027/refs/heads/main/README.md",
 	}
 
 	resultsChannel := make(chan string)
@@ -89,6 +90,8 @@ func main() {
 			jobs := parseSandesh(results)
 			fmt.Printf("-> Found %d active jobs in sndsh404 Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
+		} else {
+			fmt.Println("[WARN] URL with no available parser found for " + fetchedURL)
 		}
 	}
 
