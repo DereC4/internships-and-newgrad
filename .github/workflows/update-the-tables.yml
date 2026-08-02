@@ -44,6 +44,6 @@ jobs:
         - name: Commit and push
           run: |
             git config --global user.name "guai guai[bot]"
-            git config --global user.email "derexh2so4@utexas.edu"
+            git config --global user.email "derekyujirchen@gmail.com"
             git add -A
             git diff --quiet && git diff --staged --quiet || (git commit -m "Update README tables [skip ci]" && git push)
