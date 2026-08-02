@@ -1,0 +1,38 @@
+name: Update the tables
+
+# these are the listeners
+# this action will run with workflow_dispatch meaning we can manually trigger it
+# or we can trigger it every few hours using cron syntax
+on:
+  schedule:
+    # ┌───────────── minute (0 - 59)
+    # │ ┌───────────── hour (0 - 23)
+    # │ │ ┌───────────── day of the month (1 - 31)
+    # │ │ │ ┌───────────── month (1 - 12)
+    # │ │ │ │ ┌───────────── day of the week (0 - 6) (Sunday to Saturday)
+    # │ │ │ │ │
+    # │ │ │ │ │
+    # * * * * *
+    - cron: '6,7 */2 * * *'
+  workflow_dispatch:   
+
+# summary is the unique id of the job
+# runs-on makes a new linux vm to run the job
+# permissions self explanatory
+# machine has to check out the repo first
+jobs:
+  execute:
+      runs-on: ubuntu-latest
+
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v4
+
+        - name: Set up Go
+          uses: actions/setup-go@v5
+          with:
+            go-version: 'stable' 
+
+        - name: Run Go script
+          working-directory: ./go
+          run: go run .
