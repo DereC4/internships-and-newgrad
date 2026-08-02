@@ -24,6 +24,9 @@ jobs:
   execute:
       runs-on: ubuntu-latest
 
+      permissions:
+        contents: write
+
       steps:
         - name: Checkout repository
           uses: actions/checkout@v4
@@ -36,3 +39,11 @@ jobs:
         - name: Run Go script
           working-directory: ./go
           run: go run .
+
+          # Only commit and push if there are actual changes to avoid failing the job
+        - name: Commit and push
+          run: |
+            git config --global user.name "guai guai[bot]"
+            git config --global user.email "derexh2so4@utexas.edu"
+            git add -A
+            git diff --quiet && git diff --staged --quiet || (git commit -m "Update README tables [skip ci]" && git push)
