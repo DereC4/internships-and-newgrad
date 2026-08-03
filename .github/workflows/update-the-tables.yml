@@ -46,23 +46,4 @@ jobs:
             git config --global user.name "guai guai[bot]"
             git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A
-            if ! git diff --staged --quiet; then
-              LAST_MSG=$(git log -1 --pretty=%s)
-
-              # Check if the last commit was a table update automation
-              if [[ "$LAST_MSG" == "Update README tables"* ]]; then
-                # Extract the number inside (#X), defaulting to 2 if no number was present
-                if [[ "$LAST_MSG" =~ \(#([0-9]+)\) ]]; then
-                  COUNT=$((${BASH_REMATCH[1]} + 1))
-                else
-                  COUNT=2
-                fi
-
-                git commit --amend -m "Update README tables (#${COUNT}) [skip ci]"
-                git push --force-with-lease
-              else
-                # start at 1 if a fresh new chain is starting
-                git commit -m "Update README tables (#1) [skip ci]"
-                git push
-              fi
-            fi
+            git diff --quiet && git diff --staged --quiet || (git commit -m "Update README tables [skip ci]" && git push)
