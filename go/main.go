@@ -91,7 +91,7 @@ func main() {
 			totalJobs = append(totalJobs, jobs...)
 		} else if strings.Contains(fetchedURL, "zapplyjobs") {
 			fmt.Println("Processing zapplyjobs Repo...")
-			jobs := parseSandesh(results)
+			jobs := parseZapply(results)
 			fmt.Printf("-> Found %d active jobs in zapplyjobs Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
 		} else {
