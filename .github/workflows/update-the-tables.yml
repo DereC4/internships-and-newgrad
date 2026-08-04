@@ -33,23 +33,26 @@ jobs:
           run: |
             git config --global user.name "guai guai[bot]"
             git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+            git pull --rebase --autostash
+
             git add -A
 
             if ! git diff --staged --quiet; then
-              LAST_MSG=$(git log -1 --pretty=%s)
+              LAST_TITLE=$(git log -1 --pretty=%s)
+              LAST_BODY=$(git log -1 --pretty=%b)
 
-              if [[ "$LAST_MSG" == "Update README tables"* ]]; then
-                
-                if [[ "$LAST_MSG" =~ \#([0-9]+) ]]; then
+              if [ "$LAST_TITLE" = "Update README tables [skip ci]" ]; then
+                if [[ "$LAST_BODY" =~ \#([0-9]+) ]]; then
                   COUNT=$((${BASH_REMATCH[1]} + 1))
                 else
-                  COUNT=1
+                  COUNT=2
                 fi
 
-                git commit --amend -m "Update README tables #${COUNT} [skip ci]"
+                git commit --amend -m "Update README tables [skip ci]" -m "Updated README #${COUNT}"
                 git push --force-with-lease
               else
-                git commit -m "Update README tables [skip ci]"
+                git commit -m "Update README tables [skip ci]" -m "Updated README #1"
                 git push
               fi
             fi
