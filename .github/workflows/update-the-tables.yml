@@ -1,25 +1,10 @@
 name: Update the tables
 
-# these are the listeners
-# this action will run with workflow_dispatch meaning we can manually trigger it
-# or we can trigger it every few hours using cron syntax
 on:
   schedule:
-    # ┌───────────── minute (0 - 59)
-    # │ ┌───────────── hour (0 - 23)
-    # │ │ ┌───────────── day of the month (1 - 31)
-    # │ │ │ ┌───────────── month (1 - 12)
-    # │ │ │ │ ┌───────────── day of the week (0 - 6) (Sunday to Saturday)
-    # │ │ │ │ │
-    # │ │ │ │ │
-    # * * * * *
     - cron: '6,7 */2 * * *'
   workflow_dispatch:   
 
-# summary is the unique id of the job
-# runs-on makes a new linux vm to run the job
-# permissions self explanatory
-# machine has to check out the repo first
 jobs:
   execute:
       runs-on: ubuntu-latest
@@ -30,6 +15,8 @@ jobs:
       steps:
         - name: Checkout repository
           uses: actions/checkout@v4
+          with:
+            fetch-depth: 2  
 
         - name: Set up Go
           uses: actions/setup-go@v5
@@ -41,9 +28,31 @@ jobs:
           run: go run .
 
           # Only commit and push if there are actual changes to avoid failing the job
+          # merge the old ones so we dont clutter the logs
         - name: Commit and push
           run: |
             git config --global user.name "guai guai[bot]"
             git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+            git pull --rebase --autostash
+
             git add -A
-            git diff --quiet && git diff --staged --quiet || (git commit -m "Update README tables [skip ci]" && git push)
+
+            if ! git diff --staged --quiet; then
+              LAST_TITLE=$(git log -1 --pretty=%s)
+              LAST_BODY=$(git log -1 --pretty=%b)
+
+              if [ "$LAST_TITLE" = "Update README tables [skip ci]" ]; then
+                if [[ "$LAST_BODY" =~ \#([0-9]+) ]]; then
+                  COUNT=$((${BASH_REMATCH[1]} + 1))
+                else
+                  COUNT=2
+                fi
+
+                git commit --amend -m "Update README tables [skip ci]" -m "Updated README #${COUNT}"
+                git push --force-with-lease
+              else
+                git commit -m "Update README tables [skip ci]" -m "Updated README #1"
+                git push
+              fi
+            fi
