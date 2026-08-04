@@ -2,7 +2,7 @@ name: Update the tables
 
 on:
   schedule:
-    - cron: '6,7 */2 * * *'
+    - cron: '6,37 * * * *'
   workflow_dispatch:   
 
 jobs:
