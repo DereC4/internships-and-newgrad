@@ -52,7 +52,7 @@ jobs:
 
               if [[ "$LAST_MSG" == "Update README tables"* ]]; then
                 
-                if [[ "$LAST_MSG" =~ #([0-9]+) ]]; then
+                if [[ "$LAST_MSG" =~ \#([0-9]+) ]]; then
                   COUNT=$((${BASH_REMATCH[1]} + 1))
                 else
                   COUNT=1
