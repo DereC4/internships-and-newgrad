@@ -289,137 +289,6 @@
 | Naive | [Software Engineer Intern 🇺🇸 ⏳](https://www.workatastartup.com/jobs/94647) | San Francisco, CA / Remote (US) | N/A |
 | Paragon | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | N/A |
 | DimeHealth AI | [Forward Deployed Engineering Intern ⏳](https://www.workatastartup.com/jobs/94211) | New York, NY | N/A |
-| TikTok | [Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS）](https://lifeattiktok.com/search/7654431844394322229) | San Jose, CA | 42d |
-| Rivian | [Software Engineering Intern - Applications - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c) | Irvine, CA +1 | 61d |
-| Rivian | [Software Engineering Intern - Vehicle Controls - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | Irvine, CA +1 | 61d |
-| Rivian | [Android Developer Intern - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) | Palo Alto, CA | 62d |
-| Rivian | [Software Engineering Intern - Connected Systems - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92) | Irvine, CA +1 | 62d |
-| Rivian | [Software Engineering Intern - Embedded Platforms - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | Palo Alto, CA +1 | 62d |
-| TikTok | [AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS](https://lifeattiktok.com/search/7646621925436131637) | San Jose, CA | 63d |
-| Apple | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323-3810) | USA | 74d |
-| Apple | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320-3810) | USA | 74d |
-| Apple | [Software Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200664785-3810) | USA | 74d |
-| Meta | [Research Scientist Intern - Embedded Contextual AI on Wearables - PhD](https://www.metacareers.com/jobs/2160167211413098) | Sunnyvale, CA +1 | 80d |
-| TikTok | [Software Engineer Intern - Quality and Efficiency Technology - 2026 Summer - BS/MS](https://lifeattiktok.com/search/7637047421538404613) | San Jose, CA | 89d |
-| Amazon | [Software Development Engineer Intern - AWS Data Services - Fall 2026 - US](https://www.amazon.jobs/jobs/10412530/apply) | Seattle, WA | 104d |
-| TikTok | [Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS](https://lifeattiktok.com/search/7629500062003218741) | San Jose, CA | 109d |
-| Citadel | [Software Engineer - Intern - US](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Houston, TX +2 | 20d |
-| Citadel Securities | [Software Engineer - Intern - US](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, FL +1 | 20d |
-| Five Rings | [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York City, NY | 20d |
-| Akuna Capital | [Software Engineer Intern - Full Stack Web - Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | Chicago, IL | 21d |
-| Akuna Capital | [Software Engineer Intern - C++ - Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | Chicago, IL | 21d |
-| Akuna Capital | [Software Engineer Intern - Python - Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL | 21d |
-| Akuna Capital | [Software Engineer Intern - C# .NET Desktop - Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) | Chicago, IL | 21d |
-| Hudson River Trading | [Software Engineering Internship - C++ or Python - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | London, United Kingdom +4 | 21d |
-| Jump Trading | [Campus Software Engineer - Intern](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Chicago, IL | 26d |
-| Jump Trading | [Campus UI Software Engineer - Intern](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago, IL | 26d |
-| Jane Street | [Software Engineer Winter Co-Op](https://www.janestreet.com/join-jane-street/position/8419303002) | New York City, NY | 28d |
-| Jane Street | [Software Engineer Summer Internship](https://www.janestreet.com/join-jane-street/position/8599644002) | New York City, NY | 28d |
-| Optiver | [Software Engineer Intern - Summer 2027 - Chicago](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | Chicago, IL | 33d |
-| Optiver | [Software Engineer Intern - Summer 2027 - Austin](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | Austin, TX | 33d |
-| D. E. Shaw & Co. | [Quantitative Analyst and Software Developer Intern - Summer 2027](https://www.deshaw.com/careers/5906) | New York City, NY | 89d |
-| D. E. Shaw & Co. | [Software Developer Intern - New York - Summer 2027](https://www.deshaw.com/careers/5894) | New York City, NY | 97d |
-| D. E. Shaw & Co. | [Software Developer - Ph.D. Intern - New York - Summer 2027](https://www.deshaw.com/careers/5893) | New York City, NY | 97d |
-| Hyannis Port Research | [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Needham, MA | 2d |
-| Heliux | [Software Engineer - Internship - Summer 2027](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) | San Francisco, CA | 4d |
-| Heliux | [Software Engineer - Internship - Spring 2027](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c) | San Francisco, CA | 4d |
-| Persona AI | [Teleoperation Software Engineering Internship](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c) | Houston, TX | 4d |
-| Redwood Materials | [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | San Francisco, CA | 5d |
-| Virtu Financial | [2027 Internship - Frontend Engineer - UI](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Austin, TX +1 | 5d |
-| Bosch | [ADAS Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669-adas-software-engineering-intern?oga=true) | Plymouth, MI | 6d |
-| Intel | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | Phoenix, AZ | 6d |
-| Intel | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | Hillsboro, OR +1 | 6d |
-| Leidos | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) | Annapolis Junction, MD | 6d |
-| Leidos | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Indianapolis, IN | 6d |
-| Motorola Solutions | [Software Engineering - Co-Op](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728) | Remote - Massachusetts, USA +10 | 6d |
-| Bosch | [Powertrain Controls Software Engineering Intern - 6-Months](https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months-?oga=true) | Farmington Hills, MI | 7d |
-| Brunswick | [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) | Champaign, IL | 7d |
-| PathAI | [Software Engineering Co-op MLOps: September - December 2026](https://www.pathai.com/careers/8651564002?gh_jid=8651564002) | Boston, MA | 7d |
-| Two Six Technologies | [Skillbridge Internship -IO](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6126995004) | Doral, FL | 7d |
-| SRI International | [Drexel University Co-op: Software Engineering/Full stack development](https://careers-sri.icims.com/jobs/6432/drexel-university-co-op%3a-software-engineering-full-stack-development/job) | Princeton, NJ | 8d |
-| PDT Partners | [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | New York City, NY | 10d |
-| Anthelion Capital | [Quant Developer / Quant Research Intern - 2026/2027](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | New York City, NY | 11d |
-| Appian | [Software Engineering Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | McLean, VA | 11d |
-| Astranis Space Technologies | [Software Engineer Intern - Enterprise Systems - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4699071006) | San Francisco, CA | 11d |
-| Mathtech | [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=565843) | Falls Church, VA | 13d |
-| Virtu Financial | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Austin, TX +1 | 13d |
-| Bild AI | [AI/SWE Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364) | San Francisco, CA | 14d |
-| Gritt Robotics | [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | South San Francisco, CA | 14d |
-| Deepgram | [Software Engineering- Internship - Fall 2026/Summer 2027](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | Remote - USA | 17d |
-| Composio | [Full-stack Intern](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9) | San Francisco, CA | 18d |
-| Netic | [Full-Stack Software Engineer - Product - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) | San Francisco, CA | 19d |
-| Netic | [Software Engineer - Agent Platform - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | San Francisco, CA | 19d |
-| Old Mission Capital | [Software Engineer - 2027 Internship Program - June Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | Chicago, IL | 19d |
-| The Trade Desk | [2027 North America Software Engineering Internship](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Denver, CO +2 | 19d |
-| Cirrus Logic | [Fall 2026 Co-Op Embedded Software Test Engineer - MG](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Austin, TX | 20d |
-| Cloudflare | [Software Engineer Intern - Fall 2026 - Austin - TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | Austin, TX | 20d |
-| Tencent | [Cloud Media Services Intern](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) | Bellevue, WA | 20d |
-| Serval | [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) | San Francisco, CA | 21d |
-| DRW | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | Chicago, IL | 22d |
-| Black Cape | [US Military Skillbridge Internship - Software Engineer_Arlington - VA](http://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) | Arlington, VA | 24d |
-| Pylon | [Software Engineer - Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) | San Francisco, CA | 24d |
-| Vital Lyfe | [Software Engineering Internship - Fall 2026](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | Los Angeles, CA | 25d |
-| WindBorne Systems | [Firmware Intern](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) | Palo Alto, CA | 28d |
-| Tower Research Capital | [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Chicago, IL +1 | 29d |
-| Blackstar Computers | [Embedded Systems Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a) | San Francisco, CA | 32d |
-| Eulerity | [Website Developer & Content Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | New York City, NY | 32d |
-| Palantir | [Forward Deployed Software Engineer - Internship - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | Washington, DC | 33d |
-| MyJunior AI | [Software Engineering Intern — Fall 2026](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891) | New York City, NY | 34d |
-| Palantir | [Forward Deployed Software Engineer - Internship - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | Chicago, IL | 34d |
-| Sony | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | San Diego, CA | 34d |
-| CTGT | [Software Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) | San Francisco, CA | 38d |
-| Zipline | [Software Engineer Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7787509003) | South San Francisco, CA | 38d |
-| Astranis Space Technologies | [Hardware Design Intern - Software Defined Radio Team - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4691163006) | San Francisco, CA | 40d |
-| Binance.US | [Software Engineering Intern](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895) | USA | 40d |
-| Palantir | [Year at Palantir - Forward Deployed Software Engineer - Internship - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | Chicago, IL | 40d |
-| Altom Transport | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/9FC654F05E/) | Hammond, IN | 42d |
-| Cirrus Logic | [Fall 2026 Co-Op - Embedded Software AI Intern](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515) | Austin, TX | 42d |
-| FightCamp | [Firmware Intern - Fall 2026](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | 42d |
-| iHerb | [Software Development Intern](https://job-boards.greenhouse.io/iherb/jobs/7776154003) | Remote - USA | 47d |
-| SoloPulse | [Software Engineer Intern/Co-Op - Fall 2026](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) | Peachtree Corners, GA | 48d |
-| Lila Sciences | [Co-Op - Software Product Management](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) | Cambridge, MA | 49d |
-| Anduril | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, GA +5 | 54d |
-| Circleback | [Software Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) | San Francisco, CA | 54d |
-| Centerfield | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) | Los Angeles, CA | 55d |
-| Zipline | [Enterprise Systems Software Engineer Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7767667003) | South San Francisco, CA | 55d |
-| Zipline | [Embedded Software Engineer Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7765240003) | South San Francisco, CA | 59d |
-| Altom Transport | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/8536165C7B/) | Hammond, IN | 62d |
-| Beacon Software | [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | San Francisco, CA | 63d |
-| Clerkie | [Software Engineer Internship](http://getfiber.ai/careers?gh_jid=5152467007) | Remote | 63d |
-| Fluxergy | [Firmware Engineer Intern](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec) | Irvine, CA | 63d |
-| Pony.ai | [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | Fremont, CA | 67d |
-| Altom Transport | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/1E3C4A9408/) | Hammond, IN | 68d |
-| Prospect Equities | [Backend / Frontend Developer Intern](http://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) | Chicago, IL | 68d |
-| Stevens Capital Management | [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) | Radnor, PA | 72d |
-| Reply | [Android Developer Intern](https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061) | Detroit, MI | 74d |
-| Reply | [iOS Developer Intern](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5) | Detroit, MI | 74d |
-| Plus | [Software Engineer Intern - Robotics](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) | Santa Clara, CA | 75d |
-| Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose, CA | 76d |
-| Terranova | [Embedded Systems Intern](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | Berkeley, CA | 76d |
-| Saronic Technologies | [Software Engineer Intern - Fall 2026](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) | Austin, TX | 77d |
-| Plus | [Full Stack Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) | Santa Clara, CA | 81d |
-| Astera Institute | [Software Engineering Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) | Emeryville, CA | 82d |
-| Astranis Space Technologies | [Software Engineer- Backend Intern - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | San Francisco, CA | 82d |
-| kos.ai | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) | San Francisco, CA | 88d |
-| Cohere | [Software Engineer Intern - Fall / Winter 2026](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | Canada +1 | 94d |
-| Gemini | [Software Engineering Intern - Fall 2026](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | New York City, NY | 94d |
-| Apptronik | [Robotics Software Intern - Real-Time Controls](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) | Austin, TX | 96d |
-| Astranis Space Technologies | [Flight Software Intern - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | San Francisco, CA | 96d |
-| Dexmate | [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119) | Fremont, CA | 100d |
-| Rainmaker | [Software Engineering Intern](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | El Segundo, CA | 101d |
-| Palantir | [Year at Palantir - Forward Deployed Software Engineer - Internship - USG](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | Washington, DC | 102d |
-| ASM | [Software Engineering Intern - Spring 2027](https://www.asm.com/open-vacancies/?gh_jid=4830113101) | Phoenix, AZ +1 | 103d |
-| Susquehanna International Group | [Quantitative Strategy Developer Internship: Summer 2027](https://careers-sig.icims.com/jobs/10838/quantitative-strategy-developer-internship%3a-summer-2027/job) | Bala Cynwyd, PA | 103d |
-| Blockhouse | [Rust Developer Intern - Summer 2026](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) | New York City, NY | 104d |
-| Blackstar Computers | [SWE Internship - Summer 2026](https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700) | San Francisco, CA | 105d |
-| LEGO | [Firmware Engineering Co-Op - Fall 2026](https://lego.wd103.myworkdayjobs.com/en-US/lego_executive/job/Boston-Hub/Firmware-Engineering-Intern_0000031568) | Boston, MA | 106d |
-| Hermeus | [Software Engineering Intern - HIL - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) | Atlanta, GA | 108d |
-| Spacial AI | [Software Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26) | Palo Alto, CA | 109d |
-| Cadence | [Software Intern](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R53282-1) | San Jose, CA | 110d |
-| Latent Defense | [Software Engineer Intern](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487) | New York City, NY | 110d |
-| Neuralink | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin, TX +1 | 110d |
-| Auctor | [Software Engineering Intern](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) | New York City, NY | 112d |
-| Eulerity | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | New York City, NY | 118d |
 | 🔥 TikTok | [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | 🔥 TikTok | [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | 🔥 TikTok | [Software Engineer Intern](https://lifeattiktok.com/search/7669712589169117445?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
@@ -627,3 +496,134 @@
 | Virtu Financial | [Quantitative Research Intern - Quant Research - Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
 | Walleye Capital | [PhD Quantitative Researcher Intern 🎓](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
 | Walleye Capital | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=Simplify&ref=Simplify) | Miami, FL | 1mo |
+| TikTok | [Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS）](https://lifeattiktok.com/search/7654431844394322229) | San Jose, CA | 42d |
+| Rivian | [Software Engineering Intern - Applications - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c) | Irvine, CA +1 | 61d |
+| Rivian | [Software Engineering Intern - Vehicle Controls - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | Irvine, CA +1 | 61d |
+| Rivian | [Android Developer Intern - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) | Palo Alto, CA | 62d |
+| Rivian | [Software Engineering Intern - Connected Systems - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92) | Irvine, CA +1 | 62d |
+| Rivian | [Software Engineering Intern - Embedded Platforms - Fall 2026](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | Palo Alto, CA +1 | 62d |
+| TikTok | [AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS](https://lifeattiktok.com/search/7646621925436131637) | San Jose, CA | 63d |
+| Apple | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323-3810) | USA | 74d |
+| Apple | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320-3810) | USA | 74d |
+| Apple | [Software Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200664785-3810) | USA | 74d |
+| Meta | [Research Scientist Intern - Embedded Contextual AI on Wearables - PhD](https://www.metacareers.com/jobs/2160167211413098) | Sunnyvale, CA +1 | 80d |
+| TikTok | [Software Engineer Intern - Quality and Efficiency Technology - 2026 Summer - BS/MS](https://lifeattiktok.com/search/7637047421538404613) | San Jose, CA | 89d |
+| Amazon | [Software Development Engineer Intern - AWS Data Services - Fall 2026 - US](https://www.amazon.jobs/jobs/10412530/apply) | Seattle, WA | 104d |
+| TikTok | [Software Engineer Project Intern - Recommendation Infrastructure - TikTok Video Social - 2026 Start - BS/MS](https://lifeattiktok.com/search/7629500062003218741) | San Jose, CA | 109d |
+| Citadel | [Software Engineer - Intern - US](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Houston, TX +2 | 20d |
+| Citadel Securities | [Software Engineer - Intern - US](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, FL +1 | 20d |
+| Five Rings | [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York City, NY | 20d |
+| Akuna Capital | [Software Engineer Intern - Full Stack Web - Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | Chicago, IL | 21d |
+| Akuna Capital | [Software Engineer Intern - C++ - Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | Chicago, IL | 21d |
+| Akuna Capital | [Software Engineer Intern - Python - Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL | 21d |
+| Akuna Capital | [Software Engineer Intern - C# .NET Desktop - Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) | Chicago, IL | 21d |
+| Hudson River Trading | [Software Engineering Internship - C++ or Python - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | London, United Kingdom +4 | 21d |
+| Jump Trading | [Campus Software Engineer - Intern](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Chicago, IL | 26d |
+| Jump Trading | [Campus UI Software Engineer - Intern](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago, IL | 26d |
+| Jane Street | [Software Engineer Winter Co-Op](https://www.janestreet.com/join-jane-street/position/8419303002) | New York City, NY | 28d |
+| Jane Street | [Software Engineer Summer Internship](https://www.janestreet.com/join-jane-street/position/8599644002) | New York City, NY | 28d |
+| Optiver | [Software Engineer Intern - Summer 2027 - Chicago](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | Chicago, IL | 33d |
+| Optiver | [Software Engineer Intern - Summer 2027 - Austin](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | Austin, TX | 33d |
+| D. E. Shaw & Co. | [Quantitative Analyst and Software Developer Intern - Summer 2027](https://www.deshaw.com/careers/5906) | New York City, NY | 89d |
+| D. E. Shaw & Co. | [Software Developer Intern - New York - Summer 2027](https://www.deshaw.com/careers/5894) | New York City, NY | 97d |
+| D. E. Shaw & Co. | [Software Developer - Ph.D. Intern - New York - Summer 2027](https://www.deshaw.com/careers/5893) | New York City, NY | 97d |
+| Hyannis Port Research | [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Needham, MA | 2d |
+| Heliux | [Software Engineer - Internship - Summer 2027](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) | San Francisco, CA | 4d |
+| Heliux | [Software Engineer - Internship - Spring 2027](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c) | San Francisco, CA | 4d |
+| Persona AI | [Teleoperation Software Engineering Internship](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c) | Houston, TX | 4d |
+| Redwood Materials | [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | San Francisco, CA | 5d |
+| Virtu Financial | [2027 Internship - Frontend Engineer - UI](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | Austin, TX +1 | 5d |
+| Bosch | [ADAS Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669-adas-software-engineering-intern?oga=true) | Plymouth, MI | 6d |
+| Intel | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | Phoenix, AZ | 6d |
+| Intel | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | Hillsboro, OR +1 | 6d |
+| Leidos | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) | Annapolis Junction, MD | 6d |
+| Leidos | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Indianapolis, IN | 6d |
+| Motorola Solutions | [Software Engineering - Co-Op](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728) | Remote - Massachusetts, USA +10 | 6d |
+| Bosch | [Powertrain Controls Software Engineering Intern - 6-Months](https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months-?oga=true) | Farmington Hills, MI | 7d |
+| Brunswick | [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) | Champaign, IL | 7d |
+| PathAI | [Software Engineering Co-op MLOps: September - December 2026](https://www.pathai.com/careers/8651564002?gh_jid=8651564002) | Boston, MA | 7d |
+| Two Six Technologies | [Skillbridge Internship -IO](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6126995004) | Doral, FL | 7d |
+| SRI International | [Drexel University Co-op: Software Engineering/Full stack development](https://careers-sri.icims.com/jobs/6432/drexel-university-co-op%3a-software-engineering-full-stack-development/job) | Princeton, NJ | 8d |
+| PDT Partners | [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | New York City, NY | 10d |
+| Anthelion Capital | [Quant Developer / Quant Research Intern - 2026/2027](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | New York City, NY | 11d |
+| Appian | [Software Engineering Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | McLean, VA | 11d |
+| Astranis Space Technologies | [Software Engineer Intern - Enterprise Systems - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4699071006) | San Francisco, CA | 11d |
+| Mathtech | [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=565843) | Falls Church, VA | 13d |
+| Virtu Financial | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Austin, TX +1 | 13d |
+| Bild AI | [AI/SWE Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364) | San Francisco, CA | 14d |
+| Gritt Robotics | [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | South San Francisco, CA | 14d |
+| Deepgram | [Software Engineering- Internship - Fall 2026/Summer 2027](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | Remote - USA | 17d |
+| Composio | [Full-stack Intern](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9) | San Francisco, CA | 18d |
+| Netic | [Full-Stack Software Engineer - Product - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) | San Francisco, CA | 19d |
+| Netic | [Software Engineer - Agent Platform - Intern - 2026-2027](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | San Francisco, CA | 19d |
+| Old Mission Capital | [Software Engineer - 2027 Internship Program - June Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | Chicago, IL | 19d |
+| The Trade Desk | [2027 North America Software Engineering Internship](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Denver, CO +2 | 19d |
+| Cirrus Logic | [Fall 2026 Co-Op Embedded Software Test Engineer - MG](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Austin, TX | 20d |
+| Cloudflare | [Software Engineer Intern - Fall 2026 - Austin - TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | Austin, TX | 20d |
+| Tencent | [Cloud Media Services Intern](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) | Bellevue, WA | 20d |
+| Serval | [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) | San Francisco, CA | 21d |
+| DRW | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | Chicago, IL | 22d |
+| Black Cape | [US Military Skillbridge Internship - Software Engineer_Arlington - VA](http://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) | Arlington, VA | 24d |
+| Pylon | [Software Engineer - Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) | San Francisco, CA | 24d |
+| Vital Lyfe | [Software Engineering Internship - Fall 2026](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | Los Angeles, CA | 25d |
+| WindBorne Systems | [Firmware Intern](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) | Palo Alto, CA | 28d |
+| Tower Research Capital | [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Chicago, IL +1 | 29d |
+| Blackstar Computers | [Embedded Systems Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a) | San Francisco, CA | 32d |
+| Eulerity | [Website Developer & Content Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | New York City, NY | 32d |
+| Palantir | [Forward Deployed Software Engineer - Internship - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | Washington, DC | 33d |
+| MyJunior AI | [Software Engineering Intern — Fall 2026](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891) | New York City, NY | 34d |
+| Palantir | [Forward Deployed Software Engineer - Internship - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | Chicago, IL | 34d |
+| Sony | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | San Diego, CA | 34d |
+| CTGT | [Software Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) | San Francisco, CA | 38d |
+| Zipline | [Software Engineer Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7787509003) | South San Francisco, CA | 38d |
+| Astranis Space Technologies | [Hardware Design Intern - Software Defined Radio Team - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4691163006) | San Francisco, CA | 40d |
+| Binance.US | [Software Engineering Intern](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895) | USA | 40d |
+| Palantir | [Year at Palantir - Forward Deployed Software Engineer - Internship - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | Chicago, IL | 40d |
+| Altom Transport | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/9FC654F05E/) | Hammond, IN | 42d |
+| Cirrus Logic | [Fall 2026 Co-Op - Embedded Software AI Intern](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515) | Austin, TX | 42d |
+| FightCamp | [Firmware Intern - Fall 2026](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | 42d |
+| iHerb | [Software Development Intern](https://job-boards.greenhouse.io/iherb/jobs/7776154003) | Remote - USA | 47d |
+| SoloPulse | [Software Engineer Intern/Co-Op - Fall 2026](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) | Peachtree Corners, GA | 48d |
+| Lila Sciences | [Co-Op - Software Product Management](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) | Cambridge, MA | 49d |
+| Anduril | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, GA +5 | 54d |
+| Circleback | [Software Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) | San Francisco, CA | 54d |
+| Centerfield | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) | Los Angeles, CA | 55d |
+| Zipline | [Enterprise Systems Software Engineer Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7767667003) | South San Francisco, CA | 55d |
+| Zipline | [Embedded Software Engineer Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7765240003) | South San Francisco, CA | 59d |
+| Altom Transport | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/8536165C7B/) | Hammond, IN | 62d |
+| Beacon Software | [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | San Francisco, CA | 63d |
+| Clerkie | [Software Engineer Internship](http://getfiber.ai/careers?gh_jid=5152467007) | Remote | 63d |
+| Fluxergy | [Firmware Engineer Intern](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec) | Irvine, CA | 63d |
+| Pony.ai | [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | Fremont, CA | 67d |
+| Altom Transport | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/1E3C4A9408/) | Hammond, IN | 68d |
+| Prospect Equities | [Backend / Frontend Developer Intern](http://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) | Chicago, IL | 68d |
+| Stevens Capital Management | [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) | Radnor, PA | 72d |
+| Reply | [Android Developer Intern](https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061) | Detroit, MI | 74d |
+| Reply | [iOS Developer Intern](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5) | Detroit, MI | 74d |
+| Plus | [Software Engineer Intern - Robotics](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) | Santa Clara, CA | 75d |
+| Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose, CA | 76d |
+| Terranova | [Embedded Systems Intern](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | Berkeley, CA | 76d |
+| Saronic Technologies | [Software Engineer Intern - Fall 2026](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) | Austin, TX | 77d |
+| Plus | [Full Stack Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) | Santa Clara, CA | 81d |
+| Astera Institute | [Software Engineering Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) | Emeryville, CA | 82d |
+| Astranis Space Technologies | [Software Engineer- Backend Intern - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | San Francisco, CA | 82d |
+| kos.ai | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) | San Francisco, CA | 88d |
+| Cohere | [Software Engineer Intern - Fall / Winter 2026](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | Canada +1 | 94d |
+| Gemini | [Software Engineering Intern - Fall 2026](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | New York City, NY | 94d |
+| Apptronik | [Robotics Software Intern - Real-Time Controls](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) | Austin, TX | 96d |
+| Astranis Space Technologies | [Flight Software Intern - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | San Francisco, CA | 96d |
+| Dexmate | [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119) | Fremont, CA | 100d |
+| Rainmaker | [Software Engineering Intern](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | El Segundo, CA | 101d |
+| Palantir | [Year at Palantir - Forward Deployed Software Engineer - Internship - USG](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | Washington, DC | 102d |
+| ASM | [Software Engineering Intern - Spring 2027](https://www.asm.com/open-vacancies/?gh_jid=4830113101) | Phoenix, AZ +1 | 103d |
+| Susquehanna International Group | [Quantitative Strategy Developer Internship: Summer 2027](https://careers-sig.icims.com/jobs/10838/quantitative-strategy-developer-internship%3a-summer-2027/job) | Bala Cynwyd, PA | 103d |
+| Blockhouse | [Rust Developer Intern - Summer 2026](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) | New York City, NY | 104d |
+| Blackstar Computers | [SWE Internship - Summer 2026](https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700) | San Francisco, CA | 105d |
+| LEGO | [Firmware Engineering Co-Op - Fall 2026](https://lego.wd103.myworkdayjobs.com/en-US/lego_executive/job/Boston-Hub/Firmware-Engineering-Intern_0000031568) | Boston, MA | 106d |
+| Hermeus | [Software Engineering Intern - HIL - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) | Atlanta, GA | 108d |
+| Spacial AI | [Software Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26) | Palo Alto, CA | 109d |
+| Cadence | [Software Intern](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R53282-1) | San Jose, CA | 110d |
+| Latent Defense | [Software Engineer Intern](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487) | New York City, NY | 110d |
+| Neuralink | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin, TX +1 | 110d |
+| Auctor | [Software Engineering Intern](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) | New York City, NY | 112d |
+| Eulerity | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | New York City, NY | 118d |
