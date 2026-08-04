@@ -388,3 +388,97 @@ func parseZapply(rawMarkdown string) []JobListing {
 
 	return jobs
 }
+
+func parseZShah(rawMarkdown string) []JobListing {
+	var jobs []JobListing
+
+	sections := []string{
+		"## Summer 2027",
+		"## Fall 2026",
+		"## Recently posted",
+	}
+
+	for _, secHeader := range sections {
+		_, afterSec, foundSec := strings.Cut(rawMarkdown, secHeader)
+		if !foundSec {
+			continue
+		}
+
+		secContent, _, _ := strings.Cut(afterSec, "## ")
+		lines := strings.Split(secContent, "\n")
+
+		var lastCompany string
+
+		for _, line := range lines {
+			line = strings.TrimSpace(line)
+
+			if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") || strings.Contains(line, "Company") {
+				continue
+			}
+
+			cols := strings.Split(line, "|")
+			if len(cols) < 8 {
+				continue
+			}
+
+			// cols[0] = "" (prefix split)
+			// cols[1] = Company (Pentair, Virtu Financial ✓)
+			// cols[2] = Role + Emojis (e.g. 🛂 🆕)
+			// cols[3] = Category
+			// cols[4] = Location
+			// cols[5] = Skills
+			// cols[6] = Posted Date (Aug 03, 2026)
+			// cols[7] = Apply Link: [Apply](https://...)
+			applyCell := cols[7]
+
+			if strings.Contains(line, "🔒") || strings.Contains(applyCell, "🔒") {
+				continue
+			}
+
+			var appURL string
+			if strings.Contains(applyCell, "](") {
+				_, afterURL, foundURL := strings.Cut(applyCell, "](")
+				if foundURL {
+					appURL, _, _ = strings.Cut(afterURL, ")")
+				}
+			}
+
+			if appURL == "" || appURL == "#" {
+				continue
+			}
+
+			company := cleanHTML(cols[1])
+			company = strings.TrimSuffix(company, " ✓")
+			company = strings.TrimSuffix(company, " 🆁")
+
+			role := cleanHTML(cols[2])
+
+			for _, flag := range []string{"🆕", "🛂", "🇺🇸", "🆁"} {
+				role = strings.ReplaceAll(role, flag, "")
+			}
+
+			location := cleanHTML(cols[4])
+			rawDate := cleanHTML(cols[6])
+
+			// "Aug 03, 2026" into relative age
+			age := convertZShahDate(rawDate)
+
+			if company == "↳" || company == "" {
+				company = lastCompany
+			} else {
+				lastCompany = company
+			}
+
+			jobs = append(jobs, JobListing{
+				Company:  strings.TrimSpace(company),
+				Role:     strings.TrimSpace(role),
+				Location: location,
+				Link:     appURL,
+				Age:      age,
+				NewGrad:  false,
+			})
+		}
+	}
+
+	return jobs
+}
