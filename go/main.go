@@ -46,6 +46,7 @@ func main() {
 		"https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/sndsh404/summer-2027-internships/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/zapplyjobs/Internships-2027/refs/heads/main/README.md",
+		"https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/refs/heads/main/README.md",
 	}
 
 	resultsChannel := make(chan string)
@@ -93,6 +94,11 @@ func main() {
 			fmt.Println("Processing zapplyjobs Repo...")
 			jobs := parseZapply(results)
 			fmt.Printf("-> Found %d active jobs in zapplyjobs Repo\n", len(jobs))
+			totalJobs = append(totalJobs, jobs...)
+		} else if strings.Contains(fetchedURL, "zshah101") {
+			fmt.Println("Processing zshah101 Repo...")
+			jobs := parseZShah(results)
+			fmt.Printf("-> Found %d active jobs in zshah101 Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
 		} else {
 			fmt.Println("[WARN] URL with no available parser found for " + fetchedURL)
