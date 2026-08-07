@@ -73,7 +73,7 @@ func parseSimplify(rawHTML string) []JobListing {
 			continue
 		}
 
-		company := cleanHTML(cols[1])
+		company := cleanCompanyName(cleanHTML(cols[1]))
 		role := cleanHTML(cols[2])
 		location := cleanHTML(cols[3])
 		age := cleanHTML(cols[5])
@@ -364,7 +364,7 @@ func parseZapply(rawMarkdown string) []JobListing {
 				continue
 			}
 
-			company := cleanHTML(cols[1])
+			company := cleanCompanyName(cleanHTML(cols[1]))
 			role := cleanHTML(cols[2])
 			location := cleanHTML(cols[3])
 			age := cleanHTML(cols[4])
