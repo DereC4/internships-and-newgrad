@@ -110,3 +110,18 @@ func ageToDays(ageStr string) int {
 
 	return 9999 // Push unknown or "N/A" formats to the very bottom of the table
 }
+
+func cleanCompanyName(name string) string {
+	name = strings.TrimSpace(name)
+
+	name = strings.ReplaceAll(name, "**", "")
+	name = strings.ReplaceAll(name, "🔥 ", "")
+	name = strings.ReplaceAll(name, "🔥", "")
+	name = strings.ReplaceAll(name, "✓", "")
+	name = strings.ReplaceAll(name, "🆁", "")
+	name = strings.ReplaceAll(name, "🇺🇸", "")
+	name = strings.ReplaceAll(name, "🛂", "")
+	name = strings.ReplaceAll(name, "🆕", "")
+
+	return strings.TrimSpace(name)
+}
