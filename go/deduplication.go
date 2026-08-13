@@ -1,6 +1,9 @@
 package main
 
-import "strings"
+import (
+	"regexp"
+	"strings"
+)
 
 func deduplicateJobs(jobs []JobListing) []JobListing {
 	var uniqueJobs []JobListing
@@ -26,5 +29,12 @@ func cleanURL(raw string) string {
 	clean := strings.TrimSpace(raw)
 	clean = strings.Split(clean, "?")[0]
 	clean = strings.Split(clean, "#")[0]
-	return strings.ToLower(clean)
+	clean = strings.ToLower(clean)
+
+	if strings.Contains(clean, "myworkdayjobs.com") {
+		re := regexp.MustCompile(`(myworkdayjobs\.com)/[a-z]{2}-[a-z]{2}/`)
+		clean = re.ReplaceAllString(clean, "$1/")
+	}
+
+	return clean
 }
