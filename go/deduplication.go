@@ -41,6 +41,12 @@ func cleanURL(raw string) string {
 			token := strings.Split(parts[1], "&")[0]
 			return "greenhouse-job-id:" + token
 		}
+	} else if strings.Contains(clean, "pid=") && strings.Contains(clean, "microsoft.com") {
+		parts := strings.Split(clean, "pid=")
+		if len(parts) > 1 {
+			pid := strings.Split(parts[1], "&")[0]
+			return "microsoft-job-id:" + pid
+		}
 	}
 
 	clean = strings.Split(clean, "?")[0]
