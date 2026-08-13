@@ -148,6 +148,7 @@ func main() {
 
 	var badges strings.Builder
 	badges.WriteString(fmt.Sprintf("![Job Listings](https://img.shields.io/badge/Total_Scraped-%d-brightgreen?style=flat&logo=briefcase)\n", len(totalJobs)))
+	badges.WriteString(fmt.Sprintf("![Unique Listings](https://img.shields.io/badge/Total_Scraped-%d-brightgreen?style=flat&logo=briefcase)\n", len(uniqueJobs)))
 	badges.WriteString(fmt.Sprintf("![Companies](https://img.shields.io/badge/Companies-%d-blue?style=flat&logo=building)\n", uniqueCompanyCount))
 
 	for _, job := range uniqueJobs {
