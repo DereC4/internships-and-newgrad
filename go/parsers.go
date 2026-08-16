@@ -5,14 +5,26 @@ import (
 	"strings"
 )
 
-func parseSimplifyCategories(results string) []JobListing {
+func parseSimplifyCategories(results string, isNewGrad bool) []JobListing {
 	var categoryJobs []JobListing
+	var categories map[string]string
 
-	categories := map[string]string{
-		"Software Engineering": "## 💻 Software Engineering Internship Roles",
-		"Product Management":   "## 📱 Product Management Internship Roles",
-		"Data Science / AI":    "## 🤖 Data Science, AI & Machine Learning Internship Roles",
-		"Quant Finance":        "## 📈 Quantitative Finance Internship Roles",
+	if isNewGrad {
+		categories = map[string]string{
+			"Software Engineering": "## 💻 Software Engineering New Grad Roles",
+			"Product Management":   "## 📱 Product Management New Grad Roles",
+			"Data Science / AI":    "## 🤖 Data Science, AI & Machine Learning New Grad Roles",
+			"Quant Finance":        "## 📈 Quantitative Finance New Grad Roles",
+			"Hardware Engineering": "## 🔧 Hardware Engineering New Grad Roles",
+		}
+	} else {
+		categories = map[string]string{
+			"Software Engineering": "## 💻 Software Engineering Internship Roles",
+			"Product Management":   "## 📱 Product Management Internship Roles",
+			"Data Science / AI":    "## 🤖 Data Science, AI & Machine Learning Internship Roles",
+			"Quant Finance":        "## 📈 Quantitative Finance Internship Roles",
+			"Hardware Engineering": "## 🔧 Hardware Engineering Internship Roles",
+		}
 	}
 
 	for catName, header := range categories {
@@ -23,7 +35,8 @@ func parseSimplifyCategories(results string) []JobListing {
 
 		tableBlock, _, _ := strings.Cut(afterHeader, "</table>")
 		tableBlock = tableBlock + "</table>"
-		parsedJobs := parseSimplify(tableBlock)
+
+		parsedJobs := parseSimplify(tableBlock, isNewGrad)
 
 		fmt.Printf("-> Found %d jobs under category: [%s]\n", len(parsedJobs), catName)
 		categoryJobs = append(categoryJobs, parsedJobs...)
@@ -33,7 +46,7 @@ func parseSimplifyCategories(results string) []JobListing {
 	return categoryJobs
 }
 
-func parseSimplify(rawHTML string) []JobListing {
+func parseSimplify(rawHTML string, isNewGrad bool) []JobListing {
 	var jobs []JobListing
 	var lastCompany string
 
@@ -90,7 +103,7 @@ func parseSimplify(rawHTML string) []JobListing {
 			Location: location,
 			Link:     appURL,
 			Age:      age,
-			NewGrad:  false,
+			NewGrad:  isNewGrad,
 		})
 	}
 
