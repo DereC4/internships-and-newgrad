@@ -310,7 +310,7 @@ func parseSandesh(rawMarkdown string) []JobListing {
 	return jobs
 }
 
-func parseZapply(rawMarkdown string) []JobListing {
+func parseZapply(rawMarkdown string, isNewGrad bool) []JobListing {
 	var jobs []JobListing
 
 	// it's alr nicely wrapped up each section into a details dropdown menu
@@ -381,7 +381,7 @@ func parseZapply(rawMarkdown string) []JobListing {
 				Location: location,
 				Link:     appURL,
 				Age:      age,
-				NewGrad:  false,
+				NewGrad:  isNewGrad,
 			})
 		}
 	}
