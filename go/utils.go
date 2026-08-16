@@ -12,22 +12,22 @@ func cleanHTML(val string) string {
 	val = strings.ReplaceAll(val, "<br/>", " ")
 	val = strings.ReplaceAll(val, "</br>", " ")
 
-	for {
-		start := strings.Index(val, "<")
-		if start == -1 {
-			break
-		}
+	var builder strings.Builder
+	builder.Grow(len(val))
 
-		end := strings.Index(val[start:], ">")
-		if end == -1 {
-			break
+	inTag := false
+	for i := 0; i < len(val); i++ {
+		char := val[i]
+		if char == '<' {
+			inTag = true
+		} else if char == '>' && inTag {
+			inTag = false
+		} else if !inTag {
+			builder.WriteByte(char)
 		}
-
-		val = val[:start] + val[start+end+1:]
 	}
 
-	val = strings.ReplaceAll(val, "  ", " ")
-	return strings.TrimSpace(val)
+	return strings.Join(strings.Fields(builder.String()), " ")
 }
 
 func convertVanshDate(dateStr string) string {
