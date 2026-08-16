@@ -72,7 +72,7 @@ func main() {
 
 		if strings.Contains(fetchedURL, "SimplifyJobs") {
 			fmt.Println("Processing Simplify Repo...")
-			jobs := parseSimplifyCategories(results)
+			jobs := parseSimplifyCategories(results, false)
 			fmt.Printf("-> Found %d active jobs in Simplify Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
 		} else if strings.Contains(fetchedURL, "vanshb03") {
