@@ -207,6 +207,125 @@
 | Point72 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah) | **5 locations**New York, NY San Francisco, CA Chicago, IL West Palm Beach, FL Miami, FL | 4mo |
 | Point72 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah) | New York, NY | 4mo |
 | Point72 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah) | New York, NY | 4mo |
+| Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 1mo |
+| Susquehanna | [Quantitative Systematic Trading Intern (Master's, Summer 2027)](https://careers.sig.com/jobs/10823) | New York, NY | 1mo |
+| Google | [Software Engineering Intern, BS (Summer 2027)](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/) | Mountain View, CA (multiple US) | 1mo |
+| Uber | [Software Engineering Intern (Summer 2027, Uber Career Prep)](https://jobs.uber.com/en/jobs/300697/) | San Francisco, CA / Seattle, WA / Sunnyvale, CA | 1mo |
+| Western Digital | [Software Engineering Intern (Summer 2027)](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) | San Jose, CA | 1mo |
+| Chicago Trading Company | [Quant Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | 1mo |
+| Kearney & Company | [IT Audit Intern (Summer 2027) 🇺🇸](https://careers.kearneyco.com/jobs/5168) | Alexandria, VA (remote) | 1mo |
+| Second Order Effects | [Electrical Engineering Intern (Summer 2027)](https://jobs.gem.com/soeffects/am9icG9zdDqLIuZagE8SU-HqhGf7TGYo) | El Segundo, CA / Redmond, WA | 1mo |
+| The Trade Desk | [Software Engineering Intern (North America, Summer 2027)](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Denver, CO (multiple US) | 1mo |
+| Netic | [Software Engineer Intern, Agent Platform / Full Stack (2026-2027)](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | San Francisco, CA | 1mo |
+| Databricks | [Product Management Intern (Summer 2027)](https://job-boards.greenhouse.io/databricks/jobs/6883068002) | San Francisco, CA | 1mo |
+| Neuralink | [Software Engineer Intern, BCI Applications ⏳](https://job-boards.greenhouse.io/neuralink/jobs/6594422003) | Fremont, CA | 1mo |
+| Western Digital | [Software Engineering Co-op (Winter 2027)](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | Milpitas, CA | 1mo |
+| Point72 | [Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/point72/jobs/7297642002) | New York, NY | 1mo |
+| Capital One | [Product Development Internship Program (Summer 2027)](https://www.capitalonecareers.com/job/-/-/234/97421687312) | McLean, VA / Plano, TX | 1mo |
+| Solar Turbines (Caterpillar) | [IT Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | San Diego, CA | 1mo |
+| Solar Turbines (Caterpillar) | [Business Analyst Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) | San Diego, CA | 1mo |
+| Unison (GE Aerospace) | [Engineering Intern (Summer 2027) 🛂 🇺🇸](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) | Jacksonville, FL | 1mo |
+| Five Rings | [Software Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York, NY | 1mo |
+| Five Rings | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York, NY | 1mo |
+| Old Mission | [Software Engineer Intern (Summer 2027, June Start)](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) | Chicago, IL | 1mo |
+| Akuna Capital | [Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)](https://akunacapital.com/careers/job/8018847/) | Chicago, IL | 1mo |
+| Hudson River Trading | [Software Engineering Intern (Summer 2027, C++ / Python)](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) | New York, NY (multiple) | 1mo |
+| BAE Systems | [Software Engineering Intern I (Summer 2027) 🇺🇸](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) | Nashua, NH | 1mo |
+| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 1mo |
+| Arrowstreet Capital | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Boston, MA | 1mo |
+| Flow Traders | [Quantitative Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | New York, NY | 1mo |
+| Palantir | [Software Engineer Intern (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | New York, NY (multiple US) | 1mo |
+| Palantir | [Software Engineer Intern, Infrastructure (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | New York, NY (multiple US) | 1mo |
+| Palantir | [Software Engineer Intern, Production Infrastructure (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | New York, NY (multiple US) | 1mo |
+| Palantir | [Software Engineer Intern, Defense Tech (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | Washington, DC (multiple US) | 1mo |
+| Palantir | [Forward Deployed Software Engineer Intern, Commercial (Summer 2027, grad Dec 2027 / Spring 2028)](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | New York, NY (multiple US) | 1mo |
+| Palantir | [Year at Palantir, Forward Deployed Software Engineer Intern ⏳](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | New York, NY (multiple US) | 1mo |
+| LA-Tech.org | [Technical Intern, Software / Cyber / AI (Spring 2027, remote)](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) | Los Angeles, CA / Remote (US) | 1mo |
+| JPMorganChase | [Corporate Analyst Development Program Summer Analyst (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) | New York, NY (multiple US) | 1mo |
+| DTCC | [Information Technology Intern (2027 Summer) 🛂](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | Jersey City, NJ (multiple US) | 1mo |
+| Two Sigma | [AI Research Scientist Intern (MS / PhD)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022) | New York, NY | 1mo |
+| Tower Research Capital | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128) | New York, NY / Chicago, IL | 1mo |
+| Tower Research Capital | [Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334) | New York, NY / Chicago, IL | 1mo |
+| Optiver | [Quantitative Research Intern (PhD, Austin)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/) | Austin, TX | 1mo |
+| Optiver | [Quantitative Research Intern (PhD, Chicago)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/) | Chicago, IL | 1mo |
+| Two Sigma | [Quantitative Researcher Intern](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | New York, NY | 1mo |
+| Optiver | [Software Engineer Intern (Austin)](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | Austin, TX | 1mo |
+| Optiver | [Software Engineer Intern (Chicago)](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | Chicago, IL | 1mo |
+| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) | Chicago, IL | 1mo |
+| IMC Trading | [Software Engineer Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Chicago, IL | 1mo |
+| IMC Trading | [Quantitative Research Intern (Summer 2027, BS / MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | 1mo |
+| IMC Trading | [Machine Learning Research Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago, IL | 1mo |
+| IMC Trading | [Hardware Engineer Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Chicago, IL | 1mo |
+| IMC Trading | [Quantitative Trader Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | 1mo |
+| Bank of America | [Global Technology Summer Analyst, Cybersecurity Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations) | multiple US | 1mo |
+| Bank of America | [Global Technology Summer Analyst, Business Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | multiple US | 1mo |
+| Bank of America | [Quantitative Data Analyst Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | multiple US | 1mo |
+| Susquehanna | [Operations Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10916) | Bala Cynwyd, PA | 1mo |
+| GE Appliances | [Software Engineering Co-op (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | Louisville, KY | 1mo |
+| Dedalus Labs | [Systems Engineer / Product Manager Intern (Summer 2027)](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) | San Francisco, CA | 1mo |
+| ByteDance | [Student Researcher, Multimodal Interaction & World Model (Seed)](https://joinbytedance.com/search/7623548747208739077) | San Jose, CA | 1mo |
+| ByteDance | [Student Researcher, Vision Foundation Model (Seed)](https://joinbytedance.com/search/7623544831999346997) | San Jose, CA | 1mo |
+| Rippling | [Software Engineer Intern, Backend / Full Stack / ML (Winter 2027)](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | San Francisco, CA / New York, NY / Seattle, WA | 1mo |
+| CTGT | [Software Engineering Intern / Research Intern, Interpretability (Summer 2027)](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | San Francisco, CA | 1mo |
+| Virtu Financial | [Quantitative Researcher Intern (2027, Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York, NY | 1mo |
+| Medpace | [Feasibility Informatics Intern / Co-op (Spring 2027)](https://careers.medpace.com/jobs/12803) | Cincinnati, OH | 1mo |
+| Amazon | [Operations Finance Rotational Program Intern 🛂](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | Seattle, WA / Arlington, VA | 2mo |
+| Delta Air Lines | [Reservations Co-op (Spring 2027, data analytics / process improvement)](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | Atlanta, GA | 2mo |
+| Midmark | [Firmware Engineering Co-op (Spring 2027)](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Versailles, OH | 2mo |
+| JPMorganChase | [Markets Summer Analyst (2027, Sales / Trading / Structuring / Digital Markets) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | New York, NY (multiple US) | 2mo |
+| JPMorganChase | [Commercial & Investment Bank Innovation Development Summer Analyst, Product Track (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690743) | Chicago, IL (multiple US) | 2mo |
+| Affinius Capital | [Data Scientist Intern](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | San Antonio, TX | 2mo |
+| Circleback | [Software Engineering Intern (Summer 2027) 🛂](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | San Francisco, CA | 2mo |
+| StepStone Group | [Private Equity Infrastructure & Real Assets Summer Analyst 🛂](https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872890) | New York, NY | 2mo |
+| Voloridge Investment Management | [Quantitative Developer Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | 2mo |
+| Voloridge Investment Management | [Quantitative Research Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | 2mo |
+| GE Aerospace | [Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) | Cincinnati, OH / Lynn, MA | 2mo |
+| Solar Turbines (Caterpillar) | [Gas Compressor Data Analyst Intern 🛂](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | San Diego, CA | 2mo |
+| Anduril | [Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | Costa Mesa, CA (multiple US) | 2mo |
+| TSMC Arizona | [Engineering Intern (12 roles: process, equipment, CIM / software)](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) | Phoenix, AZ | 2mo |
+| GE Appliances | [Digital Technology Intern (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) | Louisville, KY | 2mo |
+| Skydio | [Software Engineer Intern (Fall 2026 / Winter 2027)](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) | San Mateo, CA | 3mo |
+| Stoke Space | [Software Engineer Intern 🇺🇸](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | Kent, WA | 3mo |
+| D. E. Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY | 3mo |
+| D. E. Shaw | [Quantitative Analyst Intern](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY | 3mo |
+| D. E. Shaw | [Quantitative Analyst Intern (PhD)](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY | 3mo |
+| TikTok | [Research Scientist Intern, TikTok Recommendation NextGen LLM (PhD, 2027 Start)](https://lifeattiktok.com/search/7633668061979543813) | San Jose, CA | 3mo |
+| TikTok | [Applied Scientist Intern, Trust & Safety Multimodal Foundation Model (PhD, 2027 Start)](https://lifeattiktok.com/search/7633668456744503557) | San Jose, CA / Seattle, WA | 3mo |
+| ASM | [Software Engineering Intern (Spring 2027)](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) |  | 4mo |
+| TikTok | [Applied Scientist Intern, Business Integrity (PhD, 2027 Start)](https://lifeattiktok.com/search/7631063087262419205) | San Jose, CA | 4mo |
+| TikTok | [Applied Scientist Intern, Monetization GenAI (PhD, 2027 Start)](https://lifeattiktok.com/search/7631062649025857797) | San Jose, CA | 4mo |
+| TikTok | [Applied Scientist Intern, Monetization Technology (PhD, 2027 Start)](https://lifeattiktok.com/search/7629248119245261061) | San Jose, CA | 4mo |
+| TikTok | [Research Scientist Intern, E-commerce Recommendation LLM (PhD, 2027 Start)](https://lifeattiktok.com/search/7629187524074342709) | San Jose, CA / Seattle, WA | 4mo |
+| Citi | [Services Summer Analyst (2027, grad Dec 2027 – May 2028) 🛂](https://jobs.citi.com/job/-/-/287/93724104768) | New York, NY | 4mo |
+| Aquatic Capital | [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | Chicago, IL | 4mo |
+| Aquatic Capital | [Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | Chicago, IL | 4mo |
+| Ellipsis Labs | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | New York, NY | 4mo |
+| BlackRock | [Summer Internship Program, AMERS (all tracks)](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | New York, NY (multiple US) | 7mo |
+| JPMorganChase | [Asset & Wealth Management Risk Summer Analyst (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | Columbus, OH (multiple US) | 7mo |
+| D. E. Shaw | [Systems Engineering Intern](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) | New York, NY | N/A |
+| Citi | [Markets Quantitative Analysis Summer Analyst](https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472) | New York, NY | N/A |
+| Los Alamos National Laboratory | [Computing & AI Division Undergraduate Student (CS / Math / Stats) 🇺🇸 ⏳](https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e) | Los Alamos, NM | N/A |
+| Susquehanna | [Macro Analyst Intern (Summer 2027, June start) 🛂](https://careers.sig.com/jobs/10725) | New York, NY | N/A |
+| Baird | [Equity Research Analyst Intern 🛂](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | Milwaukee, WI | N/A |
+| LufCo | [Summer Intern (CS / Software / Engineering) 🇺🇸](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | Aberdeen, MD | N/A |
+| CloudFit Software | [Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) 🇺🇸](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) | Lynchburg, VA | N/A |
+| Susquehanna | [Quantitative Strategy Developer Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10838) | Bala Cynwyd, PA | N/A |
+| BNP Paribas | [Summer Analyst, Global Markets Sales](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | Boston, MA | N/A |
+| BNP Paribas | [Summer Analyst, Corporate Functions Operations](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) | Jersey City, NJ | N/A |
+| Epic | [Software Developer Intern ⏳](https://careers.epic.com/jobs/intern/) | Verona, WI | N/A |
+| Wipfli | [ERP Tech Consulting Intern](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | Milwaukee, WI (multiple US) | N/A |
+| Cargill | [Operations Management Intern](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | Minneapolis, MN (multiple US) | N/A |
+| Walleye Capital | [Quant Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | N/A |
+| Susquehanna | [Trading System Engineering Intern 🇺🇸](https://careers.sig.com/jobs/10837) | Bala Cynwyd, PA | N/A |
+| Kudu Dynamics | [Software Engineer Intern (1) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | Chantilly, VA | N/A |
+| Kudu Dynamics | [Software Engineer Intern (2) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | Chantilly, VA | N/A |
+| Kudu Dynamics | [Software Engineer Intern (3) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | Chantilly, VA | N/A |
+| Cubist Systematic Strategies | [Quantitative Developer Intern](https://job-boards.greenhouse.io/point72/jobs/7297613002) | New York, NY | N/A |
+| Nash | [Full Stack Engineering Intern 🇺🇸 ⏳](https://www.workatastartup.com/jobs/94993) | San Francisco, CA | N/A |
+| Trata | [Research Scientist Intern ⏳](https://www.workatastartup.com/jobs/94620) | San Francisco, CA / New York, NY | N/A |
+| Naive | [Software Engineer Intern 🇺🇸 ⏳](https://www.workatastartup.com/jobs/94647) | San Francisco, CA / Remote (US) | N/A |
+| Paragon | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | N/A |
+| DimeHealth AI | [Forward Deployed Engineering Intern ⏳](https://www.workatastartup.com/jobs/94211) | New York, NY | N/A |
 | InfiniteQuant | [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181) | New York, NY, United States | 2d |
 | AbbVie | [2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) | North Chicago +2 more | 2d |
 | General Matter | [Summer 2027 Internship - Software Engineering](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | Los Angeles, CA | 3d |
@@ -559,137 +678,21 @@
 | Astranis Space Technologies | [Flight Software Intern - Fall 2026](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | San Francisco, CA | 114d |
 | Dexmate | [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119) | Fremont, CA | 118d |
 | Rainmaker | [Software Engineering Intern](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | El Segundo, CA | 119d |
-| Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 1mo |
-| Susquehanna | [Quantitative Systematic Trading Intern (Master's, Summer 2027)](https://careers.sig.com/jobs/10823) | New York, NY | 1mo |
-| Google | [Software Engineering Intern, BS (Summer 2027)](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/) | Mountain View, CA (multiple US) | 1mo |
-| Uber | [Software Engineering Intern (Summer 2027, Uber Career Prep)](https://jobs.uber.com/en/jobs/300697/) | San Francisco, CA / Seattle, WA / Sunnyvale, CA | 1mo |
-| Western Digital | [Software Engineering Intern (Summer 2027)](https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship) | San Jose, CA | 1mo |
-| Chicago Trading Company | [Quant Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | 1mo |
-| Kearney & Company | [IT Audit Intern (Summer 2027) 🇺🇸](https://careers.kearneyco.com/jobs/5168) | Alexandria, VA (remote) | 1mo |
-| Second Order Effects | [Electrical Engineering Intern (Summer 2027)](https://jobs.gem.com/soeffects/am9icG9zdDqLIuZagE8SU-HqhGf7TGYo) | El Segundo, CA / Redmond, WA | 1mo |
-| The Trade Desk | [Software Engineering Intern (North America, Summer 2027)](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Denver, CO (multiple US) | 1mo |
-| Netic | [Software Engineer Intern, Agent Platform / Full Stack (2026-2027)](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | San Francisco, CA | 1mo |
-| Databricks | [Product Management Intern (Summer 2027)](https://job-boards.greenhouse.io/databricks/jobs/6883068002) | San Francisco, CA | 1mo |
-| Neuralink | [Software Engineer Intern, BCI Applications ⏳](https://job-boards.greenhouse.io/neuralink/jobs/6594422003) | Fremont, CA | 1mo |
-| Western Digital | [Software Engineering Co-op (Winter 2027)](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | Milpitas, CA | 1mo |
-| Point72 | [Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/point72/jobs/7297642002) | New York, NY | 1mo |
-| Capital One | [Product Development Internship Program (Summer 2027)](https://www.capitalonecareers.com/job/-/-/234/97421687312) | McLean, VA / Plano, TX | 1mo |
-| Solar Turbines (Caterpillar) | [IT Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | San Diego, CA | 1mo |
-| Solar Turbines (Caterpillar) | [Business Analyst Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) | San Diego, CA | 1mo |
-| Unison (GE Aerospace) | [Engineering Intern (Summer 2027) 🛂 🇺🇸](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) | Jacksonville, FL | 1mo |
-| Five Rings | [Software Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York, NY | 1mo |
-| Five Rings | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York, NY | 1mo |
-| Old Mission | [Software Engineer Intern (Summer 2027, June Start)](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) | Chicago, IL | 1mo |
-| Akuna Capital | [Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)](https://akunacapital.com/careers/job/8018847/) | Chicago, IL | 1mo |
-| Hudson River Trading | [Software Engineering Intern (Summer 2027, C++ / Python)](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) | New York, NY (multiple) | 1mo |
-| BAE Systems | [Software Engineering Intern I (Summer 2027) 🇺🇸](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) | Nashua, NH | 1mo |
-| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 1mo |
-| Arrowstreet Capital | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Boston, MA | 1mo |
-| Flow Traders | [Quantitative Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | New York, NY | 1mo |
-| Palantir | [Software Engineer Intern (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | New York, NY (multiple US) | 1mo |
-| Palantir | [Software Engineer Intern, Infrastructure (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | New York, NY (multiple US) | 1mo |
-| Palantir | [Software Engineer Intern, Production Infrastructure (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | New York, NY (multiple US) | 1mo |
-| Palantir | [Software Engineer Intern, Defense Tech (Summer 2027, grad 2028)](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | Washington, DC (multiple US) | 1mo |
-| Palantir | [Forward Deployed Software Engineer Intern, Commercial (Summer 2027, grad Dec 2027 / Spring 2028)](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | New York, NY (multiple US) | 1mo |
-| Palantir | [Year at Palantir, Forward Deployed Software Engineer Intern ⏳](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | New York, NY (multiple US) | 1mo |
-| LA-Tech.org | [Technical Intern, Software / Cyber / AI (Spring 2027, remote)](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) | Los Angeles, CA / Remote (US) | 1mo |
-| JPMorganChase | [Corporate Analyst Development Program Summer Analyst (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) | New York, NY (multiple US) | 1mo |
-| DTCC | [Information Technology Intern (2027 Summer) 🛂](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | Jersey City, NJ (multiple US) | 1mo |
-| Two Sigma | [AI Research Scientist Intern (MS / PhD)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022) | New York, NY | 1mo |
-| Tower Research Capital | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128) | New York, NY / Chicago, IL | 1mo |
-| Tower Research Capital | [Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334) | New York, NY / Chicago, IL | 1mo |
-| Optiver | [Quantitative Research Intern (PhD, Austin)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/) | Austin, TX | 1mo |
-| Optiver | [Quantitative Research Intern (PhD, Chicago)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/) | Chicago, IL | 1mo |
-| Two Sigma | [Quantitative Researcher Intern](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | New York, NY | 1mo |
-| Optiver | [Software Engineer Intern (Austin)](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | Austin, TX | 1mo |
-| Optiver | [Software Engineer Intern (Chicago)](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | Chicago, IL | 1mo |
-| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) | Chicago, IL | 1mo |
-| IMC Trading | [Software Engineer Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Chicago, IL | 1mo |
-| IMC Trading | [Quantitative Research Intern (Summer 2027, BS / MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | 1mo |
-| IMC Trading | [Machine Learning Research Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago, IL | 1mo |
-| IMC Trading | [Hardware Engineer Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Chicago, IL | 1mo |
-| IMC Trading | [Quantitative Trader Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | 1mo |
-| Bank of America | [Global Technology Summer Analyst, Cybersecurity Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations) | multiple US | 1mo |
-| Bank of America | [Global Technology Summer Analyst, Business Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | multiple US | 1mo |
-| Bank of America | [Quantitative Data Analyst Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | multiple US | 1mo |
-| Susquehanna | [Operations Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10916) | Bala Cynwyd, PA | 1mo |
-| GE Appliances | [Software Engineering Co-op (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | Louisville, KY | 1mo |
-| Dedalus Labs | [Systems Engineer / Product Manager Intern (Summer 2027)](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) | San Francisco, CA | 1mo |
-| ByteDance | [Student Researcher, Multimodal Interaction & World Model (Seed)](https://joinbytedance.com/search/7623548747208739077) | San Jose, CA | 1mo |
-| ByteDance | [Student Researcher, Vision Foundation Model (Seed)](https://joinbytedance.com/search/7623544831999346997) | San Jose, CA | 1mo |
-| Rippling | [Software Engineer Intern, Backend / Full Stack / ML (Winter 2027)](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | San Francisco, CA / New York, NY / Seattle, WA | 1mo |
-| CTGT | [Software Engineering Intern / Research Intern, Interpretability (Summer 2027)](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | San Francisco, CA | 1mo |
-| Virtu Financial | [Quantitative Researcher Intern (2027, Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York, NY | 1mo |
-| Medpace | [Feasibility Informatics Intern / Co-op (Spring 2027)](https://careers.medpace.com/jobs/12803) | Cincinnati, OH | 1mo |
-| Amazon | [Operations Finance Rotational Program Intern 🛂](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | Seattle, WA / Arlington, VA | 2mo |
-| Delta Air Lines | [Reservations Co-op (Spring 2027, data analytics / process improvement)](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | Atlanta, GA | 2mo |
-| Midmark | [Firmware Engineering Co-op (Spring 2027)](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Versailles, OH | 2mo |
-| JPMorganChase | [Markets Summer Analyst (2027, Sales / Trading / Structuring / Digital Markets) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | New York, NY (multiple US) | 2mo |
-| JPMorganChase | [Commercial & Investment Bank Innovation Development Summer Analyst, Product Track (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690743) | Chicago, IL (multiple US) | 2mo |
-| Affinius Capital | [Data Scientist Intern](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | San Antonio, TX | 2mo |
-| Circleback | [Software Engineering Intern (Summer 2027) 🛂](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | San Francisco, CA | 2mo |
-| StepStone Group | [Private Equity Infrastructure & Real Assets Summer Analyst 🛂](https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872890) | New York, NY | 2mo |
-| Voloridge Investment Management | [Quantitative Developer Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | 2mo |
-| Voloridge Investment Management | [Quantitative Research Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | 2mo |
-| GE Aerospace | [Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) | Cincinnati, OH / Lynn, MA | 2mo |
-| Solar Turbines (Caterpillar) | [Gas Compressor Data Analyst Intern 🛂](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | San Diego, CA | 2mo |
-| Anduril | [Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | Costa Mesa, CA (multiple US) | 2mo |
-| TSMC Arizona | [Engineering Intern (12 roles: process, equipment, CIM / software)](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) | Phoenix, AZ | 2mo |
-| GE Appliances | [Digital Technology Intern (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) | Louisville, KY | 2mo |
-| Skydio | [Software Engineer Intern (Fall 2026 / Winter 2027)](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) | San Mateo, CA | 3mo |
-| Stoke Space | [Software Engineer Intern 🇺🇸](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | Kent, WA | 3mo |
-| D. E. Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY | 3mo |
-| D. E. Shaw | [Quantitative Analyst Intern](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY | 3mo |
-| D. E. Shaw | [Quantitative Analyst Intern (PhD)](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY | 3mo |
-| TikTok | [Research Scientist Intern, TikTok Recommendation NextGen LLM (PhD, 2027 Start)](https://lifeattiktok.com/search/7633668061979543813) | San Jose, CA | 3mo |
-| TikTok | [Applied Scientist Intern, Trust & Safety Multimodal Foundation Model (PhD, 2027 Start)](https://lifeattiktok.com/search/7633668456744503557) | San Jose, CA / Seattle, WA | 3mo |
-| ASM | [Software Engineering Intern (Spring 2027)](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) |  | 4mo |
-| TikTok | [Applied Scientist Intern, Business Integrity (PhD, 2027 Start)](https://lifeattiktok.com/search/7631063087262419205) | San Jose, CA | 4mo |
-| TikTok | [Applied Scientist Intern, Monetization GenAI (PhD, 2027 Start)](https://lifeattiktok.com/search/7631062649025857797) | San Jose, CA | 4mo |
-| TikTok | [Applied Scientist Intern, Monetization Technology (PhD, 2027 Start)](https://lifeattiktok.com/search/7629248119245261061) | San Jose, CA | 4mo |
-| TikTok | [Research Scientist Intern, E-commerce Recommendation LLM (PhD, 2027 Start)](https://lifeattiktok.com/search/7629187524074342709) | San Jose, CA / Seattle, WA | 4mo |
-| Citi | [Services Summer Analyst (2027, grad Dec 2027 – May 2028) 🛂](https://jobs.citi.com/job/-/-/287/93724104768) | New York, NY | 4mo |
-| Aquatic Capital | [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | Chicago, IL | 4mo |
-| Aquatic Capital | [Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | Chicago, IL | 4mo |
-| Ellipsis Labs | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | New York, NY | 4mo |
-| BlackRock | [Summer Internship Program, AMERS (all tracks)](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | New York, NY (multiple US) | 7mo |
-| JPMorganChase | [Asset & Wealth Management Risk Summer Analyst (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | Columbus, OH (multiple US) | 7mo |
-| D. E. Shaw | [Systems Engineering Intern](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) | New York, NY | N/A |
-| Citi | [Markets Quantitative Analysis Summer Analyst](https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472) | New York, NY | N/A |
-| Los Alamos National Laboratory | [Computing & AI Division Undergraduate Student (CS / Math / Stats) 🇺🇸 ⏳](https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e) | Los Alamos, NM | N/A |
-| Susquehanna | [Macro Analyst Intern (Summer 2027, June start) 🛂](https://careers.sig.com/jobs/10725) | New York, NY | N/A |
-| Baird | [Equity Research Analyst Intern 🛂](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | Milwaukee, WI | N/A |
-| LufCo | [Summer Intern (CS / Software / Engineering) 🇺🇸](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | Aberdeen, MD | N/A |
-| CloudFit Software | [Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) 🇺🇸](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) | Lynchburg, VA | N/A |
-| Susquehanna | [Quantitative Strategy Developer Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10838) | Bala Cynwyd, PA | N/A |
-| BNP Paribas | [Summer Analyst, Global Markets Sales](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | Boston, MA | N/A |
-| BNP Paribas | [Summer Analyst, Corporate Functions Operations](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) | Jersey City, NJ | N/A |
-| Epic | [Software Developer Intern ⏳](https://careers.epic.com/jobs/intern/) | Verona, WI | N/A |
-| Wipfli | [ERP Tech Consulting Intern](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | Milwaukee, WI (multiple US) | N/A |
-| Cargill | [Operations Management Intern](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | Minneapolis, MN (multiple US) | N/A |
-| Walleye Capital | [Quant Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | N/A |
-| Susquehanna | [Trading System Engineering Intern 🇺🇸](https://careers.sig.com/jobs/10837) | Bala Cynwyd, PA | N/A |
-| Kudu Dynamics | [Software Engineer Intern (1) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | Chantilly, VA | N/A |
-| Kudu Dynamics | [Software Engineer Intern (2) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | Chantilly, VA | N/A |
-| Kudu Dynamics | [Software Engineer Intern (3) 🇺🇸](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | Chantilly, VA | N/A |
-| Cubist Systematic Strategies | [Quantitative Developer Intern](https://job-boards.greenhouse.io/point72/jobs/7297613002) | New York, NY | N/A |
-| Nash | [Full Stack Engineering Intern 🇺🇸 ⏳](https://www.workatastartup.com/jobs/94993) | San Francisco, CA | N/A |
-| Trata | [Research Scientist Intern ⏳](https://www.workatastartup.com/jobs/94620) | San Francisco, CA / New York, NY | N/A |
-| Naive | [Software Engineer Intern 🇺🇸 ⏳](https://www.workatastartup.com/jobs/94647) | San Francisco, CA / Remote (US) | N/A |
-| Paragon | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | N/A |
-| DimeHealth AI | [Forward Deployed Engineering Intern ⏳](https://www.workatastartup.com/jobs/94211) | New York, NY | N/A |
 | RE/SPEC Inc. | [Student Software Engineering Intern](https://jobs.smartrecruiters.com/RESPECInc/744000012676985) | Albuquerque, NM | 11m |
 | Codeage | [Web Developer Intern - WordPress and ...](https://jobs.smartrecruiters.com/Codeage/743999669081604) | Beverly Hills, CA | 11m |
 | Diversified Automation | [Software Engineering Co-op](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc) | Louisville, KY | 12m |
-| Deepgram | [Software Engineering- Internship (Fal...](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | USA Remote | 12m |
 | SoloPulse | [Software Engineer Intern/Co-Op - Fall...](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) | Peachtree Corners, GA | 12m |
 | SoloPulse | [Systems Engineering Intern](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) | Peachtree Corners, GA | 12m |
+| Deepgram | [Software Engineering- Internship (Fal...](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | USA Remote | 12m |
 | Rainmaker | [Software Engineering Intern](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | El Segundo, CA | 12m |
 | Palantir | [Year at Palantir - Forward Deployed S...](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | Chicago, IL | 12m |
 | Palantir | [Year at Palantir - Forward Deployed S...](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | New York, NY | 12m |
 | Palantir | [Year at Palantir - Forward Deployed S...](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | Washington, D.C. | 12m |
-| Bosch Group | [Internship Vehicle Thermal Systems En...](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) | Farmington Hills, MI | 12m |
 | Layup Parts | [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53) | Huntington Beach, CA | 12m |
+| Bosch Group | [Internship Vehicle Thermal Systems En...](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) | Farmington Hills, MI | 12m |
+| Hermeus | [Software Engineering Intern (Command ...](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | Atlanta, GA | 12m |
+| Hermeus | [Flight Software Engineering Intern - ...](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | 12m |
+| Hermeus | [Propulsion Test Engineering Intern - ...](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | Jacksonville, FL | 12m |
 | Persona AI | [Autonomy Software Engineering Interns...](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) | Houston, TX | 12m |
 | Persona AI | [Teleoperation Software Engineering In...](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c) | Pensacola, FL or Houst... | 12m |
 | Gritt Robotics | [ML & Cloud Infrastructure Engineer In...](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | South San Francisco | 12m |
@@ -697,47 +700,44 @@
 | Ramp | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | New York, NY ( | 12m |
 | N1 | [Software Engineer Intern (Fullstack)](https://jobs.ashbyhq.com/N1/298585c3-96b1-4728-8d37-31482f85a064) | New York City | 12m |
 | Mechanize | [Software Engineering Intern](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) | San Francisco | 12m |
-| Hermeus | [Software Engineering Intern (Command ...](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | Atlanta, GA | 12m |
-| Hermeus | [Flight Software Engineering Intern - ...](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | 12m |
-| Hermeus | [Propulsion Test Engineering Intern - ...](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | Jacksonville, FL | 12m |
 | kos.ai | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) | San Francisco | 12m |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose | 12m |
 | Ellipsis Labs | [Software Engineer - 2027 Interns](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | New York, New York | 12m |
 | Belvedere Trading | [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | Chicago, Illinois | 12m |
 | Base Power | [Software Engineering Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) | Austin, TX | 12m |
-| Beacon Software | [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | San Francisco, CA | 12m |
 | Centerfield | [Frontend Engineer Intern (6 month int...](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4) | Los Angeles, California | 12m |
+| Beacon Software | [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | San Francisco, CA | 12m |
 | Circleback | [Software Engineering Intern (Summer 2...](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) | San Francisco | 12m |
 | Auctor | [Software Engineering Intern](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) | New York | 12m |
 | ByteDance | [Video/Image AI/ML Software Engineer I...](https://joinbytedance.com/search/7670354329765464373) | San Diego, California | 16m |
 | ByteDance | [GPU/AI Application Platform Engineer ...](https://joinbytedance.com/search/7668475133954197765) | San Jose, California | 16m |
 | ByteDance | [Multi-Cloud CDN Scheduling Platform E...](https://joinbytedance.com/search/7673636205233490181) | San Jose, California | 16m |
+| Brunswick | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | Tulsa, OK | 1d |
 | HP Inc | [Enterprise Operations Software Intern...](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) | Spring, Texas, United ... | 1d |
 | Microsoft | [AI Software Engineering Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) | Redmond, Washington, U... | 1d |
-| Brunswick | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | Tulsa, OK | 1d |
 | Zipline | [Software Engineer Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7929236003) | South San Francisco, C... | 1d |
 | LLNL | [National Security Engineering Divisio...](https://jobs.smartrecruiters.com/llnl/3743990014731656) | Livermore, CA | 1d |
 | LLNL | [National Security Engineering Divisio...](https://jobs.smartrecruiters.com/llnl/3743990014731646) | Livermore, CA | 1d |
 | Databricks | [Software Engineering Intern (2027 Sta...](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington | 1d |
-| AMD | [2027 Masters Software Engineer Intern...](https://campus-amd.icims.com/jobs/91180/login) | Austin, TX, United States | 1d |
-| AMD | [2027 Undergrad Software Engineer Inte...](https://campus-amd.icims.com/jobs/90947/login) | Austin, TX, United States | 1d |
-| AMD | [2027 Undergrad Software Engineer Inte...](https://campus-amd.icims.com/jobs/90891/login) | Santa Clara, CA, Unite... | 1d |
-| Crowe | [Cybersecurity Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Cybersecurity-Intern_R-71031) | Chicago, IL | 2d |
+| AMD | [2027 Masters Software Engineer Intern...](https://campus-amd.icims.com/jobs/91180/login) | Austin, TX, United States | 2d |
+| AMD | [2027 Undergrad Software Engineer Inte...](https://campus-amd.icims.com/jobs/90947/login) | Austin, TX, United States | 2d |
+| AMD | [2027 Undergrad Software Engineer Inte...](https://campus-amd.icims.com/jobs/90891/login) | Santa Clara, CA, Unite... | 2d |
 | Sony | [Intern, Information Security Risk and...](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512) | New York | 2d |
+| Crowe | [Cybersecurity Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Cybersecurity-Intern_R-71031) | Chicago, IL | 2d |
 | Zipline | [Software Engineer Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7907191003) | South San Francisco, C... | 2d |
 | AbbVie | [2027 Business Technology Solutions In...](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) | North Chicago, IL | 2d |
-| Johnson & Johnson | [Spring 2027 Quality Engineering Co-op](https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937) | Cornelia, Georgia, Uni... | 2d |
-| Freeform | [Software Engineer (New Grad Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) | Los Angeles, CA (On-site) | 2d |
 | NVIDIA | [NVIDIA 2027 Internships: Systems Soft...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | US, CA, Santa Clara | 3d |
 | NVIDIA | [NVIDIA 2027 Internships: Software Eng...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | 3d |
-| General Matter | [Summer 2027 Internship - Software Eng...](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | Los Angeles, CA | 3d |
 | LiveRamp | [Co-Op, DevOps Engineer](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095) | San Francisco | 3d |
+| Johnson & Johnson | [Spring 2027 Quality Engineering Co-op](https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937) | Cornelia, Georgia, Uni... | 3d |
+| Freeform | [Software Engineer (New Grad Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) | Los Angeles, CA (On-site) | 3d |
+| General Matter | [Summer 2027 Internship - Software Eng...](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | Los Angeles, CA | 3d |
 | N1 | [Software Engineer Intern (Backend, Rust)](https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6) | New York City | 3d |
 | Microsoft | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, Washington, U... | 3d |
+| Draper | [Full Stack Web Development Co-Op (Spr...](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1) | Cambridge, MA | 4d |
 | LPL Financial | [Intern 2027 - Cybersecurity Analyst](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Cybersecurity_R-052919) | Fort MillCharlotte | 4d |
 | LPL Financial | [Intern 2027- Platform Engineer](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1) | Fort MillCharlotte | 4d |
 | LPL Financial | [Intern 2027- Software Engineer](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | Fort MillCharlotte | 4d |
-| Draper | [Full Stack Web Development Co-Op (Spr...](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1) | Cambridge, MA | 4d |
 | GardaWorld | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | New York, New York, Un... | 4d |
 | Zipline | [Enterprise Systems Software Engineer ...](https://www.zipline.com/open-roles?gh_jid=7893926003) | South San Francisco, C... | 4d |
 | Intel | [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) | US, California, Folsom | 5d |
@@ -759,9 +759,9 @@
 | Northwestern Mutual | [Analytics Internship](https://jobs.smartrecruiters.com/NorthwesternMutual/85751677) | Milwaukee, WI | 11m |
 | Northwestern Mutual | [IT Business Analyst Internship](https://jobs.smartrecruiters.com/NorthwesternMutual/85751624) | Milwaukee, WI | 11m |
 | Eurofins | [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | Lancaster, PA | 11m |
-| Persona AI | [Machine Learning Intern, Manipulation](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) | Houston, TX | 12m |
 | Institute for Foundation Models | [AI Research Internship - LLM](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f) | Sunnyvale, CA | 12m |
 | Institute for Foundation Models | [AI Research Internship - WM](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678) | Sunnyvale, CA | 12m |
+| Persona AI | [Machine Learning Intern, Manipulation](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) | Houston, TX | 12m |
 | Modal | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | New York | 12m |
 | Human Computer Lab | [Intern - Software/ML Engineer](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) | San Francisco | 12m |
 | Eight Sleep | [AI/ML Research Internship](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) | San Francisco | 12m |
@@ -769,14 +769,14 @@
 | ByteDance | [Machine Learning Engineer Intern (E-C...](https://joinbytedance.com/search/7675478684795881781) | San Jose, California | 16m |
 | ByteDance | [Visual Generation & Multimodal Evalua...](https://joinbytedance.com/search/7672392998231050549) | Seattle, Washington | 16m |
 | ByteDance | [Machine Learning Engineer Intern (AML...](https://joinbytedance.com/search/7672382828525832501) | Seattle, Washington | 16m |
-| AMD | [2027 Undergrad Data Analyst Intern/co-op](https://campus-amd.icims.com/jobs/91175/login) | Austin, TX, United States | 1d |
-| AMD | [2027 Masters Data Analyst Intern/co-op](https://campus-amd.icims.com/jobs/91183/login) | Austin, TX, United States | 1d |
-| AMD | [2027 Undergrad Data Analyst Intern/co-op](https://campus-amd.icims.com/jobs/90895/login) | Santa Clara, CA, Unite... | 1d |
+| AMD | [2027 Undergrad Data Analyst Intern/co-op](https://campus-amd.icims.com/jobs/91175/login) | Austin, TX, United States | 2d |
+| AMD | [2027 Masters Data Analyst Intern/co-op](https://campus-amd.icims.com/jobs/91183/login) | Austin, TX, United States | 2d |
+| AMD | [2027 Undergrad Data Analyst Intern/co-op](https://campus-amd.icims.com/jobs/90895/login) | Santa Clara, CA, Unite... | 2d |
 | Crowe | [Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) | Chicago, IL | 2d |
 | Crowe | [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | Chicago IL USA | 2d |
 | Crowe | [Data Analytics Developer Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) | Chicago IL USA | 2d |
-| Notion | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | San Francisco, California | 3d |
 | NVIDIA | [NVIDIA 2027 Internships: Ph.D. Resear...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | US, CA, Santa Clara | 3d |
+| Notion | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | San Francisco, California | 3d |
 | American Fidelity | [Agentic AI Internship (OKC Local Only)](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016) | Oklahoma City, Oklahoma | 5d |
 | KeyBank | [2027 Summer Analytics and Quantitativ...](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | Cleveland, OH | 5d |
 | Vertiv | [Planning Analytics Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) | Westerville, OH, Unite... | 1w |
@@ -786,10 +786,10 @@
 | Motorola Solutions | [Supply Chain Applied AI Engineering I...](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Applied-AI-Engineering-Intern_R67461) | Chicago, IL, More... | 2w |
 | Postman | [AI Engineer, Internship - Summer 2026...](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, California, ... | 3w |
 | Nelnet | [Agentic AI Intern- Marketing and Comm...](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Agentic-AI-Intern--Marketing-and-Communications_R22919) | Lincoln, NE | 3w |
+| InterDigital | [Generative AI Implementation Intern](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093) | Conshohocken, PA | 1mo |
 | Ardian | [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | New York | 1mo |
 | KION Group | [AI Internships](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1) | Wauwatosa, WI, United ... | 1mo |
 | Marmon Holdings | [Data Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | Milwaukee, WI | 1mo |
-| InterDigital | [Generative AI Implementation Intern](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093) | Conshohocken, PA | 1mo |
 | Jump Trading | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | 1mo |
 | Lucid Motors | [Data Analyst Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007) | Amsterdam, NH | 2mo |
 | Evolver | [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | Palo Alto, CA | 3mo |
@@ -810,7 +810,7 @@
 | RE/SPEC Inc. | [Student Engineering Intern - Cavern G...](https://jobs.smartrecruiters.com/RESPECInc/744000107082695) | Rapid City, SD | 11m |
 | Bosch Group | [2026 Mechanical Engineering Internati...](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) | Charleston, SC | 11m |
 | Bosch Group | [Mechanical Design Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000123481879) | Fort Lauderdale, FL | 11m |
-| Bosch Group | [Electronics Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) | Fort Lauderdale, FL | 12m |
+| Bosch Group | [Electronics Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) | Fort Lauderdale, FL | 11m |
 | Diversified Automation | [Hardware Engineering Co-Op](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146) | Louisville, KY | 12m |
 | Xsolla | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | Los Angeles, United St... | 12m |
 | Xsolla | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | Raleigh, United States | 12m |
@@ -818,14 +818,14 @@
 | Rainmaker | [Electrical Engineering Intern - Fall](https://jobs.lever.co/make-rain/3d4f859f-f2dd-4f2d-b15b-675e0d62a37b) | El Segundo, CA | 12m |
 | Rainmaker | [Mechanical Engineering Intern - Fall](https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd) | El Segundo, CA | 12m |
 | Layup Parts | [Electrical Engineering Intern](https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa) | Huntington Beach, CA | 12m |
+| Hermeus | [Test and Operations Engineering Inter...](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | Los Angeles, CA | 12m |
+| Hermeus | [Manufacturing Engineering Intern - Fa...](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) | Los Angeles, CA | 12m |
+| Hermeus | [Mechanical Engineering Intern - Fall...](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | Los Angeles, CA | 12m |
 | Persona AI | [Electrical Engineering Intern](https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed) | Pensacola, FL or Houst... | 12m |
 | Persona AI | [Reinforcement Learning Engineering In...](https://jobs.ashbyhq.com/persona.ai/2a136483-0d0c-4de3-a433-d4878b75dfcb) | Pensacola, FL or Houst... | 12m |
 | Skydio | [Electrical Engineer Intern](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee) | San Mateo, California,... | 12m |
 | Reframe Systems | [Mechanical Engineer (Spring 2027 Co-op)](https://jobs.ashbyhq.com/reframesystems/f5275832-8373-4971-b5f6-6aaececcb061) | Andover, MA | 12m |
 | Odin Dynamics | [Fall Engineering Intern](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d) | Los Angeles | 12m |
-| Hermeus | [Test and Operations Engineering Inter...](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | Los Angeles, CA | 12m |
-| Hermeus | [Manufacturing Engineering Intern - Fa...](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) | Los Angeles, CA | 12m |
-| Hermeus | [Mechanical Engineering Intern - Fall...](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | Los Angeles, CA | 12m |
 | Mach Industries | [Fall 2026 Engineering Internship](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) | Huntington Beach, CA | 12m |
 | Human Computer Lab | [Intern - Electrical Engineer](https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4) | San Francisco | 12m |
 | Human Computer Lab | [Intern - Mechanical Engineer](https://jobs.ashbyhq.com/human-computer-lab/63a06836-54f4-4475-9e03-007ce5afc04c) | San Francisco | 12m |
@@ -835,13 +835,13 @@
 | Base Power | [Firmware Engineering Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) | Austin, TX | 12m |
 | Base Power | [Manufacturing Controls Engineering In...](https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d) | Austin, TX | 12m |
 | Allium | [Engineering Intern - General / AI](https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e) | New York | 12m |
-| Hitachi | [2027 Summer Electrical Engineering In...](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Electrical-Engineering-Intern--Raleigh_R0142463) | Raleigh, North Carolin... | 51m |
+| Hitachi | [2027 Summer Electrical Engineering In...](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Electrical-Engineering-Intern--Raleigh_R0142463) | Raleigh, North Carolin... | 1h |
+| Brunswick | [Transducer Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320) | Tulsa, OK | 1d |
+| Brunswick | [Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312) | Tulsa, OK | 1d |
 | HP Inc | [Enterprise Operations Engineering Int...](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Engineering-Internship_3166958-1) | Spring, Texas, United ... | 1d |
 | Moog | [Intern, Electrical Engineering](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569) | Buffalo, NY | 1d |
 | General Matter | [Summer 2027 Internship - Mechanical E...](https://job-boards.greenhouse.io/generalmatter/jobs/5377107008) | South Bay, Los Angeles | 1d |
 | Analog Devices | [Process Sustaining Engineering Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1) | Chelmsford Alpha, MA | 1d |
-| Brunswick | [Transducer Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320) | Tulsa, OK | 1d |
-| Brunswick | [Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312) | Tulsa, OK | 1d |
 | Formlabs | [Electrical Engineering Intern (Winter...](https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283) | Somerville, MA | 1d |
 | General Matter | [Summer 2027 Internship - Electrical E...](https://job-boards.greenhouse.io/generalmatter/jobs/5376639008) | Los Angeles, CA | 1d |
 | Vertiv | [Engineering Intern (Summer 2027)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279132) | Delaware, OH, United S... | 1d |
@@ -849,27 +849,27 @@
 | WSP | [Overhead Transmission Line Design Eng...](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93368) | Saint Louis, MO, Unite... | 1d |
 | WSP | [Electrical Engineering (ESSP) Intern ...](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93546) | Ann Arbor, MI, United ... | 1d |
 | Stantec | [Civil Engineering Intern/Co-op - Tran...](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007331) | New York, NY, United S... | 1d |
-| AMD | [2027 PhD Research Engineering Intern/...](https://campus-amd.icims.com/jobs/90926/login) | Austin, TX, United States | 1d |
-| AMD | [2027 Undergrad Product Development En...](https://campus-amd.icims.com/jobs/90790/login) | Austin, TX, United States | 1d |
-| AMD | [2027 Masters Product Development Engi...](https://campus-amd.icims.com/jobs/91230/login) | Austin, TX, United States | 1d |
-| Zipline | [Maintenance Tool Engineering Intern (...](https://www.zipline.com/open-roles?gh_jid=7918888003) | Esparto, California, USA | 1d |
-| Amentum | [Engineering Intern Fall Semester 2026](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Engineering-Intern-Fall-Semester-2026_R0168401) | Scoville, ID | 2d |
-| Zipline | [Maintenance Tool Engineering Intern (...](https://www.zipline.com/open-roles?gh_jid=7909945003) | Esparto, California, USA | 2d |
-| Eversource Energy | [Asset Management Technology: Engineer...](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600) | Hartford, CT | 2d |
+| AMD | [2027 PhD Research Engineering Intern/...](https://campus-amd.icims.com/jobs/90926/login) | Austin, TX, United States | 2d |
+| AMD | [2027 Undergrad Product Development En...](https://campus-amd.icims.com/jobs/90790/login) | Austin, TX, United States | 2d |
+| AMD | [2027 Masters Product Development Engi...](https://campus-amd.icims.com/jobs/91230/login) | Austin, TX, United States | 2d |
 | Leidos | [Robotics Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159) | Huntsville, AL | 2d |
 | Leidos | [Engineering Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691) | Huntsville, AL | 2d |
+| Zipline | [Maintenance Tool Engineering Intern (...](https://www.zipline.com/open-roles?gh_jid=7918888003) | Esparto, California, USA | 2d |
+| Eversource Energy | [Asset Management Technology: Engineer...](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600) | Hartford, CT | 2d |
+| Amentum | [Engineering Intern Fall Semester 2026](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Engineering-Intern-Fall-Semester-2026_R0168401) | Scoville, ID | 2d |
+| Zipline | [Maintenance Tool Engineering Intern (...](https://www.zipline.com/open-roles?gh_jid=7909945003) | Esparto, California, USA | 2d |
 | Zipline | [Software Systems Validation Intern (S...](https://www.zipline.com/open-roles?gh_jid=7893955003) | South San Francisco, C... | 2d |
-| Freeform | [Electrical Engineering Intern (Summer...](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003) | Los Angeles, CA (On-site) | 2d |
-| Freeform | [Manufacturing Engineering Intern (Sum...](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) | Los Angeles, CA (On-site) | 2d |
-| Freeform | [Process Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) | Los Angeles, CA (On-site) | 2d |
 | NVIDIA | [NVIDIA 2027 Internships: Hardware Eng...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | US, CA, Santa Clara | 3d |
+| Freeform | [Electrical Engineering Intern (Summer...](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003) | Los Angeles, CA (On-site) | 3d |
+| Freeform | [Manufacturing Engineering Intern (Sum...](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) | Los Angeles, CA (On-site) | 3d |
+| Freeform | [Process Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) | Los Angeles, CA (On-site) | 3d |
 | General Matter | [Summer 2027 Internship - Electrical E...](https://job-boards.greenhouse.io/generalmatter/jobs/5376052008) | Los Angeles, CA | 3d |
 | Curtiss-Wright | [Project Engineering Intern](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Project-Engineering-Intern_JR13137-1) | East Farmingdale, NY | 3d |
 | Vertiv | [Mechanical/Thermal Engineering Intern...](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279133) | Pelzer, SC, United States | 3d |
 | Vertiv | [Mechanical/Thermal Engineering Intern...](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279134) | Pelzer, SC, United States | 3d |
-| Marmon Holdings | [Engineering Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern_JR0000045242-3) | Chicago, IL | 4d |
 | Nidec | [Electrical Engineering Co-op](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Electrical-Engineering-Co-op_R0017331) | North America/USA/Arka... | 4d |
 | Brunswick | [Electrical Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Electrical-Engineer-Intern_JR-050891) | Edgewater, FL | 4d |
+| Marmon Holdings | [Engineering Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern_JR0000045242-3) | Chicago, IL | 4d |
 | Amentum | [Mechanical Engineering Intern](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1) | Scoville, ID | 4d |
 | onsemi | [Fall 2026 - Tax AI and Automation Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307) | Scottsdale, AZ, United... | 4d |
 | Intuitive | [Computer Vision Engineering Intern - ...](https://jobs.smartrecruiters.com/Intuitive/744000133458290) | Sunnyvale, CA | 5d |
@@ -887,13 +887,13 @@
 | Palantir | [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | New York, NY | 12m |
 | Palantir | [Product Designer, Internship - US Gov...](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | New York, NY | 12m |
 | Palantir | [Product Designer, Internship - US Gov...](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | Palo Alto, CA | 12m |
+| Field AI | [Robotics Research Intern, Robot Learn...](https://jobs.lever.co/field-ai/a03d3102-4ebf-4557-9e0e-537ead53e24f) | Pittsburgh, PA | 12m |
+| Field AI | [Robotics Research Internship-Locomoti...](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f) | Irvine, CA | 12m |
+| Field AI | [Robotics Research Internship, Humanoi...](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) | Boston, MA | 12m |
 | Yotta Labs | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | United States | 12m |
 | Tessera Labs | [Product Manager, Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544) | San Jose | 12m |
 | Skydio | [Product Design Engineer Intern](https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182) | San Mateo, California,... | 12m |
 | Physical Intelligence | [Research Internships](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076) | San Francisco | 12m |
-| Field AI | [Robotics Research Intern, Robot Learn...](https://jobs.lever.co/field-ai/a03d3102-4ebf-4557-9e0e-537ead53e24f) | Pittsburgh, PA | 12m |
-| Field AI | [Robotics Research Internship-Locomoti...](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f) | Irvine, CA | 12m |
-| Field AI | [Robotics Research Internship, Humanoi...](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) | Boston, MA | 12m |
 | CertiK | [Security Research Internship](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | New York, NY / Seattl... | 12m |
 | Applied Intuition | [Research Intern - Reinforcement Learn...](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale | 12m |
 | Applied Intuition | [Research Intern - 3D Vision and Gener...](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) | Sunnyvale | 12m |
@@ -901,18 +901,19 @@
 | ByteDance | [Research Scientist Intern (Multimedia...](https://joinbytedance.com/search/7670354800621603125) | San Diego, California | 16m |
 | ByteDance | [AI/LLM Network Research Intern (High ...](https://joinbytedance.com/search/7670281454740818181) | Seattle, Washington | 16m |
 | ByteDance | [AI/LLM Network Research Intern (High ...](https://joinbytedance.com/search/7669969771686775045) | San Jose, California | 16m |
-| Analog Devices | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA | 1d |
 | Brunswick | [Engineering Test Lab Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Lowell-MI/Engineering-Test-Lab-Intern_JR-051267) | Lowell, MI | 1d |
+| Analog Devices | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA | 1d |
 | Texas Instruments | [Layout Design Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) | United States | 1d |
 | Vertiv | [Product Management Intern - Product M...](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047) | Delaware, OH, United S... | 1d |
-| AMD | [2027 Undergrad Hardware Design Verifi...](https://campus-amd.icims.com/jobs/90811/login) | San Jose, CA, United S... | 1d |
-| AMD | [2027 Masters Hardware Design Verifica...](https://campus-amd.icims.com/jobs/90810/login) | San Jose, CA, United S... | 1d |
-| Rilla | [Product Design Intern](https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae) | New York City | 1d |
+| AMD | [2027 Undergrad Hardware Design Verifi...](https://campus-amd.icims.com/jobs/90811/login) | San Jose, CA, United S... | 2d |
+| AMD | [2027 Masters Hardware Design Verifica...](https://campus-amd.icims.com/jobs/90810/login) | San Jose, CA, United S... | 2d |
+| Rilla | [Product Design Intern](https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae) | New York City | 2d |
 | Amazon.com Services LLC - A57 | [Product Manager Technical (PMT) Inter...](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, WA | 2d |
+| NVIDIA | [NVIDIA 2027 Internships: Digital Circ...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | US, CA, Santa Clara | 3d |
 | NVIDIA | [NVIDIA 2027 Internships: Hardware ASI...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | US, CA, Santa Clara | 3d |
 | NVIDIA | [NVIDIA 2027 Internships: Mixed Signal...](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502) | US, CA, Santa Clara | 3d |
-| MKS Instruments | [Fall 2026 Technical Product Marketing...](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/Fall-2026-Technical-Product-Marketing-Undergraduate-Intern_R21428) | Irvine, CA | 3d |
 | Leidos | [Transportation Engineering Lab Intern](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00189519) | McLean, VA | 3d |
+| MKS Instruments | [Fall 2026 Technical Product Marketing...](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/Fall-2026-Technical-Product-Marketing-Undergraduate-Intern_R21428) | Irvine, CA | 3d |
 | LPL Financial | [Intern 2027 - Product Analyst](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | Fort MillCharlotte | 4d |
 | Brunswick | [Industrial Design Intern -BBGTC](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Industrial-Design-Intern--BBGTC_JR-051125) | Edgewater, FL | 5d |
 | Toyota Research Institute | [Robotics Research Intern - Post-Training](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0) | Los Altos, CA | 5d |
@@ -925,11 +926,11 @@
 | Varda Space | [Biologics Formulation Research Intern...](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) | El Segundo, California... | 2w |
 | ABB | [Instructional Design- Fall 2026](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/Instructional-Design--Fall-2026_JR00042028) | USA, TN, Memphis | 3w |
 | Cloudflare | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | Austin, TX | 3w |
+| Astreya | [AI Infrastructure DC Design Intern](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746) | Remote, CA | 1mo |
+| Astreya | [AI Infrastructure DC Design Intern](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747) | Remote, CA | 1mo |
 | Menasha Corporation | [Custom Packaging Design Engineer Co-O...](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Fall-2027-_R12881) | Piedmont, South Carolina | 1mo |
 | Menasha Corporation | [Custom Packaging Design Engineer Co-O...](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12880) | Piedmont, South Carolina | 1mo |
 | Menasha Corporation | [Custom Packaging Design Engineer Co-O...](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Northwood-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Fall-2027-_R12874) | Northwood, Ohio | 1mo |
-| Astreya | [AI Infrastructure DC Design Intern](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746) | Remote, CA | 1mo |
-| Astreya | [AI Infrastructure DC Design Intern](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747) | Remote, CA | 1mo |
 | NXP | [Digital Physical Design (P&R) Intern](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Chandler | 1mo |
 | Appian | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243) | McLean, Virginia | 1mo |
 | Akuna Capital | [Quantitative Research Intern, Summer ...](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago, IL | 1mo |
@@ -961,29 +962,29 @@
 | Eurofins | [Business Support and Finance Interns...](https://jobs.smartrecruiters.com/Eurofins/743999767858594) | Lancaster, PA | 11m |
 | Bosch Group | [Logistics/Supply Chain Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141722235) | Grand Rapids, MI | 12m |
 | Mercedes-Benz R&D North America | [​​AI Program Manager Intern​](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) | San Jose, CA | 12m |
-| MatX | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) | Mountain View ( | 12m |
-| Etched | [Finance Intern](https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553) | San Jose | 12m |
 | Crest Industries | [Finance Internship](https://jobs.lever.co/crestoperations/a4e1fa07-80f5-4a7d-989e-b755a7ac7d7e) | Pineville, Louisiana | 12m |
 | Crest Industries | [Mid-State Accounting Intern](https://jobs.lever.co/crestoperations/b155c903-f65d-489b-8ea0-d959af22c481) | Alexandria, Louisiana | 12m |
 | Crest Industries | [Accounting Internship](https://jobs.lever.co/crestoperations/0c3cb17a-06f9-43aa-a623-c3588544f606) | Pineville, Louisiana | 12m |
+| MatX | [Laboratory Operations Intern](https://jobs.ashbyhq.com/matx/d74c72e7-49ec-4a04-9405-04ef0f0d87c6) | Mountain View ( | 12m |
+| Etched | [Finance Intern](https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553) | San Jose | 12m |
 | Belvedere Trading | [Quantitative Trading Intern - Summer ...](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | Chicago, Illinois | 12m |
 | Belvedere Trading | [Quantitative Trading Intern - Winter ...](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) | Chicago, Illinois | 12m |
 | ByteDance | [AI Creator Operations Intern (CapCut)...](https://joinbytedance.com/search/7673715653065525509) | Los Angeles, California | 16m |
 | Oshkosh Corporation | [Finance Intern - Year-Round Rotation ...](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Finance-Rotation-Inten_R45303) | Hagerstown, Maryland, ... | 1d |
-| Zipline | [Technical Program Manager Intern (Sum...](https://www.zipline.com/open-roles?gh_jid=7904471003) | South San Francisco, C... | 1d |
 | Brunswick | [Supply Chain Co-op](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Supply-Chain-Co-op_JR-051252) | Fond du Lac, WI | 1d |
-| AMD | [Summer 2027 Masters Finance Intern](https://campus-amd.icims.com/jobs/91238/login) | Austin, TX, United States | 1d |
-| AMD | [Summer 2027 Undergrad Finance Intern](https://campus-amd.icims.com/jobs/91234/login) | Austin, TX, United States | 1d |
-| AMD | [Summer 2027 Undergrad Finance Intern](https://campus-amd.icims.com/jobs/91232/login) | Santa Clara, CA, Unite... | 1d |
+| Zipline | [Technical Program Manager Intern (Sum...](https://www.zipline.com/open-roles?gh_jid=7904471003) | South San Francisco, C... | 1d |
+| AMD | [Summer 2027 Masters Finance Intern](https://campus-amd.icims.com/jobs/91238/login) | Austin, TX, United States | 2d |
+| AMD | [Summer 2027 Undergrad Finance Intern](https://campus-amd.icims.com/jobs/91234/login) | Austin, TX, United States | 2d |
+| AMD | [Summer 2027 Undergrad Finance Intern](https://campus-amd.icims.com/jobs/91232/login) | Santa Clara, CA, Unite... | 2d |
 | Crowe | [Risk Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Risk-Intern_R-71052) | Chicago, IL | 2d |
 | Crowe | [Third Party Risk Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Third-Party-Risk-Intern_R-71033) | Chicago, IL | 2d |
 | Crowe | [Forensic Accounting Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Forensic-Accounting-Intern_R-71605) | Chicago, IL | 2d |
 | Bosch Group | [Venture Capital Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144612115) | Sunnyvale, CA | 2d |
 | Zipline | [Accounting Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7894364003) | South San Francisco, C... | 2d |
-| Eulerity | [Website Developer & Technical Content...](https://job-boards.greenhouse.io/eulerity/jobs/4706780006) | New York, NY | 2d |
-| Elanco | [Finance Intern (Summer 2027)](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Finance-Intern--Summer-2027-_R0026865) | Indianapolis, IN | 3d |
 | Tencent | [Brand Marketing Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Brand-Marketing-Intern_R107926-1) | California Los Angeles | 3d |
 | Tencent | [IT Operations Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/IT-Operations-Intern_R107720) | Bellevue | 3d |
+| Eulerity | [Website Developer & Technical Content...](https://job-boards.greenhouse.io/eulerity/jobs/4706780006) | New York, NY | 3d |
+| Elanco | [Finance Intern (Summer 2027)](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Finance-Intern--Summer-2027-_R0026865) | Indianapolis, IN | 3d |
 | Zipline | [Technical Program Manager Intern (Spr...](https://www.zipline.com/open-roles?gh_jid=7904446003) | South San Francisco, C... | 3d |
 | Walleye Capital | [Finance & Accounting Intern (Summer 2...](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4705726006) | New York, New York | 3d |
 | Nelnet | [Accounting Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Accounting-Intern_R22822) | Lincoln, NE | 4d |
@@ -1017,7 +1018,7 @@
 | Sandisk | [Field Application Engineer (New Colle...](https://jobs.smartrecruiters.com/Sandisk/744000136097669) | Milpitas, CA | 11m |
 | Red Bull | [2026 Internship, Summer - Creative Video](https://jobs.smartrecruiters.com/RedBull/744000117670568) | Harrison, NJ | 11m |
 | Red Bull | [2026 Internship, Fall - Academy Stren...](https://jobs.smartrecruiters.com/RedBull/744000139167669) | Morristown, NJ | 11m |
-| Red Bull | [2026 Internship, Fall - Communication...](https://jobs.smartrecruiters.com/RedBull/744000140967576) | Harrison, NJ | 11m |
+| Red Bull | [2026 Internship, Fall - Corporate Par...](https://jobs.smartrecruiters.com/RedBull/744000139300800) | Harrison, NJ | 11m |
 | Northwestern Mutual | [Actuarial Summer Internship](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658679004) | Milwaukee, WI | 11m |
 | Northwestern Mutual | [Application Development Internship](https://jobs.smartrecruiters.com/NorthwesternMutual/85751711) | Milwaukee, WI | 11m |
 | Northwestern Mutual | [Cyber-Security Internship](https://jobs.smartrecruiters.com/NorthwesternMutual/85751642) | Milwaukee, WI | 11m |
@@ -1029,8 +1030,8 @@
 | LLNL | [Government Funded Student Intern (WDT...](https://jobs.smartrecruiters.com/llnl/3743990013795232) | Livermore, CA | 11m |
 | Codeage | [Writer/Editor Intern](https://jobs.smartrecruiters.com/Codeage/743999669081698) | Beverly Hills, CA | 11m |
 | Bosch Group | [MFG Test Technician Intern](https://jobs.smartrecruiters.com/BoschGroup/744000082485386) | Fort Lauderdale, FL | 11m |
-| Bosch Group | [Chassis Control Intern - Kettering Un...](https://jobs.smartrecruiters.com/BoschGroup/744000127510818) | Plymouth, MI | 12m |
-| Bosch Group | [Purchasing Intern](https://jobs.smartrecruiters.com/BoschGroup/744000129558629) | Fort Lauderdale, FL | 12m |
+| Bosch Group | [Chassis Control Intern - Kettering Un...](https://jobs.smartrecruiters.com/BoschGroup/744000127510818) | Plymouth, MI | 11m |
+| Bosch Group | [Purchasing Intern](https://jobs.smartrecruiters.com/BoschGroup/744000129558629) | Fort Lauderdale, FL | 11m |
 | Xsolla | [Internship Opportunity](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) | Los Angeles, United St... | 12m |
 | Voltus | [Energy Markets Intern (MISO)](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4) | Remote | 12m |
 | Toyota Research Institute | [Human Interactive Driving Intern – Wo...](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149) | Los Altos, CA | 12m |
@@ -1038,12 +1039,14 @@
 | Pivotal Software | [Internship, GNC Engineering (Fall)](https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7) | Palo Alto, CA | 12m |
 | Pivotal Software | [Internship, Maintenance, Repair & Ove...](https://jobs.lever.co/pivotal/370cafec-79df-4875-b6ea-317b5b0ed97a) | Palo Alto, CA | 12m |
 | Palantir | [Deployment Strategist, Internship - U...](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI | 12m |
-| AbbVie | [Veteran SkillBridge Program Intern](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) | North Chicago, IL | 12m |
+| Layup Parts | [Manufacturing Engineer Intern](https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583) | Huntington Beach, CA | 12m |
 | Machina Labs | [Robotic Process Engineer, Intern](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) | Chatsworth, CA | 12m |
 | Machina Labs | [Robotic Process Engineer, Intern](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) | Chatsworth, CA | 12m |
 | Machina Labs | [Technical Project Manager, Intern](https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415) | Chatsworth, CA | 12m |
 | Life.Church (YouVersion) | [Life.Church Campus Internship](https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b) | United States | 12m |
-| Layup Parts | [Manufacturing Engineer Intern](https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583) | Huntington Beach, CA | 12m |
+| AbbVie | [Veteran SkillBridge Program Intern](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) | North Chicago, IL | 12m |
+| Institute for Foundation Models | [Inference Optimization Intern – Perfo...](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d) | Sunnyvale, CA | 12m |
+| Field AI | [Internship - Robot Control Systems (F...](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704) | Irvine, CA | 12m |
 | Persona AI | [Robotics Data Pipeline Intern](https://jobs.ashbyhq.com/persona.ai/c7981f54-698b-4617-a72a-ff251f3fa8a7) | Pensacola, FL or Houst... | 12m |
 | Gritt Robotics | [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd) | South San Francisco | 12m |
 | Gritt Robotics | [Robotics Perception Engineer Intern](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) | South San Francisco | 12m |
@@ -1053,7 +1056,8 @@
 | Skydio | [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) | San Mateo, California,... | 12m |
 | Skydio | [Operations Program Management Intern](https://jobs.ashbyhq.com/skydio/3444dc8a-1b2a-4bb1-9bfb-15252d2a25e5) | Hayward, California, U... | 12m |
 | Skydio | [Hardware Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf) | San Mateo, California,... | 12m |
-| Institute for Foundation Models | [Inference Optimization Intern – Perfo...](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d) | Sunnyvale, CA | 12m |
+| Crest Industries | [Internships - All Disciplines](https://jobs.lever.co/crestoperations/9afdac38-29ca-40be-8bd3-314869633cad) | Pineville, Louisiana | 12m |
+| Crest Industries | [CIS/CS Internship](https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488) | Pineville, Louisiana | 12m |
 | AbbVie | [2027 Packaging Co-Op (July - Dec)](https://jobs.smartrecruiters.com/AbbVie/3743990014191506) | North Chicago, IL | 12m |
 | AbbVie | [2027 Packaging Co-Op (Jan - June)](https://jobs.smartrecruiters.com/AbbVie/3743990014191096) | North Chicago, IL | 12m |
 | Leland | [AI Education Intern](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) | Leland | 12m |
@@ -1061,12 +1065,9 @@
 | Human Computer Lab | [Intern - Controls Engineer](https://jobs.ashbyhq.com/human-computer-lab/3ceb956a-f231-4238-bb2e-365515b930a7) | San Francisco | 12m |
 | Kognitos | [Forward Deployed Engineer Intern (Mou...](https://jobs.ashbyhq.com/kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148) | Mountain View | 12m |
 | Fundwell | [AI Innovation Internship](https://jobs.ashbyhq.com/fundwell/2d91136d-b54d-4ed0-93de-22c7839a3982) | New York, NY | 12m |
+| Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | San Jose | 12m |
 | Etched | [GTM Intern](https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | San Jose | 12m |
 | Etched | [Talent Intern](https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75) | San Jose | 12m |
-| Etched | [Inference Intern](https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | San Jose | 12m |
-| Field AI | [Internship - Robot Control Systems (F...](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704) | Irvine, CA | 12m |
-| Crest Industries | [Internships - All Disciplines](https://jobs.lever.co/crestoperations/9afdac38-29ca-40be-8bd3-314869633cad) | Pineville, Louisiana | 12m |
-| Crest Industries | [CIS/CS Internship](https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488) | Pineville, Louisiana | 12m |
 | CertiK | [Blockchain Security Expert Intern - A...](https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754) | New York, New York / R... | 12m |
 | CertiK | [Business Development Intern / CertiK ...](https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1) | New York, New York | 12m |
 | CertiK | [Business Development Intern / CertiK ...](https://jobs.lever.co/certik/8dcfb59e-f70f-4543-acec-97850a522a61) | San Francisco Bay Area... | 12m |
@@ -1079,12 +1080,11 @@
 | ByteDance | [Applied Machine Learning Production E...](https://joinbytedance.com/search/7670009669494704437) | San Jose, California | 16m |
 | Google | [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) | United States | 16m |
 | Google | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) | United States | 16m |
-| Analog Devices | [Algorithm Development Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) | US, MA, Wilmington | 51m |
-| Analog Devices | [System Integration Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) | Durham, NC | 51m |
-| Johnson & Johnson | [DePuy Synthes Commercialized Product ...](https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662) | Warsaw, Indiana, Unite... | 17h |
-| HP Inc | [Enterprise Operations Business Intern...](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Business-Internship_3166959-2) | Spring, Texas, United ... | 1d |
+| Analog Devices | [Algorithm Development Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) | US, MA, Wilmington | 1h |
+| Analog Devices | [System Integration Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) | Durham, NC | 1h |
+| Johnson & Johnson | [DePuy Synthes Commercialized Product ...](https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662) | Warsaw, Indiana, Unite... | 1d |
 | Cardinal Health | [PRN Pharmacy Intern](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Marysville-Daves-Pharmacy/PRN-Pharmacy-Intern_20186077) | Marysville, OH | 1d |
-| Samsara | [Account Development Representative In...](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, Unit... | 1d |
+| HP Inc | [Enterprise Operations Business Intern...](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Business-Internship_3166959-2) | Spring, Texas, United ... | 1d |
 | Springs Window Fashions | [Application Engineering Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Long Island City, Queens, NY | 0d |
 | TikTok | [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | Hitachi | [Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 0d |
