@@ -1,7 +1,6 @@
 package main
 
 import (
-	"cmp"
 	"fmt"
 	"io"
 	"net/http"
@@ -142,16 +141,7 @@ func main() {
 	table.WriteString("| Company | Role | Location | Age |\n")
 	table.WriteString("| --- | --- | --- | --- |\n")
 
-	slices.SortFunc(uniqueJobs, func(a, b JobListing) int {
-		daysA := ageToDays(a.Age)
-		daysB := ageToDays(b.Age)
-
-		if ageComparison := cmp.Compare(daysA, daysB); ageComparison != 0 {
-			return ageComparison
-		}
-
-		return cmp.Compare(a.Company, b.Company)
-	})
+	slices.SortFunc(uniqueJobs, compareJobListings)
 
 	// update the fancy badges
 	companySet := make(map[string]bool)
@@ -191,16 +181,7 @@ func main() {
 	}
 
 	uniqueNewGradJobs := deduplicateJobs(newGradJobs)
-	slices.SortFunc(uniqueNewGradJobs, func(a, b JobListing) int {
-		daysA := ageToDays(a.Age)
-		daysB := ageToDays(b.Age)
-
-		if ageComparison := cmp.Compare(daysA, daysB); ageComparison != 0 {
-			return ageComparison
-		}
-
-		return cmp.Compare(a.Company, b.Company)
-	})
+	slices.SortFunc(uniqueNewGradJobs, compareJobListings)
 
 	table.Reset()
 	table.WriteString("| Company | Role | Location | Age |\n")

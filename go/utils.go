@@ -1,6 +1,7 @@
 package main
 
 import (
+	"cmp"
 	"fmt"
 	"strconv"
 	"strings"
@@ -12,6 +13,17 @@ func isNewGradSource(url string) bool {
 	normalizedURL = strings.ReplaceAll(normalizedURL, "-", "")
 	normalizedURL = strings.ReplaceAll(normalizedURL, "_", "")
 	return strings.Contains(normalizedURL, "newgrad")
+}
+
+func compareJobListings(a, b JobListing) int {
+	daysA := ageToDays(a.Age)
+	daysB := ageToDays(b.Age)
+
+	if ageComparison := cmp.Compare(daysA, daysB); ageComparison != 0 {
+		return ageComparison
+	}
+
+	return cmp.Compare(a.Company, b.Company)
 }
 
 func cleanHTML(val string) string {
