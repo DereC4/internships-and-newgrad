@@ -7,6 +7,13 @@ import (
 	"time"
 )
 
+func isNewGradSource(url string) bool {
+	normalizedURL := strings.ToLower(url)
+	normalizedURL = strings.ReplaceAll(normalizedURL, "-", "")
+	normalizedURL = strings.ReplaceAll(normalizedURL, "_", "")
+	return strings.Contains(normalizedURL, "newgrad")
+}
+
 func cleanHTML(val string) string {
 	val = strings.ReplaceAll(val, "<br>", " ")
 	val = strings.ReplaceAll(val, "<br/>", " ")

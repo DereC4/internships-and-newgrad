@@ -72,7 +72,7 @@ func main() {
 		// channels will get consumed when you read them all one by one, so our two for loop approach was writing nothing
 		fmt.Printf("--- Document Received #%d from %s ---\n", i+1, fetchedURL)
 
-		if strings.Contains(fetchedURL, "SimplifyJobs/New-Grad-Positions") {
+		if strings.Contains(fetchedURL, "SimplifyJobs") && isNewGradSource(fetchedURL) {
 			fmt.Println("Processing Simplify New Grad Repo...")
 			jobs := parseSimplifyCategories(results, true)
 			fmt.Printf("-> Found %d active jobs in Simplify New Grad Repo\n", len(jobs))
@@ -97,7 +97,7 @@ func main() {
 			jobs := parseSandesh(results)
 			fmt.Printf("-> Found %d active jobs in sndsh404 Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
-		} else if strings.Contains(fetchedURL, "zapplyjobs/New-Grad-Software-Engineering-Jobs-2027") {
+		} else if strings.Contains(fetchedURL, "zapplyjobs") && isNewGradSource(fetchedURL) {
 			fmt.Println("Processing zapplyjobs New Grad Repo...")
 			jobs := parseZapply(results, true)
 			fmt.Printf("-> Found %d active jobs in zapplyjobs New Grad Repo\n", len(jobs))
