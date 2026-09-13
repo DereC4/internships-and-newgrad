@@ -12,10 +12,12 @@ import (
 
 // You cannot use the short declaration operator := with constants.
 const (
-	jobTableStart = "<!-- A DerexXD certified divider lives here -->"
-	jobTableEnd   = "<!-- End of DerexXD divider 1 -->"
-	badgesStart   = "<!-- BADGES_START_DEREXXD -->"
-	badgesEnd     = "<!-- BADGES_END_DEREXXD -->"
+	jobTableStart     = "<!-- A DerexXD certified divider lives here -->"
+	jobTableEnd       = "<!-- End of DerexXD divider 1 -->"
+	badgesStart       = "<!-- BADGES_START_DEREXXD -->"
+	badgesEnd         = "<!-- BADGES_END_DEREXXD -->"
+	newGradTableStart = "<!-- NEWGRAD_TABLE_START_DEREXXD -->"
+	newGradTableEnd   = "<!-- NEWGRAD_TABLE_END_DEREXXD -->"
 )
 
 func dogWorker(url string, ch chan string) {
@@ -180,5 +182,42 @@ func main() {
 	updatedReadme = beforeBadges + badgesStart + "\n" + badges.String() + badgesEnd + afterBadgesEnd
 
 	os.WriteFile("../README.md", []byte(updatedReadme), 0644)
+
+	var newGradJobs []JobListing
+	for _, job := range totalJobs {
+		if job.NewGrad {
+			newGradJobs = append(newGradJobs, job)
+		}
+	}
+
+	uniqueNewGradJobs := deduplicateJobs(newGradJobs)
+	slices.SortFunc(uniqueNewGradJobs, func(a, b JobListing) int {
+		daysA := ageToDays(a.Age)
+		daysB := ageToDays(b.Age)
+
+		if ageComparison := cmp.Compare(daysA, daysB); ageComparison != 0 {
+			return ageComparison
+		}
+
+		return cmp.Compare(a.Company, b.Company)
+	})
+
+	table.Reset()
+	table.WriteString("| Company | Role | Location | Age |\n")
+	table.WriteString("| --- | --- | --- | --- |\n")
+
+	for _, job := range uniqueNewGradJobs {
+		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
+		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
+	}
+
+	newGradContent, _ := os.ReadFile("../NEWGRAD.md")
+	updatedNewGrad := string(newGradContent)
+
+	beforeNewGradTable, afterNewGradTableStart, _ := strings.Cut(updatedNewGrad, newGradTableStart)
+	_, afterNewGradTableEnd, _ := strings.Cut(afterNewGradTableStart, newGradTableEnd)
+	updatedNewGrad = beforeNewGradTable + newGradTableStart + "\n\n" + table.String() + "\n" + newGradTableEnd + afterNewGradTableEnd
+
+	os.WriteFile("../NEWGRAD.md", []byte(updatedNewGrad), 0644)
 
 }
