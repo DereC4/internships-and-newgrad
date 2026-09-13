@@ -110,6 +110,20 @@ func convertISODate(dateStr string) string {
 	return fmt.Sprintf("%dd", days)
 }
 
+func convertZapplyHours(ageStr string) string {
+	clean := strings.TrimSpace(ageStr)
+	if !strings.HasSuffix(clean, "h") {
+		return ageStr
+	}
+
+	numStr := strings.TrimSuffix(clean, "h")
+	if _, err := strconv.Atoi(numStr); err != nil {
+		return ageStr
+	}
+
+	return "0d"
+}
+
 // ageToDays converts relative age strings ("0d", "14d", "1mo") into approximate integer days for chronological sorting.
 // Other formats become 9999 to push them to the bottom of the table.
 func ageToDays(ageStr string) int {

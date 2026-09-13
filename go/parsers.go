@@ -380,7 +380,7 @@ func parseZapply(rawMarkdown string, isNewGrad bool) []JobListing {
 			company := cleanCompanyName(cleanHTML(cols[1]))
 			role := cleanHTML(cols[2])
 			location := cleanHTML(cols[3])
-			age := cleanHTML(cols[4])
+			age := convertZapplyHours(cleanHTML(cols[4]))
 
 			if company == "↳" || company == "" {
 				company = lastCompany
