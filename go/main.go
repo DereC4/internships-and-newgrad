@@ -47,6 +47,8 @@ func main() {
 		"https://raw.githubusercontent.com/sndsh404/summer-2027-internships/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/zapplyjobs/Internships-2027/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/refs/heads/main/README.md",
+		"https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/refs/heads/dev/README.md",
+		"https://raw.githubusercontent.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/refs/heads/main/README.md",
 	}
 
 	resultsChannel := make(chan string)
