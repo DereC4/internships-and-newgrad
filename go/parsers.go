@@ -495,3 +495,25 @@ func parseZShah(rawMarkdown string) []JobListing {
 
 	return jobs
 }
+
+// type Response struct {
+//     Status     string // e.g. "200 OK"
+//     StatusCode int    // e.g. 200
+//     Proto      string // e.g. "HTTP/1.1"
+//     ProtoMajor int    // e.g. 1
+//     ProtoMinor int    // e.g. 1
+
+//     // Header maps header keys to a list of values
+//     Header Header
+
+//     // Body represents the response body as a readable stream
+//     Body io.ReadCloser
+
+//     ContentLength    int64
+//     TransferEncoding []string
+//     Close            bool
+//     Uncompressed     bool
+//     Trailer          Header
+//     Request          *Request
+//     TLS              *tls.ConnectionState
+// }
