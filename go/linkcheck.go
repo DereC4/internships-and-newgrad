@@ -53,7 +53,7 @@ func checkLink(urlStr string) bool {
 	resp, err := linkClient.Get(urlStr)
 
 	if errors.Is(err, errZapplyClosed) {
-		fmt.Printf("[linkcheck] drop: %s -> https://zapply.jobs/jobs\n", urlStr)
+		fmt.Printf("removed: %s \n", urlStr)
 		return false
 	}
 
