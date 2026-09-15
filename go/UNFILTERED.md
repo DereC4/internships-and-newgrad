@@ -1,43 +1,43 @@
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| Vertiv | [Product Management Intern 🛂](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933?utm_source=github-vansh-ouckah) | Westerville, OH | 24d |
-| Vertiv | [Product Management Intern, MBA 🛂](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958?utm_source=github-vansh-ouckah) | Delaware, OH | 24d |
-| The Nuclear Company | [AI Applied Research Intern 🛂](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008?utm_source=github-vansh-ouckah) | Washington, DC | 24d |
-| Replit | [Software Engineering Intern](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1?utm_source=github-vansh-ouckah) | Foster City, CA | 24d |
-| Raytheon | [Software Development Intern 🇺🇸](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635?utm_source=github-vansh-ouckah) | Tewksbury, MA | 24d |
-| Notion | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c?utm_source=github-vansh-ouckah) | San Francisco, CA New York, NY | 24d |
-| Millennium | [Quantitative Developer Intern](https://career.mlp.com/careers/job/755957819661?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| Millennium | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848?utm_source=github-vansh-ouckah) | Miami, FL | 24d |
-| Kastle | [Software Engineer Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee?utm_source=github-vansh-ouckah) | San Francisco, CA | 24d |
-| JPMorgan Chase | [Quantitative Research, Asset Management Summer Analyst 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| JPMorgan Chase | [Quantitative Research, Markets, Summer Internship - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| Hypercubic | [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490?utm_source=github-vansh-ouckah) | San Francisco, CA | 24d |
-| HPR | [FPGA Engineering Intern 🛂](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=github-vansh-ouckah) | Needham, MA | 24d |
-| Freeform | [Software Engineering Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=github-vansh-ouckah) | Los Angeles, CA | 24d |
-| Exa | [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16?utm_source=github-vansh-ouckah) | San Francisco, CA | 24d |
-| Epic Games | [Machine Learning Research Intern 🛂](https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004&utm_source=github-vansh-ouckah) | Montreal, Canada | 24d |
-| Epic Games | [Gameplay Programmer Intern](https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004&utm_source=github-vansh-ouckah) | Cary, United States | 24d |
-| DV Group | [Software Engineer Intern, Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| Atoms | [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=github-vansh-ouckah) | **5 locations**New York, NY Seattle, WA Los Angeles, CA Mountain View, CA San Francisco, CA | 24d |
-| American Express | [Product Management Intern, Global Merchant & Network Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745?utm_source=github-vansh-ouckah) | Sunrise, FL | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796?utm_source=github-vansh-ouckah) | Atlanta, GA | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999?utm_source=github-vansh-ouckah) | Sunrise, FL | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000?utm_source=github-vansh-ouckah) | Atlanta, GA | 24d |
-| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| American Express | [Software Engineer Intern, Technology 🇺🇸](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=github-vansh-ouckah) | Charlotte, NC | 24d |
-| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| American Express | [Software Engineer Intern, Enterprise Technology Services 🇺🇸](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082?utm_source=github-vansh-ouckah) | New York, NY | 24d |
-| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084?utm_source=github-vansh-ouckah) | Sunrise, FL | 24d |
-| American Express | [Software Engineer Intern, Enterprise Technology Services 🇺🇸](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=github-vansh-ouckah) | Charlotte, NC | 24d |
-| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| American Express | [Cybersecurity Intern 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| American Express | [Cybersecurity Intern 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462?utm_source=github-vansh-ouckah) | Phoenix, AZ | 24d |
-| Belvedere Trading | [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab?utm_source=github-vansh-ouckah) | Chicago, IL | 29d |
+| Vertiv | [Product Management Intern 🛂](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933?utm_source=github-vansh-ouckah) | Westerville, OH | 25d |
+| Vertiv | [Product Management Intern, MBA 🛂](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958?utm_source=github-vansh-ouckah) | Delaware, OH | 25d |
+| The Nuclear Company | [AI Applied Research Intern 🛂](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008?utm_source=github-vansh-ouckah) | Washington, DC | 25d |
+| Replit | [Software Engineering Intern](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1?utm_source=github-vansh-ouckah) | Foster City, CA | 25d |
+| Raytheon | [Software Development Intern 🇺🇸](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635?utm_source=github-vansh-ouckah) | Tewksbury, MA | 25d |
+| Notion | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c?utm_source=github-vansh-ouckah) | San Francisco, CA New York, NY | 25d |
+| Millennium | [Quantitative Developer Intern](https://career.mlp.com/careers/job/755957819661?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| Millennium | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848?utm_source=github-vansh-ouckah) | Miami, FL | 25d |
+| Kastle | [Software Engineer Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee?utm_source=github-vansh-ouckah) | San Francisco, CA | 25d |
+| JPMorgan Chase | [Quantitative Research, Asset Management Summer Analyst 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| JPMorgan Chase | [Quantitative Research, Markets, Summer Internship - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| Hypercubic | [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490?utm_source=github-vansh-ouckah) | San Francisco, CA | 25d |
+| HPR | [FPGA Engineering Intern 🛂](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=github-vansh-ouckah) | Needham, MA | 25d |
+| Freeform | [Software Engineering Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=github-vansh-ouckah) | Los Angeles, CA | 25d |
+| Exa | [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16?utm_source=github-vansh-ouckah) | San Francisco, CA | 25d |
+| Epic Games | [Machine Learning Research Intern 🛂](https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004&utm_source=github-vansh-ouckah) | Montreal, Canada | 25d |
+| Epic Games | [Gameplay Programmer Intern](https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004&utm_source=github-vansh-ouckah) | Cary, United States | 25d |
+| DV Group | [Software Engineer Intern, Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| Atoms | [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=github-vansh-ouckah) | **5 locations**New York, NY Seattle, WA Los Angeles, CA Mountain View, CA San Francisco, CA | 25d |
+| American Express | [Product Management Intern, Global Merchant & Network Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745?utm_source=github-vansh-ouckah) | Sunrise, FL | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796?utm_source=github-vansh-ouckah) | Atlanta, GA | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999?utm_source=github-vansh-ouckah) | Sunrise, FL | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000?utm_source=github-vansh-ouckah) | Atlanta, GA | 25d |
+| American Express | [AI Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| American Express | [Software Engineer Intern, Technology 🇺🇸](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=github-vansh-ouckah) | Charlotte, NC | 25d |
+| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| American Express | [Software Engineer Intern, Enterprise Technology Services 🇺🇸](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084?utm_source=github-vansh-ouckah) | Sunrise, FL | 25d |
+| American Express | [Software Engineer Intern, Enterprise Technology Services 🇺🇸](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=github-vansh-ouckah) | Charlotte, NC | 25d |
+| American Express | [Software Engineer Intern, Enterprise Technology Services 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| American Express | [Cybersecurity Intern 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| American Express | [Cybersecurity Intern 🛂](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462?utm_source=github-vansh-ouckah) | Phoenix, AZ | 25d |
+| Belvedere Trading | [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
 | DV Group | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
 | Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
 | ByteDance | [Applied Machine Learning Production Engineer Intern](https://joinbytedance.com/search/7670009669494704437?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
@@ -207,6 +207,7 @@
 | Point72 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah) | **5 locations**New York, NY San Francisco, CA Chicago, IL West Palm Beach, FL Miami, FL | 4mo |
 | Point72 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah) | New York, NY | 4mo |
 | Point72 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah) | New York, NY | 4mo |
+<<<<<<< HEAD
 <<<<<<< HEAD
 | AnaVation | [Computer Science Internship Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7) | Chantilly, VA | 2d |
 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY | 3d |
@@ -1563,6 +1564,8 @@
 | Stevens Capital Management | [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) | Radnor, PA | 112d |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose, CA | 116d |
 | Terranova | [Embedded Systems Intern](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | Berkeley, CA | 116d |
+=======
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 1mo |
 | Susquehanna | [Quantitative Systematic Trading Intern (Master's, Summer 2027)](https://careers.sig.com/jobs/10823) | New York, NY | 1mo |
 | Google | [Software Engineering Intern, BS (Summer 2027)](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/) | Mountain View, CA (multiple US) | 1mo |
@@ -1682,6 +1685,7 @@
 | Naive | [Software Engineer Intern 🇺🇸 ⏳](https://www.workatastartup.com/jobs/94647) | San Francisco, CA / Remote (US) | N/A |
 | Paragon | [Forward Deployed Engineer Intern 🇺🇸](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | N/A |
 | DimeHealth AI | [Forward Deployed Engineering Intern ⏳](https://www.workatastartup.com/jobs/94211) | New York, NY | N/A |
+<<<<<<< HEAD
 | Western Digital | [Summer 2027 Intern - Software Engineering](https://zapply.jobs/l/d/sr-WesternDigital-744000143171017?s=gh-internships-2027) | San Jose, CA | 0d |
 | RE/SPEC Inc. | [Student Software Engineering Intern](https://zapply.jobs/l/d/sr-RESPECInc-744000012676985?s=gh-internships-2027) | Albuquerque, NM | 0d |
 | LLNL | [National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027](https://zapply.jobs/l/d/sr-llnl-3743990014731656?s=gh-internships-2027) | Livermore, CA | 0d |
@@ -3475,6 +3479,8 @@
 | Yotta Labs | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | United States | 1mo |
 | Pony.ai | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) | Fremont, California, United States | 1mo |
 | Pony.ai | [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | Fremont, California, United States | 1mo |
+=======
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Microsoft | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Washington, DC | 2d |
 | Microsoft | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Virginia, MN | 2d |
 | Lyft | [Software Engineer Intern - Backend - Summer 2027](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | San Francisco, CA | 3d |
@@ -3869,6 +3875,7 @@
 | Stevens Capital Management | [Developer Internship](https://job-boards.greenhouse.io/scm/jobs/721888) | Radnor, PA | 113d |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | San Jose, CA | 117d |
 | Terranova | [Embedded Systems Intern](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | Berkeley, CA | 117d |
+<<<<<<< HEAD
 | Schweitzer Engineering Laboratories | [Associate Software Engineer](https://zapply.jobs/l/d/workday-selinc-sel-2026-22492?s=gh-new-grad-software-engineering-jobs-2027) | Washington - Pullman | Date unknown |
 | Amgen | [Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-new-grad-software-engineering-jobs-2027) | United States - Remote | 0d |
 | Amgen | [Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-new-grad-software-engineering-jobs-2027) | United States - Remote | 0d |
@@ -4667,10 +4674,50 @@
 | Lowe's | [Exploratory Software Engineering - Undergrad Internship - Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02623542?s=gh-internships-2027) | Lowe's Charlotte Technology Hub... | 0d |
 | SingleStore | [Software Engineer Intern](https://zapply.jobs/l/d/greenhouse-singlestore-8154399?s=gh-internships-2027) | United States | 0d |
 | CACI | [Cleared Software Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-caci-external-331999?s=gh-internships-2027) | 437 DENVER, CO | 0d |
+=======
+| Aerospace Corporation | [2027 Power and Analog Circuit Engineering Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016531?s=gh-internships-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [2027 Power Systems Engineering Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016527?s=gh-internships-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [2027 Power Systems Engineering Undergraduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016530?s=gh-internships-2027) | El Segundo, CA | 0d |
+| MKS Instruments | [2027 Summer Mechanical Automation Engineering Intern](https://zapply.jobs/l/d/workday-mksinst-mkscareersuniversity-R20744?s=gh-internships-2027) | Milpitas, CA | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Software Engineering Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027) | NYC | 0d |
+| Viavi Solutions | [Software Engineering Co-Op](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005140?s=gh-internships-2027) | Germantown, MD USA | 0d |
+| Wells Fargo | [2027 Technology Summer Internship – Early Careers (Software Engineering - California)](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574294?s=gh-internships-2027) | SAN FRANCISCO, CA | 0d |
+| Wells Fargo | [2027 Technology Summer Internship – Early Careers (Software Engineering)](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574285?s=gh-internships-2027) | CHARLOTTE, NC | 0d |
+| Oshkosh Corporation | [Software Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50321?s=gh-internships-2027) | Huntersville, North Carolina,... | 0d |
+| RTX | [Software Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873970?s=gh-internships-2027) | OR-WILSONVILLE | 0d |
+| RTX | [Software Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870236?s=gh-internships-2027) | OR-WILSONVILLE | 0d |
+| Johnson & Johnson | [Co-Op Automation Engineer](https://zapply.jobs/l/d/workday-jj-jj-R-096697?s=gh-internships-2027) | Wilson, North Carolina, United... | 0d |
+| Micron Technology | [Intern - PHY Digital Design & Automation Engineer, HBM](https://zapply.jobs/l/d/workday-micron-external-JR110641?s=gh-internships-2027) | Richardson, TX | 0d |
+| Micron Technology | [Intern - IT Software Engineer](https://zapply.jobs/l/d/workday-micron-external-JR111582?s=gh-internships-2027) | Boise, ID - Main Site | 0d |
+| Copart | [Software Engineering Intern](https://zapply.jobs/l/d/workday-copart-copart-JR109673?s=gh-internships-2027) | Dallas, TX - Headquarters | 0d |
+| Tencent | [Cyber Security Engineer Intern](https://zapply.jobs/l/d/workday-tencent-tencent-careers-R108141?s=gh-internships-2027) | California-Palo Alto | 0d |
+| RTX | [Systems Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870304?s=gh-internships-2027) | AZ-TUCSON | 0d |
+| LabCorp | [Intern - Software Developer](https://zapply.jobs/l/d/workday-labcorp-external-2632330?s=gh-internships-2027) | Durham NC | 0d |
+| CoStar Group | [Security Engineer Intern - Arlington, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39727?s=gh-internships-2027) | VA Arlington | 0d |
+| CoStar Group | [Security Engineer Intern - Richmond, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39726?s=gh-internships-2027) | VA Richmond | 0d |
+| Cisco | [Software Engineer Data & AI I (Intern) - United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024510?s=gh-internships-2027) | San Jose California US | 0d |
+| Wex | [DevOps & AI Engineering Intern (Undergraduate)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R23056?s=gh-internships-2027) | Remote | 0d |
+| Wex | [AI & Data Platform Engineering Intern (Undergraduate)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R23055?s=gh-internships-2027) | Remote | 0d |
+| Wex | [SRE & Application Services Intern (Graduate/Master's)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22494?s=gh-internships-2027) | Remote | 0d |
+| Gilead Sciences | [Intern - Development - DevOps Business Strategy](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054772?s=gh-internships-2027) | United States - California -... | 0d |
+| Northrop Grumman | [2027 Intern Software Engineer](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250669?s=gh-internships-2027) | 4 Locations | 0d |
+| CACI | [Cleared Software Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-caci-external-331999?s=gh-internships-2027) | 437 DENVER, CO | 0d |
+| Amgen | [Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-internships-2027) | United States - Remote | 0d |
+| Amgen | [Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027) | United States - Remote | 0d |
+| Microsoft | [AI Software Engineering Intern](https://zapply.jobs/l/d/microsoft-200049019?s=gh-internships-2027) | Redmond, Washington, United States | 0d |
+| Lowe's | [Software Engineer – Undergrad Internship – Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02623576?s=gh-internships-2027) | Lowe's Charlotte Technology Hub... | 0d |
+| Lowe's | [Exploratory Software Engineering - Undergrad Internship - Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02623542?s=gh-internships-2027) | Lowe's Charlotte Technology Hub... | 0d |
+| DoorDash | [Software Engineer, Intern (Summer 2027) - US](https://zapply.jobs/l/d/greenhouse-doordashusa-8171041?s=gh-internships-2027) | New York, NY | 0d |
+| Semgrep | [Software Engineer Intern](https://zapply.jobs/l/d/ashby-semgrep-8e64dc7f-e925-4361-86d5-b01ee518c987?s=gh-internships-2027) | San Francisco | 0d |
+| Waymo | [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://zapply.jobs/l/d/greenhouse-waymo-8198218?s=gh-internships-2027) | Mountain View, California,... | 0d |
+| Impulse Space | [Development Test Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-579195?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| SingleStore | [Software Engineer Intern](https://zapply.jobs/l/d/greenhouse-singlestore-8154399?s=gh-internships-2027) | United States | 0d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Figma | [Software Engineer Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027) | San Francisco, CA • New York, NY | 0d |
 | Philips | [Intern – Software Engineering – Plymouth, MN – Summer 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-590403?s=gh-internships-2027) | Plymouth, Minnesota, United States | 0d |
 | Waymo | [2027 Summer Intern, BS/MS, Software Engineer](https://zapply.jobs/l/d/greenhouse-waymo-8193731?s=gh-internships-2027) | San Francisco, California | 0d |
 | Base Power | [Software Engineering Intern](https://zapply.jobs/l/d/ashby-base-power-5353ea33-57d4-46fa-9a96-e392a3f841bc?s=gh-internships-2027) | Austin, TX | 0d |
+<<<<<<< HEAD
 | Lowe's | [Quality Assurance Engineering - Undergrad Internship - Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02648572?s=gh-internships-2027) | Mooresville, NC (SSC) 1999 | 0d |
 | Flagship Pioneering | [Flagship Pioneering: AI Automation Engineering Co-Op](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8796996002?s=gh-internships-2027) | Cambridge, MA USA | 0d |
 | Robinhood | [Software Engineering Intern, Android (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8142961?s=gh-internships-2027) | Menlo Park, CA | 0d |
@@ -4780,10 +4827,144 @@
 | Gilead Sciences | [Intern - Development - Portfolio Strategy and Analytics](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054693?s=gh-internships-2027) | United States - California -... | 6d |
 | Gilead Sciences | [Intern - Research - Data Sciences](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-internships-2027) | United States - California -... | 6d |
 | Gilead Sciences | [Intern - CFO - IT (AI Engineer)](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054744?s=gh-internships-2027) | United States - North Carolina... | 6d |
+=======
+| Google | [Software Engineering Intern, MS, Summer 2027](https://zapply.jobs/l/d/google-94172495052972742?s=gh-internships-2027) | United States | Date unknown |
+| Google | [Software Engineering Intern, BS, Summer 2027](https://zapply.jobs/l/d/google-100648618540573382?s=gh-internships-2027) | United States | Date unknown |
+| Lowe's | [Quality Assurance Engineering - Undergrad Internship - Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02648572?s=gh-internships-2027) | Mooresville, NC (SSC) 1999 | 0d |
+| Flagship Pioneering | [Flagship Pioneering: AI Automation Engineering Co-Op](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8796996002?s=gh-internships-2027) | Cambridge, MA USA | 0d |
+| Google | [Security Engineering Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-136826798817059526?s=gh-internships-2027) | United States | Date unknown |
+| Robinhood | [Software Engineering Intern, Android (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8142961?s=gh-internships-2027) | Menlo Park, CA | 0d |
+| Robinhood | [Software Engineering Intern, iOS (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8142959?s=gh-internships-2027) | Menlo Park, CA | 0d |
+| Robinhood | [Software Engineering Intern, Backend (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8123225?s=gh-internships-2027) | Bellevue, WA | 0d |
+| ByteDance | [Software Engineer Intern (Global Payment) - 2027 Summer](https://zapply.jobs/l/d/bytedance-7668650945276168453?s=gh-internships-2027) | San Jose, California | Date unknown |
+| ByteDance | [Site Reliability Engineer Intern (Data Infra) - 2027 Summer](https://zapply.jobs/l/d/bytedance-7672922348676647221?s=gh-internships-2027) | San Jose, California | Date unknown |
+| ByteDance | [Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer](https://zapply.jobs/l/d/bytedance-7668373268886161669?s=gh-internships-2027) | Seattle, Washington | Date unknown |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510799?s=gh-internships-2027) | Mount Laurel, New Jersey | 1d |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Quality Engineer](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510798?s=gh-internships-2027) | Mount Laurel, New Jersey | 1d |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510796?s=gh-internships-2027) | Mount Laurel, New Jersey | 1d |
+| Dell Technologies | [Cybersecurity Undergraduate Intern](https://zapply.jobs/l/d/oracle-dell-technologies-299004?s=gh-internships-2027) | Round Rock, TX, United States | 1d |
+| Dell Technologies | [Product & Application Security Intern Undergraduate Intern](https://zapply.jobs/l/d/oracle-dell-technologies-299002?s=gh-internships-2027) | Round Rock, TX, United States | 1d |
+| Emerson Electric | [Software Engineering Co-Op (Jan-Aug 2027)](https://zapply.jobs/l/d/oracle-emerson-electric-26010048?s=gh-internships-2027) | Eden Prairie, MN, United States | 1d |
+| Impulse Space | [RF Test Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-568599?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| Impulse Space | [Avionics Test Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-569190?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| NVIDIA | [Solutions Architecture Intern - Summer 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025245?s=gh-internships-2027) | US, CA, Santa Clara | 3d |
+| Momentive | [Summer 2027 Quality Assurance / Quality Management Intern](https://zapply.jobs/l/d/workday-momentive-mc-R9815?s=gh-internships-2027) | WV Friendly | 3d |
+| NXP | [Test Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-nxp-careers-R-10064679?s=gh-internships-2027) | Austin | 3d |
+| Aptiv | [Quality Engineering Intern](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702994?s=gh-internships-2027) | Troy, MI - USA | 3d |
+| LabCorp | [Intern - Quality Engineer - Oncology](https://zapply.jobs/l/d/workday-labcorp-external-2630918?s=gh-internships-2027) | Baltimore MD | 3d |
+| LabCorp | [Intern - Quality Assurance - Oncology](https://zapply.jobs/l/d/workday-labcorp-external-2630906?s=gh-internships-2027) | Baltimore MD | 3d |
+| Draper | [Systems Engineering Co-Op (Spring 2027)](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002882?s=gh-internships-2027) | Cambridge, MA | 3d |
+| GE Healthcare | [LSS Software Engineering Co-op - Madison, WI](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4046263?s=gh-internships-2027) | Madison | 3d |
+| CACI | [Software Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-caci-external-331648?s=gh-internships-2027) | Ypsilanti, MI, US | 3d |
+| CACI | [Software Engineering Intern – Summer 2027](https://zapply.jobs/l/d/workday-caci-external-331742?s=gh-internships-2027) | Lisle, IL, US | 3d |
+| Disney | [Disneyland Cybersecurity Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-FOS-0000451207?s=gh-internships-2027) | Anaheim, CA, USA | 3d |
+| Motorola Solutions | [Product Quality Engineering Intern](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68669?s=gh-internships-2027) | Chicago, IL | 3d |
+| Motorola Solutions | [DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68734?s=gh-internships-2027) | Plantation, FL | 3d |
+| Motorola Solutions | [2027 Software Engineering Summer Internship](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68125?s=gh-internships-2027) | Plantation, FL | 3d |
+| Blue Origin | [Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72238?s=gh-internships-2027) | Space Coast, FL | 3d |
+| Booz Allen Hamilton | [University - Summer 2027, Software Engineer Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249225?s=gh-internships-2027) | Fayetteville, NC | 3d |
+| Microsoft | [Software Engineering Intern - CTJ - TS](https://zapply.jobs/l/d/microsoft-200052634?s=gh-internships-2027) | Reston, Virginia, United States | 3d |
+| Microsoft | [Software Engineering Intern - CTJ - TS](https://zapply.jobs/l/d/microsoft-200052631?s=gh-internships-2027) | Redmond, Washington, United States | 3d |
+| Commure | [Software Engineering Intern, Summer 2027](https://zapply.jobs/l/d/ashby-commure-62841aa1-3ee5-4547-8380-637b737b2cb3?s=gh-internships-2027) | Mountain View, CA | 3d |
+| Lyft | [Software Engineer Intern, Fullstack (Summer 2027)](https://zapply.jobs/l/d/greenhouse-lyft-8797837002?s=gh-internships-2027) | New York, NY | 3d |
+| Lyft | [Software Engineer Intern, Backend (Summer 2027)](https://zapply.jobs/l/d/greenhouse-lyft-8767726002?s=gh-internships-2027) | San Francisco, CA | 3d |
+| Cox | [Quality Assurance Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682363?s=gh-internships-2027) | Atlanta GA | 4d |
+| Cox | [Software Engineering Intern - Summer 2027 (Burlington, VT)](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682172?s=gh-internships-2027) | Burlington VT | 4d |
+| Cox | [Cybersecurity Intern - Summer 2027](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682288?s=gh-internships-2027) | Atlanta GA | 4d |
+| Allegion | [Summer Intern - Product Assurance Test Engineer](https://zapply.jobs/l/d/workday-allegion-careers-JR37380?s=gh-internships-2027) | Colorado Springs, CO | 4d |
+| Allegion | [Summer Intern - Quality Engineer](https://zapply.jobs/l/d/workday-allegion-careers-JR37402?s=gh-internships-2027) | Princeton, IL | 4d |
+| Momentive | [Summer 2027 Silanes Production & Energy Systems Engineer Intern](https://zapply.jobs/l/d/workday-momentive-mc-R9776?s=gh-internships-2027) | WV Friendly | 4d |
+| Cigna | [The Cigna Group's Technology Development Program - Software Engineering Track Summer Internship](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009527?s=gh-internships-2027) | St Louis, MO | 4d |
+| AeroVironment | [Systems Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8592?s=gh-internships-2027) | Petaluma, CA | 4d |
+| AeroVironment | [Software Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8613?s=gh-internships-2027) | Melbourne, FL | 4d |
+| AeroVironment | [Quality Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8586?s=gh-internships-2027) | Simi Valley, CA | 4d |
+| Thomson Reuters | [Software Engineer Co-Op](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027) | Rochester New York | 4d |
+| Nelnet | [Intern - Software Engineer - New Ventures - Starting Summer 2027](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23098?s=gh-internships-2027) | Lincoln, NE | 4d |
+| Leidos | [Cybersecurity Engineer Co-op](https://zapply.jobs/l/d/workday-leidos-external-R-00190764?s=gh-internships-2027) | Bethesda, MD | 4d |
+| Target | [Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027)](https://zapply.jobs/l/d/workday-target-targetcareers-R0000451082?s=gh-internships-2027) | 7000 Target Pkwy N,NCD | 4d |
+| Insulet Corporation | [Co-op, Systems Engineering: January-June 2027 (Hybrid)](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18061?s=gh-internships-2027) | Acton, Massachusetts | 4d |
+| Insulet Corporation | [Co-op, Embedded Software Engineering: January-June 2027 (Onsite)](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-17966?s=gh-internships-2027) | Acton, Massachusetts | 4d |
+| Insulet Corporation | [Co-op, Next Gen Platforms (NGP) Systems Engineering: January-June 2027 (Onsite)](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18071?s=gh-internships-2027) | Acton, Massachusetts | 4d |
+| Wellmark, Inc. | [Software Engineer Internship – User Experience Team](https://zapply.jobs/l/d/sr-WellmarkInc-744000148915793?s=gh-internships-2027) | Des Moines, IA | 4d |
+| Booz Allen Hamilton | [Enterprise Cybersecurity Data Loss Prevention Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249131?s=gh-internships-2027) | McLean, VA | 4d |
+| Dow Jones | [Summer 2027 Internship Program - Marketing Data Science Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Data Analyst Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027) | NYC | 0d |
+| Amgen | [Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255709?s=gh-internships-2027) | United States - Remote | 0d |
+| Oshkosh Corporation | [Customer Support Business Analyst Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49501?s=gh-internships-2027) | McConnellsburg, Pennsylvania,... | 0d |
+| Oshkosh Corporation | [Summer 2027 Advanced Analytics Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49541?s=gh-internships-2027) | Frederick, Maryland, United States | 0d |
+| General Motors | [2027 Summer Intern – IndyCar Race Strategy & Analytics](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619990?s=gh-internships-2027) | Concord, North Carolina, United... | 0d |
+| BlackRock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266477?s=gh-internships-2027) | New York, NY | 0d |
+| BlackRock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266476?s=gh-internships-2027) | San Francisco, CA | 0d |
+| Motorola Solutions | [AI & Data Analytics Intern - Supply Resilience](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68261?s=gh-internships-2027) | Greater Chicago Area | 0d |
+| Clarios | [People Analytics & AI Intern (Summer 2027)](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50216?s=gh-internships-2027) | WI | 0d |
+| Wex | [Data & AI Intern (Graduate/Master’s)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027) | Remote | 0d |
+| Gilead Sciences | [Intern - Development - Portfolio Strategy and Analytics](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054693?s=gh-internships-2027) | United States - California -... | 0d |
+| Johnson & Johnson | [Warehouse Operations & Analytics Co-Op – Spring 2026 (CAR-T Manufacturing)](https://zapply.jobs/l/d/workday-jj-jj-R-095094?s=gh-internships-2027) | Raritan, New Jersey, United... | 0d |
+| Johnson & Johnson | [Business Intelligence Co-Op](https://zapply.jobs/l/d/workday-jj-jj-R-097003?s=gh-internships-2027) | Irving, Texas, United States of... | 0d |
+| Amgen | [Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255704?s=gh-internships-2027) | United States - Remote | 0d |
+| Amgen | [Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027) | United States - Remote | 0d |
+| Base Power | [Finance - Analytics Intern](https://zapply.jobs/l/d/ashby-base-power-eea685b7-23a1-4a86-b661-9aeb737c9866?s=gh-internships-2027) | Austin, TX | 0d |
+| Waymo | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://zapply.jobs/l/d/greenhouse-waymo-8197899?s=gh-internships-2027) | Mountain View, CA, USA | 0d |
+| Figma | [Data Science Intern (2027)](https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027) | San Francisco, CA • New York, NY | 0d |
+| Google | [Data Scientist, Research Intern, PhD, Summer 2027](https://zapply.jobs/l/d/google-89965613241246406?s=gh-internships-2027) | United States | Date unknown |
+| Google | [Business Data Scientist Intern, PhD, Summer 2027](https://zapply.jobs/l/d/google-134577198026629830?s=gh-internships-2027) | United States | Date unknown |
+| Google | [Data Scientist, Product Intern, MS, Summer 2027](https://zapply.jobs/l/d/google-119184035237765830?s=gh-internships-2027) | United States | Date unknown |
+| Robinhood | [PeopleX Insights & Analytics Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8198255?s=gh-internships-2027) | Menlo Park, CA | 0d |
+| Robinhood | [Business Analyst Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8123238?s=gh-internships-2027) | Washington, DC | 0d |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Data Analyst](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510800?s=gh-internships-2027) | Mount Laurel, New Jersey | 1d |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Data Engineer](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510797?s=gh-internships-2027) | Mount Laurel, New Jersey | 1d |
+| Federal Reserve System | [2027 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://zapply.jobs/l/d/workday-rb-frs-R-0000033321?s=gh-internships-2027) | San Francisco, CA | 1d |
+| Emerson Electric | [Analytics Engineering Intern](https://zapply.jobs/l/d/oracle-emerson-electric-26009195?s=gh-internships-2027) | Austin, TX, United States | 1d |
+| Merck & Co. | [2027 Future Talent Program - Data Analytics and Insights - Intern](https://zapply.jobs/l/d/workday-msd-searchjobs-R413657?s=gh-internships-2027) | USA - New Jersey - Rahway | 3d |
+| Merck & Co. | [2027 Future Talent Program - QA Research Clinical Quality, Analytics & AI - Co-Op](https://zapply.jobs/l/d/workday-msd-searchjobs-R414840?s=gh-internships-2027) | New Jersey Rahway | 3d |
+| Oshkosh Corporation | [AI Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50265?s=gh-internships-2027) | Oshkosh, Wisconsin, United States | 3d |
+| NREL | [Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-internships-2027) | Golden, CO | 3d |
+| LabCorp | [Intern – Financial Analytics & Technology](https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027) | Remote_United States | 3d |
+| LabCorp | [Intern - IT Business Analyst](https://zapply.jobs/l/d/workday-labcorp-external-2630989?s=gh-internships-2027) | Burlington, NC | 3d |
+| TD Bank | [2027 Spring Co-op - Global Technology & Solutions - Data Analyst](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510236?s=gh-internships-2027) | Mount Laurel, New Jersey | 3d |
+| Leidos | [AI/ML Intern](https://zapply.jobs/l/d/workday-leidos-external-R-00192042?s=gh-internships-2027) | Huntsville, AL | 3d |
+| KBR | [Data Science Intern](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129795?s=gh-internships-2027) | Moffett Field California | 3d |
+| BMO | [AI Intern, Winter 2027 (Internship) - 4 months](https://zapply.jobs/l/d/workday-bmo-external-R260026562?s=gh-internships-2027) | Chicago, IL, USA | 3d |
+| Philips | [Graduate Level Co-op – Medical Imaging Data Scientist – Plymouth, MN – January 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-590567?s=gh-internships-2027) | Plymouth, Minnesota, United States | 3d |
+| NewsBreak | [Nearby AI Internship Program - Engineering Track](https://zapply.jobs/l/d/greenhouse-newsbreak-4712896006?s=gh-internships-2027) | Mountain View, California,... | 3d |
+| NewsBreak | [Nearby AI Internship Program - Marketing & Operation Track](https://zapply.jobs/l/d/greenhouse-newsbreak-4712890006?s=gh-internships-2027) | Mountain View, California,... | 3d |
+| Lyft | [Data Analyst Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027) | New York, NY | 3d |
+| Lyft | [Data Science Intern, Algorithms (Summer 2027)](https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027) | New York, NY | 3d |
+| Lyft | [Data Science Intern, Algorithms (Summer 2027)](https://zapply.jobs/l/d/greenhouse-lyft-8767723002?s=gh-internships-2027) | San Francisco, CA | 3d |
+| Cigna | [The Cigna Group's Technology Development Program - AI Engineering Track Summer Internship](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009535?s=gh-internships-2027) | TX, Austin | 4d |
+| Cigna | [The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer...](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009533?s=gh-internships-2027) | Bloomfield, CT | 4d |
+| Ameriprise Financial | [Data Analytics & AI Intern - RiverSource](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3595?s=gh-internships-2027) | Minneapolis, Minnesota | 4d |
+| LabCorp | [Intern - Data Science - Oncology](https://zapply.jobs/l/d/workday-labcorp-external-2630590?s=gh-internships-2027) | Baltimore MD | 4d |
+| Danaher | [Data Analytics Intern Summer 2027](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1317525?s=gh-internships-2027) | Logan, Utah, United States | 4d |
+| Wellmark, Inc. | [Data Analytics & Governance Internship](https://zapply.jobs/l/d/sr-WellmarkInc-744000148917718?s=gh-internships-2027) | Des Moines, IA | 4d |
+| Citizens Financial Group | [Data Science Undergraduate 2027 Summer Intern](https://zapply.jobs/l/d/oracle-citizens-financial-49276?s=gh-internships-2027) | United States | 4d |
+| Citizens Financial Group | [Data Analytics Graduate 2027 Summer Intern](https://zapply.jobs/l/d/oracle-citizens-financial-49282?s=gh-internships-2027) | United States | 4d |
+| Citizens Financial Group | [Data Analytics Undergraduate 2027 Summer Intern](https://zapply.jobs/l/d/oracle-citizens-financial-49278?s=gh-internships-2027) | United States | 4d |
+| Entegris | [Portfolio Analytics Analyst Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14499?s=gh-internships-2027) | Danbury, CT | 4d |
+| Entegris | [Lab Automation & AI Engineering Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14498?s=gh-internships-2027) | Billerica, MA | 4d |
+| ByteDance | [Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)](https://zapply.jobs/l/d/bytedance-7538942403488188680?s=gh-internships-2027) | Seattle, Washington | Date unknown |
+| ByteDance | [Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Start (PhD)](https://zapply.jobs/l/d/bytedance-7535951608832657682?s=gh-internships-2027) | Seattle, Washington | Date unknown |
+| ByteDance | [Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)](https://zapply.jobs/l/d/bytedance-7535171166420453639?s=gh-internships-2027) | Seattle, Washington | Date unknown |
+| Zipline | [Data Analytics Intern (Spring 2027)](https://zapply.jobs/l/d/greenhouse-flyzipline-7990420003?s=gh-internships-2027) | South San Francisco,... | 4d |
+| Zipline | [Data Analytics Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-flyzipline-7990632003?s=gh-internships-2027) | South San Francisco,... | 4d |
+| Aerospace Corporation | [2027 Machine Learning Engineering Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016432?s=gh-internships-2027) | El Segundo, CA | 5d |
+| Merck & Co. | [2027 Future Talent Program – Optical Imaging Data Science – Intern](https://zapply.jobs/l/d/workday-msd-searchjobs-R412885?s=gh-internships-2027) | USA - Massachusetts - Boston | 5d |
+| S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331714?s=gh-internships-2027) | Cambridge, MA | 5d |
+| LPL Financial | [Intern 2027 - FAR Program - Service Transformation & Data Analytics](https://zapply.jobs/l/d/workday-lplfinancial-university-R-053219?s=gh-internships-2027) | Fort Mill/Charlotte | 5d |
+| LPL Financial | [Intern 2027 - FAR Program - Data Analytics](https://zapply.jobs/l/d/workday-lplfinancial-university-R-052053?s=gh-internships-2027) | Fort Mill/Charlotte | 5d |
+| Wells Fargo | [2027 Quantitative Analytics Summer Internship Applied Computational Intelligence (ACI Masters) –...](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574030?s=gh-internships-2027) | CHARLOTTE, NC | 5d |
+| Wells Fargo | [2027 Quantitative Analytics Summer Internship Applied Computational Intelligence (ACI PhD) –...](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574032?s=gh-internships-2027) | CHARLOTTE, NC | 5d |
+| Entegris | [Pricing & Commercial Analytics Co-op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14511?s=gh-internships-2027) | Bedford, MA | 5d |
+| Solidigm | [Talent Acquisition Data Engineering & Analytics Graduate Intern](https://zapply.jobs/l/d/sr-solidigm-744000148621589?s=gh-internships-2027) | Rancho Cordova, CA | 5d |
+| Verizon | [Verizon Consumer Group: AI/ML Engineering Summer 2027 Internship](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100605?s=gh-internships-2027) | Basking Ridge, New Jersey | 5d |
+| Bosch Group | [Data Analytics Intern - Engineering & SAP Operations](https://zapply.jobs/l/d/sr-BoschGroup-744000148595878?s=gh-internships-2027) | Lincolnshire, IL | 5d |
+| Northrop Grumman | [2027 Data Analytics Intern - Clearfield UT](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250086?s=gh-internships-2027) | United States-Utah-Roy | 5d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Cox | [Data Scientist Intern - Summer 2027 (Atlanta, GA)](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682164?s=gh-internships-2027) | Atlanta GA | 6d |
 | Equifax | [Data Analytics Intern](https://zapply.jobs/l/d/workday-equifax-ur-external-J00178975?s=gh-internships-2027) | USA - Georgia - Alpharetta | 6d |
 | HP Inc | [Business Intelligence and Infrastructure Analysts Intern](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4669?s=gh-internships-2027) | Vancouver, Washington, United... | 6d |
 | The Hartford | [Intern, Product Analytics Leadership Development Program](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626424?s=gh-internships-2027) | Hartford, CT | 6d |
+<<<<<<< HEAD
 | Capital One | [Current PhD, AI Engineering Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249110?s=gh-internships-2027) | New York, NY | 6d |
 | Capital One | [Current Master's, AI Engineering Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249109?s=gh-internships-2027) | New York, NY | 6d |
 | Rivian and Volkswagen Group Technologies | [Data Engineering Intern - AI & Analytics (January - August 2027)](https://zapply.jobs/l/d/ashby-rivianvw.tech-32f6b882-414f-4bac-959c-83691d120322?s=gh-internships-2027) | Palo Alto, California | 6d |
@@ -4848,10 +5029,68 @@
 | Impulse Space | [Test Automation Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-579199?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
 | Microsoft | [Materials Science Engineering INTERN](https://zapply.jobs/l/d/microsoft-200055523?s=gh-internships-2027) | Redmond, Washington, United States | 0d |
 | Microsoft | [Mechanical Engineering INTERN](https://zapply.jobs/l/d/microsoft-200055516?s=gh-internships-2027) | Redmond, Washington, United States | 0d |
+=======
+| Red Hat | [Finance Business Analyst Intern](https://zapply.jobs/l/d/workday-redhat-jobs-R-059058?s=gh-internships-2027) | Raleigh | 6d |
+| Red Hat | [Business Analyst Intern](https://zapply.jobs/l/d/workday-redhat-jobs-R-059054?s=gh-internships-2027) | Raleigh | 6d |
+| TEL | [Sales Business Analyst Intern](https://zapply.jobs/l/d/workday-tel-tel-careers-R26-01519?s=gh-internships-2027) | Austin RiverSouth | 6d |
+| Gilead Sciences | [Intern - Research - Data Sciences](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054572?s=gh-internships-2027) | United States - California -... | 6d |
+| Gilead Sciences | [Intern - CFO - IT (AI Engineer)](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054744?s=gh-internships-2027) | United States - North Carolina... | 6d |
+| Motorola Solutions | [Supply Chain Data Analyst Internship 2027](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68682?s=gh-internships-2027) | Chicago, IL | 6d |
+| Texas Instruments | [Web Marketing Intern - Digital Experience Analytics](https://zapply.jobs/l/d/oracle-texas-instruments-25017439?s=gh-internships-2027) | Dallas, TX, United States | 6d |
+| Coinbase | [People Analytics Intern](https://zapply.jobs/l/d/greenhouse-coinbase-8175517?s=gh-internships-2027) | Hybrid - New York, NY | 6d |
+| Capital One | [Current PhD, AI Engineering Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249110?s=gh-internships-2027) | New York, NY | 6d |
+| Capital One | [Current Master's, AI Engineering Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249109?s=gh-internships-2027) | New York, NY | 6d |
+| Coinbase | [Machine Learning Engineer Intern](https://zapply.jobs/l/d/greenhouse-coinbase-8175441?s=gh-internships-2027) | Hybrid - San Francisco, CA | 6d |
+| Coinbase | [Analytics Engineer Intern](https://zapply.jobs/l/d/greenhouse-coinbase-8175471?s=gh-internships-2027) | Hybrid - San Francisco, CA | 6d |
+| Rivian and Volkswagen Group Technologies | [Data Engineering Intern - AI & Analytics (January - August 2027)](https://zapply.jobs/l/d/ashby-rivianvw.tech-32f6b882-414f-4bac-959c-83691d120322?s=gh-internships-2027) | Palo Alto, California | 6d |
+| Base Power | [Business Operations Intern, Commercial Ops & Analytics](https://zapply.jobs/l/d/ashby-base-power-0545cb76-f49c-4390-a1c5-2b7adb5e927a?s=gh-internships-2027) | Austin, TX | 6d |
+| Flagship Pioneering | [Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8783960002?s=gh-internships-2027) | Cambridge, MA USA | 6d |
+| NXP | [Data Analytics Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-nxp-careers-R-10065538?s=gh-internships-2027) | Austin | 7d |
+| NXP | [Data Science / Structured Problem Solving Intern - Summer 2027](https://zapply.jobs/l/d/workday-nxp-careers-R-10065037?s=gh-internships-2027) | Austin | 7d |
+| TEL | [Business Intelligence Analyst Summer 2027 Intern](https://zapply.jobs/l/d/workday-tel-tel-careers-R26-01504?s=gh-internships-2027) | Austin RiverSouth | 7d |
+| Vertiv | [Data and Analytics Intern (Summer 2027)](https://zapply.jobs/l/d/oracle-vertiv-20280588?s=gh-internships-2027) | Westerville, OH, United States | 7d |
+| Booz Allen Hamilton | [University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248406?s=gh-internships-2027) | Honolulu, HI | 7d |
+| Booz Allen Hamilton | [University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248409?s=gh-internships-2027) | Fort Walton Beach, FL | 7d |
+| Booz Allen Hamilton | [University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248408?s=gh-internships-2027) | Annapolis Junction, MD | 7d |
+| LPL Financial | [Intern 2027 - FAR Program - Internal Audit - Data Analytics](https://zapply.jobs/l/d/workday-lplfinancial-university-R-053198?s=gh-internships-2027) | Fort Mill/Charlotte | 7d |
+| Disney | [Commercial Data Science Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10158063?s=gh-internships-2027) | Celebration, FL, USA | 7d |
+| Allegion | [Summer Intern - Mechanical Engineer](https://zapply.jobs/l/d/workday-allegion-careers-JR37495?s=gh-internships-2027) | Mount Comfort, IN | 0d |
+| Viavi Solutions | [Hardware Engineering Co-Op](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005139?s=gh-internships-2027) | Germantown, MD USA | 0d |
+| Oshkosh Corporation | [Test & Development Engineering Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49472?s=gh-internships-2027) | Orrville, Ohio, United States | 0d |
+| Oshkosh Corporation | [NPD Engineering Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49421?s=gh-internships-2027) | Frederick, Maryland, United States | 0d |
+| Oshkosh Corporation | [R&D Engineering Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49491?s=gh-internships-2027) | McConnellsburg, Pennsylvania,... | 0d |
+| Trane Technologies | [Mechanical Engineering Co-op](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-8939?s=gh-internships-2027) | McGregor TX 182 Cotton Belt | 0d |
+| General Motors | [2027 Summer Inter - Supplier Quality Intern](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619692?s=gh-internships-2027) | Warren, Michigan, United States... | 0d |
+| LabCorp | [Intern - Mechanical Engineer](https://zapply.jobs/l/d/workday-labcorp-external-2632739?s=gh-internships-2027) | Bloomfield CT | 0d |
+| RTX | [Materials & Processes and Mechanical Disciplines Engineering Intern (Summer 2027) (Onsite)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871669?s=gh-internships-2027) | CT-EAST HARTFORD-ETC | 0d |
+| RTX | [Maintenance Repair & Overhaul (MRO) – Hot Section Engineering Intern (Summer 2027) (Onsite)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871722?s=gh-internships-2027) | OK-OKLAHOMA CITY | 0d |
+| RTX | [Mechanical Design – Hot Section Engineering Intern (Summer 2027) (Onsite)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871721?s=gh-internships-2027) | OK-OKLAHOMA CITY | 0d |
+| Analog Devices | [Equipment Engineering Intern](https://zapply.jobs/l/d/workday-analogdevices-external-R266095?s=gh-internships-2027) | OR Beaverton | 0d |
+| Cisco | [Hardware Engineer PhD (Intern) - United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024991?s=gh-internships-2027) | San Jose California US | 0d |
+| Cisco | [Hardware Engineer I (Intern) - United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024756?s=gh-internships-2027) | San Jose California US | 0d |
+| Northrop Grumman | [2027 Engineering Intern - Huntsville AL](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250391?s=gh-internships-2027) | United States-Alabama-Huntsville | 0d |
+| Johnson & Johnson | [Mechanical Engineering Intern - Robotics R&D](https://zapply.jobs/l/d/workday-jj-jj-R-099647?s=gh-internships-2027) | Santa Clara, California, United... | 0d |
+| Johnson & Johnson | [Electrical Engineering Intern - Robotics R&D](https://zapply.jobs/l/d/workday-jj-jj-R-099626?s=gh-internships-2027) | Santa Clara, California, United... | 0d |
+| Trane Technologies | [Mechanical Engineering Co-op](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-8542?s=gh-internships-2027) | Clarksville, Tennessee | 0d |
+| Trane Technologies | [Mechanical Engineering Co-op](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-8817?s=gh-internships-2027) | Panama City, Florida | 0d |
+| CACI | [Electromechanical Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-caci-external-332007?s=gh-internships-2027) | Danbury, CT, US | 0d |
+| Disney | [Disneyland Resort Industrial Engineering Intern, Fall 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159983?s=gh-internships-2027) | Anaheim, CA, USA | 0d |
+| Disney | [Disneyland Resort Industrial Engineering Intern, Summer 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159978?s=gh-internships-2027) | Anaheim, CA, USA | 0d |
+| Disney | [Walt Disney World Industrial Engineering Intern, Summer/Fall 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159994?s=gh-internships-2027) | Lake Buena Vista, FL, USA | 0d |
+| Entegris | [Mechanical Engineering Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14401?s=gh-internships-2027) | Bedford, MA | 0d |
+| Applied Materials | [2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)](https://zapply.jobs/l/d/workday-amat-external-R2628288?s=gh-internships-2027) | Gloucester,MA | 0d |
+| RE/SPEC Inc. | [Student Engineering Intern (Civil, Geotechnical, or Geomatics/Survey)](https://zapply.jobs/l/d/sr-RESPECInc-744000149450219?s=gh-internships-2027) | Anchorage, AK | 0d |
+| RE/SPEC Inc. | [Student Engineering Intern (Structural)](https://zapply.jobs/l/d/sr-RESPECInc-744000149447560?s=gh-internships-2027) | Sioux Falls, SD | 0d |
+| RE/SPEC Inc. | [Student Engineering Intern (Civil)](https://zapply.jobs/l/d/sr-RESPECInc-744000149443222?s=gh-internships-2027) | Anchorage, AK | 0d |
+| Microsoft | [Mechanical Engineering INTERN](https://zapply.jobs/l/d/microsoft-200055516?s=gh-internships-2027) | Redmond, Washington, United States | 0d |
+| Impulse Space | [Test Automation Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-579199?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| Microsoft | [Materials Science Engineering INTERN](https://zapply.jobs/l/d/microsoft-200055523?s=gh-internships-2027) | Redmond, Washington, United States | 0d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Olsson | [Electrical Engineering Internship - Facilities (Healthcare)](https://zapply.jobs/l/d/greenhouse-olsson-5423855008?s=gh-internships-2027) | Dallas, TX | 0d |
 | American Rare Earths | [Manufacturing Intern (Summer 2027)](https://zapply.jobs/l/d/rippling-usare-affd3b55-48c3-4d5d-88f4-859441845337?s=gh-internships-2027) | Stillwater, OK | Date unknown |
 | Microsoft | [Electrical Engineering INTERN](https://zapply.jobs/l/d/microsoft-200055515?s=gh-internships-2027) | Redmond, Washington, United States | 0d |
 | Parsons | [Roadway Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-parsons-search-R185644?s=gh-internships-2027) | GA, Sandy Springs, R185644 | Date unknown |
+<<<<<<< HEAD
 | CACI | [Electromechanical Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-caci-external-332007?s=gh-internships-2027) | Danbury, CT, US | 0d |
 | Olsson | [Civil Engineering Internship- Site Design](https://zapply.jobs/l/d/greenhouse-olsson-5423452008?s=gh-internships-2027) | Dallas, TX | 0d |
 | Impulse Space | [Avionics Mechanical Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-578974?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
@@ -4979,6 +5218,151 @@
 | DigiKey | [Instructional Designer Intern](https://zapply.jobs/l/d/workday-digikey-digi-key-R5783?s=gh-internships-2027) | Thief River Falls, MN | 6d |
 | Brunswick | [Engineering Test Lab Intern](https://zapply.jobs/l/d/workday-brunswick-search-JR-051267?s=gh-internships-2027) | Lowell, MI | 6d |
 | Capital One | [Current PhD, Applied Research Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R244323?s=gh-internships-2027) | New York, NY | 6d |
+=======
+| Olsson | [Civil Engineering Internship- Site Design](https://zapply.jobs/l/d/greenhouse-olsson-5423452008?s=gh-internships-2027) | Dallas, TX | 0d |
+| Impulse Space | [Avionics Mechanical Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-578974?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| GlobalFoundries | [Silicon Photonics Integration Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604259?s=gh-internships-2027) | USA - New York - Malta | 0d |
+| Base Power | [Firmware Engineering Intern](https://zapply.jobs/l/d/ashby-base-power-a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7?s=gh-internships-2027) | Austin, TX | 0d |
+| Google | [Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-114405557703451334?s=gh-internships-2027) | United States | Date unknown |
+| Google | [Hardware Engineering Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-122803627516404422?s=gh-internships-2027) | United States | Date unknown |
+| Google | [Hardware Engineering Intern, PhD, Summer 2027](https://zapply.jobs/l/d/google-97352132356645574?s=gh-internships-2027) | United States | Date unknown |
+| Antares | [Nuclear Operations & Licensing Engineering Intern - Summer 2027](https://zapply.jobs/l/d/ashby-antares-ec96a761-509f-44e9-90aa-e1fee5388aa1?s=gh-internships-2027) | Idaho Falls | 0d |
+| Antares | [Manufacturing Engineering Intern - Summer 2027](https://zapply.jobs/l/d/ashby-antares-d953d3f2-0ca8-4f13-ae88-4d0eb714e851?s=gh-internships-2027) | Los Angeles | 1d |
+| American Rare Earths | [Mining Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/rippling-usare-05f28dd6-bfd8-414a-b35c-c7ff94b8e614?s=gh-internships-2027) | Sierra Blanca, TX | Date unknown |
+| American Rare Earths | [R&D Process Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/rippling-usare-b6210346-8f69-4d89-9900-d450a0a62c44?s=gh-internships-2027) | Wheat Ridge, CO | Date unknown |
+| Rocket Lab | [Mechanical Engineering Intern Summer 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7991448003?s=gh-internships-2027) | Long Beach, CA | 1d |
+| Rocket Lab | [Mechanical Engineering Intern Spring 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7985634003?s=gh-internships-2027) | Long Beach, CA | 1d |
+| Dell Technologies | [ISG Hardware Engineering Undergrad Internship](https://zapply.jobs/l/d/oracle-dell-technologies-297770?s=gh-internships-2027) | Round Rock, TX, United States | 1d |
+| Emerson Electric | [Mechanical Engineering Co-Op](https://zapply.jobs/l/d/oracle-emerson-electric-26010051?s=gh-internships-2027) | Eden Prairie, MN, United States | 1d |
+| Texas Instruments | [Field Applications Engineering Intern (Dallas, TX)](https://zapply.jobs/l/d/oracle-texas-instruments-25013813?s=gh-internships-2027) | Dallas, TX, United States | 1d |
+| Texas Instruments | [Sales Engineering Intern (Bellevue, WA)](https://zapply.jobs/l/d/oracle-texas-instruments-25017947?s=gh-internships-2027) | Bellevue, WA, United States | 1d |
+| Texas Instruments | [Sales Engineering Intern (Dallas, TX)](https://zapply.jobs/l/d/oracle-texas-instruments-25017948?s=gh-internships-2027) | Dallas, TX, United States | 1d |
+| WSP | [Civil Engineering Intern (Transmission) - Summer 2027](https://zapply.jobs/l/d/oracle-wsp-94846?s=gh-internships-2027) | Syracuse, NY, United States | 1d |
+| WSP | [Civil Engineering Intern- Summer 2027](https://zapply.jobs/l/d/oracle-wsp-95226?s=gh-internships-2027) | Lisle, IL, United States | 1d |
+| Impulse Space | [Manufacturing Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-565879?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| Daimler Truck | [Cost Engineering Intern](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-19682?s=gh-internships-2027) | Portland, OR US | 3d |
+| Stanley Black & Decker | [Manufacturing Internship - 1st shift, $15.00hr](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052318?s=gh-internships-2027) | Mission, TX, United States | 3d |
+| Allegion | [Summer Intern - Hardware Engineering - Indianapolis, Indiana](https://zapply.jobs/l/d/workday-allegion-careers-JR37467?s=gh-internships-2027) | Indianapolis, IN - Hague Rd | 3d |
+| AES Corporation | [T&D Performance and Reliability Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/workday-aes-aes-us-R1064841?s=gh-internships-2027) | Dayton, OH | 3d |
+| Thermo Fisher Scientific | [Mechanical Engineering Co-op](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366623?s=gh-internships-2027) | Rochester, New York, USA | 3d |
+| Agilent Technologies | [Electrical Engineering Intern](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4038526?s=gh-internships-2027) | DE-Wilmington | 3d |
+| Elanco | [Engineering Intern – Fort Dodge, Iowa (Summer 2027)](https://zapply.jobs/l/d/workday-elanco-external-career-R0027172?s=gh-internships-2027) | Fort Dodge, IA | 3d |
+| GE Healthcare | [LSS Mechanical Engineering Co-op](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4046267?s=gh-internships-2027) | Madison | 3d |
+| GE Vernova | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052674?s=gh-internships-2027) | Schenectady | 3d |
+| GE Vernova | [GE Vernova Gas Power Engineering Internship - Spring 2027](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052776?s=gh-internships-2027) | Greenville | 3d |
+| Motorola Solutions | [2027 Internship - Electrical Engineering](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68781?s=gh-internships-2027) | Schaumburg, IL | 3d |
+| KION Group | [Mechanical Engineering Intern/Co-Op](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0094004?s=gh-internships-2027) | Henrietta NY United States | 3d |
+| Entegris | [Mechanical Engineering Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14457?s=gh-internships-2027) | Billerica, MA | 3d |
+| Northrop Grumman | [2027 Fall Mechanical Engineering Co-op - Chandler AZ](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250495?s=gh-internships-2027) | United States-Arizona-Chandler | 3d |
+| Parsons | [Roadway Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-parsons-search-R185152?s=gh-internships-2027) | IL, Chicago, R185152 | Date unknown |
+| AMD | [2027 PhD Optical & Photonics Engineering Intern/Co-Op](https://zapply.jobs/l/d/amd-92358?s=gh-internships-2027) | San Jose, CA, United States | 3d |
+| AMD | [2027 PhD AI Systems & GPU Performance Engineering Intern](https://zapply.jobs/l/d/amd-92354?s=gh-internships-2027) | San Jose, CA, United States | 3d |
+| AMD | [2027 PhD ML System Engineering Intern/Co-op](https://zapply.jobs/l/d/amd-92342?s=gh-internships-2027) | San Jose, CA, United States | 3d |
+| Cox | [Application Support Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682358?s=gh-internships-2027) | Atlanta GA | 4d |
+| Cox | [Test Automation Intern - Summer 2027](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682348?s=gh-internships-2027) | Atlanta GA | 4d |
+| Cox | [AI/Automation Intern - Summer 2027](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682342?s=gh-internships-2027) | Atlanta GA | 4d |
+| Allegion | [Summer Intern – Hardware Engineer (Advanced Development)](https://zapply.jobs/l/d/workday-allegion-careers-JR37459?s=gh-internships-2027) | Indianapolis, IN - Hague Rd | 4d |
+| AeroVironment | [Mechanical Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8591?s=gh-internships-2027) | Simi Valley, CA | 4d |
+| AeroVironment | [Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8597?s=gh-internships-2027) | Moorpark, CA | 4d |
+| AeroVironment | [Mechanical Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8627?s=gh-internships-2027) | Pottstown, PA | 4d |
+| CAE | [Mechanical Engineering Intern](https://zapply.jobs/l/d/workday-cae-career-123573?s=gh-internships-2027) | Arlington, TX | 4d |
+| Globus Medical | [Engineering Intern - Spring 2027](https://zapply.jobs/l/d/workday-globusmedical-gmed-careers-JR107803?s=gh-internships-2027) | West Carrollton, OH | 4d |
+| Curtiss-Wright | [Design Engineering Intern](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13583?s=gh-internships-2027) | NY-East Farmingdale | 4d |
+| Danaher | [Continues Improvement Engineering Intern summer 2027](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1317746?s=gh-internships-2027) | Logan, Utah, United States | 4d |
+| Danaher | [Computer Systems Validation Intern](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1316905?s=gh-internships-2027) | Fargo, North Dakota, United States | 4d |
+| GE Vernova | [GE Vernova Gas Power Engineering Internship - Summer 2027](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051434?s=gh-internships-2027) | Greenville | 4d |
+| Insulet Corporation | [Co-op, R&D Electrical Engineering: January - June 2027 (Hybrid)](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18076?s=gh-internships-2027) | Acton, Massachusetts | 4d |
+| Emerson Electric | [Hardware Design Engineer Intern](https://zapply.jobs/l/d/oracle-emerson-electric-26010801?s=gh-internships-2027) | Round Rock, TX, United States | 4d |
+| WSP | [Controls Engineering Intern – Summer 2027](https://zapply.jobs/l/d/oracle-wsp-94708?s=gh-internships-2027) | Milwaukee, WI, United States | 4d |
+| Entegris | [Mechanical Engineering Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14483?s=gh-internships-2027) | San Luis Obispo, CA | 4d |
+| Schweitzer Engineering Laboratories | [Mechanical Engineering Intern](https://zapply.jobs/l/d/workday-selinc-sel-2026-22622?s=gh-internships-2027) | Washington - Pullman | Date unknown |
+| VAST | [Emerging Talent - Manufacturing Engineering Internship](https://zapply.jobs/l/d/greenhouse-vast-4711403006?s=gh-internships-2027) | Long Beach, California, United... | 4d |
+| VAST | [Emerging Talent - Electrical Engineering Internship](https://zapply.jobs/l/d/greenhouse-vast-4711401006?s=gh-internships-2027) | Long Beach, California, United... | 4d |
+| Rocket Lab | [Electrical Engineering Intern Summer 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7990683003?s=gh-internships-2027) | Long Beach, CA | 4d |
+| VAST | [Emerging Talent - Mechanical/Aerospace Engineering Internship](https://zapply.jobs/l/d/greenhouse-vast-4711400006?s=gh-internships-2027) | Long Beach, California, United... | 4d |
+| Schweitzer Engineering Laboratories | [Electrical Engineering Intern](https://zapply.jobs/l/d/workday-selinc-sel-2026-22442?s=gh-internships-2027) | Illinois - Fairview Heights | Date unknown |
+| Mach Industries | [Spring 2027 Engineering Internship](https://zapply.jobs/l/d/greenhouse-machindustries-4397035009?s=gh-internships-2027) | Huntington Beach, California,... | 4d |
+| Antares | [Nuclear Engineering Intern - Summer 2027](https://zapply.jobs/l/d/ashby-antares-e92ae489-1b1a-4616-a9c8-7c2390698af8?s=gh-internships-2027) | Los Angeles | 5d |
+| Merck & Co. | [2027 Future Talent Program - Manufacturing Intern](https://zapply.jobs/l/d/workday-msd-searchjobs-R416739?s=gh-internships-2027) | USA - North Carolina - Durham | 5d |
+| Intel | [System Technology Research Engineer - (PhD Intern)](https://zapply.jobs/l/d/workday-intel-external-JR0287000?s=gh-internships-2027) | Oregon Hillsboro | 0d |
+| Aerospace Corporation | [2027 Space Enterprise Design and Optimization Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016561?s=gh-internships-2027) | El Segundo, CA | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Brand Creative Design Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55301?s=gh-internships-2027) | New York City | 0d |
+| Monolithic Power Systems | [Product Marketing Engineer Intern- Server Telecom](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1965?s=gh-internships-2027) | San Jose, CA | 0d |
+| General Motors | [2027 Summer Intern - Creative Design (Interior/Exterior)](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619314?s=gh-internships-2027) | 2 Locations | 0d |
+| General Motors | [2027 Summer Intern, Global Customer Research Intern (Master/MBA Degree)](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619679?s=gh-internships-2027) | Warren, Michigan, United States... | 0d |
+| General Motors | [2027 Summer Intern - Human Interface Design](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619285?s=gh-internships-2027) | Warren, Michigan, United States... | 0d |
+| LabCorp | [Intern - IT Product Manager](https://zapply.jobs/l/d/workday-labcorp-external-2632185?s=gh-internships-2027) | Durham NC | 0d |
+| Micron Technology | [Intern - HBM Design Architect MS or PhD Student](https://zapply.jobs/l/d/workday-micron-external-JR111452?s=gh-internships-2027) | Richardson, TX | 0d |
+| Micron Technology | [Intern - Clock Design & Architecture, Intern](https://zapply.jobs/l/d/workday-micron-external-JR110765?s=gh-internships-2027) | Richardson, TX | 0d |
+| RTX | [Mechanical Design Engineering Co-op (Winter/Spring 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871736?s=gh-internships-2027) | ND-JAMESTOWN-P1 | 0d |
+| RTX | [Mechanical Design Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871739?s=gh-internships-2027) | ND-JAMESTOWN-P1 | 0d |
+| RTX | [Mechanical Design Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873008?s=gh-internships-2027) | CT-WINDSOR LOCKS-B1 | 0d |
+| LabCorp | [Intern — User Experience Design](https://zapply.jobs/l/d/workday-labcorp-external-2632092?s=gh-internships-2027) | NC Durham 10 Moore Drive | 0d |
+| Marvell | [Analog Design Intern, MS - Summer 2027](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604510?s=gh-internships-2027) | Santa Clara, CA | 0d |
+| TEL | [Research Scientist, Multiscale Modeling Summer 2027 Intern](https://zapply.jobs/l/d/workday-tel-tel-careers-R26-01559?s=gh-internships-2027) | Austin MET 15 | 0d |
+| Disney | [Creative Design Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159552?s=gh-internships-2027) | Celebration, FL, USA | 0d |
+| Disney | [Disney Live Entertainment Character Interaction Design Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10160043?s=gh-internships-2027) | Kissimmee, FL, USA | 0d |
+| Epic Games | [Level Design Intern](https://zapply.jobs/l/d/greenhouse-epicgames-6148799004?s=gh-internships-2027) | Cary,North Carolina,United States | 0d |
+| Rigetti | [Research Intern: Scalable Fabrication of Superconducting Quantum Devices](https://zapply.jobs/l/d/lever-rigetti-efe28dd4-f331-4738-b282-23106928c3a3?s=gh-internships-2027) | Berkeley, CA | 0d |
+| ByteDance | [Research Intern (Inference Infrastructure) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7679892629673773365?s=gh-internships-2027) | San Jose, California | Date unknown |
+| ByteDance | [Research Intern (Frontier AI Systems) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7679894132806650165?s=gh-internships-2027) | San Jose, California | Date unknown |
+| ByteDance | [Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7679562740656933125?s=gh-internships-2027) | Seattle, Washington | Date unknown |
+| Figma | [Product Design Intern (2027)](https://zapply.jobs/l/d/greenhouse-figma-6180005004?s=gh-internships-2027) | San Francisco, CA • New York, NY | 0d |
+| Figma | [Brand Design Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-figma-6144755004?s=gh-internships-2027) | San Francisco, CA | 0d |
+| Google | [User Experience Design Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-100798001798095558?s=gh-internships-2027) | United States | Date unknown |
+| Google | [User Experience Research Intern, MS, Summer 2027](https://zapply.jobs/l/d/google-89541201752924870?s=gh-internships-2027) | United States | Date unknown |
+| Google | [User Experience Research Intern, PhD, Summer 2027](https://zapply.jobs/l/d/google-137409539979780806?s=gh-internships-2027) | United States | Date unknown |
+| NVIDIA | [PhD Research Intern, Circuits - 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024174?s=gh-internships-2027) | CA Santa Clara | 1d |
+| Oshkosh Corporation | [Design Intern - Summer 2027](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50274?s=gh-internships-2027) | New Hudson, Michigan, United States | 1d |
+| NVIDIA | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024171?s=gh-internships-2027) | US, CA, Santa Clara | 1d |
+| Federal Reserve System | [2027 SF Fed Summer Internship - ECONOMIC RESEARCH Intern](https://zapply.jobs/l/d/workday-rb-frs-R-0000033271?s=gh-internships-2027) | San Francisco, CA | 1d |
+| Disney | [Disney Live Entertainment Audio Systems Design Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159171?s=gh-internships-2027) | Kissimmee, FL, USA | 1d |
+| Emerson Electric | [Analog Hardware Design Intern](https://zapply.jobs/l/d/oracle-emerson-electric-26010830?s=gh-internships-2027) | Austin, TX, United States | 1d |
+| Intel | [Module Engineering PhD Intern](https://zapply.jobs/l/d/workday-intel-external-JR0286932?s=gh-internships-2027) | US, Arizona, Phoenix | 3d |
+| Intel | [Module Engineering PhD Intern New 2027](https://zapply.jobs/l/d/workday-intel-external-JR0287021?s=gh-internships-2027) | US, Oregon, Hillsboro | 3d |
+| Allegion | [Summer Intern - Product Marketing - Mobile Credentials and Partner Solutions](https://zapply.jobs/l/d/workday-allegion-careers-JR37542?s=gh-internships-2027) | Golden, CO | 3d |
+| Momentive | [Summer 2027 Intern-Research Intern for Polymers](https://zapply.jobs/l/d/workday-momentive-mc-R9781?s=gh-internships-2027) | NY Pearl River | 3d |
+| Oshkosh Corporation | [Industrial Design Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49703?s=gh-internships-2027) | Oshkosh, Wisconsin, United States | 3d |
+| HP Inc | [Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus)](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4756?s=gh-internships-2027) | Spring, Texas, United States of... | 3d |
+| LabCorp | [Intern- Immunology Lab Research Assistant](https://zapply.jobs/l/d/workday-labcorp-external-2631589?s=gh-internships-2027) | Burlington NC | 3d |
+| TEL | [Research Scientist, Simulation Summer 2027 Intern](https://zapply.jobs/l/d/workday-tel-tel-careers-R26-01506?s=gh-internships-2027) | Austin MET 15 | 3d |
+| KBR | [Intern - Graphic Designer](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129793?s=gh-internships-2027) | Houston, Texas | 3d |
+| Philips | [Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591948?s=gh-internships-2027) | Colorado Springs, Colorado,... | 3d |
+| Entegris | [Designer/Drafter Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14428?s=gh-internships-2027) | San Luis Obispo, CA | 3d |
+| AMD | [2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op](https://zapply.jobs/l/d/amd-92350?s=gh-internships-2027) | San Jose, CA, United States | 3d |
+| AMD | [2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op](https://zapply.jobs/l/d/amd-92346?s=gh-internships-2027) | San Jose, CA, United States | 3d |
+| Rocket Lab | [Propulsion Design Intern Spring 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7987110003?s=gh-internships-2027) | Long Beach, CA | 3d |
+| Nelnet | [Intern - Instructional Design and Training Development - Starting Spring 2027](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23044?s=gh-internships-2027) | Lincoln, NE | 4d |
+| Marvell | [Ph.D. Intern - AI/ML & Design Automation](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604412?s=gh-internships-2027) | Santa Clara, CA | 4d |
+| Entegris | [Product Design Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14435?s=gh-internships-2027) | Colorado Springs, CO | 4d |
+| ABB | [Instructional Design- Fall 2026](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042028?s=gh-internships-2027) | USA, TN, Memphis | 4d |
+| Rocket Lab | [Propulsion Design Intern Summer 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7986816003?s=gh-internships-2027) | Long Beach, CA | 4d |
+| Microsoft | [Product Design INTERN](https://zapply.jobs/l/d/microsoft-200054934?s=gh-internships-2027) | United States | 4d |
+| Moog | [Intern, Design Engineering](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19881?s=gh-internships-2027) | Mineral Wells, TX | 5d |
+| Moog | [Intern, Design Engineering](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19882?s=gh-internships-2027) | Mineral Wells, TX | 5d |
+| Workiva | [Spring & Summer 2027 Intern - Brand Graphic Design](https://zapply.jobs/l/d/workday-workiva-careers-R12318?s=gh-internships-2027) | USA - Remote | 5d |
+| Silicon Labs | [Summer 2027 Internships - Design Engineering](https://zapply.jobs/l/d/workday-silabs-siliconlabscareers-21049?s=gh-internships-2027) | Austin | 5d |
+| Carnegie Mellon University | [AI Security Research Intern - (September 2026 – May 2027)](https://zapply.jobs/l/d/workday-cmu-cmu-2025067?s=gh-internships-2027) | Pittsburgh, PA | 5d |
+| HNTB | [Graphic Design Intern - Summer 2027](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31524?s=gh-internships-2027) | Tampa, FL | 5d |
+| GE Healthcare | [Digital Design Intern](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4045659?s=gh-internships-2027) | Madison | 5d |
+| Target | [UX Design Internship - Minneapolis, MN (Starting Summer, 2027)](https://zapply.jobs/l/d/workday-target-targetcareers-R0000451077?s=gh-internships-2027) | Minneapolis, MN | 5d |
+| Crane Co. | [Design Engineer Co-op](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102425?s=gh-internships-2027) | Spartanburg, South Carolina | 5d |
+| Booz Allen Hamilton | [University - Summer 2027 Quantum Computing Research Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249046?s=gh-internships-2027) | Washington, DC | 5d |
+| Vertiv | [Innovation Lab Intern I - Summer 2027](https://zapply.jobs/l/d/oracle-vertiv-20280126?s=gh-internships-2027) | Delaware, OH, United States | 5d |
+| Vertiv | [Innovation Lab Intern II - Summer 2027](https://zapply.jobs/l/d/oracle-vertiv-20280129?s=gh-internships-2027) | Delaware, OH, United States | 5d |
+| Entegris | [Design and Process Engineering Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14491?s=gh-internships-2027) | Bedford, MA | 5d |
+| Leidos | [Mechanical Design Engineer Summer Intern](https://zapply.jobs/l/d/workday-leidos-external-R-00191782?s=gh-internships-2027) | Huntsville, AL | 5d |
+| Hitachi | [Research Intern, Hardware Implementation and Validation (Energy Storage and Power Electronics)](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144505?s=gh-internships-2027) | Santa Clara, California, United... | 5d |
+| Brunswick | [Engineering Test Lab Intern](https://zapply.jobs/l/d/workday-brunswick-search-JR-051267?s=gh-internships-2027) | Lowell, MI | 6d |
+| Allegion | [Summer Intern - Product Manager for Allegion Home](https://zapply.jobs/l/d/workday-allegion-careers-JR37493?s=gh-internships-2027) | Carmel, IN | 6d |
+| DigiKey | [Instructional Designer Intern](https://zapply.jobs/l/d/workday-digikey-digi-key-R5783?s=gh-internships-2027) | Thief River Falls, MN | 6d |
+| Red Hat | [Product Manager Intern](https://zapply.jobs/l/d/workday-redhat-jobs-R-059060?s=gh-internships-2027) | Raleigh | 6d |
+| Trane Technologies | [Intern - Mechanical Designer](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-11513?s=gh-internships-2027) | La Crosse, Wisconsin | 6d |
+| Capital One | [Current PhD, Applied Research Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R244323?s=gh-internships-2027) | New York, NY | 6d |
+| Coinbase | [Product Manager (HR Technology) Intern](https://zapply.jobs/l/d/greenhouse-coinbase-8175504?s=gh-internships-2027) | Hybrid - New York, NY | 6d |
+| Coinbase | [User Research Intern](https://zapply.jobs/l/d/greenhouse-coinbase-8175360?s=gh-internships-2027) | Hybrid - San Francisco, CA | 6d |
+| Coinbase | [Product Design Intern](https://zapply.jobs/l/d/greenhouse-coinbase-8175339?s=gh-internships-2027) | Hybrid - San Francisco, CA | 6d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | LLNL | [Defense Technologies Engineering Division (DTED): Design Undergraduate Intern - Summer 2027](https://zapply.jobs/l/d/sr-llnl-3743990015116161?s=gh-internships-2027) | Livermore, CA | 6d |
 | Bosch Group | [Design Engineer Intern](https://zapply.jobs/l/d/sr-BoschGroup-744000148252267?s=gh-internships-2027) | Vernon Hills, IL | 6d |
 | Bosch Group | [Design Engineer Intern](https://zapply.jobs/l/d/sr-BoschGroup-744000148250710?s=gh-internships-2027) | Vernon Hills, IL | 6d |
@@ -4986,6 +5370,7 @@
 | NXP | [Digital Design Intern - Spring 2027](https://zapply.jobs/l/d/workday-nxp-careers-R-10065549?s=gh-internships-2027) | Austin | 7d |
 | NXP | [Digital Design Intern - Summer 2027](https://zapply.jobs/l/d/workday-nxp-careers-R-10065551?s=gh-internships-2027) | Austin | 7d |
 | Micron Technology | [Intern - DRAM Test Structure Design and Layout Engineering](https://zapply.jobs/l/d/workday-micron-external-JR110341?s=gh-internships-2027) | Boise, ID - Main Site | 7d |
+<<<<<<< HEAD
 | Marvell | [Physical Design Engineer Intern, MS - Summer 2027](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604518?s=gh-internships-2027) | Santa Clara, CA | 7d |
 | Nike | [NIKE, Inc. Apparel Development, Technical Design, Undergraduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-91227?s=gh-internships-2027) | Beaverton, Oregon | 7d |
 | National Interstate Insurance | [Human Resources Recruiting Intern – Year Round](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9509?s=gh-internships-2027) | Cincinnati, OH | 0d |
@@ -5046,6 +5431,74 @@
 | Aptiv | [Production Control and Logistics Intern](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702907?s=gh-internships-2027) | Troy, MI - USA | 3d |
 | General Motors | [2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619666?s=gh-internships-2027) | Warren GPS - Warren GPS | 3d |
 | HPE (University) | [Program Manager Intern](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213486?s=gh-internships-2027) | Spring, Texas, United States of... | 3d |
+=======
+| Allegion | [Summer Intern - Market Research, Research & Design team](https://zapply.jobs/l/d/workday-allegion-careers-JR37439?s=gh-internships-2027) | Carmel, IN | 7d |
+| Uline | [Product Marketing Internship - Summer 2027](https://zapply.jobs/l/d/workday-uline-uline-careers-R265897?s=gh-internships-2027) | Pleasant Prairie, WI | 7d |
+| Nike | [NIKE, Inc. Apparel Development, Technical Design, Undergraduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-91227?s=gh-internships-2027) | Beaverton, Oregon | 7d |
+| HNTB | [Urban Design & Planning Intern](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31479?s=gh-internships-2027) | Dallas, TX | 7d |
+| Marvell | [Physical Design Engineer Intern, MS - Summer 2027](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604518?s=gh-internships-2027) | Santa Clara, CA | 7d |
+| Schonfeld | [2027 PhD Quantitative Research Intern](https://zapply.jobs/l/d/greenhouse-schonfeld-8172074?s=gh-internships-2027) | New York, New York, United States | 7d |
+| Schonfeld | [2027 PhD Quantitative Research Intern](https://zapply.jobs/l/d/greenhouse-schonfeld-8172076?s=gh-internships-2027) | Miami, Florida, United States | 7d |
+| Skydio | [Product Design Engineer Intern - Summer 2027](https://zapply.jobs/l/d/ashby-skydio-e541e878-567c-4c03-add8-baf19c63418f?s=gh-internships-2027) | San Mateo, California, United... | 7d |
+| Moog | [Intern, Design Engineering](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19186?s=gh-internships-2027) | Mineral Wells, TX | 7d |
+| AstraZeneca | [Computational Chemistry Co-op , Closed-Loop Ligand Design and Optimization (Doctoral)](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-259425?s=gh-internships-2027) | New Haven - CT | 7d |
+| Thomson Reuters | [Applied Scientist Intern](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ203428?s=gh-internships-2027) | Ann Arbor, California | 7d |
+| ABB | [Product Marketing Intern - Summer 2027](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00045260?s=gh-internships-2027) | USA, TN, Memphis | 7d |
+| DoorDash | [Product Design, Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-doordashusa-8176863?s=gh-internships-2027) | San Francisco, CA | 7d |
+| Carnegie Mellon University | [AI Security Research Intern (Sept 2026 - May 2027)](https://zapply.jobs/l/d/workday-cmu-cmu-2025068?s=gh-internships-2027) | Pittsburgh, PA | 7d |
+| Carnegie Mellon SEI | [AI Security Research Intern (Sept 2026 - May 2027)](https://zapply.jobs/l/d/workday-cmu-sei-2025068?s=gh-internships-2027) | Pittsburgh, PA | 7d |
+| Cox | [Corporate Strategy Intern](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682423?s=gh-internships-2027) | Atlanta GA | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Ad Operations Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55309?s=gh-internships-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Commercial Strategy Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55300?s=gh-internships-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Acquisition Marketing Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55297?s=gh-internships-2027) | NYC | 0d |
+| Oshkosh Corporation | [Global Human Resources Services Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50016?s=gh-internships-2027) | Oshkosh, Wisconsin, United States | 0d |
+| Oshkosh Corporation | [Materials Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49701?s=gh-internships-2027) | Bedford, Pennsylvania, United... | 0d |
+| RTX | [Finance Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01869843?s=gh-internships-2027) | CA-EL SEGUNDO-E01 | 0d |
+| RTX | [Raytheon Finance Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872306?s=gh-internships-2027) | TX-MCKINNEY | 0d |
+| Nike | [NIKE, Inc. Global Supply Chain & Operations Undergraduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-92068?s=gh-internships-2027) | Beaverton, Oregon | 0d |
+| Trane Technologies | [2027 Accounting and Finance Intern](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7603?s=gh-internships-2027) | Davidson North Carolina | 0d |
+| Magna | [Human Resources Intern](https://zapply.jobs/l/d/workday-magna-magna-R00261651?s=gh-internships-2027) | Muncie, Indiana, US | 0d |
+| General Motors | [2027 Summer Intern - Warehouse Operations Intern](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619684?s=gh-internships-2027) | 3 Locations | 0d |
+| General Motors | [Summer 2027 - Global Purchasing & Supply Chain MBA Intern](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619651?s=gh-internships-2027) | Warren, Michigan, United States... | 0d |
+| Ameriprise Financial | [Intermediary Marketing Intern](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3591?s=gh-internships-2027) | Boston, Massachusetts | 0d |
+| Transamerica | [Accounting Intern - Financial Reporting (Summer 2027)](https://zapply.jobs/l/d/workday-transamerica-us-INT001661?s=gh-internships-2027) | Cedar Rapids, Iowa | 0d |
+| RTX | [Raytheon Finance Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872307?s=gh-internships-2027) | CA-GOLETA-B01 | 0d |
+| Motorola Solutions | [Global Business Operations Intern](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68656?s=gh-internships-2027) | Chicago, IL | 0d |
+| National Interstate Insurance | [Human Resources Recruiting Intern – Year Round](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9509?s=gh-internships-2027) | Cincinnati, OH | 0d |
+| HNTB | [Project Operations and Finance Intern - Summer 2027](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31584?s=gh-internships-2027) | Boston, MA | 0d |
+| CVS Health | [Human Resources Corporate Internship](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039523?s=gh-internships-2027) | CT - Hartford | 0d |
+| Etched | [Lab Operations Intern](https://zapply.jobs/l/d/ashby-etched-7d400861-c124-475f-8cef-73b9fd5199cf?s=gh-internships-2027) | San Jose | 0d |
+| Northrop Grumman | [2027 Global Supply Chain Intern - Roy UT](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250722?s=gh-internships-2027) | United States-Utah-Roy | 0d |
+| Johnson & Johnson | [Global Supply Chain Reliability Co-op](https://zapply.jobs/l/d/workday-jj-jj-R-092949?s=gh-internships-2027) | Titusville, New Jersey, United... | 0d |
+| Disney | [Disney Destinations Communications Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10157944?s=gh-internships-2027) | Celebration, FL, USA | 0d |
+| Disney | [Disney Programs Communications and Social Media Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159009?s=gh-internships-2027) | Winter Garden, FL, USA | 0d |
+| Base Power | [Business Operations Intern, Commercial Partnerships](https://zapply.jobs/l/d/ashby-base-power-db6bb778-21d3-47d1-8f97-a42543f88b8f?s=gh-internships-2027) | Austin, TX | 0d |
+| Epic Games | [Communications Intern](https://zapply.jobs/l/d/greenhouse-epicgames-6152496004?s=gh-internships-2027) | Cary,North Carolina,United States | 0d |
+| CVS Health | [Supply Chain and Logistics Intern – Operational Excellence (OpEx) - Summer 2027](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1033331?s=gh-internships-2027) | IN - Indianapolis | 0d |
+| CVS Health | [Supply Chain and Logistics Intern – Distribution Center Experience - Summer 2027](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1033260?s=gh-internships-2027) | RI Woonsocket | 0d |
+| Bracebridge Capital | [Summer 2027 Investment Operations Intern](https://zapply.jobs/l/d/greenhouse-bracebridgecapital-4733666005?s=gh-internships-2027) | Boston, MA | 0d |
+| Google | [Technical Program Manager Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-80582381009806022?s=gh-internships-2027) | United States | Date unknown |
+| Robinhood | [Brokerage Operations Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8198198?s=gh-internships-2027) | Chicago, IL | 0d |
+| Robinhood | [Crypto Operations Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8193484?s=gh-internships-2027) | New York, NY | 0d |
+| Robinhood | [Fraud Operations Intern (Summer 2027)](https://zapply.jobs/l/d/greenhouse-robinhood-8198241?s=gh-internships-2027) | Denver, CO | 0d |
+| ByteDance | [AI Creator Operations Intern (CapCut) - 2027 Start](https://zapply.jobs/l/d/bytedance-7673715653065525509?s=gh-internships-2027) | Los Angeles, California | Date unknown |
+| Antares | [Business Operations Finance Intern - Summer 2027](https://zapply.jobs/l/d/ashby-antares-9976c2a9-3667-4152-a4ea-affa8b637026?s=gh-internships-2027) | Los Angeles | 1d |
+| Ameriprise Financial | [Communications Intern](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3644?s=gh-internships-2027) | Minneapolis, Minnesota | 1d |
+| Ameriprise Financial | [Marketing Intern](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3670?s=gh-internships-2027) | Minneapolis, Minnesota | 1d |
+| Federal Reserve System | [2027 SF Fed Summer Internship - OPERATIONS Intern](https://zapply.jobs/l/d/workday-rb-frs-R-0000033263?s=gh-internships-2027) | San Francisco, CA | 1d |
+| Trane Technologies | [2027 Operations Intern](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7480?s=gh-internships-2027) | Davidson North Carolina | 1d |
+| Emerson Electric | [America's Field Marketing Intern](https://zapply.jobs/l/d/oracle-emerson-electric-26009838?s=gh-internships-2027) | Austin, TX, United States | 1d |
+| Base Power | [Supply Chain Tooling Engineer Intern](https://zapply.jobs/l/d/ashby-base-power-7fce3b16-c132-453b-a836-a3bcbd21abd2?s=gh-internships-2027) | Austin, TX | 1d |
+| Formlabs | [Materials Intern (Winter/Spring 2027)](https://zapply.jobs/l/d/greenhouse-formlabs-8199092?s=gh-internships-2027) | Somerville, MA | 1d |
+| ASM Global | [Operations Intern Highmark Stadium](https://zapply.jobs/l/d/workday-asmglobal-careers-R100122334?s=gh-internships-2027) | Orchard Park, NY | 2d |
+| Impulse Space | [Supply Chain Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-569297?s=gh-internships-2027) | Redondo Beach, California | Date unknown |
+| Cox | [Financial Analyst Intern](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682419?s=gh-internships-2027) | Atlanta GA | 3d |
+| HPE (University) | [Program Manager Intern](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213486?s=gh-internships-2027) | Spring, Texas, United States of... | 3d |
+| Oshkosh Corporation | [Global Procurement & Supply Chain Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50270?s=gh-internships-2027) | Oshkosh, Wisconsin, United States | 3d |
+| General Motors | [2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619666?s=gh-internships-2027) | Warren GPS - Warren GPS | 3d |
+| Aptiv | [Production Control and Logistics Intern](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702907?s=gh-internships-2027) | Troy, MI - USA | 3d |
+| Motorola Solutions | [VS&A Supply Chain Intern](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68739?s=gh-internships-2027) | Chicago, IL | 3d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Booz Allen Hamilton | [University - Summer 27, Procurement and Global Supply Chain Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249250?s=gh-internships-2027) | McLean, VA | 3d |
 | Booz Allen Hamilton | [University - Summer 27, Procurement and Global Supply Chain Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249251?s=gh-internships-2027) | McLean, VA | 3d |
 | Entegris | [Supply Chain Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14494?s=gh-internships-2027) | Bedford, MA | 3d |
@@ -5053,6 +5506,7 @@
 | Rocket Lab | [Indirect Procurement Intern Summer 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7989063003?s=gh-internships-2027) | Long Beach, CA | 3d |
 | Rocket Lab | [Indirect Procurement Intern Spring 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7989035003?s=gh-internships-2027) | Long Beach, CA | 3d |
 | Rocket Lab | [Logistics Intern Spring 2027](https://zapply.jobs/l/d/greenhouse-rocketlab-7985083003?s=gh-internships-2027) | Long Beach, CA | 3d |
+<<<<<<< HEAD
 | Booz Allen Hamilton | [University - Corporate Finance Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0246882?s=gh-internships-2027) | McLean, VA | 3d |
 | Wellmark, Inc. | [Operations Internship - Insure Your Future](https://zapply.jobs/l/d/sr-WellmarkInc-744000148918088?s=gh-internships-2027) | Des Moines, IA | 3d |
 | Wellmark, Inc. | [Health Care Innovation Operations Internship](https://zapply.jobs/l/d/sr-WellmarkInc-744000148917278?s=gh-internships-2027) | Des Moines, IA | 3d |
@@ -5585,6 +6039,1598 @@
 | Optiver | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
 | Optiver | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002&utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
 | GE Healthcare | [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1?utm_source=Simplify&ref=Simplify) | Twinsburg, OH Waukesha, WI | 1mo |
+=======
+| Cox | [Infrastructure Operations Intern - Summer 2027](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682357?s=gh-internships-2027) | Atlanta GA | 4d |
+| Comcast | [Comcast Supply Chain Intern](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443278?s=gh-internships-2027) | PA - Philadelphia | 4d |
+| Merck & Co. | [2027 Future Talent Program - Supply Chain Management Summer Intern - US Based](https://zapply.jobs/l/d/workday-msd-searchjobs-R414013?s=gh-internships-2027) | Pennsylvania West Point | 4d |
+| Allegion | [Summer Intern - Supply Chain](https://zapply.jobs/l/d/workday-allegion-careers-JR37468?s=gh-internships-2027) | Colorado Springs, CO | 4d |
+| USAA | [Future Leaders Program - Finance Intern](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120825?s=gh-internships-2027) | San Antonio | 4d |
+| Radiance Technologies | [Administrative Operations Intern](https://zapply.jobs/l/d/workday-radiancetech-radiance-external-HR102401?s=gh-internships-2027) | Huntsville, AL | 4d |
+| HP Inc | [PSS Life Cycle Marketing Intern](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4602?s=gh-internships-2027) | Vancouver, Washington, United... | 4d |
+| DigiKey | [Talent Acquisition Intern](https://zapply.jobs/l/d/workday-digikey-digi-key-R5826?s=gh-internships-2027) | Thief River Falls, MN | 4d |
+| LabCorp | [Intern - Talent Acquisition Strategy Team](https://zapply.jobs/l/d/workday-labcorp-external-2630118?s=gh-internships-2027) | Durham NC | 4d |
+| Booz Allen Hamilton | [University - Corporate Finance Intern](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0246882?s=gh-internships-2027) | McLean, VA | 4d |
+| GE Vernova | [Supply Chain Intern/Co-op 2027](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5048518?s=gh-internships-2027) | Allentown | 4d |
+| GE Vernova | [Supply Chain Intern](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5050338?s=gh-internships-2027) | Parsippany | 4d |
+| Disney | [Disney & Pixar Games Brand Strategy Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159020?s=gh-internships-2027) | Glendale, CA, USA | 4d |
+| Wellmark, Inc. | [Operations Internship - Insure Your Future](https://zapply.jobs/l/d/sr-WellmarkInc-744000148918088?s=gh-internships-2027) | Des Moines, IA | 4d |
+| Wellmark, Inc. | [Health Care Innovation Operations Internship](https://zapply.jobs/l/d/sr-WellmarkInc-744000148917278?s=gh-internships-2027) | Des Moines, IA | 4d |
+| Wellmark, Inc. | [Corporate Communications Internship (Spring and Summer 2027)](https://zapply.jobs/l/d/sr-WellmarkInc-744000148916388?s=gh-internships-2027) | Des Moines, IA | 4d |
+| Regal Rexnord | [Operations Intern](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04714?s=gh-internships-2027) | Mcallen, Texas, United States | 4d |
+| Regal Rexnord | [Operations Intern](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04717?s=gh-internships-2027) | Lincoln, Missouri, United States | 4d |
+| Regal Rexnord | [Operations Intern](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04718?s=gh-internships-2027) | Plainfield, Indiana, United States | 4d |
+| Emerson Electric | [Finance Operations Intern](https://zapply.jobs/l/d/oracle-emerson-electric-26010624?s=gh-internships-2027) | Round Rock, TX, United States | 4d |
+| Texas Instruments | [Brand Marketing Intern](https://zapply.jobs/l/d/oracle-texas-instruments-25017564?s=gh-internships-2027) | Dallas, TX, United States | 4d |
+| Texas Instruments | [Communications Intern](https://zapply.jobs/l/d/oracle-texas-instruments-25017565?s=gh-internships-2027) | Dallas, TX, United States | 4d |
+| Kroger | [Spring 2027 Human Resources-Supply Chain](https://zapply.jobs/l/d/oracle-kroger-228619?s=gh-internships-2027) | Houston, TX, United States | 4d |
+| Entegris | [Supply Chain Planning Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14450?s=gh-internships-2027) | Bloomington, MN | 4d |
+| Geneva Trading | [Quantitative Trading Internship – Summer 2027](https://zapply.jobs/l/d/greenhouse-genevatrading-5232641007?s=gh-internships-2027) | Chicago | 4d |
+| ServiceNow | [Finance Intern - Undergrad Summer 2027](https://zapply.jobs/l/d/sr-ServiceNow-744000148836589?s=gh-internships-2027) | West Palm Beach, Florida | 4d |
+| HNTB | [Finance Intern - Summer 2027](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31522?s=gh-internships-2027) | Miami, FL | 5d |
+| Johnson & Johnson | [2027 Experienced Human Resources Leadership Development Program Internship](https://zapply.jobs/l/d/workday-jj-jj-R-098603?s=gh-internships-2027) | New Brunswick, New Jersey,... | 5d |
+| Amentum | [Data Operations Internship IRES - SSFB](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0169786?s=gh-internships-2027) | CO-Colorado Springs | 5d |
+| AMD | [2027 Undergrad Supply Chain Co-Op/Intern](https://zapply.jobs/l/d/amd-92244?s=gh-internships-2027) | Austin, TX, United States | 5d |
+| KION Group | [Rotational Finance Intern](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096082?s=gh-internships-2027) | Grand Rapids, MI, United States | 5d |
+| Vertiv | [Finance Intern - SEC Reporting (Summer 2027)](https://zapply.jobs/l/d/oracle-vertiv-20279280?s=gh-internships-2027) | Westerville, OH, United States | 5d |
+| Entegris | [IT Digital Ops & Supply Chain Data Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14413?s=gh-internships-2027) | Round Rock, TX | 5d |
+| Crest Industries | [Enterprise Technology Operations Intern](https://zapply.jobs/l/d/lever-crestoperations-79751f7f-fd05-4b5a-8154-f8f2819cf900?s=gh-internships-2027) | Pineville, Louisiana | 5d |
+| Merck & Co. | [2027 Future Talent Program - Global Supplier Management Group Research & Development Sourcing &...](https://zapply.jobs/l/d/workday-msd-searchjobs-R415230?s=gh-internships-2027) | Pennsylvania West Point | 6d |
+| Merck & Co. | [2027 Future Talent Program – Pharmaceutical Operations Intern](https://zapply.jobs/l/d/workday-msd-searchjobs-R413111?s=gh-internships-2027) | New Jersey Rahway | 6d |
+| Caterpillar | [Lafayette Engine Center Internship Program - Manufacturing, Supply Chain, & Order to Delivery](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392955?s=gh-internships-2027) | Lafayette Indiana | 6d |
+| Nike | [NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-91695?s=gh-internships-2027) | Beaverton, Oregon | 6d |
+| Thermo Fisher Scientific | [2027 FLDP Finance Intern](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01361452?s=gh-internships-2027) | Waltham, Massachusetts, USA | 6d |
+| Thermo Fisher Scientific | [Finance Intern](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366569?s=gh-internships-2027) | Wilmington, North Carolina, USA | 6d |
+| Thermo Fisher Scientific | [Operations Intern](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366634?s=gh-internships-2027) | Fair Lawn, New Jersey, USA | 6d |
+| Red Hat | [NA Field Marketing - Ecosystem Marketing Intern](https://zapply.jobs/l/d/workday-redhat-jobs-R-059065?s=gh-internships-2027) | Raleigh | 6d |
+| Cox | [Internal Audit Intern](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682430?s=gh-internships-2027) | Atlanta GA | 0d |
+| Morgan Stanley | [Intern](https://zapply.jobs/l/d/workday-ms-external-JR041354?s=gh-internships-2027) | Kansas City, Missouri, United... | 0d |
+| Intel | [AI Solutions Engineering Undergraduate Intern](https://zapply.jobs/l/d/workday-intel-external-JR0286629?s=gh-internships-2027) | US, Oregon, Hillsboro | 0d |
+| Intel | [Packaging Technology Development Graduate Intern](https://zapply.jobs/l/d/workday-intel-external-JR0287080?s=gh-internships-2027) | US, Arizona, Phoenix | 0d |
+| Aerospace Corporation | [2027 SDR/Digital Signal Processing Undergraduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016558?s=gh-internships-2027) | Chantilly, VA | 0d |
+| Aerospace Corporation | [2027 Communication Systems and Signal Processing Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016555?s=gh-internships-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [2027 Formal Methods Researcher Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016552?s=gh-internships-2027) | El Segundo, CA | 0d |
+| Merck & Co. | [2027 Future Talent Program - Discovery Sample Management Analytical Chemistry - Intern](https://zapply.jobs/l/d/workday-msd-searchjobs-R414704?s=gh-internships-2027) | USA - New Jersey - Rahway | 0d |
+| Merck & Co. | [2027 Future Talent Program - Elkton Manufacturing Co-op](https://zapply.jobs/l/d/workday-msd-searchjobs-R412910?s=gh-internships-2027) | USA - Virginia - Elkton | 0d |
+| MKS Instruments | [2027 University of Oregon R&D Engineering Graduate intern](https://zapply.jobs/l/d/workday-mksinst-mkscareersuniversity-R20528?s=gh-internships-2027) | Beaverton, OR | 0d |
+| MKS Instruments | [2027 University of Oregon Applications Engineering Graduate Intern](https://zapply.jobs/l/d/workday-mksinst-mkscareersuniversity-R20515?s=gh-internships-2027) | Beaverton, OR | 0d |
+| Stanley Black & Decker | [Engineering Co-Op](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052247?s=gh-internships-2027) | Valley City, OH, United States | 0d |
+| Allegion | [Summer Intern - Manufacturing Engineering](https://zapply.jobs/l/d/workday-allegion-careers-JR37650?s=gh-internships-2027) | Mount Comfort, IN | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Sales Planning Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55307?s=gh-internships-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Wealth & Asset Management Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55305?s=gh-internships-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – MarketWatch Reporter Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55302?s=gh-internships-2027) | New York City | 0d |
+| Momentive | [Summer 2027 Intern - Sustainable Procurement and Decarbonization](https://zapply.jobs/l/d/workday-momentive-mc-R9830?s=gh-internships-2027) | NY Niskayuna | 0d |
+| Momentive | [Summer 2027 Intern – Agriculture (Technology/R&D)](https://zapply.jobs/l/d/workday-momentive-mc-R9764?s=gh-internships-2027) | NY Pearl River | 0d |
+| Momentive | [Summer 2027 Intern-Facilities Intern - Technology & HQ](https://zapply.jobs/l/d/workday-momentive-mc-R9793?s=gh-internships-2027) | NY Waterford | 0d |
+| Oshkosh Corporation | [Robotics Programming Engineer Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49597?s=gh-internships-2027) | Greencastle, Pennsylvania,... | 0d |
+| Oshkosh Corporation | [Robotic Programming/Welding Intern (Summer 2027)](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49598?s=gh-internships-2027) | McConnellsburg, Pennsylvania,... | 0d |
+| Oshkosh Corporation | [Environmental Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49621?s=gh-internships-2027) | McConnellsburg, Pennsylvania,... | 0d |
+| Northrop Grumman | [2027 International Trade Compliance Intern - Linthicum MD](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250434?s=gh-internships-2027) | 3 Locations | 0d |
+| RTX | [Raytheon Finance Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872303?s=gh-internships-2027) | AZ-TUCSON | 0d |
+| Nike | [NIKE, Inc. Transportation & Logistics Undergraduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-92081?s=gh-internships-2027) | Beaverton Oregon | 0d |
+| Nike | [NIKE, Inc. N7 Undergraduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-92075?s=gh-internships-2027) | Beaverton, Oregon | 0d |
+| Nike | [NIKE, Inc. Digital Growth Graduate Internship](https://zapply.jobs/l/d/workday-nike-nke-R-92073?s=gh-internships-2027) | Beaverton, Oregon | 0d |
+| USAA | [Life and Health Underwriter Intern](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120985?s=gh-internships-2027) | San Antonio Home | 0d |
+| USAA | [Associate Attorney Intern - Legal & Advice](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120970?s=gh-internships-2027) | San Antonio Home | 0d |
+| USAA | [Life Solutions Specialist Intern](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120975?s=gh-internships-2027) | Plano Legacy | 0d |
+| Magna | [Purchasing Intern](https://zapply.jobs/l/d/workday-magna-magna-R00261645?s=gh-internships-2027) | Muncie, Indiana, US | 0d |
+| Magna | [Intern, Environmental Health & Safety](https://zapply.jobs/l/d/workday-magna-magna-R00249452?s=gh-internships-2027) | Highland Park, Michigan, US | 0d |
+| General Motors | [2027 Summer Intern – Motorsports Aerodynamics](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620069?s=gh-internships-2027) | Concord, North Carolina, United... | 0d |
+| General Motors | [2027 Summer Intern – IndyCar Trackside Engineering](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619993?s=gh-internships-2027) | Concord, North Carolina, United... | 0d |
+| General Motors | [2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619989?s=gh-internships-2027) | Milford, Michigan, United... | 0d |
+| CVS Health | [Pharmacy Intern](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1042290?s=gh-internships-2027) | PA - Philadelphia | 0d |
+| CVS Health | [Pharmacy Intern](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1042284?s=gh-internships-2027) | MI - Milford | 0d |
+| CVS Health | [Pharmacy Intern](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1042285?s=gh-internships-2027) | NC - Raleigh | 0d |
+| LabCorp | [Intern - IT Quality and Compliance](https://zapply.jobs/l/d/workday-labcorp-external-2632011?s=gh-internships-2027) | Madison WI | 0d |
+| Aptiv | [Summer Intern - NACME EDGE Career Expo](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704123?s=gh-internships-2027) | Boston, MA - USA | 0d |
+| Ameriprise Financial | [Digital Marketing Content Co-op](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3534?s=gh-internships-2027) | Boston, Massachusetts | 0d |
+| Ameriprise Financial | [Quantitative Investment Research Co-op (Equities)](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3532?s=gh-internships-2027) | Boston, Massachusetts | 0d |
+| Ameriprise Financial | [Investments Intern - Equities](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3531?s=gh-internships-2027) | New York, New York | 0d |
+| BlackRock | [2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional...](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266475?s=gh-internships-2027) | Chicago, IL | 0d |
+| BlackRock | [2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266467?s=gh-internships-2027) | New York, NY | 0d |
+| BlackRock | [2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management -...](https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266466?s=gh-internships-2027) | New York, NY | 0d |
+| Johnson & Johnson | [Robotics Controls & Autonomy Interns - Robotics R&D](https://zapply.jobs/l/d/workday-jj-jj-R-099654?s=gh-internships-2027) | Santa Clara, California, United... | 0d |
+| CME Group | [Corporate Tax Intern - Year Round](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34675?s=gh-internships-2027) | Chicago | 0d |
+| Micron Technology | [Intern - Semiconductor Research & Technology Development](https://zapply.jobs/l/d/workday-micron-external-JR110876?s=gh-internships-2027) | Albany, NY | 0d |
+| Freddie Mac | [Multifamily Business Analysis Graduate Intern - Summer 2027](https://zapply.jobs/l/d/workday-freddiemac-external-JR17638?s=gh-internships-2027) | McLean, VA | 0d |
+| Thornton Tomasetti | [Structural Engineer Intern](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7374?s=gh-internships-2027) | Dallas, TX | 0d |
+| Thornton Tomasetti | [Structural Engineer Intern](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7258?s=gh-internships-2027) | West Hartford, CT, USA | 0d |
+| Thornton Tomasetti | [Structural Engineer Intern](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7287?s=gh-internships-2027) | New York, NY, USA | 0d |
+| The Hartford | [Intern, Worker's Compensation Claims](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2627054?s=gh-internships-2027) | Lake Mary, FL | 0d |
+| The Hartford | [Intern, Investment Portfolio Management](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626689?s=gh-internships-2027) | Hartford, CT | 0d |
+| Transamerica | [Expense Management Intern (Summer 2027)](https://zapply.jobs/l/d/workday-transamerica-us-INT001688?s=gh-internships-2027) | Cedar Rapids, Iowa | 0d |
+| Tencent | [Tencent Cloud Business Development Intern - United States](https://zapply.jobs/l/d/workday-tencent-tencent-careers-R108127?s=gh-internships-2027) | California-Los Angeles | 0d |
+| RTX | [Structural Engineering Co-op (Winter/Spring 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873938?s=gh-internships-2027) | ND-JAMESTOWN-P1 | 0d |
+| RTX | [Structural Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873941?s=gh-internships-2027) | ND-JAMESTOWN-P1 | 0d |
+| LabCorp | [Intern – Accounts Receivable & Collections](https://zapply.jobs/l/d/workday-labcorp-external-2630465?s=gh-internships-2027) | NC Durham 10 Moore Drive | 0d |
+| LabCorp | [Intern - GoldenGate Administration](https://zapply.jobs/l/d/workday-labcorp-external-2632085?s=gh-internships-2027) | Durham NC | 0d |
+| Motorola Solutions | [Repair Effectiveness Internship Summer 2027](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68426?s=gh-internships-2027) | Chicago, IL | 0d |
+| Motorola Solutions | [Demand Planning Co-Op](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68849?s=gh-internships-2027) | Chicago, IL | 0d |
+| Invesco | [Early Career Intern - Digital Asset](https://zapply.jobs/l/d/workday-invesco-ivz-R-15476?s=gh-internships-2027) | New York, New York | 0d |
+| Invesco | [Early Career Intern - Global Security Department](https://zapply.jobs/l/d/workday-invesco-ivz-R-15519?s=gh-internships-2027) | Houston, Texas | 0d |
+| Adobe | [2027 Intern - Sales Velocity Analyst](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171869?s=gh-internships-2027) | New York | 0d |
+| HNTB | [Civil Engineering Micro-Internship (Summer 2027)](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31595?s=gh-internships-2027) | Dallas, TX | 0d |
+| HNTB | [Intern Engineer: Rail Operations Modeling and Planning - Summer 2027](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31591?s=gh-internships-2027) | Boston, MA | 0d |
+| HNTB | [New Grad Engineer I: Rail Operations Modeling and Planning - Summer 2027](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31590?s=gh-internships-2027) | Boston, MA | 0d |
+| Marvell | [Architecture Intern, MS - Summer 2027](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604436?s=gh-internships-2027) | Santa Clara, CA | 0d |
+| Marvell | [Technical Writer Intern, BS/BA - Summer 2027](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604149?s=gh-internships-2027) | Santa Clara, CA | 0d |
+| Marvell | [Analog Layout Intern](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604101?s=gh-internships-2027) | Santa Clara, CA | 0d |
+| CoStar Group | [Technology Intern - Nashville, TN (Summer 2027)](https://zapply.jobs/l/d/workday-costar-costar-campus-R39670?s=gh-internships-2027) | TN Nashville | 0d |
+| CoStar Group | [Technology Intern - Arlington, VA (Summer 2027)](https://zapply.jobs/l/d/workday-costar-costar-campus-R39666?s=gh-internships-2027) | VA Arlington | 0d |
+| CoStar Group | [Technology Intern - Richmond, VA (Summer 2027)](https://zapply.jobs/l/d/workday-costar-costar-campus-R39665?s=gh-internships-2027) | VA Richmond - CoStar Tower | 0d |
+| Leidos | [Aerospace M&S Engineer Intern](https://zapply.jobs/l/d/workday-leidos-external-R-00191760?s=gh-internships-2027) | Huntsville, AL | 0d |
+| GlobalFoundries | [Environmental Health & Safety Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604240?s=gh-internships-2027) | USA - New York - Malta | 0d |
+| Clarios | [Demand Planning Intern (Summer 2027)](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50212?s=gh-internships-2027) | WI | 0d |
+| Hitachi | [Intern - HSE (Health, Safety, Environment)](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144276?s=gh-internships-2027) | Batesburg-Leesville, South... | 0d |
+| ICF | [2027 Summer Intern, Marketing and Communications (Reston, VA)](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603006?s=gh-internships-2027) | Reston, VA | 0d |
+| Gilead Sciences | [Intern - Research - Oncology Biomarker](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054812?s=gh-internships-2027) | United States - California -... | 0d |
+| Gilead Sciences | [Intern - Legal & Compliance - Office of the General Counsel](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054780?s=gh-internships-2027) | United States - California -... | 0d |
+| Gilead Sciences | [Intern - Development - Clinical Data Management, Technology](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054707?s=gh-internships-2027) | United States - California -... | 0d |
+| Northrop Grumman | [2027 Intern Engineer - Product Support](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250306?s=gh-internships-2027) | United States-Oklahoma-Oklahoma... | 0d |
+| Northrop Grumman | [2027 Guidance Navigation and Control Intern - Dulles VA](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250744?s=gh-internships-2027) | United States-Virginia-Dulles | 0d |
+| Johnson & Johnson | [Operational Excellence Co-Op](https://zapply.jobs/l/d/workday-jj-jj-R-095579?s=gh-internships-2027) | Wilson, North Carolina, United... | 0d |
+| Johnson & Johnson | [J&J Manufacturing Co-op Spring 2027](https://zapply.jobs/l/d/workday-jj-jj-R-098715?s=gh-internships-2027) | San Angelo, Texas, United... | 0d |
+| Disney | [Disney Live Entertainment Costume Buying Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10160691?s=gh-internships-2027) | Orlando, FL, USA | 0d |
+| Disney | [Disney Programs Experience Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159008?s=gh-internships-2027) | Winter Garden, FL, USA | 0d |
+| Disney | [Talent Connection Marketing Account Management Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159837?s=gh-internships-2027) | Celebration, FL, USA | 0d |
+| Philips | [CO-OP – Data Management – Cleveland, OH – January 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-584478?s=gh-internships-2027) | Orange (OH), Ohio, United States | 0d |
+| Crane Co. | [Engineering Co-op](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102436?s=gh-internships-2027) | Elyria, Ohio | 0d |
+| Crane Co. | [Engineering Co-op Spring 2027-1](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102521?s=gh-internships-2027) | Piqua, Ohio | 0d |
+| Crane Co. | [Engineering Co-op Spring 2027-1](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102520?s=gh-internships-2027) | Piqua, Ohio | 0d |
+| Entegris | [Operations Technical Training Platforms Co-Op](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14416?s=gh-internships-2027) | Colorado Springs, CO | 0d |
+| Eversource Energy | [2027: Transmission System Planning Co-op](https://zapply.jobs/l/d/workday-eversource-externalsite-R-029918?s=gh-internships-2027) | Hartford, CT | 0d |
+| Verizon | [Verizon Finance: Audit Summer 2027 Internship](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100615?s=gh-internships-2027) | Lake Mary, Florida | 0d |
+| Verizon | [Verizon Finance: Controllership Summer 2027 Internship](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100620?s=gh-internships-2027) | Basking Ridge, New Jersey | 0d |
+| Verizon | [Verizon Finance: Financial Planning & Analysis Summer 2027 Internship](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100617?s=gh-internships-2027) | Lake Mary, Florida | 0d |
+| Rocket Lab USA | [Flight Software Engineer 1](https://job-boards.greenhouse.io/rocketlab/jobs/7992129003?utm_source=Simplify&ref=Simplify) | Littleton, CO | 0d |
+| Silicon Laboratories | [Software Engineer 1 - RAIL team 🎓](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1?utm_source=Simplify&ref=Simplify) | Austin, TX | 1d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
+| RTX | [Engineer 1 - Display Products](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Engineer-I---Display-Products--Onsite-_01871168?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 1d |
+| SRI International | [Research Engineer 1 / 2 - Embedded Development Engineer](https://careers-sri.icims.com/jobs/6505/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Boulder, CO | 3d |
+| L3Harris Technologies | [Software Engineer New Grad 🎓](https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1429205900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Salt Lake City, UT | 3d |
+| RTX | [Firmware Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-I--Onsite-_01873850?utm_source=Simplify&ref=Simplify) | Largo, FL | 4d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 5d |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871018?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-I--Onsite-_01872241?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| RTX | [FPGA Electrical Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/FPGA-Electrical-Engineer-I---Onsite_01872534?utm_source=Simplify&ref=Simplify) | Fort Wayne, IN | 6d |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| RTX | [Embedded Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867?utm_source=Simplify&ref=Simplify) | McKinney, TX | 6d |
+| General Motors | [Software Engineer Early Career - AV Launch](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/oftware-Engineer--AV-Launch---Early-Career_JR-202619888?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 6d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 7d |
+| RTX | [FPGA Electrical Design Engineer 1 - Effector Digital Products Department](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-I--Onsite-_01872978?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 7d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 7d |
+| CesiumAstro | [FPGA Engineer 1](https://jobs.lever.co/CesiumAstro/fb2ee9a4-646b-41d8-a037-3acb648db8e1/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 11d |
+| Micron Technology | [New College Grad - Design Engineer - Circuit Design](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667?utm_source=Simplify&ref=Simplify) | San Jose, CA | 11d |
+| Anduril | [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?utm_source=Simplify&ref=Simplify) | Costa Mesa, CA | 12d |
+| General Dynamics UK | [Junior Hardware Engineer Developer - FPGA](https://jobs.smartrecruiters.com/GDMSI/744000147039249?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 12d |
+| Micron Technology | [HBM Product Development Failure Analysis Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630?utm_source=Simplify&ref=Simplify) | Boise, ID | 12d |
+| Textron | [Software Engineer 1 - Weapons](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify) | Wilmington, MA | 13d |
+| RTX | [FPGA Electrical Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Electrical-Engineer-I---Onsite_01871787?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 13d |
+| Katalyst Space Technologies | [Software Engineer New Grad - Software Engineer 1](https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify) | Broomfield, CO | 13d |
+| Vermeer | [Embedded Software Engineer 1 - Engineering Development Program](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180?utm_source=Simplify&ref=Simplify) | Pella, IA | 14d |
+| RTX | [FPGA Electrical Engineer 1 - Multi-Product Power & Digital](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238?utm_source=Simplify&ref=Simplify) | McKinney, TX | 14d |
+| RTX | [Digital ASIC/FPGA Design Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-I--Onsite-_01870687?utm_source=Simplify&ref=Simplify) | McKinney, TX | 14d |
+| General Motors | [Entry Level Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501?utm_source=Simplify&ref=Simplify) | Milford, MI Warren, MI | 14d |
+| Ciena | [Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 14d |
+| RTX | [Digital Hardware Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineering-I---Onsite_01870657?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 15d |
+| NVIDIA | [ASIC Floorplan Design Engineer New Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 15d |
+| Nidec | [Software Development Engineer 1](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAIllinoisSt-Charles-IL/Software-Development-Engineer_R0017456?utm_source=Simplify&ref=Simplify) | St. Charles, IL | 15d |
+| Blue Origin | [Avionics / Embedded Software Engineer 1 - 2027 Starts](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA LA Cape Canaveral, FL Kent, WA Denver, CO Huntsville, AL Van Horn, TX | 15d |
+| Micron Technology | [Product Test Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985?utm_source=Simplify&ref=Simplify) | Boise, ID | 16d |
+| ASM International | [Software Engineer - Early Career - Fall 2026](https://www.asm.com/open-vacancies/?gh_jid=4876722101&utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 18d |
+| Ciena | [ASIC Synthesis and STA Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 19d |
+| True Anomaly | [Flight Software Engineer 1 New Grad](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 20d |
+| Alarm.com | [Embedded Software Engineer 1](https://job-boards.greenhouse.io/alarmcom/jobs/8622530002?utm_source=Simplify&ref=Simplify) | Tysons, VA | 20d |
+| Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 21d |
+| Ciena | [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 22d |
+| Resideo | [Firmware Engineer 1](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224?utm_source=Simplify&ref=Simplify) | Aurora, IL | 24d |
+| Freeform | [Software Engineer New Grad - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003?utm_source=Simplify&ref=Simplify) | LA | 26d |
+| Ciena | [Embedded Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 26d |
+| Blue Origin | [ASIC Engineer - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802?utm_source=Simplify&ref=Simplify) | Washington California Texas | 26d |
+| V2X | [Embedded Firmware Engineer 1](https://careers.gov2x.com/jobs/62490?icims=1&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 28d |
+| Applied Intuition | [Embedded Software Engineer New Grad](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true&utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1mo |
+| SpaceX | [New Grad Engineer - Silicon Engineering](https://boards.greenhouse.io/spacex/jobs/8703552002?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Irvine, CA Redmond, WA | 1mo |
+| SpaceX | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696080002?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
+| SpaceX | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8696058002?utm_source=Simplify&ref=Simplify) | Redmond, WA | 1mo |
+| SpaceX | [New Grad Engineer - Silicon Engineering](https://boards.greenhouse.io/spacex/jobs/8706884002?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Irvine, CA Redmond, WA | 1mo |
+| SpaceX | [New Graduate Engineer - Silicon Engineering](https://boards.greenhouse.io/spacex/jobs/8706885002?utm_source=Simplify&ref=Simplify) | Redmond, WA | 1mo |
+| Panasonic Holdings | [Software Engineer 1 - Embedded Systems](https://careers.na.panasonic.com/jobs/50269?icims=1&utm_source=Simplify&ref=Simplify) | Irvine, CA | 1mo |
+| General Matter | [Software Engineer New Grad](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008?utm_source=Simplify&ref=Simplify) | LA | 1mo |
+| Ciena | [Embedded Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 1mo |
+| Blue Origin | [Avionics / Embedded Software Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055?utm_source=Simplify&ref=Simplify) | LA Kent, WA | 1mo |
+| Freeform | [Software Engineer New Grad](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify) | LA | 1mo |
+| TP-Link Systems | [Early Career Embedded Software Engineer](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply?utm_source=Simplify&ref=Simplify) | Irvine, CA | 1mo |
+| Garmin | [Embedded Software Engineer 1](https://careers.garmin.com/jobs/19134?icims=1&utm_source=Simplify&ref=Simplify) | Chandler, AZ | 1mo |
+| Qualcomm | [System AI Engineer New Grad - Display - ASICS Engineering](https://qualcomm.eightfold.ai/careers/job/446718599884?utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 1mo |
+| Garmin | [Software Engineer 1 - Embedded Aviation](https://careers.garmin.com/jobs/18513?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 1mo |
+| RTX | [FPGA Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 1mo |
+| Oracle | [Systems Software Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728?utm_source=Simplify&ref=Simplify) | United States | 1mo |
+| Blissway | [Embedded Systems Engineer New Grad](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8/application?embed=true&utm_source=Simplify&ref=Simplify) | Denver, CO | 1mo |
+| Antares Nuclear | [Reactor Software Engineer 1/2](https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 2mo |
+| NVIDIA | [ASIC Design Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 2mo |
+| Nidec | [Software Engineer 1](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664?utm_source=Simplify&ref=Simplify) | St. Louis, MO | 2mo |
+| NVIDIA | [ASIC Design Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 2mo |
+| Micron Technology | [Design Engineer New Grad - Design Engineer - DRAM Technology and Products](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=Simplify&ref=Simplify) | Boise, ID | 2mo |
+| NVIDIA | [ASIC Verification Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 2mo |
+| Cerebras | [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 2mo |
+| NVIDIA | [Research Scientist New Grad - Circuits 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010?utm_source=Simplify&ref=Simplify) | Santa Clara, CA Durham, NC | 2mo |
+| NVIDIA | [Circuit Design Engineer New Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 2mo |
+| NVIDIA | [Low Power ASIC Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 3mo |
+| NVIDIA | [ASIC Physical Design Engineer New Grad - Netlisting 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681?utm_source=Simplify&ref=Simplify) | Austin, TX Santa Clara, CA | 3mo |
+| Honeywell | [Embedded Engineer 1 New Grad](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055?utm_source=Simplify&ref=Simplify) | St. Charles, IL | 4mo |
+| RTX | [Digital Hardware Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineer-I_01841999-1?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 4mo |
+| Icon | [Founding Engineer](https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
+| NVIDIA | [ASIC Design Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 4mo |
+| Zone 5 Technologies | [Embedded Software Engineer 1/2](https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008?utm_source=Simplify&ref=Simplify) | San Luis Obispo, CA | 4mo |
+| Northwood Space | [Software Engineer – New grad / early career](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application?utm_source=Simplify&ref=Simplify) | Carson, CA | 4mo |
+| NVIDIA | [ASIC Physical Design and Timing Engineer – New College Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 5mo |
+| Honeywell | [Hardware Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/137946?utm_source=Simplify&ref=Simplify) | Clearwater, FL Minneapolis, MN | 6mo |
+| Superhuman | [Software Engineer - Early Career](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true&utm_source=Simplify&ref=Simplify) | Seattle, WA SF | 0d |
+| Nexthop.ai | [Software Engineer New Grad](https://nexthopai.bamboohr.com/careers/62/?utm_source=Simplify&ref=Simplify) | Burnaby, BC, Canada | 0d |
+| C3.ai | [Platform Full-Stack Engineer New Grad](https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify) | Redwood City, CA | 0d |
+| Scale AI | [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
+| American Express | [Software Engineer New Grad](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
+| American Express | [Software Engineer New Grad](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783?utm_source=Simplify&ref=Simplify) | Burgess Hill, UK | 0d |
+| RTX | [Software Engineer New Grad](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618?utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 1d |
+| RTX | [Hardware In the Loop Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 1d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333?utm_source=Simplify&ref=Simplify) | McKinney, TX | 1d |
+| Mimecast | [Software Engineer 1 - Endpoint Sensor](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1?utm_source=Simplify&ref=Simplify) | Minneapolis, MN | 1d |
+| Autostore | [Entry Level Software Engineer](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 2d |
+| Klaviyo | [Software Engineer 1](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=Simplify&ref=Simplify) | Boston, MA | 2d |
+| Affirm | [Software Engineer 1 - Frontend - Upfunnel](https://job-boards.greenhouse.io/affirm/jobs/7985907003?utm_source=Simplify&ref=Simplify) | Remote in Canada | 3d |
+| Commure | [Software Engineer - Early Career](https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true&utm_source=Simplify&ref=Simplify) | LA Mountain View, CA | 3d |
+| Johns Hopkins Applied Physics Laboratory | [Software Engineer New Grad - Multiple Teams](https://careers.jhuapl.edu/jobs/59817?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 4d |
+| Anysphere | [Software Engineer New Grad - 2027](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 5d |
+| Dell Technologies | [Software Engineer 1 - IT](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784?utm_source=Simplify&ref=Simplify) | Texas | 5d |
+| Zebra Technologies | [Software Engineer 1](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/Software-Engineer--I_JR103242-1?utm_source=Simplify&ref=Simplify) | Kennesaw, GA | 5d |
+| General Dynamics Mission Systems | [Software Engineer Entry Level](https://careers-gdms.icims.com/jobs/74828/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Taunton, MA | 5d |
+| Replit | [Software Engineer New Grad - Summer 2027](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application?embed=true&utm_source=Simplify&ref=Simplify) | Foster City, CA | 5d |
+| Atlassian | [Software Engineer New Grad - 2027 Graduate](https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job?utm_source=Simplify&ref=Simplify) | Burnaby, BC, Canada Vancouver, BC, Canada Richmond, BC, Canada | 5d |
+| Domino Data Lab | [Software Engineer New Grad](https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556&utm_source=Simplify&ref=Simplify) | NYC | 5d |
+| Instabase | [Software Engineer - Early Careers](https://job-boards.greenhouse.io/instabase/jobs/8783218002?utm_source=Simplify&ref=Simplify) | SF | 5d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447?utm_source=Simplify&ref=Simplify) | Woburn, MA | 6d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452?utm_source=Simplify&ref=Simplify) | Tewksbury, MA | 6d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451?utm_source=Simplify&ref=Simplify) | Tewksbury, MA | 6d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445?utm_source=Simplify&ref=Simplify) | Woburn, MA | 6d |
+| True Anomaly | [Software Engineer 1 New Grad - Elixir](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 6d |
+| SpaceX | [Software Engineer New Grad - Software - Starship](https://boards.greenhouse.io/spacex/jobs/8743362002?utm_source=Simplify&ref=Simplify) | Hawthorne, CA | 6d |
+| CTG | [Software Engineer 1](https://careers.ctg.com/jobs/17557?icims=1&utm_source=Simplify&ref=Simplify) | Painted Post, NY | 6d |
+| Garmin | [Software Engineer 1 - Android](https://careers.garmin.com/jobs/16587?icims=1&utm_source=Simplify&ref=Simplify) | Yarmouth, ME | 6d |
+| Nexthop.ai | [Software Engineer New Grad - Hardware Diagnostics](https://nexthopai.bamboohr.com/careers/107/?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 6d |
+| AeroVironment | [Software Engineer 1](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 7d |
+| AiPrise | [Software Engineer 1](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify) | San Jose, CA | 9d |
+| Scale AI | [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005?utm_source=Simplify&ref=Simplify) | SF | 10d |
+| ID.me | [Software Development Engineer New Grad](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 10d |
+| General Dynamics Mission Systems | [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Lakewood, OH | 10d |
+| Johns Hopkins Applied Physics Laboratory | [Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development](https://careers.jhuapl.edu/jobs/59974?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 10d |
+| DoorDash | [Software Engineer 1 - Entry-Level](https://job-boards.greenhouse.io/doordashusa/jobs/8163709?utm_source=Simplify&ref=Simplify) | 5 locationsSeattle, WA SF LA NYC Sunnyvale, CA | 10d |
+| SIFT | [Software Engineer New Grad](https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true&utm_source=Simplify&ref=Simplify) | Marina Del Rey, CA | 12d |
+| Arch | [Software Engineer - Early Careers](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 12d |
+| Kikoff | [Software Engineer New Grad](https://job-boards.greenhouse.io/kikoff/jobs/4393822009?utm_source=Simplify&ref=Simplify) | SF | 12d |
+| Applied Materials | [Software Engineer - New College Grad-Master's 🎓](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=Simplify&ref=Simplify) | Chandler, AZ | 12d |
+| American Express | [Software Engineer 1 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796?utm_source=Simplify&ref=Simplify) | NYC | 13d |
+| American Express | [Software Engineer 1 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 13d |
+| Tebra | [Software Engineer 1 - Back-End](https://job-boards.greenhouse.io/tebra/jobs/4726985005?utm_source=Simplify&ref=Simplify) | Remote in USA | 13d |
+| Valon | [Software Engineer New Grad](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 13d |
+| InterSystems | [Software Engineer Rotational Program - Early Career](https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify) | Boston, MA | 13d |
+| Johns Hopkins Applied Physics Laboratory | [Software Developer New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 13d |
+| American Express | [Software Engineer 1 Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 13d |
+| Textron | [Software Engineer 1 - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666&utm_source=Simplify&ref=Simplify) | Hunt Valley, Cockeysville, MD | 13d |
+| Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 13d |
+| Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 13d |
+| Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8130930&utm_source=Simplify&ref=Simplify) | London, UK | 13d |
+| Sierra | [Software Engineer New Grad - Agent](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 14d |
+| IXL Learning | [Software Engineer New Grad](https://www.ixl.com/company/jobs?gh_jid=8765715002&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 14d |
+| IXL Learning | [Software Developer New Grad - Integrations](https://www.ixl.com/company/jobs?gh_jid=8765751002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 14d |
+| IXL Learning | [Software Engineer New Grad](https://www.ixl.com/company/jobs?gh_jid=8765745002&utm_source=Simplify&ref=Simplify) | Raleigh, NC | 14d |
+| WhatNot | [Software Engineer New Grad](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true&utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA SF LA NYC | 14d |
+| Everlaw | [Software Engineer 1](https://job-boards.greenhouse.io/everlaw/jobs/4705236006?utm_source=Simplify&ref=Simplify) | Oakland, CA | 14d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647?utm_source=Simplify&ref=Simplify) | Cambridge, MA Arlington County, Arlington, VA | 14d |
+| General Motors | [Entry Level Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756?utm_source=Simplify&ref=Simplify) | Milford, MI Warren, MI | 14d |
+| Expedia Group | [Software Development Engineer 1](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2?utm_source=Simplify&ref=Simplify) | Seattle, WA | 14d |
+| RELX | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| RELX | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| LexisNexis Risk Solutions | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| LexisNexis Risk Solutions | [Software Engineer New Grad - Risk Solutions Technology Graduate Program](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2?utm_source=Simplify&ref=Simplify) | Boca Raton, FL | 15d |
+| LexisNexis Risk Solutions | [Software Engineer New Grad - Risk Solutions Technology Graduate Program](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| Blue Origin | [Software Development Engineer 1 - Early Career - 2027 Starts](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326?utm_source=Simplify&ref=Simplify) | 6 locationsSeattle, WA LA Cape Canaveral, FL Kent, WA Denver, CO Huntsville, AL | 15d |
+| Alation | [UX Software Engineer 1 - Contractor](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770?utm_source=Simplify&ref=Simplify) | Redwood City, CA | 15d |
+| DefenseStorm | [Junior Product Engineer - Software Engineer 1](https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I?utm_source=Simplify&ref=Simplify) | Alpharetta, GA Atlanta, GA | 17d |
+| Barry-Wehmiller | [Entry Level Software Engineer](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649?utm_source=Simplify&ref=Simplify) | 5 locationsEau Claire, WI Dallas, TX Raleigh, NC St. Louis, MO Denver, CO | 18d |
+| Sierra Nevada Corporation | [Software Engineer 1](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529?utm_source=Simplify&ref=Simplify) | Lone Tree, CO Dayton, OH Plano, TX | 19d |
+| Sierra Nevada Corporation | [Software Engineer 1](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526?utm_source=Simplify&ref=Simplify) | Lone Tree, CO Dayton, OH Plano, TX | 19d |
+| Garmin | [Software Engineer 1 - Aviation Backend Web](https://careers.garmin.com/jobs/19732?icims=1&utm_source=Simplify&ref=Simplify) | Chanhassen, MN | 19d |
+| Garmin | [Software Engineer 1 - Aviation Backend Web](https://careers.garmin.com/jobs/19142?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 19d |
+| V2X | [Software Engineer 1 - Multiple Teams](https://careers.gov2x.com/jobs/62655?icims=1&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 19d |
+| True Anomaly | [Software Engineer 1 New Grad - Perception](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 20d |
+| Leidos | [Junior Software Engineer - Intel Sector](https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592?utm_source=Simplify&ref=Simplify) | Laurel, MD | 20d |
+| General Dynamics UK | [Junior Software Engineer](https://jobs.smartrecruiters.com/GDMSI/744000145530335?utm_source=Simplify&ref=Simplify) | Blackwood, UK | 20d |
+| Zip | [Software Engineer New Grad](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application?embed=true&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 20d |
+| Zip | [Software Engineer New Grad - 2027 Start](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 20d |
+| Maximor AI | [Software Engineer New Grad](https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 20d |
+| True Anomaly | [Software Engineer 1 New Grad - Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 20d |
+| Bloxd | [Software Engineer New Grad](https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK | 21d |
+| SteerBridge | [Junior Software Engineer](https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify) | Vienna, VA | 21d |
+| Google | [Software Engineer Early Career - Multiple Teams 🎓](https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify) | 12 locationsMadison, WI Seattle, WA Austin, TX LA Raleigh, NC San Bruno, CA Durham, NC Kirkland, WA NYC Sunnyvale, CA Mountain View, CA Atlanta, GA | 21d |
+| Nightwing Intelligence Solutions | [Software Engineer 1](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958?utm_source=Simplify&ref=Simplify) | Sterling, VA | 22d |
+| KBR | [Junior Software Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745?utm_source=Simplify&ref=Simplify) | 7 locationsKing of Prussia, PA Chantilly, VA San Antonio, TX Clearfield, UT Columbia, MD Beavercreek, OH El Segundo, CA | 22d |
+| Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19680?icims=1&utm_source=Simplify&ref=Simplify) | Yarmouth, ME | 24d |
+| General Dynamics Mission Systems | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Manassas, VA | 24d |
+| SpaceX | [Software Engineer New Grad - Software - Application Software](https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify) | Hawthorne, CA | 26d |
+| SpaceX | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8729121002?utm_source=Simplify&ref=Simplify) | Brownsville, TX | 26d |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027?utm_source=Simplify&ref=Simplify) | Fort Wayne, IN | 27d |
+| Astrion | [Junior Software Developer - Datalinks Test Flight](https://careers.astrion.us/jobs/24705?icims=1&utm_source=Simplify&ref=Simplify) | Eglin AFB, FL | 27d |
+| Koah | [Software Engineer - Early Career](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 27d |
+| Dark Wolf Solutions | [Junior AI Software Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003?utm_source=Simplify&ref=Simplify) | Chantilly, VA Herndon, VA | 27d |
+| Nexthop.ai | [Software Engineer New Grad](https://nexthopai.bamboohr.com/careers/24/?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| CACI | [Entry Level Software Engineer](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 28d |
+| Marlabs | [Entry Level Programmer Analyst 🎓](https://jobs.smartrecruiters.com/MarlabsInc1/83216249?utm_source=Simplify&ref=Simplify) | Piscataway, NJ | 28d |
+| LMI | [Junior Android Engineer - RFID](https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA | 28d |
+| Amazon | [Software Development Engineer - Early Career](https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026?utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 1mo |
+| Notion | [Software Engineer New Grad](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Wolverine Trading | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Wolverine Trading | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Applied Intuition | [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true&utm_source=Simplify&ref=Simplify) | Ann Arbor, MI Sunnyvale, CA | 1mo |
+| SpaceX | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696097002?utm_source=Simplify&ref=Simplify) | Bastrop, TX | 1mo |
+| WeRide | [Software Engineer New Grad - Algorithm 🎓](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Composio | [Fullstack Engineer New Grad - Product Team](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Capital Health | [Product Engineer 1](https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768?utm_source=Simplify&ref=Simplify) | Pennington, NJ | 1mo |
+| Consumer Direct Care Network | [Software Engineer 1](https://cdcn.avature.net/careers/JobDetail/8611?utm_source=Simplify&ref=Simplify) | Missoula, MT | 1mo |
+| TikTok | [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Lennar | [Software Engineer 1](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608?utm_source=Simplify&ref=Simplify) | Miami, FL Irving, TX | 1mo |
+| Uniswap | [Software Engineer - Early Career](https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| 9to9 Software Solutions | [Entry Level Software Developer](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473?utm_source=Simplify&ref=Simplify) | Copperhill, TN | 1mo |
+| 9to9 Software Solutions | [Entry Level Software Developer](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935?utm_source=Simplify&ref=Simplify) | Randolph AFB, TX | 1mo |
+| Captivation | [Software Engineer 0 - Multiple Teams](https://job-boards.greenhouse.io/captivation/jobs/5384983008?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 1mo |
+| Cummins | [Software Engineer 1 🎓](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164?utm_source=Simplify&ref=Simplify) | United States | 1mo |
+| Cummins | [Software Engineer 1](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081?utm_source=Simplify&ref=Simplify) | Columbus, IN | 1mo |
+| Teledyne | [Junior Software Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 1mo |
+| LPL Financial Holdings | [Software Engineering New Grad](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475?utm_source=Simplify&ref=Simplify) | Austin, TX Fort Mill, SC Charlotte, NC | 1mo |
+| Blue Origin | [Software Development Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| Arondite | [Deployed Software Engineer New Grad](https://apply.workable.com/arondite/j/5C5C551ADA/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Homey | [Junior Software Engineer - AI-Native](https://apply.workable.com/homey/j/50DF9B3D53/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Atoms | [Software Engineer New Grad](https://job-boards.greenhouse.io/cssmerge/jobs/8687930002?utm_source=Simplify&ref=Simplify) | 5 locationsSeattle, WA SF LA NYC Mountain View, CA | 1mo |
+| ByteDance | [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Salesforce | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1?utm_source=Simplify&ref=Simplify) | 6 locationsPalo Alto, CA Seattle, WA Indianapolis, IN SF Dallas, TX Bellevue, WA | 1mo |
+| Salesforce | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250?utm_source=Simplify&ref=Simplify) | 6 locationsPalo Alto, CA Seattle, WA Indianapolis, IN SF Dallas, TX Bellevue, WA | 1mo |
+| Roblox | [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 1mo |
+| TikTok | [Frontend Software Engineer New Grad - Ads Interface](https://lifeattiktok.com/search/7668569995571726597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Software Engineer New Grad - Ads Infrastructure](https://lifeattiktok.com/search/7668879883938203957?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| SimpliSafe | [Software Engineer 1 - User Systems](https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
+| Pariveda Solutions | [Entry Level Software Engineer](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true&utm_source=Simplify&ref=Simplify) | 9 locationsSeattle, WA Houston, TX SF LA Dallas, TX Philadelphia, PA Chicago, IL NYC Atlanta, GA | 1mo |
+| SOCOTEC Global | [Junior Software Engineer](https://jobs.smartrecruiters.com/Socotec/744000141326319?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Texas Sports Academy | [Junior AI Software Engineer](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| ByteDance | [Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799020705679669/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| ByteDance | [Software Engineer New Grad - AI Infra Compute 🎓](https://jobs.bytedance.com/en/position/7667303429264115973/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| ByteDance | [Backend and Infrastructure Software Engineer New Grad - Dev Infra](https://jobs.bytedance.com/en/position/7667894766036322565/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Retell AI | [Software Engineer New Grad - Founders Initiatives](https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true&utm_source=Simplify&ref=Simplify) | SF Redwood City, CA | 1mo |
+| IntelliGenesis | [Software Engineer 0](http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 1mo |
+| WonderBotz | [Junior Software Engineer](https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Princeton, NJ | 1mo |
+| HarmonyTech | [Junior Software Developer - .NET](https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET?utm_source=Simplify&ref=Simplify) | Herndon, VA | 1mo |
+| EAi Technologies | [Entry Level Software Developer](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer?utm_source=Simplify&ref=Simplify) | Vienna, VA | 1mo |
+| EAi Technologies | [Entry Level .NET Software Developer](https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer?utm_source=Simplify&ref=Simplify) | Vienna, VA | 1mo |
+| TikTok | [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Peterson Technologies | [Junior Software Engineer](https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 1mo |
+| GliaCell Technologies | [Junior Java Software Engineer](https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 1mo |
+| GliaCell Technologies | [Junior Software Engineer](https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 1mo |
+| Walgreens | [Software Engineer 1 - Java](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify) | Deerfield, IL | 1mo |
+| Lightfield | [Early Career Infrastructure Software Engineer](https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true&utm_source=Simplify&ref=Simplify) | Cambridge, MA Boston, MA | 1mo |
+| ManTech | [Software Engineer 1](https://mantech.avature.net/en_US/careers/JobDetail/61501?utm_source=Simplify&ref=Simplify) | Crane, IN | 1mo |
+| Garmin | [Software Engineer 1 - Connect IQ Applications](https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 1mo |
+| Garmin | [Software Engineer 1 - Web Development/Applications](https://careers.garmin.com/jobs/18510?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 1mo |
+| Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 1mo |
+| Noblis | [Junior Software Developer](https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify) | Reston, VA | 1mo |
+| NewsBreak | [Software Engineer Junior New Grad - ML Infra](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1mo |
+| Palantir | [Software Engineer – New Grad](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Palantir | [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Palantir | [Forward Deployed Software Engineer New Grad - UK Government](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Cadence Design Systems | [Application Software Developer New Grad](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Cadence Design Systems | [Application Software Developer New Grad](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Cadence Design Systems | [Application Software Developer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Cadence Design Systems | [Application Software Developer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736?utm_source=Simplify&ref=Simplify) | Livonia, MI | 1mo |
+| Nooks | [Software Engineer New Grad](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Amerisure | [Software Engineer 1](https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=Simplify&ref=Simplify) | Southfield, MI | 1mo |
+| Texas Sports Academy | [Junior Software Engineer - AI-Forward](https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| Crusoe | [Software Engineer 1 - Storage](https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Color | [Software Engineer New Grad](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true&utm_source=Simplify&ref=Simplify) | San Bruno, CA | 1mo |
+| Textron | [Software Engineer 1 - Sea Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975&utm_source=Simplify&ref=Simplify) | Sparks, MD | 1mo |
+| RunSybil | [Software Engineer 1](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Texas Sports Academy | [Junior Software Engineer - AI-Forward](https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| Bridger | [Early Career Product Engineer](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Amazon | [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| Westinghouse Electric Company | [Safety Software Engineer 1&C HMI Systems](https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Cranberry Twp, PA | 1mo |
+| Revel | [Full Stack Software Engineer - Entry-Junior](https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 1mo |
+| Supernova Technology | [Junior Software Engineer](https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Rollout | [Founding Software Engineer](https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application?embed=true&utm_source=Simplify&ref=Simplify) | Louisville, KY NYC | 1mo |
+| Strada | [Software Engineer New Grad](https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Hipp Health | [Software Engineer New Grad](https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true&utm_source=Simplify&ref=Simplify) | United States | 1mo |
+| Firetiger | [Product Engineer New Grad](https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Mastercard | [Software Engineer 1](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431?utm_source=Simplify&ref=Simplify) | O'Fallon, MO | 1mo |
+| Capital One | [Software Engineer New Grad - Software Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1mo |
+| Cybernetic Labs | [Software Engineer New Grad - Agent Platform](https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Cybernetic Labs | [Full-Stack Software Engineer New Grad - Product](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Lightfield | [Software Engineer New Grad - Applied AI](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Wyetech | [Software Engineer 1](https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 2mo |
+| Faros AI | [Software Engineer New Grad](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 2mo |
+| Citadel Securities | [Software Engineer – University Graduate](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/?utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
+| InstaLILY | [Software Engineer 1 - General](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009?utm_source=Simplify&ref=Simplify) | SF NYC | 2mo |
+| RTX | [Conversion Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify) | Richardson, TX | 2mo |
+| Akuna Capital University | [Entry Level Software Engineer - C++](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085&utm_source=Simplify&ref=Simplify) | Chicago, IL | 2mo |
+| NVIDIA | [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242?utm_source=Simplify&ref=Simplify) | Canada Santa Clara, CA | 2mo |
+| Kustomer | [Software Engineer – Early Career - Full Stack](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Pylon | [Software Engineer New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application?utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Motorola | [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146?utm_source=Simplify&ref=Simplify) | Alberta, Canada Remote in Canada | 2mo |
+| SimpliSafe | [Software Engineer 1 - Device Control](https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify) | Boston, MA | 2mo |
+| The Boeing Company | [Entry Level Simulation Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1?utm_source=Simplify&ref=Simplify) | Hazelwood, MO | 2mo |
+| The Boeing Company | [Entry Level Simulation Software Engineer](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853?utm_source=Simplify&ref=Simplify) | Hazelwood, MO | 2mo |
+| Cerebras | [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada Sunnyvale, CA | 2mo |
+| Notion | [Software Engineer – Early Career](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application?utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Notion | [Software Engineer – Early Career - AI](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application?utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Citadel | [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC | 2mo |
+| Varsity Brands | [Software Engineer 1](https://careers.varsitybrands.com/global/en/job/JR113976?utm_source=Simplify&ref=Simplify) | Memphis, TN | 2mo |
+| Confido | [Software Engineer New Grad](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Tracebit | [Founding Engineer - Early Careers](https://jobs.ashbyhq.com/tracebit/b15236d9-29fa-4d7c-9873-1a23ca5cc034/application?utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
+| Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 2mo |
+| Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2mo |
+| Palantir | [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply?utm_source=Simplify&ref=Simplify) | Chicago, IL | 2mo |
+| Palantir | [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify) | Denver, CO | 2mo |
+| NCR Voyix | [Software Engineer 1](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 2mo |
+| Cylake | [Software Engineer – University Grad](https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 2mo |
+| GM financial | [Software Engineer 1 - Adobe Exp Platform](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400?utm_source=Simplify&ref=Simplify) | Irving, TX | 2mo |
+| Texas Sports Academy | [Junior Software Engineer - AI-Forward](https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 2mo |
+| Solerity | [JavaScript Software Engineer 1 - TS/SCI with Poly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523?utm_source=Simplify&ref=Simplify) | Fort Meade, MD | 2mo |
+| Lexical Intelligence | [NLM Software Engineer 1](https://lexical.bamboohr.com/careers/73/?utm_source=Simplify&ref=Simplify) | Bethesda, MD | 2mo |
+| EXL | [Junior Software Developer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785?utm_source=Simplify&ref=Simplify) | United States | 3mo |
+| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 3mo |
+| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=Simplify&ref=Simplify) | NYC | 3mo |
+| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 3mo |
+| People Culture Talent | [Full-Stack Engineer 🛂](https://jobs.ashbyhq.com/people-culture-talent/c1049c49-aea6-4862-a711-a4c78cf6e959?utm_source=Simplify&ref=Simplify) | San Francisco, CA | 3mo |
+| RTX | [Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718?utm_source=Simplify&ref=Simplify) | McKinney, TX | 3mo |
+| NVIDIA | [Software Engineer New Grad - Hardware Tools and Methodology 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 3mo |
+| Julius AI | [Refresh Software Engineer New Grad - Product](https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application?utm_source=Simplify&ref=Simplify) | SF | 3mo |
+| General Dynamics Information Technology | [Junior Software Developer - Active TS/SCI with Poly Required](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 4mo |
+| Integrity | [Software Engineer 1](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=Simplify&ref=Simplify) | Grimes, IA | 4mo |
+| TSC | [Software Engineer 1](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1?utm_source=Simplify&ref=Simplify) | Silver Spring, MD | 4mo |
+| Meyer Distributing | [Junior Full Stack Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 4mo |
+| Wonderschool | [Early Career Software Engineer - Applied AI](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003?utm_source=Simplify&ref=Simplify) | SF | 4mo |
+| Anduril | [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 4mo |
+| KBR | [Junior Software Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 4mo |
+| Intuit | [Software Engineer 1](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720?utm_source=Simplify&ref=Simplify) | 4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA | 5mo |
+| EvenUp | [Software Engineer – New Grad - Cases Product](https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada SF | 5mo |
+| Sigma Computing | [Software Engineer New Grad](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003?utm_source=Simplify&ref=Simplify) | SF NYC | 5mo |
+| Realm | [Software Engineer New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA | 5mo |
+| FlexAI | [Software Engineer – New Grad](https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674?utm_source=Simplify&ref=Simplify) | San Jose, CA | 5mo |
+| Aquatic Capital Management | [Software Engineer – Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002?utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 5mo |
+| True Anomaly | [Software Engineer 1 - Full Stack](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 5mo |
+| Ellipsis Labs | [Software Engineer – New Grads - Multiple Teams](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application?utm_source=Simplify&ref=Simplify) | NYC | 5mo |
+| N1 | [New Grad Software Engineer - Backend Rust](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=Simplify&ref=Simplify) | 4 locationsSF Remote in USA Europe NYC | 5mo |
+| Wyetech | [Software Engineer 1](https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7/apply?utm_source=Simplify&ref=Simplify) | Halethorpe, MD | 6mo |
+| Konrad Group | [Software Developer - Entry Level](https://boards.greenhouse.io/embed/job_app?token=7669159003&utm_source=Simplify&ref=Simplify) | London, UK | 6mo |
+| General Motors | [Software Engineer – Early Career - Autonomous Vehicles Software Systems 🎓](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA Warren, MI | 6mo |
+| Deliveroo | [Software Engineer – New Grad](https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636/application?utm_source=Simplify&ref=Simplify) | London, UK | 6mo |
+| Uare.ai | [Software Engineer – Early Career](https://job-boards.greenhouse.io/uareai/jobs/4036519009?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 6mo |
+| Jobsbridge | [Entry Level Mobile Developer](https://jobs.smartrecruiters.com/Jobsbridge1/88661424?utm_source=Simplify&ref=Simplify) | SF | 6mo |
+| Jobsbridge | [Entry Level Mobile Developer](https://jobs.smartrecruiters.com/Jobsbridge1/88661485?utm_source=Simplify&ref=Simplify) | SF | 6mo |
+| Giga AI | [Software Engineer 1 / 2 - New York](https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application?utm_source=Simplify&ref=Simplify) | NYC | 6mo |
+| NOV | [Product Engineer 1](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682?utm_source=Simplify&ref=Simplify) | Houston, TX | 7mo |
+| Google | [Software Engineer – Early Career - AI/ML - PhD 🎓](https://www.google.com/about/careers/applications/jobs/results/92286686481785542?utm_source=Simplify&ref=Simplify) | London, UK | 7mo |
+| Perpay | [Software Engineer – New Grad](https://job-boards.greenhouse.io/perpay/jobs/4034578007?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 7mo |
+| Robinhood | [Associate Product Manager New Grad](https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=Simplify&ref=Simplify) | Menlo Park, CA NYC | 0d |
+| Applied Materials | [Product Line Management New Grad - Master's 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1d |
+| Applied Materials | [Product Line Management 1 New College Grad - Bachelor's](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2622280?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7d |
+| Roblox | [Associate Product Manager - Early Career](https://careers.roblox.com/jobs/8143976?gh_jid=8143976&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 12d |
+| Safelite | [Digital Product Global Early Career Professional](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Digital-Product-Global-Early-Career-Professional_JR74277?utm_source=Simplify&ref=Simplify) | Columbus, OH | 13d |
+| IXL Learning | [Associate Product Manager New Grad](https://www.ixl.com/company/jobs?gh_jid=8765765002&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 14d |
+| LPL Financial Holdings | [Product Management New Grad - Product](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1?utm_source=Simplify&ref=Simplify) | Austin, TX Fort Mill, SC Charlotte, NC | 1mo |
+| TikTok | [Content Product New Grad - TikTok Local Services](https://lifeattiktok.com/search/7667573235673073925?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Databricks | [Associate Product Manager New Grad](https://boards.greenhouse.io/embed/job_app?token=7586263002&utm_source=Simplify&ref=Simplify) | SF Bellevue, WA Mountain View, CA | 2mo |
+| Micron Technology | [HBM Product Manager – New College Grad 🎓](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify) | Boise, ID | 2mo |
+| Uncountable | [Product Manager – New Grad](https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application?utm_source=Simplify&ref=Simplify) | SF NYC | 5mo |
+| Rolls-Royce | [Junior Machine Learning Engineer](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
+| Qualcomm | [Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446721063770?utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 3d |
+| Wavestone | [Junior AI Engineer - AI & Data Team](https://jobs.smartrecruiters.com/Wavestone1/744000149017779?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 3d |
+| Capital One | [Data Scientist New Grad](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 4d |
+| Sun Life | [Junior Security Data Analyst](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 5d |
+| ID.me | [Data Scientist New Grad 🎓](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 6d |
+| Capital One | [Data Analyst New Grad - Data Analyst](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 7d |
+| Johns Hopkins Applied Physics Laboratory | [Data Scientist New Grad - Computer Scientist - Decision Systems 🎓](https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 10d |
+| Canadian Tire | [Data Science Associate New Grad - Finance Rotational Program](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 11d |
+| Canadian Tire | [Data Science Associate New Grad - Finance Rotational Program](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Quarry-Park/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164990?utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 11d |
+| SMX | [Junior Data Analytics & Reporting Specialist](https://www.smxtech.com/careers/?gh_jid=7984672003&utm_source=Simplify&ref=Simplify) | United States | 11d |
+| Trulioo | [Junior Software Engineer 🎓](https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?embed=true&utm_source=Simplify&ref=Simplify) | San Diego, CA | 12d |
+| Aramark | [Junior Data Engineer](https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Rockville, MD | 12d |
+| Cadence Design Systems | [Software Engineer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738?utm_source=Simplify&ref=Simplify) | San Jose, CA | 12d |
+| Cadence Design Systems | [Software Engineer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1?utm_source=Simplify&ref=Simplify) | San Jose, CA | 12d |
+| Safelite | [Predictive Analytics Global Early Career Professional](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275?utm_source=Simplify&ref=Simplify) | Columbus, OH | 13d |
+| Safelite | [Customer Analytics & Insights Global Early Career Professional](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210?utm_source=Simplify&ref=Simplify) | Columbus, OH | 13d |
+| Johns Hopkins Applied Physics Laboratory | [Data Analyst New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 13d |
+| American Express | [Data Engineer 1 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 13d |
+| Johns Hopkins Applied Physics Laboratory | [Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence 🎓](https://careers.jhuapl.edu/jobs/59888?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 13d |
+| Johns Hopkins Applied Physics Laboratory | [Sensor Systems/Data Analytics New Grad](https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 14d |
+| National Software Management | [Entry Level Data Analyst - Business Analyst](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 17d |
+| Hatch IT | [Junior Data Engineer - DEA](https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply?utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 18d |
+| True Anomaly | [Data Engineer 1](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 19d |
+| Johns Hopkins Applied Physics Laboratory | [Data Scientist/Engineer New Grad - Analytic Capabilities 🎓](https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 20d |
+| True Anomaly | [Data Science Software Engineer 1 New Grad - Data Science](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 20d |
+| Johns Hopkins Applied Physics Laboratory | [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems 🎓](https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 20d |
+| KBR | [Junior Data Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=Simplify&ref=Simplify) | Chantilly, VA | 22d |
+| LPL Financial Holdings | [Data Analytics New Grad - Multiple Teams](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1?utm_source=Simplify&ref=Simplify) | Fort Mill, SC Charlotte, NC | 25d |
+| National Software Management | [Entry Level Data Analyst / Business Analyst](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 25d |
+| Datalab USA | [Production Programmer – Entry Level SQL Developer](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply?utm_source=Simplify&ref=Simplify) | Germantown, MD | 26d |
+| Dark Wolf Solutions | [Junior Data Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003?utm_source=Simplify&ref=Simplify) | Chantilly, VA Herndon, VA | 27d |
+| Smarter Agent | [Junior Data Engineer - Multiple Teams](https://jobs.smartrecruiters.com/SmarterAgent/743999706496509?utm_source=Simplify&ref=Simplify) | Collingswood, NJ | 28d |
+| Applied Intuition | [Research Engineer New Grad 🎓](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true&utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1mo |
+| Micron Technology | [AI Innovation Research Engineer New Grad 🎓](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| LPL Financial Holdings | [Data Engineering New Grad](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1?utm_source=Simplify&ref=Simplify) | Austin, TX Fort Mill, SC Charlotte, NC | 1mo |
+| Guidehouse | [Data Engineer 1](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995?utm_source=Simplify&ref=Simplify) | 6 locationsHouston, TX Charlotte, NC San Antonio, TX Beavercreek, OH Atlanta, GA Huntsville, AL | 1mo |
+| SentiLink | [Research Scientist New Grad](https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
+| SentiLink | [Quantitative Scientist New Grad - Multiple Teams](https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
+| ByteDance | [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| LiveScore Group | [Junior Data Scientist - Marketing Analytics](https://job-boards.greenhouse.io/livescore9/jobs/8683687002?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Varsity Brands | [Data Engineer 1](https://careers.varsitybrands.com/global/en/job/JR114562?utm_source=Simplify&ref=Simplify) | Farmers Branch, TX | 1mo |
+| RBI | [Data Engineer 1](https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622?utm_source=Simplify&ref=Simplify) | Miami, FL | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Search Ads](https://lifeattiktok.com/search/7669698543896054069?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Shirley Ryan AbilityLab | [Machine Learning Ops Engineer 1 - CBM Lab](https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Recommendation](https://lifeattiktok.com/search/7663389745178757429?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665973724622342453?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665989163791403269?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Scientist New Grad - Recommendation 🎓](https://lifeattiktok.com/search/7663389363824773381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665977123255896325?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Research Engineer New Grad - Multiple Teams 🎓](https://lifeattiktok.com/search/7667767820142643461?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| ByteDance | [Research Scientist New Grad - Multi-modal Agentic Databases 🎓](https://jobs.bytedance.com/en/position/7665104241446652213/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| ByteDance | [Research Scientist New Grad - Computational Imaging 🎓](https://jobs.bytedance.com/en/position/7665836153219959093/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| ByteDance | [Research Scientist New Grad - AI for Infrastructure 🎓](https://jobs.bytedance.com/en/position/7667291055662811445/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| ByteDance | [Research Scientist New Grad - Infrastructure System Lab 🎓](https://jobs.bytedance.com/en/position/7665108869591140613/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| ByteDance | [Research Scientist New Grad - Distributed NoSQL Database Systems 🎓](https://jobs.bytedance.com/en/position/7668365143156721973/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Search Quality 🎓](https://lifeattiktok.com/search/7665793152026740997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Data Search - Visual Search 🎓](https://lifeattiktok.com/search/7667346535273007413?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - Data-Global E-Commerce-Search 🎓](https://lifeattiktok.com/search/7668389759463393589?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - E-Commerce Search](https://lifeattiktok.com/search/7668390999147776309?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [Machine Learning Infrastructure Engineer New Grad - Ads Infra](https://lifeattiktok.com/search/7668693662561634613?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Nakupuna Companies | [Junior Knowledge Management Analyst](https://careers-nakupuna.icims.com/jobs/6788/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Washington, DC | 1mo |
+| Tax Relief Advocates | [Junior Machine Learning Engineer](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008?utm_source=Simplify&ref=Simplify) | Irvine, CA | 1mo |
+| NVIDIA | [Research Scientist New Grad - Robotics Research 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| Hitachi | [Junior Condition Monitoring and Analytics Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Backbone Systems | [Founding Engineer - Applied Research](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Sallie Mae | [Early Career Development Program Associate - Analytics](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Associate--Analytics---Early-Career-Development-Program_R26_000512?utm_source=Simplify&ref=Simplify) | Newark, DE | 2mo |
+| Preference Model | [Member of Technical Staff New Grad - Machine Learning Capabilities 🎓](https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application?utm_source=Simplify&ref=Simplify) | Seattle, WA Toronto, ON, Canada SF | 2mo |
+| Datalab USA | [Production Programmer – Entry Level SQL Developer](https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885/apply?utm_source=Simplify&ref=Simplify) | Germantown, MD | 2mo |
+| Snowflake | [AI Research Scientist New Grad - Agents & Reinforcement Learning 🎓](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 3mo |
+| NVIDIA | [Research Scientist New Grad - Efficient Deep Learning 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 3mo |
+| Apogee Engineering | [Junior Technical Intelligence Analyst](https://careers-apogeeusa.icims.com/jobs/1442/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Wright-Patterson AFB, OH | 3mo |
+| Allen Control Systems | [Junior Computer Vision & Machine Learning Engineer](https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TX | 3mo |
+| AMERICAN SYSTEMS | [Data Engineer - Junior](https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Quantico, VA | 4mo |
+| NVIDIA | [Research Scientist – PhD New College Grad - Generative AI for Physical AI 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 5mo |
+| GlobalFoundries | [Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=Simplify&ref=Simplify) | Austin, TX | 5mo |
+| Waymo | [Applied Research Scientist – New Grad - Perception Large Language Model/Vision-Language Model - PhD 🎓](https://careers.withwaymo.com/jobs?gh_jid=7488508&utm_source=Simplify&ref=Simplify) | SF Mountain View, CA | 6mo |
+| Software Quality Experts | [Entry Level Business Analyst / Data Analyst](https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861?utm_source=Simplify&ref=Simplify) | Dulles, VA | 6mo |
+| Data Cloud Merge | [Entry Level Business Analyst](https://jobs.smartrecruiters.com/DataCloudMerge/744000039093905?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 6mo |
+| Data Cloud Merge | [Entry Level Business Analyst](https://jobs.smartrecruiters.com/DataCloudMerge/744000039092000?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 6mo |
+| Parallel Web Systems | [Early Career Research Engineer](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd/application?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 7mo |
+| NVIDIA | [Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7mo |
+| Perpay | [Junior Strategic Analyst](https://job-boards.greenhouse.io/perpay/jobs/4158121007?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 7mo |
+| Brain Co. | [Early Career Machine Learning Engineer - Applied AI](https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 7mo |
+| Susquehanna International Group | [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Bala Cynwyd, PA | 24d |
+| Susquehanna International Group | [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Bala Cynwyd, PA | 26d |
+| SentiLink | [Quantitative Researcher New Grad - Emerging Products - Application Fraud](https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
+| WallStreetQuants | [Quantitative Researcher New Grad](https://apply.workable.com/wallstreetquants/j/62537809CA/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| WallStreetQuants | [Quantitative Trader New Grad](https://apply.workable.com/wallstreetquants/j/615D982644/apply?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| WallStreetQuants | [Quantitative Trader New Grad](https://apply.workable.com/wallstreetquants/j/C611D9282B/apply?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Maven Securities | [Quantitative Researcher New Grad](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Citadel Securities | [Quantitative Trader New Grad](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-europe/?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Optiver | [Equity Analyst New Grad](https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Hudson River Trading | [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050&utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Akuna Capital University | [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541&utm_source=Simplify&ref=Simplify) | Chicago, IL | 2mo |
+| Akuna Capital University | [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687&utm_source=Simplify&ref=Simplify) | Chicago, IL | 2mo |
+| Citadel Securities | [Quantitative Research Analyst – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/?utm_source=Simplify&ref=Simplify) | London, UK Dublin, Ireland | 2mo |
+| Citadel | [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Citadel Securities | [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/?utm_source=Simplify&ref=Simplify) | Miami, FL | 2mo |
+| Citadel Securities | [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=Simplify&ref=Simplify) | Greenwich, CT Miami, FL NYC | 2mo |
+| TransMarket Group | [Junior Quantitative Trader](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007&utm_source=Simplify&ref=Simplify) | Chicago, IL | 3mo |
+| Old Mission | [Junior Quantitative Researcher 🎓](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003&utm_source=Simplify&ref=Simplify) | Chicago, IL | 3mo |
+| Akuna Capital University | [Junior Quantitative Researcher - Prediction Markets](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348&utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
+| Comcast | [Entry-level Backend Software Engineer (Python) - Chicago - ONSITE 2X Week - FreeWheel](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R444440?s=gh-new-grad-software-engineering-jobs-2027) | IL - Chicago | 0d |
+| Comcast | [Junior Backend Software Engineer (Python or PHP) - Chicago - ONSITE 2X Week- FreeWheel](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R444441?s=gh-new-grad-software-engineering-jobs-2027) | IL - Chicago | 0d |
+| HPE (University) | [Software Engineer, Networking & C/C++](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1193121?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| Intel | [Software Engineer – Datacenter](https://zapply.jobs/l/d/workday-intel-external-JR0286998?s=gh-new-grad-software-engineering-jobs-2027) | California Santa Clara | 0d |
+| Aerospace Corporation | [2027 RPO Software Developer/Analyst](https://zapply.jobs/l/d/workday-aero-external-R016457?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Stanley Black & Decker | [Engineer 1, Software Engineering - Motor Control](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052383?s=gh-new-grad-software-engineering-jobs-2027) | Towson, MD, United States | 0d |
+| Allstate | [Audit Software Engineer Consultant II](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R34140?s=gh-new-grad-software-engineering-jobs-2027) | USA - IL | 0d |
+| Allstate | [AI Software Engineer](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R34190?s=gh-new-grad-software-engineering-jobs-2027) | USA - IL | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Software Engineering Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-new-grad-software-engineering-jobs-2027) | NYC | 0d |
+| Dow Jones | [Software Engineer II, Search](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55287?s=gh-new-grad-software-engineering-jobs-2027) | NYC | 0d |
+| Viavi Solutions | [Software Engineering Co-Op](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005140?s=gh-new-grad-software-engineering-jobs-2027) | Germantown, MD USA | 0d |
+| Medtronic | [Full Stack Cloud Software Engineer II](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R71118?s=gh-new-grad-software-engineering-jobs-2027) | Fridley, Minnesota, United... | 0d |
+| Wells Fargo | [2027 Technology Summer Internship – Early Careers (Software Engineering - California)](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574294?s=gh-new-grad-software-engineering-jobs-2027) | SAN FRANCISCO, CA | 0d |
+| Wells Fargo | [2027 Technology Summer Internship – Early Careers (Software Engineering)](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574285?s=gh-new-grad-software-engineering-jobs-2027) | CHARLOTTE, NC | 0d |
+| Oshkosh Corporation | [Software Engineer Intern - Summer 2027](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50321?s=gh-new-grad-software-engineering-jobs-2027) | Huntersville, North Carolina,... | 0d |
+| Northrop Grumman | [R10236134 Software Engineer (C++ and TS Clearance)](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250795?s=gh-new-grad-software-engineering-jobs-2027) | United... | 0d |
+| RELX | [Mgr Software Engineering](https://zapply.jobs/l/d/workday-relx-relx-R112031?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta, GA | 0d |
+| CACI | [Full Stack Software Engineer/Developer](https://zapply.jobs/l/d/workday-caci-external-332060?s=gh-new-grad-software-engineering-jobs-2027) | Sterling VA US | 0d |
+| CACI | [Software Developer](https://zapply.jobs/l/d/workday-caci-external-332050?s=gh-new-grad-software-engineering-jobs-2027) | San Antonio, TX, US | 0d |
+| CACI | [Software Developer](https://zapply.jobs/l/d/workday-caci-external-332051?s=gh-new-grad-software-engineering-jobs-2027) | San Antonio, TX, US | 0d |
+| RTX | [Software Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873970?s=gh-new-grad-software-engineering-jobs-2027) | OR-WILSONVILLE | 0d |
+| RTX | [Software Engineering Co-op (Summer/Fall 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870236?s=gh-new-grad-software-engineering-jobs-2027) | OR-WILSONVILLE | 0d |
+| Silicon Labs | [Software Engineer I](https://zapply.jobs/l/d/workday-silabs-siliconlabscareers-21011?s=gh-new-grad-software-engineering-jobs-2027) | Austin | 0d |
+| Magna | [Software Developer](https://zapply.jobs/l/d/workday-magna-magna-R00261595?s=gh-new-grad-software-engineering-jobs-2027) | Piedmont, South Carolina, US | 0d |
+| HPE | [Software Engineer, Networking & C/C++](https://zapply.jobs/l/d/workday-hpe-acjobsite-1193121?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| General Motors | [Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202605924?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View, California,... | 0d |
+| General Motors | [Software Engineer](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202614348?s=gh-new-grad-software-engineering-jobs-2027) | Austin, Texas, United States of... | 0d |
+| General Motors | [Embedded Software Engineer](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202617527?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| Boeing | [F-22 Software Developer Engineers (Associate, Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507276?s=gh-new-grad-software-engineering-jobs-2027) | USA - Richardson, TX | 0d |
+| Fiserv | [Java Developer - Advisor I](https://zapply.jobs/l/d/workday-fiserv-ext-R-10382097?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta, Georgia | 0d |
+| Fiserv | [Mobile Developer - Advisor I](https://zapply.jobs/l/d/workday-fiserv-ext-R-10382100?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta, Georgia | 0d |
+| Fiserv | [Software Development Engineering - Advisor I](https://zapply.jobs/l/d/workday-fiserv-ext-R-10382096?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta Georgia | 0d |
+| T. Rowe Price | [2026 Global Technology - Associate Software Engineer](https://zapply.jobs/l/d/workday-troweprice-troweprice-83580?s=gh-new-grad-software-engineering-jobs-2027) | Owings Mills, MD | 0d |
+| Boeing | [Software Engineer–Developer, Phantom Works Weapons (Associate or Experienced)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026517300?s=gh-new-grad-software-engineering-jobs-2027) | Saint Charles, MO | 0d |
+| Boeing | [Software Engineer (Associate, Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026518220?s=gh-new-grad-software-engineering-jobs-2027) | USA - Daytona Beach, FL | 0d |
+| Adtran | [Software Development Engineer I](https://zapply.jobs/l/d/workday-adtran-adtran-R005903?s=gh-new-grad-software-engineering-jobs-2027) | Adtran Huntsville | 0d |
+| Freddie Mac | [Software Engineer Professional, Financial Engineering](https://zapply.jobs/l/d/workday-freddiemac-external-JR17587?s=gh-new-grad-software-engineering-jobs-2027) | McLean, VA | 0d |
+| Broadridge | [Java Developer (On-Site)](https://zapply.jobs/l/d/workday-broadridge-careers-JR1080888?s=gh-new-grad-software-engineering-jobs-2027) | Edgewood, NY | 0d |
+| Carnegie Mellon University | [Software Engineer](https://zapply.jobs/l/d/workday-cmu-cmu-2025049?s=gh-new-grad-software-engineering-jobs-2027) | Pittsburgh, PA | 0d |
+| Carnegie Mellon SEI | [Software Engineer](https://zapply.jobs/l/d/workday-cmu-sei-2025049?s=gh-new-grad-software-engineering-jobs-2027) | Pittsburgh, PA | 0d |
+| Booz Allen Hamilton | [Astrodynamics Software Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249459?s=gh-new-grad-software-engineering-jobs-2027) | Herndon, VA | 0d |
+| Micron Technology | [Intern - IT Software Engineer](https://zapply.jobs/l/d/workday-micron-external-JR111582?s=gh-new-grad-software-engineering-jobs-2027) | Boise, ID - Main Site | 0d |
+| OpenAI | [Software Engineer, Healthcare](https://zapply.jobs/l/d/ashby-openai-4923fd3e-acf2-4551-91ad-5a92ca81455b?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 0d |
+| The Hartford | [Software Engineer](https://zapply.jobs/l/d/workday-thehartford-careers-external-R2626386?s=gh-new-grad-software-engineering-jobs-2027) | Hartford, CT | 0d |
+| Copart | [Software Engineering Intern](https://zapply.jobs/l/d/workday-copart-copart-JR109673?s=gh-new-grad-software-engineering-jobs-2027) | Dallas, TX - Headquarters | 0d |
+| RTX | [Gen4 Airborne Radar Software Engineer II](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874748?s=gh-new-grad-software-engineering-jobs-2027) | CA-EL SEGUNDO-R01 | 0d |
+| LabCorp | [Intern - Software Developer](https://zapply.jobs/l/d/workday-labcorp-external-2632330?s=gh-new-grad-software-engineering-jobs-2027) | Durham NC | 0d |
+| Draper | [Mid-Level Full Stack Web Developer](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002905?s=gh-new-grad-software-engineering-jobs-2027) | St. Petersburg, FL | 0d |
+| Draper | [Mid-Level Full Stack Web Developer (MTS-2)](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002907?s=gh-new-grad-software-engineering-jobs-2027) | Cambridge, MA | 0d |
+| Zillow | [Software Development Engineer](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P748929?s=gh-new-grad-software-engineering-jobs-2027) | Remote-USA | 0d |
+| Crowe | [Power Platform Engineering Specialist 1](https://zapply.jobs/l/d/workday-crowe-external-careers-R-52193?s=gh-new-grad-software-engineering-jobs-2027) | Indianapolis, IN | 0d |
+| Ultra Intelligence & Communications | [Mid-Level Embedded Software Engineer (Clearance Required)](https://zapply.jobs/l/d/workday-ultra-ultra-careers-REQ-11978?s=gh-new-grad-software-engineering-jobs-2027) | Tampa, FL, United States | 0d |
+| FIS | [Mainframe Software Engineer I, COBOL](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309079?s=gh-new-grad-software-engineering-jobs-2027) | GA ATL 201 STE 900 | 0d |
+| LexisNexis Risk Solutions | [Mgr Software Engineering](https://zapply.jobs/l/d/workday-relx-risksolutions-R112031?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta, GA | 0d |
+| Trimble | [Software Engineer](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57403?s=gh-new-grad-software-engineering-jobs-2027) | CO Westminster | 0d |
+| Adobe | [Software Development Engineer](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171675?s=gh-new-grad-software-engineering-jobs-2027) | San Jose | 0d |
+| CoStar Group | [Associate Software Engineer - Richmond, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39667?s=gh-new-grad-software-engineering-jobs-2027) | VA Richmond - CoStar Tower | 0d |
+| CoStar Group | [Associate Software Engineer - Arlington, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39668?s=gh-new-grad-software-engineering-jobs-2027) | VA Arlington | 0d |
+| Leidos | [Junior Software Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00192168?s=gh-new-grad-software-engineering-jobs-2027) | Huntsville, AL | 0d |
+| Leidos | [Network Software Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00187933?s=gh-new-grad-software-engineering-jobs-2027) | Shiloh, IL | 0d |
+| Leidos | [Application Software Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00192232?s=gh-new-grad-software-engineering-jobs-2027) | San Diego, CA | 0d |
+| SS&C Technologies | [Business Intelligence Reporting/ Web Developer](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R44309?s=gh-new-grad-software-engineering-jobs-2027) | Fort Worth, TX | 0d |
+| Cisco | [Software Engineer Data & AI I (Intern) - United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024510?s=gh-new-grad-software-engineering-jobs-2027) | San Jose California US | 0d |
+| Cisco | [Software Engineer- Simulation Models](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022348?s=gh-new-grad-software-engineering-jobs-2027) | Milpitas, California, US | 0d |
+| NCR Voyix | [Software Engineer II](https://zapply.jobs/l/d/workday-ncr-ext-us-R0158433?s=gh-new-grad-software-engineering-jobs-2027) | ATLANTA, GA, USA | 0d |
+| Wex | [AI & Data Platform Engineering Intern (Undergraduate)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R23055?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| Wex | [Fullstack Software Engineer Intern (Undergraduate)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| Wex | [Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| Northrop Grumman | [Cyber Software Engineer - Level 1/2 AHT](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250763?s=gh-new-grad-software-engineering-jobs-2027) | United... | 0d |
+| Northrop Grumman | [2027 Intern Software Engineer](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250669?s=gh-new-grad-software-engineering-jobs-2027) | 4 Locations | 0d |
+| Johnson & Johnson | [Commercial Platform Engineer- CRM](https://zapply.jobs/l/d/workday-jj-jj-R-095541?s=gh-new-grad-software-engineering-jobs-2027) | Raritan, New Jersey, United... | 0d |
+| Mastercard | [Software Engineer I](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-284431?s=gh-new-grad-software-engineering-jobs-2027) | O'Fallon, Missouri | 0d |
+| Salesforce | [AI Native - UX - Software Engineer](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR359620?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 0d |
+| KBR | [Modeling Software Engineer](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129895?s=gh-new-grad-software-engineering-jobs-2027) | Beavercreek Township, Ohio | 0d |
+| The Travelers Companies | [Software Engineer I- Enterprise AI Products](https://zapply.jobs/l/d/workday-travelers-external-R-52171?s=gh-new-grad-software-engineering-jobs-2027) | CT Hartford | 0d |
+| GDIT | [SME Platform Engineer](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226853?s=gh-new-grad-software-engineering-jobs-2027) | USA VA Arlington | 0d |
+| Expedia Group | [Full Stack Software Engineer II](https://zapply.jobs/l/d/workday-expedia-private-R-108283?s=gh-new-grad-software-engineering-jobs-2027) | Washington - Seattle | 0d |
+| Expedia Group | [Software Development Engineer II](https://zapply.jobs/l/d/workday-expedia-private-R-108814?s=gh-new-grad-software-engineering-jobs-2027) | Washington - Seattle | 0d |
+| Expedia Group | [Mobile Engineer III](https://zapply.jobs/l/d/workday-expedia-private-R-109419?s=gh-new-grad-software-engineering-jobs-2027) | Austin Domain 11 - HomeAway | 0d |
+| Amgen | [Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-new-grad-software-engineering-jobs-2027) | United States - Remote | 0d |
+| Amgen | [Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-new-grad-software-engineering-jobs-2027) | United States - Remote | 0d |
+| Morgan Stanley | [Software Engineer - Backend](https://zapply.jobs/l/d/workday-ms-external-PT-JR041639?s=gh-new-grad-software-engineering-jobs-2027) | New York, New York, United... | 0d |
+| Blue Origin | [Navigation Software Engineer](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72083?s=gh-new-grad-software-engineering-jobs-2027) | Greater Seattle Area | 0d |
+| Blue Origin | [Embedded Software Developer – Level 3](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R70917?s=gh-new-grad-software-engineering-jobs-2027) | Denver, CO | 0d |
+| Blue Origin | [Embedded Software Developer – Level 3](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R70922?s=gh-new-grad-software-engineering-jobs-2027) | Huntsville, AL | 0d |
+| Booz Allen Hamilton | [Web Developer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249368?s=gh-new-grad-software-engineering-jobs-2027) | McLean, VA | 0d |
+| Booz Allen Hamilton | [CNO Software Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249362?s=gh-new-grad-software-engineering-jobs-2027) | Annapolis Junction, MD | 0d |
+| JLL | [Mobile Engineer](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ534747?s=gh-new-grad-software-engineering-jobs-2027) | Kansas City, KS | 0d |
+| Johnson Controls | [NextGen Software Engineer](https://zapply.jobs/l/d/workday-jci-jci-WD30279373?s=gh-new-grad-software-engineering-jobs-2027) | Glendale-Wisconsin-United... | 0d |
+| Johnson Controls | [NextGen Software Engineer](https://zapply.jobs/l/d/workday-jci-jci-WD30279369?s=gh-new-grad-software-engineering-jobs-2027) | Westford-Massachusetts-United... | 0d |
+| Microsoft | [Software Engineer II](https://zapply.jobs/l/d/microsoft-200055252?s=gh-new-grad-software-engineering-jobs-2027) | Redmond, Washington, United States | 0d |
+| Apple | [Software Development Engineer - iOS for Keyboard](https://zapply.jobs/l/d/apple-200683681?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 0d |
+| Emerson Electric | [Software Developer](https://zapply.jobs/l/d/oracle-emerson-electric-26008546?s=gh-new-grad-software-engineering-jobs-2027) | Round Rock, TX, United States | 0d |
+| Apple | [Engineering Program Manager - SWE Photos](https://zapply.jobs/l/d/apple-200680821?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 0d |
+| ABB | [Global Customer Application Engineer](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042697?s=gh-new-grad-software-engineering-jobs-2027) | USA, NC, Cary | 0d |
+| Microsoft | [AI Software Engineering Intern](https://zapply.jobs/l/d/microsoft-200049019?s=gh-new-grad-software-engineering-jobs-2027) | Redmond, Washington, United States | 0d |
+| Lowe's | [Software Engineer – Undergrad Internship – Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02623576?s=gh-new-grad-software-engineering-jobs-2027) | Lowe's Charlotte Technology Hub... | 0d |
+| Lowe's | [Exploratory Software Engineering - Undergrad Internship - Summer 2027](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02623542?s=gh-new-grad-software-engineering-jobs-2027) | Lowe's Charlotte Technology Hub... | 0d |
+| Lowe's | [Associate Software Engineer - Launchpad](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02641559?s=gh-new-grad-software-engineering-jobs-2027) | Lowe's Charlotte Technology Hub... | 0d |
+| Muon Space | [Software Engineer, Computer Vision / Image Processing](https://zapply.jobs/l/d/greenhouse-muonspace-5238263007?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, CA | 0d |
+| Intel | [System Technology Research Engineer - (PhD Intern)](https://zapply.jobs/l/d/workday-intel-external-JR0287000?s=gh-new-grad-software-engineering-jobs-2027) | Oregon Hillsboro | 0d |
+| NVIDIA | [Deep Learning Product Research Engineer](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2019482?s=gh-new-grad-software-engineering-jobs-2027) | US, CA, Santa Clara | 0d |
+| Databricks | [Specialist Solutions Architect - Data Engineering (Healthcare & Life Sciences)](https://zapply.jobs/l/d/greenhouse-databricks-8717331002?s=gh-new-grad-software-engineering-jobs-2027) | United States | 0d |
+| Wex | [DevOps & AI Engineering Intern (Undergraduate)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R23056?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| Citi | [Agentic AI Engineer (AVP)](https://zapply.jobs/l/d/workday-citi-2-26984351?s=gh-new-grad-software-engineering-jobs-2027) | Tampa Florida United States | 0d |
+| Expedia Group | [Forward Deployed AI Engineer III](https://zapply.jobs/l/d/workday-expedia-private-R-108423?s=gh-new-grad-software-engineering-jobs-2027) | Austin Domain 11 - HomeAway | 0d |
+| Blue Origin | [AI Engineer II - Blue Ring](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71045?s=gh-new-grad-software-engineering-jobs-2027) | Greater Seattle Area | 0d |
+| Booz Allen Hamilton | [Health Insurance Data Analyst](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249319?s=gh-new-grad-software-engineering-jobs-2027) | Bethesda, MD | 0d |
+| Booz Allen Hamilton | [AI Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249430?s=gh-new-grad-software-engineering-jobs-2027) | Fort Meade, MD | 0d |
+| Booz Allen Hamilton | [Data Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0243232?s=gh-new-grad-software-engineering-jobs-2027) | Atlanta, GA | 0d |
+| Apple | [Machine Learning Engineer - Notifications & Personalization](https://zapply.jobs/l/d/apple-200683686?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 0d |
+| Google | [Research Engineer, Advancing Agent Quality, DeepMind](https://zapply.jobs/l/d/google-115133712500171462?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Intel | [System Technology Research Engineer](https://zapply.jobs/l/d/workday-intel-external-JR0286792?s=gh-new-grad-software-engineering-jobs-2027) | US, California, Santa Clara | 0d |
+| Parsons | [Data Analyst](https://zapply.jobs/l/d/workday-parsons-search-R185905?s=gh-new-grad-software-engineering-jobs-2027) | HI, Camp Smith, R185905 | Date unknown |
+| Google | [Research Engineer, GenAI, Info Task, DeepMind](https://zapply.jobs/l/d/google-97490121065931462?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| ByteDance | [AI Vision Research Engineer Graduate (Pico) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7668433722454935861?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, California | Date unknown |
+| ByteDance | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7667304540048787765?s=gh-new-grad-software-engineering-jobs-2027) | Seattle, Washington | Date unknown |
+| ByteDance | [Research Engineer Graduate (AI Infra Compute) - 2027 Start (PhD)](https://zapply.jobs/l/d/bytedance-7667334521286035765?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, California | Date unknown |
+| GDIT | [Data Science Analyst](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ225970?s=gh-new-grad-software-engineering-jobs-2027) | VA Springfield | 1d |
+| NREL | [Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-new-grad-software-engineering-jobs-2027) | Golden, CO | 3d |
+| NVIDIA | [Security Research Engineer, AI Safety and Security Engineering](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021887?s=gh-new-grad-software-engineering-jobs-2027) | CA Santa Clara | 3d |
+| Boeing | [Customer Operations and Identity & Access Management Business Systems & Data Analyst](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026520323?s=gh-new-grad-software-engineering-jobs-2027) | USA - Seattle, WA | 3d |
+| Workday Inc | [Machine Learning Engineer](https://zapply.jobs/l/d/workday-workday-workday-JR-0109848?s=gh-new-grad-software-engineering-jobs-2027) | USA, CA, Pleasanton | 3d |
+| Target | [Data Engineer - Finance AI Solutions](https://zapply.jobs/l/d/workday-target-targetcareers-R0000444866?s=gh-new-grad-software-engineering-jobs-2027) | 7000 Target Pkwy N,NCD | 3d |
+| Expedia Group | [Data Scientist III, Media & Paid Social Analytics](https://zapply.jobs/l/d/workday-expedia-private-R-109076?s=gh-new-grad-software-engineering-jobs-2027) | Washington - Seattle | 3d |
+| Applied Materials | [Data Scientist - (B3)](https://zapply.jobs/l/d/workday-amat-external-R2628442?s=gh-new-grad-software-engineering-jobs-2027) | Santa Clara,CA | 3d |
+| OpenAI | [Research Engineer, AI for Chip Design](https://zapply.jobs/l/d/ashby-openai-bd2b8228-bb0f-42e0-94bd-c853cdd56140?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 3d |
+| Capital One | [Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000537?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, CA | 3d |
+| Capital One | [Applied Researcher II (AI Foundations)](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000524?s=gh-new-grad-software-engineering-jobs-2027) | New York, NY | 3d |
+| Apple | [Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos](https://zapply.jobs/l/d/apple-200634411?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 3d |
+| Schweitzer Engineering Laboratories | [Associate Research Engineer](https://zapply.jobs/l/d/workday-selinc-sel-2026-23108?s=gh-new-grad-software-engineering-jobs-2027) | Washington - Pullman | Date unknown |
+| Apple | [Machine Learning Research Engineer, ASE Search](https://zapply.jobs/l/d/apple-200679268?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 3d |
+| SpaceX | [Data Engineer, Ground Network Engineering (Gateway)](https://zapply.jobs/l/d/greenhouse-spacex-8784022002?s=gh-new-grad-software-engineering-jobs-2027) | Redmond, WA | 3d |
+| Google | [Research Engineer, Polaris, DeepMind](https://zapply.jobs/l/d/google-114077679900074694?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Intel | [Materials Research Engineer](https://zapply.jobs/l/d/workday-intel-external-JR0286901?s=gh-new-grad-software-engineering-jobs-2027) | US, Oregon, Hillsboro | 4d |
+| LabCorp | [Intern - Data Science - Oncology](https://zapply.jobs/l/d/workday-labcorp-external-2630590?s=gh-new-grad-software-engineering-jobs-2027) | Baltimore MD | 4d |
+| Northrop Grumman | [Data Scientist](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250261?s=gh-new-grad-software-engineering-jobs-2027) | United States-Florida-Apopka | 4d |
+| GE Vernova | [AI Engineer](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051916?s=gh-new-grad-software-engineering-jobs-2027) | Greenville | 4d |
+| GE Vernova | [Data Scientist](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051914?s=gh-new-grad-software-engineering-jobs-2027) | Greenville | 4d |
+| CACI | [Research Engineer - Optimization and Dynamical Systems](https://zapply.jobs/l/d/workday-caci-external-331759?s=gh-new-grad-software-engineering-jobs-2027) | Florham Park, NJ, US | 4d |
+| Crane Co. | [Data Engineer II](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102419?s=gh-new-grad-software-engineering-jobs-2027) | Lynnwood, Washington | 4d |
+| Amentum | [Data Analyst - Mid/Pogrammer/Analyst II](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170411?s=gh-new-grad-software-engineering-jobs-2027) | DC-Washington | 4d |
+| Bosch Group | [Research Engineer – Accelerated Materials Discovery](https://zapply.jobs/l/d/sr-BoschGroup-744000148881439?s=gh-new-grad-software-engineering-jobs-2027) | Watertown, MA | 4d |
+| Lowe's | [Data Scientist](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02622175?s=gh-new-grad-software-engineering-jobs-2027) | Lowe's Charlotte Technology Hub... | 4d |
+| Cigna | [Technology Development Program (TECDP) - Artificial Intelligence Track - Start Date: July 12, 2027](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010465?s=gh-new-grad-software-engineering-jobs-2027) | Bloomfield, CT | 5d |
+| Nissan | [Data Engineer](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00205289?s=gh-new-grad-software-engineering-jobs-2027) | Franklin, Tennessee - United... | 5d |
+| Guidehouse | [Data Analyst (Dashboard Developer)](https://zapply.jobs/l/d/workday-guidehouse-external-42740?s=gh-new-grad-software-engineering-jobs-2027) | VA Arlington | 5d |
+| University of Texas at Austin | [Research Engineering/ Scientist Associate I, II, or III](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048680?s=gh-new-grad-software-engineering-jobs-2027) | AUSTIN, TX | 5d |
+| Workday Inc | [Machine Learning Engineer - Payroll](https://zapply.jobs/l/d/workday-workday-workday-JR-0108977?s=gh-new-grad-software-engineering-jobs-2027) | USA, CA, Pleasanton | 5d |
+| CACI | [SCOPES Data Integrator/Data Engineer](https://zapply.jobs/l/d/workday-caci-external-331713?s=gh-new-grad-software-engineering-jobs-2027) | Doral, FL, US | 5d |
+| Expedia Group | [Machine Learning Scientist II - Agentic Experiences](https://zapply.jobs/l/d/workday-expedia-private-R-109446?s=gh-new-grad-software-engineering-jobs-2027) | Washington Seattle | 5d |
+| Intuitive | [Human Factors Research Engineer](https://zapply.jobs/l/d/sr-Intuitive-744000148619269?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, CA | 5d |
+| Citi | [Artificial Intelligence (AI) Offensive Security Analyst](https://zapply.jobs/l/d/workday-citi-2-26985034?s=gh-new-grad-software-engineering-jobs-2027) | Tampa Florida United States | 5d |
+| Zoox | [Data Scientist - Perception Verification and Validation](https://zapply.jobs/l/d/lever-zoox-87877cf4-3ac8-45d5-90fb-2ef7f223c068?s=gh-new-grad-software-engineering-jobs-2027) | Boston, MA | 5d |
+| Convergent Research | [Oath Technologies - Research Engineer, Tools & Infrastructure](https://zapply.jobs/l/d/lever-convergentresearch-a2e56f3e-09b0-402e-9566-6c7b235759d0?s=gh-new-grad-software-engineering-jobs-2027) | Berkeley, CA | 5d |
+| Convergent Research | [Oath Technologies - Formal Methods Research Engineer](https://zapply.jobs/l/d/lever-convergentresearch-87a70993-3dbd-480a-9fe2-221628639f07?s=gh-new-grad-software-engineering-jobs-2027) | Berkeley, CA | 5d |
+| Wells Fargo | [Cyber Security Web Application Research Engineer](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-571041?s=gh-new-grad-software-engineering-jobs-2027) | SAN FRANCISCO, CA | 5d |
+| GDIT | [Statistician/Data Analyst](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226086?s=gh-new-grad-software-engineering-jobs-2027) | USA DC Washington | 5d |
+| Oshkosh Corporation | [Data Analyst](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R48854?s=gh-new-grad-software-engineering-jobs-2027) | Jefferson City, Tennessee,... | 6d |
+| Sierra Nevada Corporation | [MLOps & Data Engineer II](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030489?s=gh-new-grad-software-engineering-jobs-2027) | Lone Tree, CO | 6d |
+| University of Texas at Austin | [Research Engineering/ Scientist Associate, I, II, III – Cell Culture Research Scientist and Lab...](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048664?s=gh-new-grad-software-engineering-jobs-2027) | AUSTIN, TX | 6d |
+| University of Texas at Austin | [Research Engineering/Scientist Associate I, II, III, or IV – Lab Manager & Cell Culture Specialist](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048639?s=gh-new-grad-software-engineering-jobs-2027) | AUSTIN, TX | 6d |
+| Workday Inc | [Machine Learning Engineer III](https://zapply.jobs/l/d/workday-workday-workday-JR-0106147?s=gh-new-grad-software-engineering-jobs-2027) | CA Pleasanton | 6d |
+| CACI | [Research Engineer - Optimization and Dynamical Systems](https://zapply.jobs/l/d/workday-caci-external-330962?s=gh-new-grad-software-engineering-jobs-2027) | Florham Park, NJ, US | 6d |
+| Johnson Controls | [Program Data Analyst - Digital Enablement, Sustainable Infrastructure](https://zapply.jobs/l/d/workday-jci-jci-WD30279071?s=gh-new-grad-software-engineering-jobs-2027) | Rockville-Virginia-United... | 6d |
+| GDIT | [AI ENGINEER](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ227941?s=gh-new-grad-software-engineering-jobs-2027) | USA MD Annapolis Junction | 6d |
+| Annapurna Labs (U.S.) Inc. | [AI Hardware Systems Engineer, Annapurna Labs, Trainium Machine Learning Fleet Operations](https://zapply.jobs/l/d/amazon-72bfe6a1-2a46-4cd7-985e-9479c9768111?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX | 6d |
+| TP-Link USA | [Big Data Engineer](https://zapply.jobs/l/d/workable-tp-link-usa-corp-E229A22BE6?s=gh-new-grad-software-engineering-jobs-2027) | Irvine, California | 6d |
+| Capital One | [Current PhD, AI Engineering Internship Program - Summer 2027](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249110?s=gh-new-grad-software-engineering-jobs-2027) | New York, NY | 6d |
+| Leidos | [Research Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00188548?s=gh-new-grad-software-engineering-jobs-2027) | Pittsburgh, PA | 6d |
+| Intuitive | [Clinical Research Engineer - Future Forward](https://zapply.jobs/l/d/sr-Intuitive-744000148324179?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, CA | 6d |
+| Persona AI | [AI Engineer – Robotics Data Preprocessing](https://zapply.jobs/l/d/ashby-persona.ai-4f53d5be-e398-4c03-9c94-d0f8e59f27d3?s=gh-new-grad-software-engineering-jobs-2027) | Pensacola, FL or Houston, TX | 6d |
+| ClickUp | [Machine Learning Engineer, Ranking & Retrieval](https://zapply.jobs/l/d/ashby-clickup-920fb54c-ba58-4eac-919d-e85da9080802?s=gh-new-grad-software-engineering-jobs-2027) | United States | 6d |
+| Rivian and Volkswagen Group Technologies | [Data Engineering Intern - AI & Analytics (January - August 2027)](https://zapply.jobs/l/d/ashby-rivianvw.tech-32f6b882-414f-4bac-959c-83691d120322?s=gh-new-grad-software-engineering-jobs-2027) | Palo Alto, California | 6d |
+| Anthropic | [Research Engineer, Takeoff Intel](https://zapply.jobs/l/d/greenhouse-anthropic-5416882008?s=gh-new-grad-software-engineering-jobs-2027) | Remote-Friendly (Travel... | 6d |
+| Amgen | [Data Scientist](https://zapply.jobs/l/d/workday-amgen-careers-R-254531?s=gh-new-grad-software-engineering-jobs-2027) | California - Thousand Oaks | 6d |
+| Leidos | [AI Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00188788?s=gh-new-grad-software-engineering-jobs-2027) | 6314 Remote/Teleworker US | 6d |
+| Disney | [Commercial Data Science Intern, Spring 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10158063?s=gh-new-grad-software-engineering-jobs-2027) | Celebration, FL, USA | 7d |
+| Solidigm | [2027 Graduate Software, Firmware & AI Engineering Internships - US](https://zapply.jobs/l/d/sr-solidigm-744000147613769?s=gh-new-grad-software-engineering-jobs-2027) | Rancho Cordova, CA | 7d |
+| Decagon | [Research Engineer, Audio and Speech](https://zapply.jobs/l/d/ashby-decagon-69fd28a8-0de2-45a5-9b98-33725515add4?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 7d |
+| Decagon | [Research Engineer, Safety](https://zapply.jobs/l/d/ashby-decagon-f84db19b-8de3-49d6-a954-c9ee2e365956?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 7d |
+| Institute for Foundation Models | [Research Scientist – World Modeling, Data](https://zapply.jobs/l/d/lever-ifm-us-de4b2f67-785f-4181-a43e-634ba4b32f21?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, CA | 7d |
+| Samsung Research America | [Research Engineer, Android Security](https://zapply.jobs/l/d/greenhouse-samsungresearchamerica-8784685002?s=gh-new-grad-software-engineering-jobs-2027) | 665 Clyde Avenue, Mountain... | 7d |
+| Centerfield | [Data Engineer](https://zapply.jobs/l/d/ashby-centerfield-13b90415-27cd-482d-bc9f-6674fb7b4757?s=gh-new-grad-software-engineering-jobs-2027) | Los Angeles, California | 7d |
+| FanDuel | [Data Engineer](https://zapply.jobs/l/d/greenhouse-fanduel-8180103?s=gh-new-grad-software-engineering-jobs-2027) | New York City | 7d |
+| Anthropic | [Applied AI, Research Engineer](https://zapply.jobs/l/d/greenhouse-anthropic-5390811008?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, CA New York... | 7d |
+| Wells Fargo | [Information Security Data Engineer](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-571744?s=gh-new-grad-software-engineering-jobs-2027) | IRVING, TX | 7d |
+| Esri | [Spatial Data Engineer II](https://zapply.jobs/l/d/greenhouse-esri-5230512007?s=gh-new-grad-software-engineering-jobs-2027) | Redlands, CA | 7d |
+| Bosch Group | [Research Engineer - Computational Materials Science & Self-Driving Materials Discovery](https://zapply.jobs/l/d/sr-BoschGroup-744000147328139?s=gh-new-grad-software-engineering-jobs-2027) | Watertown, MA | 7d |
+| Salesforce | [Data Engineer (SMTS/LMTS) - Knowledge Graph & AI](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR347480?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 7d |
+| Vanguard | [Security Engineering Governance & Data Analyst](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-181082?s=gh-new-grad-software-engineering-jobs-2027) | Malvern, PA | 7d |
+| General Motors | [AI/ML Data Scientist (GPSSC)](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619401?s=gh-new-grad-software-engineering-jobs-2027) | Warren, Michigan, United States... | 7d |
+| TD Bank | [Data Engineer III (US)](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507870?s=gh-new-grad-software-engineering-jobs-2027) | Mount Laurel, New Jersey | 7d |
+| Annapurna Labs (U.S.) Inc. | [Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs](https://zapply.jobs/l/d/amazon-b8d4e2a2-5af7-4afc-92e7-e47e463256b2?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino, CA | 7d |
+| GE Vernova | [Research Engineer, Power Systems](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051000?s=gh-new-grad-software-engineering-jobs-2027) | Niskayuna | 7d |
+| Mach Industries | [Machine Learning Engineer](https://zapply.jobs/l/d/greenhouse-machindustries-4387877009?s=gh-new-grad-software-engineering-jobs-2027) | Huntington Beach, California,... | 7d |
+| ASML | [Research Engineer - 2nd Shift](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00351503?s=gh-new-grad-software-engineering-jobs-2027) | San Diego, CA, USA | 7d |
+| ICF | [Data Engineer (Clearance Required)](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2602945?s=gh-new-grad-software-engineering-jobs-2027) | Reston, VA | 7d |
+| Databricks | [Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)](https://zapply.jobs/l/d/greenhouse-databricks-8761732002?s=gh-new-grad-software-engineering-jobs-2027) | United States | 7d |
+| RTX | [Research Engineer – Chemical Sciences](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01869440?s=gh-new-grad-software-engineering-jobs-2027) | CT-EAST HARTFORD-RTRC K | 7d |
+| HPE | [Junos-EVO OS Infrastructure Engineer](https://zapply.jobs/l/d/workday-hpe-acjobsite-1212190?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| HPE (University) | [Junos-EVO OS Infrastructure Engineer](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1212190?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| Intel | [Software QA Engineer](https://zapply.jobs/l/d/workday-intel-external-JR0286999?s=gh-new-grad-software-engineering-jobs-2027) | US, California, Santa Clara | 0d |
+| Snap | [Security Engineer, Level 5, Detection & Response](https://zapply.jobs/l/d/workday-snapchat-snap-R0045495?s=gh-new-grad-software-engineering-jobs-2027) | Los Angeles California | 0d |
+| MKS Instruments | [2027 Summer Mechanical Automation Engineering Intern](https://zapply.jobs/l/d/workday-mksinst-mkscareersuniversity-R20744?s=gh-new-grad-software-engineering-jobs-2027) | Milpitas, CA | 0d |
+| Visa | [Software Test Engineer](https://zapply.jobs/l/d/workday-visa-visa-REF077610W?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX | 0d |
+| CACI | [Information Systems Security Engineer (ISSE) - Navy Key Management Infrastructure](https://zapply.jobs/l/d/workday-caci-external-332038?s=gh-new-grad-software-engineering-jobs-2027) | Norfolk, VA, US | 0d |
+| Caterpillar | [Vulnerability Security Analyst](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393002?s=gh-new-grad-software-engineering-jobs-2027) | East Peoria Illinois | 0d |
+| Caterpillar | [Endpoint Security Analyst](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392999?s=gh-new-grad-software-engineering-jobs-2027) | East Peoria Illinois | 0d |
+| Johnson & Johnson | [Co-Op Automation Engineer](https://zapply.jobs/l/d/workday-jj-jj-R-096697?s=gh-new-grad-software-engineering-jobs-2027) | Wilson, North Carolina, United... | 0d |
+| Nightwing | [Software Quality Assurance Specialist/Applications Tester](https://zapply.jobs/l/d/workday-nwis-nw-JR102053?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, VA | 0d |
+| NREL | [Cybersecurity Analyst IV](https://zapply.jobs/l/d/workday-nrel-nlr-R14434?s=gh-new-grad-software-engineering-jobs-2027) | Golden, CO | 0d |
+| Boeing | [DevOps Engineer (Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026516955?s=gh-new-grad-software-engineering-jobs-2027) | USA - Berkeley, MO | 0d |
+| Groundswell | [Cloud Engineer](https://zapply.jobs/l/d/workday-groundswell-groundswell-JR101089?s=gh-new-grad-software-engineering-jobs-2027) | McLean, VA | 0d |
+| Uline | [Quality Assurance Automation Engineer](https://zapply.jobs/l/d/workday-uline-uline-careers-R266892?s=gh-new-grad-software-engineering-jobs-2027) | Pleasant Prairie, WI | 0d |
+| Sierra Nevada Corporation | [Network Engineer II (Current Military Fellows Only)](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030788?s=gh-new-grad-software-engineering-jobs-2027) | Hagerstown, MD | 0d |
+| Micron Technology | [Intern - PHY Digital Design & Automation Engineer, HBM](https://zapply.jobs/l/d/workday-micron-external-JR110641?s=gh-new-grad-software-engineering-jobs-2027) | Richardson, TX | 0d |
+| ASML | [Cloud Engineer](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00341708?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 0d |
+| Tencent | [Cyber Security Engineer Intern](https://zapply.jobs/l/d/workday-tencent-tencent-careers-R108141?s=gh-new-grad-software-engineering-jobs-2027) | California-Palo Alto | 0d |
+| RTX | [Systems Security Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874755?s=gh-new-grad-software-engineering-jobs-2027) | AZ-TUCSON | 0d |
+| RTX | [Systems Security Engineer II – Anti-Tamper / Program Protection (On-site)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874758?s=gh-new-grad-software-engineering-jobs-2027) | AZ-TUCSON | 0d |
+| RTX | [Systems Security Engineer I – Anti-Tamper / Program Protection (On-site)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874756?s=gh-new-grad-software-engineering-jobs-2027) | AZ-TUCSON | 0d |
+| CoStar Group | [Associate Security Engineer - Arlington, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39724?s=gh-new-grad-software-engineering-jobs-2027) | VA Arlington | 0d |
+| CoStar Group | [Associate Security Engineer - Richmond, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39725?s=gh-new-grad-software-engineering-jobs-2027) | VA Richmond | 0d |
+| CoStar Group | [Security Engineer Intern - Arlington, VA](https://zapply.jobs/l/d/workday-costar-costar-campus-R39727?s=gh-new-grad-software-engineering-jobs-2027) | VA Arlington | 0d |
+| Thales | [Site Reliability Engineer](https://zapply.jobs/l/d/workday-thales-careers-R0336474?s=gh-new-grad-software-engineering-jobs-2027) | Austin | 0d |
+| Leidos | [Network Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00192160?s=gh-new-grad-software-engineering-jobs-2027) | Bethesda, MD | 0d |
+| Leidos | [Network Engineer II](https://zapply.jobs/l/d/workday-leidos-external-R-00191015?s=gh-new-grad-software-engineering-jobs-2027) | Shiloh, IL | 0d |
+| Leidos | [Network Engineer I](https://zapply.jobs/l/d/workday-leidos-external-R-00185790?s=gh-new-grad-software-engineering-jobs-2027) | Shiloh, IL | 0d |
+| Cisco | [Cloud Engineer II (Full Time) - United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025456?s=gh-new-grad-software-engineering-jobs-2027) | USA-SAN FRANCISCO | 0d |
+| Cisco | [Site Reliability Engineer](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021549?s=gh-new-grad-software-engineering-jobs-2027) | RTP, North Carolina, US | 0d |
+| Cisco | [Information Security Engineer Hybrid](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018972?s=gh-new-grad-software-engineering-jobs-2027) | RTP North Carolina US | 0d |
+| Workday Inc | [Cybersecurity Engineer - US Federal](https://zapply.jobs/l/d/workday-workday-workday-JR-0109436?s=gh-new-grad-software-engineering-jobs-2027) | USA.VA.Reston | 0d |
+| Wex | [SRE & Application Services Intern (Graduate/Master's)](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22494?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| Apex Fintech Solutions | [AWS Cloud Engineer - VDI Platform](https://zapply.jobs/l/d/workday-peak6group-apexfintechsolutions-JR104118?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX | 0d |
+| Gilead Sciences | [Intern - Development - DevOps Business Strategy](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0054772?s=gh-new-grad-software-engineering-jobs-2027) | United States - California -... | 0d |
+| Northrop Grumman | [Classified Cybersecurity Analyst 2/3 - Secret](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10248979?s=gh-new-grad-software-engineering-jobs-2027) | United States-Florida-Melbourne | 0d |
+| CACI | [DevOps Engineer](https://zapply.jobs/l/d/workday-caci-external-331905?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, VA, US | 0d |
+| CACI | [CSfC Network Engineer](https://zapply.jobs/l/d/workday-caci-external-331997?s=gh-new-grad-software-engineering-jobs-2027) | Fort Bragg, NC, US | 0d |
+| KeyBank | [API Security Engineer](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41968?s=gh-new-grad-software-engineering-jobs-2027) | Brooklyn, OH | 0d |
+| Blue Origin | [SecDevOps Engineer](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71137?s=gh-new-grad-software-engineering-jobs-2027) | Denver, CO | 0d |
+| Booz Allen Hamilton | [Public Key Infrastructure Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249387?s=gh-new-grad-software-engineering-jobs-2027) | Washington, DC | 0d |
+| Booz Allen Hamilton | [Application Penetration Tester](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0240290?s=gh-new-grad-software-engineering-jobs-2027) | Chantilly, VA | 0d |
+| Booz Allen Hamilton | [Cyber Test Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249384?s=gh-new-grad-software-engineering-jobs-2027) | Rome, NY | 0d |
+| SpaceX | [Network Engineer, AI Infrastructure (Starshield)](https://zapply.jobs/l/d/greenhouse-spacex-8808182002?s=gh-new-grad-software-engineering-jobs-2027) | Washington, DC | 0d |
+| SpaceX | [Network Engineer, AI Infrastructure (Starshield)](https://zapply.jobs/l/d/greenhouse-spacex-8808150002?s=gh-new-grad-software-engineering-jobs-2027) | Hawthorne, CA | 0d |
+| SpaceX | [Network Engineer, AI Infrastructure (Starshield)](https://zapply.jobs/l/d/greenhouse-spacex-8808184002?s=gh-new-grad-software-engineering-jobs-2027) | Redmond, WA | 0d |
+| JLL | [Automation Engineering Apprentice](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ522476?s=gh-new-grad-software-engineering-jobs-2027) | WINDSOR, CT | 0d |
+| JLL | [Automation Engineer](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535400?s=gh-new-grad-software-engineering-jobs-2027) | Miami, FL | 0d |
+| Fidelity Investments | [Mainframe Security Analyst](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134416?s=gh-new-grad-software-engineering-jobs-2027) | Westlake, TX | 0d |
+| GDIT | [Cybersecurity Exercise Planner (Junior)](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ227038?s=gh-new-grad-software-engineering-jobs-2027) | USA VA Arlington | 0d |
+| AMD | [Post-Training Platform Infrastructure Engineer](https://zapply.jobs/l/d/amd-78472?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, CA, United States | 0d |
+| MatX | [Infrastructure Engineer](https://zapply.jobs/l/d/ashby-matx-4f0c119d-03b1-431a-968c-9dd46689f3a8?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View ( | 0d |
+| Harbinger Motors | [Infrastructure Engineer, Manufacturing & Datacenter](https://zapply.jobs/l/d/greenhouse-harbingermotors-5238346007?s=gh-new-grad-software-engineering-jobs-2027) | Garden Grove, CA | 0d |
+| Schweitzer Engineering Laboratories | [Power System Automation Engineer](https://zapply.jobs/l/d/workday-selinc-sel-2026-22800?s=gh-new-grad-software-engineering-jobs-2027) | Idaho - Boise | Date unknown |
+| Apple | [DevOps Engineer, Claris](https://zapply.jobs/l/d/apple-200647673?s=gh-new-grad-software-engineering-jobs-2027) | San Diego | 0d |
+| ByteDance | [Site Reliability Graduate (Data Infrastructure) - 2027 Start](https://zapply.jobs/l/d/bytedance-7675096204766054709?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, California | Date unknown |
+| Apple | [Compiler Security Engineer - C/C++, Languages & Runtimes](https://zapply.jobs/l/d/apple-200678781?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 0d |
+| Eurofins | [Laboratory Application Automation Engineer](https://zapply.jobs/l/d/sr-Eurofins-744000149447470?s=gh-new-grad-software-engineering-jobs-2027) | Houston, TX | 0d |
+| Per Scholas | [Instructional Assistant (Cybersecurity)](https://zapply.jobs/l/d/greenhouse-perscholashires-4712493006?s=gh-new-grad-software-engineering-jobs-2027) | Los Angeles, California, United... | 0d |
+| Apple | [Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems](https://zapply.jobs/l/d/apple-200678728?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 0d |
+| MatX | [Developer Infrastructure Engineer (Silicon)](https://zapply.jobs/l/d/ashby-matx-063d7538-1d1a-4c5a-82ea-8f30b696f4c8?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View ( | 0d |
+| Impulse Space | [Development Test Engineering Intern (Summer 2027)](https://zapply.jobs/l/d/pinpoint-impulsespace-579195?s=gh-new-grad-software-engineering-jobs-2027) | Redondo Beach, California | Date unknown |
+| OpenAI | [AI Infrastructure Engineer, pAGI](https://zapply.jobs/l/d/ashby-openai-b2250643-bfd0-4ce6-abbf-cb7e8c8123ba?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 0d |
+| Appian | [AI Security Engineer](https://zapply.jobs/l/d/greenhouse-appian-8201099?s=gh-new-grad-software-engineering-jobs-2027) | McLean, Virginia | 0d |
+| AbbVie | [Security Engineer – Cybersecurity Posture, Hygiene & AI](https://zapply.jobs/l/d/sr-AbbVie-3743990015244236?s=gh-new-grad-software-engineering-jobs-2027) | North Chicago, IL | 0d |
+| PNC Financial Services | [Security Analyst - SOC - Sunday - Thursday - 3:00pm EST - 11:30pm EST](https://zapply.jobs/l/d/workday-pnc-external-R222994?s=gh-new-grad-software-engineering-jobs-2027) | Two PNC Plaza PA374 | 0d |
+| PNC Financial Services | [Cloud Security Engineer - Azure Defender/Prisma Cloud/Cortex Cloud](https://zapply.jobs/l/d/workday-pnc-external-R230361?s=gh-new-grad-software-engineering-jobs-2027) | ZZ Location | 0d |
+| PNC Financial Services | [Software DevOps Cloud Engineer - Data and Automation](https://zapply.jobs/l/d/workday-pnc-external-R232037?s=gh-new-grad-software-engineering-jobs-2027) | PA Pittsburgh 15219 | 0d |
+| Google | [Network Engineer](https://zapply.jobs/l/d/google-127058887839752902?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Google | [Network Engineer](https://zapply.jobs/l/d/google-131907184362431174?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Google | [AI Solution Security Engineer](https://zapply.jobs/l/d/google-142240944396083910?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Anduril | [Site Reliability Engineer, Cyber](https://zapply.jobs/l/d/greenhouse-andurilindustries-5236936007?s=gh-new-grad-software-engineering-jobs-2027) | Arlington, Virginia, United States | 0d |
+| Anduril | [Site Reliability Engineer](https://zapply.jobs/l/d/greenhouse-andurilindustries-5236881007?s=gh-new-grad-software-engineering-jobs-2027) | Waltham, Massachusetts, United... | 0d |
+| Jump Trading | [Network Engineer - Wireless](https://zapply.jobs/l/d/greenhouse-jumptrading-8162411?s=gh-new-grad-software-engineering-jobs-2027) | Chicago | 0d |
+| xAI | [Network Engineer](https://zapply.jobs/l/d/greenhouse-xai-5235761007?s=gh-new-grad-software-engineering-jobs-2027) | Palo Alto, CA | 0d |
+| Flagship Pioneering | [Flagship Pioneering: AI Automation Engineering Co-Op](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8796996002?s=gh-new-grad-software-engineering-jobs-2027) | Cambridge, MA USA | 0d |
+| Parsons | [ABAD Network Engineer II**This position is located at Ramstein Air Base, Germany (International...](https://zapply.jobs/l/d/workday-parsons-search-R185992?s=gh-new-grad-software-engineering-jobs-2027) | Remote (Any Location), R185992 | Date unknown |
+| Parsons | [ABAD Cyber Security Systems Engineer**This position is located at Ramstein AFB, Germany...](https://zapply.jobs/l/d/workday-parsons-search-R185989?s=gh-new-grad-software-engineering-jobs-2027) | Remote (Any Location), R185989 | Date unknown |
+| ByteDance | [Site Reliability Engineer Intern (Data Infra) - 2027 Summer](https://zapply.jobs/l/d/bytedance-7672922348676647221?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, California | Date unknown |
+| ByteDance | [Product Security Engineer Graduate (Security BP) - 2027 Start](https://zapply.jobs/l/d/bytedance-7668636404159858997?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, California | Date unknown |
+| Aalyria | [Site Reliability Engineer, Commercial](https://zapply.jobs/l/d/rippling-aalyria-careers-c8c3ebca-c203-47fd-a4af-f72727ade02c?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| Aalyria | [Site Reliability Engineer, USG](https://zapply.jobs/l/d/rippling-aalyria-careers-27e9f512-e14b-4ba4-aefb-0f05a63fa21a?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| ConceptPlus | [Cloudflare / Edge Security Engineer](https://zapply.jobs/l/d/rippling-conceptplus-5492bada-9974-414c-a474-49391cb4af6f?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| ConceptPlus | [Infrastructure-as-Code / DevOps Engineer](https://zapply.jobs/l/d/rippling-conceptplus-0ec1ca01-8f07-4b0b-bf04-640de7f6f07d?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510799?s=gh-new-grad-software-engineering-jobs-2027) | Mount Laurel, New Jersey | 1d |
+| TD Bank | [2027 Summer Internship Program - Global Technology & Solutions - Cyber Security](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510795?s=gh-new-grad-software-engineering-jobs-2027) | Mount Laurel, New Jersey | 1d |
+| Altera | [Network Engineer](https://zapply.jobs/l/d/workday-altera-altera-R03154?s=gh-new-grad-software-engineering-jobs-2027) | San Jose, California, United States | 1d |
+| GDIT | [Network Evaluator – System Vulnerability Analyst – Expert](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228122?s=gh-new-grad-software-engineering-jobs-2027) | USA MD Fort Meade | 1d |
+| Amazon.com Services LLC | [Security Engineer II, Customer Logistics Security](https://zapply.jobs/l/d/amazon-d6dc95d6-9578-4464-805f-bfb84ad576c0?s=gh-new-grad-software-engineering-jobs-2027) | Jersey City, NJ | 1d |
+| Saalex Solutions | [Junior Software Quality Assurance Analyst & Tester](https://zapply.jobs/l/d/workable-saalex-6B01C7E066?s=gh-new-grad-software-engineering-jobs-2027) | Ridgecrest, California | 1d |
+| Dell Technologies | [Oracle Database Automation Engineer](https://zapply.jobs/l/d/oracle-dell-technologies-297379?s=gh-new-grad-software-engineering-jobs-2027) | TX, United States | 1d |
+| Dell Technologies | [Cybersecurity Undergraduate Intern](https://zapply.jobs/l/d/oracle-dell-technologies-299004?s=gh-new-grad-software-engineering-jobs-2027) | Round Rock, TX, United States | 1d |
+| JPMorgan Chase | [Finance & Business Management Associate - Cybersecurity & Technology Controls](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210773188?s=gh-new-grad-software-engineering-jobs-2027) | Plano, TX, United States | 1d |
+| JPMorgan Chase | [Data Platform DevOps Engineer – Senior Associate (Enterprise Data Solutions)](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210783722?s=gh-new-grad-software-engineering-jobs-2027) | Plano, TX, United States | 1d |
+| AutoZone | [Systems Engineer (SRE)](https://zapply.jobs/l/d/oracle-autozone-152993?s=gh-new-grad-software-engineering-jobs-2027) | Memphis, TN, United States | 1d |
+| Simple AI | [Infrastructure Engineer](https://zapply.jobs/l/d/ashby-simple-ai-1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 1d |
+| NXP | [AI Application Security Engineer](https://zapply.jobs/l/d/workday-nxp-careers-R-10066600?s=gh-new-grad-software-engineering-jobs-2027) | Austin | 2d |
+| NXP | [AI Security Engineer](https://zapply.jobs/l/d/workday-nxp-careers-R-10066603?s=gh-new-grad-software-engineering-jobs-2027) | Austin | 2d |
+| NXP | [Agentic Security Engineer](https://zapply.jobs/l/d/workday-nxp-careers-R-10066598?s=gh-new-grad-software-engineering-jobs-2027) | Austin | 2d |
+| Aerospace Corporation | [2027 Power Systems Engineering Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016527?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [2027 Power Systems Engineering Undergraduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016530?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [IC 2027 Spacecraft Systems Engineer](https://zapply.jobs/l/d/workday-aero-external-R016454?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Amgen | [Mfg Systems Engineer (DeltaV)](https://zapply.jobs/l/d/workday-amgen-careers-R-255306?s=gh-new-grad-software-engineering-jobs-2027) | Rhode Island - West Greenwich | 0d |
+| Amgen | [Associate Mfg Systems Engineer (DeltaV)](https://zapply.jobs/l/d/workday-amgen-careers-R-255293?s=gh-new-grad-software-engineering-jobs-2027) | Rhode Island - West Greenwich | 0d |
+| RTX | [Systems Engineer II-Modeling and Simulation](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01863783?s=gh-new-grad-software-engineering-jobs-2027) | CO-AURORA-S75 | 0d |
+| Caterpillar | [Engine Control Systems Engineer](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000394074?s=gh-new-grad-software-engineering-jobs-2027) | Mossville, Illinois | 0d |
+| Boeing | [Mid-level Ground Systems Engineer for MILSATCOM Program](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507793?s=gh-new-grad-software-engineering-jobs-2027) | USA - El Segundo, CA | 0d |
+| KBR | [Weapons / Munitions Systems Engineer](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2123651?s=gh-new-grad-software-engineering-jobs-2027) | Beavercreek Township, Ohio | 0d |
+| Boeing | [Modeling and Simulation Systems Engineer (Mid-Level or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026496140?s=gh-new-grad-software-engineering-jobs-2027) | USA - Albuquerque, NM | 0d |
+| Boeing | [Associate Space Communications Systems Engineer Analyst](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026506515?s=gh-new-grad-software-engineering-jobs-2027) | USA - El Segundo, CA | 0d |
+| Booz Allen Hamilton | [Systems Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249452?s=gh-new-grad-software-engineering-jobs-2027) | Warner Robins, GA | 0d |
+| RTX | [Systems Engineer I](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874214?s=gh-new-grad-software-engineering-jobs-2027) | MA-MARLBOROUGH-MA1 | 0d |
+| RTX | [Senior Principal Systems Engineering, Integration & Test (SEIT) Team Lead (Onsite)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874783?s=gh-new-grad-software-engineering-jobs-2027) | AZ-TUCSON-M09 | 0d |
+| Motorola Solutions | [Systems Engineer RF - MARYLAND, DELAWARE OR Washington, D.C.](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65468?s=gh-new-grad-software-engineering-jobs-2027) | Maryland, US Offsite, More... | 0d |
+| Leidos | [High Speed Systems Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00192183?s=gh-new-grad-software-engineering-jobs-2027) | Huntsville, AL | 0d |
+| Leidos | [Linux Systems Engineer – TS/SCI with Polygraph](https://zapply.jobs/l/d/workday-leidos-external-R-00192226?s=gh-new-grad-software-engineering-jobs-2027) | Chantilly, VA | 0d |
+| Northrop Grumman | [2027 Associate Systems Engineer/Systems Engineer](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250777?s=gh-new-grad-software-engineering-jobs-2027) | 7 Locations | 0d |
+| Northrop Grumman | [Associate Systems Engineer / Systems Engineer 1/2](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250241?s=gh-new-grad-software-engineering-jobs-2027) | 2 Locations | 0d |
+| Northrop Grumman | [Systems Engineering Technician – Engineering Aide](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10243350?s=gh-new-grad-software-engineering-jobs-2027) | United States-Arizona-Chandler | 0d |
+| CACI | [Junior Systems Engineer](https://zapply.jobs/l/d/workday-caci-external-332029?s=gh-new-grad-software-engineering-jobs-2027) | King George, VA, US | 0d |
+| Philips | [Ultrasound Systems Engineer](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-589262?s=gh-new-grad-software-engineering-jobs-2027) | Bothell, Washington, United States | 0d |
+| Blue Origin | [Avionics Systems Engineer III](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R65237?s=gh-new-grad-software-engineering-jobs-2027) | Greater Seattle Area | 0d |
+| Booz Allen Hamilton | [Enterprise IT Systems Engineer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0241894?s=gh-new-grad-software-engineering-jobs-2027) | San Diego, CA | 0d |
+| Booz Allen Hamilton | [Systems Engineer, Mid](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249420?s=gh-new-grad-software-engineering-jobs-2027) | San Diego, CA | 0d |
+| Amazon Data Services, Inc. | [Product Design Engineer , Data Center Engineering, Mechanical Products & Services](https://zapply.jobs/l/d/amazon-36872113-d182-4d20-abb7-75ab25070d59?s=gh-new-grad-software-engineering-jobs-2027) | Seattle, WA | 0d |
+| Varda Space | [Space Systems Engineer, Flight Safety](https://zapply.jobs/l/d/greenhouse-vardaspace-7994997003?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, California, United... | 0d |
+| Blue Origin | [Electromechanical Actuation Systems Engineer III, New Glenn](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71960?s=gh-new-grad-software-engineering-jobs-2027) | Greater Seattle Area | 0d |
+| Apple | [Data Center Hardware Engineering — Hardware System Integration Engineer](https://zapply.jobs/l/d/apple-200683623?s=gh-new-grad-software-engineering-jobs-2027) | Austin | 0d |
+| Apple | [Hardware Systems Engineer - Board Design](https://zapply.jobs/l/d/apple-200683615?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 0d |
+| Apex Technology | [Sensors Systems Engineer](https://zapply.jobs/l/d/ashby-apex-technology-inc-1f217a8b-1137-4d72-ae2d-27cd522ef964?s=gh-new-grad-software-engineering-jobs-2027) | Los Angeles | 0d |
+| Kodiak Robotics | [IT Systems Engineer (Networking)](https://zapply.jobs/l/d/greenhouse-kodiak-4405441009?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View, CA | 0d |
+| Base Power | [Firmware Engineering Intern](https://zapply.jobs/l/d/ashby-base-power-a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX | 0d |
+| Mixpanel | [Marketing Systems Engineer](https://zapply.jobs/l/d/greenhouse-mixpanel-8201470?s=gh-new-grad-software-engineering-jobs-2027) | New York City, US (Hybrid) | 0d |
+| Mixpanel | [Marketing Systems Engineer](https://zapply.jobs/l/d/greenhouse-mixpanel-8194551?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, US (Hybrid) | 0d |
+| LLNL | [Cloud and Application Infrastructure Systems Engineer](https://zapply.jobs/l/d/sr-llnl-3743990015234396?s=gh-new-grad-software-engineering-jobs-2027) | Livermore, CA | 0d |
+| Google | [Hardware Engineering Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-122803627516404422?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Google | [Hardware Engineering Intern, PhD, Summer 2027](https://zapply.jobs/l/d/google-97352132356645574?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Google | [Silicon Engineering Intern, PhD, Summer 2027](https://zapply.jobs/l/d/google-136529930677560006?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Boom Supersonic | [Electrical Systems Engineer (Power Generation)](https://zapply.jobs/l/d/rippling-boom-supersonic-4f9bbfaa-fcfe-4276-ba14-e304ff8c9223?s=gh-new-grad-software-engineering-jobs-2027) | Centennial, CO | Date unknown |
+| Boom Supersonic | [Power Systems Engineer](https://zapply.jobs/l/d/rippling-boom-supersonic-e4d70624-7565-4b7f-a524-efa45e8737a9?s=gh-new-grad-software-engineering-jobs-2027) | Centennial, CO | Date unknown |
+| Amazon.com Services LLC | [Robotics Systems Engineer II, Tech Deployment](https://zapply.jobs/l/d/amazon-85f2f0af-4add-4015-b816-a3d3fa71d815?s=gh-new-grad-software-engineering-jobs-2027) | Bellevue, WA | 1d |
+| Credence | [Systems Engineer](https://zapply.jobs/l/d/workable-credence-F65BE4AA2E?s=gh-new-grad-software-engineering-jobs-2027) | Eglin Air Force Base, Florida | 1d |
+| Atlantic Health System | [Systems Engineer III](https://zapply.jobs/l/d/oracle-atlantic-health-32358?s=gh-new-grad-software-engineering-jobs-2027) | Morristown, NJ, United States | 1d |
+| SpaceX | [Avionics Systems Engineer (Falcon & Dragon)](https://zapply.jobs/l/d/greenhouse-spacex-8805284002?s=gh-new-grad-software-engineering-jobs-2027) | Hawthorne, CA | 2d |
+| Physical Intelligence | [Embedded Engineer](https://zapply.jobs/l/d/ashby-physicalintelligence-50f00992-a6c4-480b-a000-2efba5283379?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 2d |
+| Impulse Space | [FPGA Engineer](https://zapply.jobs/l/d/pinpoint-impulsespace-456904?s=gh-new-grad-software-engineering-jobs-2027) | Redondo Beach, California | Date unknown |
+| Impulse Space | [IT Systems Engineer II (Test)](https://zapply.jobs/l/d/pinpoint-impulsespace-506782?s=gh-new-grad-software-engineering-jobs-2027) | Redondo Beach, California | Date unknown |
+| Impulse Space | [IT Systems Engineer II](https://zapply.jobs/l/d/pinpoint-impulsespace-514680?s=gh-new-grad-software-engineering-jobs-2027) | Redondo Beach, California | Date unknown |
+| Varda Space | [Embedded Linux Engineer II](https://zapply.jobs/l/d/greenhouse-vardaspace-7993730003?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, California, United... | 2d |
+| Moog | [Avionics Systems Engineer](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20023?s=gh-new-grad-software-engineering-jobs-2027) | Mineral Wells, TX | 3d |
+| Caterpillar | [Control Systems Engineer](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000385119?s=gh-new-grad-software-engineering-jobs-2027) | Mossville, Illinois | 3d |
+| Draper | [Systems Engineering Co-Op (Spring 2027)](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002882?s=gh-new-grad-software-engineering-jobs-2027) | Cambridge, MA | 3d |
+| ASML | [Vaccum Systems Engineer](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00351740?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 3d |
+| CACI | [Systems Engineer/Project Integrator](https://zapply.jobs/l/d/workday-caci-external-331961?s=gh-new-grad-software-engineering-jobs-2027) | Springfield, VA, US | 3d |
+| CACI | [Embedded Systems Engineer](https://zapply.jobs/l/d/workday-caci-external-331945?s=gh-new-grad-software-engineering-jobs-2027) | San Antonio, TX, US | 3d |
+| Rolls-Royce | [Systems Engineering, Validation & Verification-LiftSystem](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6158725?s=gh-new-grad-software-engineering-jobs-2027) | Indianapolis | 3d |
+| Rolls-Royce | [Systems Engineering, Validation & Verification-Naval](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6158726?s=gh-new-grad-software-engineering-jobs-2027) | Indianapolis | 3d |
+| KBR | [Junior Systems Engineer (MBSE)](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129785?s=gh-new-grad-software-engineering-jobs-2027) | Huntsville, Alabama | 3d |
+| KBR | [Junior Systems Engineer (MBSE)](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2128975?s=gh-new-grad-software-engineering-jobs-2027) | Huntsville, Alabama | 3d |
+| Crane Co. | [Systems Engineer II](https://zapply.jobs/l/d/workday-cranecompany-careers-JR101397?s=gh-new-grad-software-engineering-jobs-2027) | Burbank, California | 3d |
+| Amgen | [Associate Mfg Systems Engineer I](https://zapply.jobs/l/d/workday-amgen-careers-R-253854?s=gh-new-grad-software-engineering-jobs-2027) | North Carolina - Holly Springs | 3d |
+| Blue Origin | [Aerospace Systems Engineer III - Fault Management & System Autonomy - Blue Ring](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71300?s=gh-new-grad-software-engineering-jobs-2027) | Greater Seattle Area | 3d |
+| Amentum | [Systems Engineer II](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170568?s=gh-new-grad-software-engineering-jobs-2027) | IN-Crane | 3d |
+| JLL | [Mechanical SME, Data Centers](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535379?s=gh-new-grad-software-engineering-jobs-2027) | Claude, TX | 3d |
+| JLL | [Maintenance Planner, Data Centers](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535378?s=gh-new-grad-software-engineering-jobs-2027) | Claude, TX | 3d |
+| JLL | [Technical Writer, Data Centers](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535373?s=gh-new-grad-software-engineering-jobs-2027) | Claude, TX | 3d |
+| Applied Materials | [Electrical/Systems Engineer](https://zapply.jobs/l/d/workday-amat-external-R2626392?s=gh-new-grad-software-engineering-jobs-2027) | Billerica,MA | 3d |
+| Applied Materials | [Systems Engineer](https://zapply.jobs/l/d/workday-amat-external-R2628362?s=gh-new-grad-software-engineering-jobs-2027) | Santa Clara,CA | 3d |
+| GDIT | [Windows Systems Engineer, TS/SCI with Polygraph](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228234?s=gh-new-grad-software-engineering-jobs-2027) | USA VA McLean | 3d |
+| Becton Dickinson | [Systems Engineer II](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-553383?s=gh-new-grad-software-engineering-jobs-2027) | USA CA - San Diego Bldg A&B | 3d |
+| Anduril | [Electrical Integration Systems Engineer, Edge Compute and Communications](https://zapply.jobs/l/d/greenhouse-andurilindustries-5233989007?s=gh-new-grad-software-engineering-jobs-2027) | Costa Mesa, California, United... | 3d |
+| Anduril | [Systems Engineer, C2 Networking, Edge Compute and Communications](https://zapply.jobs/l/d/greenhouse-andurilindustries-5233962007?s=gh-new-grad-software-engineering-jobs-2027) | Costa Mesa, California, United... | 3d |
+| Anduril | [Systems Engineer, C2 Integration](https://zapply.jobs/l/d/greenhouse-andurilindustries-5233972007?s=gh-new-grad-software-engineering-jobs-2027) | Ashville, Ohio, United States | 3d |
+| Rocket Lab | [Spacecraft Propulsion Systems Engineer I](https://zapply.jobs/l/d/greenhouse-rocketlab-7993156003?s=gh-new-grad-software-engineering-jobs-2027) | Long Beach, CA | 3d |
+| DRW | [Systems Engineer - Microsoft](https://zapply.jobs/l/d/greenhouse-drweng-8180036?s=gh-new-grad-software-engineering-jobs-2027) | Chicago | 3d |
+| Ramp | [Systems Engineer, Corporate Security](https://zapply.jobs/l/d/ashby-ramp-b3b0875d-cbf2-41ed-bda3-2714c82c4b57?s=gh-new-grad-software-engineering-jobs-2027) | New York, NY ( | 3d |
+| Klaviyo | [IT Systems Engineer](https://zapply.jobs/l/d/greenhouse-klaviyo-7990570003?s=gh-new-grad-software-engineering-jobs-2027) | Boston, MA | 3d |
+| AMD | [Linux Kernel & Virtualization SW Engineer](https://zapply.jobs/l/d/amd-91966?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX, United States | 3d |
+| Applied Intuition | [Systems Engineer - Robotics](https://zapply.jobs/l/d/ashby-applied-a6756597-b30b-497b-ae1c-da66dc2912ae?s=gh-new-grad-software-engineering-jobs-2027) | Washington, D.C. | 3d |
+| AMD | [Data Center Test Solutions Architect](https://zapply.jobs/l/d/amd-91512?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX, United States | 3d |
+| ALTEN Technology | [Electrical Systems Engineer](https://zapply.jobs/l/d/greenhouse-altentechnologyusa-5235450007?s=gh-new-grad-software-engineering-jobs-2027) | Greensboro, North Carolina,... | 3d |
+| Momentive | [Summer 2027 Silanes Production & Energy Systems Engineer Intern](https://zapply.jobs/l/d/workday-momentive-mc-R9776?s=gh-new-grad-software-engineering-jobs-2027) | WV Friendly | 4d |
+| Caterpillar | [Control Systems Engineering Specialist](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393127?s=gh-new-grad-software-engineering-jobs-2027) | Clayton, North Carolina | 4d |
+| Ameriprise Financial | [Systems Engineer](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3429?s=gh-new-grad-software-engineering-jobs-2027) | Minneapolis, Minnesota | 4d |
+| Nightwing | [Network and Systems Engineer](https://zapply.jobs/l/d/workday-nwis-nw-JR102061?s=gh-new-grad-software-engineering-jobs-2027) | Annapolis Junction, MD | 4d |
+| Radiance Technologies | [Systems Engineer](https://zapply.jobs/l/d/workday-radiancetech-radiance-external-HR102405?s=gh-new-grad-software-engineering-jobs-2027) | CO - Boulder | 4d |
+| AeroVironment | [Systems Engineering Intern](https://zapply.jobs/l/d/workday-avav-avav-8592?s=gh-new-grad-software-engineering-jobs-2027) | Petaluma, CA | 4d |
+| AeroVironment | [Summer 2027 Systems Engineering/Test Intern](https://zapply.jobs/l/d/workday-avav-avav-8552?s=gh-new-grad-software-engineering-jobs-2027) | Moorpark, CA | 4d |
+| Sierra Nevada Corporation | [Systems Engineer III](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030465?s=gh-new-grad-software-engineering-jobs-2027) | Lone Tree, CO | 4d |
+| Thermo Fisher Scientific | [Data Systems Engineer](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01364235?s=gh-new-grad-software-engineering-jobs-2027) | Marietta, Ohio, USA | 4d |
+| LexisNexis Risk Solutions | [Systems Engineer III](https://zapply.jobs/l/d/workday-relx-risksolutions-R115071?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta, GA | 4d |
+| Leidos | [Embedded Systems Electrical & Computer Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00192008?s=gh-new-grad-software-engineering-jobs-2027) | Long Beach, MS | 4d |
+| RELX | [Systems Engineer III](https://zapply.jobs/l/d/workday-relx-relx-R115071?s=gh-new-grad-software-engineering-jobs-2027) | Alpharetta, GA | 4d |
+| Disney | [Media Systems Engineer II](https://zapply.jobs/l/d/workday-disney-disneycareer-10131802?s=gh-new-grad-software-engineering-jobs-2027) | Burbank, CA, USA | 4d |
+| Insulet Corporation | [Co-op, Systems Engineering: January-June 2027 (Hybrid)](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18061?s=gh-new-grad-software-engineering-jobs-2027) | Acton, Massachusetts | 4d |
+| Insulet Corporation | [Co-op, Next Gen Platforms (NGP) Systems Engineering: January-June 2027 (Onsite)](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18071?s=gh-new-grad-software-engineering-jobs-2027) | Acton, Massachusetts | 4d |
+| Crane Co. | [IT Systems Engineer II or III](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102420?s=gh-new-grad-software-engineering-jobs-2027) | Lynnwood Washington | 4d |
+| Fidelity Investments | [Data Center Engineer](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133289?s=gh-new-grad-software-engineering-jobs-2027) | Morrisville, NC | 4d |
+| Fidelity Investments | [Mainframe Operating Systems Engineer](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134413?s=gh-new-grad-software-engineering-jobs-2027) | Westlake, TX | 4d |
+| Intel | [AI Solutions Engineering Undergraduate Intern](https://zapply.jobs/l/d/workday-intel-external-JR0286629?s=gh-new-grad-software-engineering-jobs-2027) | US, Oregon, Hillsboro | 0d |
+| Visa | [Technical Program Manager](https://zapply.jobs/l/d/workday-visa-visa-REF086868W?s=gh-new-grad-software-engineering-jobs-2027) | Foster City, CA | 0d |
+| NVIDIA | [Senior Solutions Architect, AI Hyperscalers](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2017895?s=gh-new-grad-software-engineering-jobs-2027) | CA Santa Clara | 0d |
+| Boeing | [Agile Scrum Master (Associate, Experienced, or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522457?s=gh-new-grad-software-engineering-jobs-2027) | USA - Berkeley, MO | 0d |
+| Booz Allen Hamilton | [AI Solutions Architect](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249451?s=gh-new-grad-software-engineering-jobs-2027) | Annapolis Junction, MD | 0d |
+| Nelnet | [CRM Solutions Architect - FACTS](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23022?s=gh-new-grad-software-engineering-jobs-2027) | Remote - Nebraska | 0d |
+| Cisco | [Solutions Engineer, Splunk](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021997?s=gh-new-grad-software-engineering-jobs-2027) | Dallas Texas US | 0d |
+| Cisco | [Industry Solutions Engineer - Healthcare, Splunk](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021678?s=gh-new-grad-software-engineering-jobs-2027) | RTP North Carolina US | 0d |
+| Guidehouse | [Archibus Technical Project Manager](https://zapply.jobs/l/d/workday-guidehouse-external-44497?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| GE Vernova | [Solutions Architect; Steam Turbine & Plant Controls](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052778?s=gh-new-grad-software-engineering-jobs-2027) | Greenville | 0d |
+| GE Vernova | [Solutions Architect - Gas Turbine](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052783?s=gh-new-grad-software-engineering-jobs-2027) | Greenville | 0d |
+| DraftKings | [Technical Program Manager II, Financial Platform](https://zapply.jobs/l/d/workday-draftkings-draftkings-JR15109?s=gh-new-grad-software-engineering-jobs-2027) | Boston, MA | 0d |
+| Campfire | [Deployment Strategist](https://zapply.jobs/l/d/ashby-campfire-3192ec42-ef69-4820-ac21-8cc3166c93d1?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 0d |
+| Databricks | [Delivery Solutions Architect - Healthcare & Life Sciences](https://zapply.jobs/l/d/greenhouse-databricks-8735551002?s=gh-new-grad-software-engineering-jobs-2027) | United States | 0d |
+| Google | [Solutions Architect, Financial Services, Google Cloud Universal Ledger](https://zapply.jobs/l/d/google-139902431340176070?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Google | [Technical Program Manager II, Software Infrastructure, Google Shopping](https://zapply.jobs/l/d/google-140303203328500422?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| Dev Technology | [IT Solutions Engineer – AI, Automation & Cloud](https://zapply.jobs/l/d/greenhouse-devtechnology-8781454002?s=gh-new-grad-software-engineering-jobs-2027) | Reston, VA (Hybrid) | 0d |
+| Google | [Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027](https://zapply.jobs/l/d/google-114405557703451334?s=gh-new-grad-software-engineering-jobs-2027) | United States | Date unknown |
+| ConceptPlus | [Scrum Master](https://zapply.jobs/l/d/rippling-conceptplus-e0fa2676-5bbe-4b39-a2d5-aa98b0167bec?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| Rolls-Royce | [Technical Program Manager](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6159417?s=gh-new-grad-software-engineering-jobs-2027) | Indianapolis | 1d |
+| DLB Associates | [BAS Technical Program Manager](https://zapply.jobs/l/d/rippling-dlb-associates-ba5ac720-e127-4e40-b83a-2cf977b6d239?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| Aalyria | [Technical Program Manager, Cleared](https://zapply.jobs/l/d/rippling-aalyria-careers-2227d59b-20f2-4973-8a75-0dd151399b59?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| Aalyria | [Technical Program Manager, Commercial](https://zapply.jobs/l/d/rippling-aalyria-careers-e1394313-6e36-401f-91ec-1d44fa616ed0?s=gh-new-grad-software-engineering-jobs-2027) | Remote (United States) | Date unknown |
+| NVIDIA | [Solutions Architecture Intern - Summer 2027](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025245?s=gh-new-grad-software-engineering-jobs-2027) | US, CA, Santa Clara | 3d |
+| NVIDIA | [Senior Solutions Architect, Robotics Simulation](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025348?s=gh-new-grad-software-engineering-jobs-2027) | CA Santa Clara | 3d |
+| Cisco | [Solutions Engineer](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018469?s=gh-new-grad-software-engineering-jobs-2027) | Columbia, South Carolina, US | 3d |
+| KBR | [Scrum Master](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129760?s=gh-new-grad-software-engineering-jobs-2027) | Beavercreek, Ohio | 3d |
+| State Street | [Cyber Product Analyst](https://zapply.jobs/l/d/workday-statestreet-global-R-790591?s=gh-new-grad-software-engineering-jobs-2027) | Quincy, Massachusetts | 3d |
+| Booz Allen Hamilton | [Infrastructure Solutions Architect](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248375?s=gh-new-grad-software-engineering-jobs-2027) | Atlanta, GA | 3d |
+| Booz Allen Hamilton | [Solutions Architect](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249265?s=gh-new-grad-software-engineering-jobs-2027) | San Antonio, TX | 3d |
+| Drata | [Associate Solutions Architect](https://zapply.jobs/l/d/ashby-drata-b0d00418-9f98-4776-a83d-e0bbe9598025?s=gh-new-grad-software-engineering-jobs-2027) | Remote - US | 3d |
+| GitLab | [Solutions Architect, Manager - Public Sector](https://zapply.jobs/l/d/greenhouse-gitlab-8790538002?s=gh-new-grad-software-engineering-jobs-2027) | Remote, United States | 3d |
+| Baker Hughes | [Solutions Architect](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R166310?s=gh-new-grad-software-engineering-jobs-2027) | TX-HOUSTON | 3d |
+| Apple | [Flow Solutions Architect](https://zapply.jobs/l/d/apple-200683299?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale | 3d |
+| Cohere | [Senior Director, Solutions Architecture — Americas](https://zapply.jobs/l/d/ashby-cohere-1e6c4acf-d98a-46ac-bacb-d609ca1326c1?s=gh-new-grad-software-engineering-jobs-2027) | United States | 3d |
+| Stripe | [Manager, Solutions Architecture - Enterprise Hunter (West)](https://zapply.jobs/l/d/greenhouse-stripe-8175633?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, CA | 3d |
+| Microsoft | [Technical Program Manager](https://zapply.jobs/l/d/microsoft-200052884?s=gh-new-grad-software-engineering-jobs-2027) | United States | 3d |
+| Stripe | [Manager, Solutions Architecture - Platforms (Chicago)](https://zapply.jobs/l/d/greenhouse-stripe-8175667?s=gh-new-grad-software-engineering-jobs-2027) | Chicago, IL | 3d |
+| Cloudflare | [Solutions Architect, AI/Cloudflare Developer Platform](https://zapply.jobs/l/d/greenhouse-cloudflare-8189858?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX | 3d |
+| Databricks | [Solutions Architect - Hunter (Communications, Media, Entertainment and Games)](https://zapply.jobs/l/d/greenhouse-databricks-8788266002?s=gh-new-grad-software-engineering-jobs-2027) | United States | 3d |
+| Brown & Brown Insurance | [Technical Program Manager - CRM](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771?s=gh-new-grad-software-engineering-jobs-2027) | Plano, TX, USA | 4d |
+| Boeing | [Experienced Scrum Master/Team Coach](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524371?s=gh-new-grad-software-engineering-jobs-2027) | USA - Hazelwood, MO | 4d |
+| Adobe | [AI Solutions Architect, Business Process Optimization](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171355?s=gh-new-grad-software-engineering-jobs-2027) | San Jose | 4d |
+| State Street | [Technical Business Analyst and Project Coordinator - Officer](https://zapply.jobs/l/d/workday-statestreet-global-R-797384?s=gh-new-grad-software-engineering-jobs-2027) | Princeton, New Jersey | 4d |
+| Experian | [Distinguished Platform Solutions Architect- Remote](https://zapply.jobs/l/d/sr-Experian-744000148867839?s=gh-new-grad-software-engineering-jobs-2027) | UNITED STATES | 4d |
+| Guidehouse | [Scrum Master](https://zapply.jobs/l/d/workday-guidehouse-external-43174?s=gh-new-grad-software-engineering-jobs-2027) | TX San Antonio | 4d |
+| DoorDash | [Senior Associate, AI Solutions Architect, Marketing Technology](https://zapply.jobs/l/d/greenhouse-doordashusa-8191678?s=gh-new-grad-software-engineering-jobs-2027) | New York, NY | 4d |
+| AHEAD | [Identity Security Specialist Solutions Engineer](https://zapply.jobs/l/d/lever-thinkahead-04ae8571-193c-41d4-a1ac-046bba8580c0?s=gh-new-grad-software-engineering-jobs-2027) | United States | 4d |
+| Moog | [Solutions Architect](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19782?s=gh-new-grad-software-engineering-jobs-2027) | Buffalo, NY | 5d |
+| Snap | [Solutions Engineer, Level 4](https://zapply.jobs/l/d/workday-snapchat-snap-H226SE2?s=gh-new-grad-software-engineering-jobs-2027) | Los Angeles California | 5d |
+| Marvell | [Test Solutions Engineering Intern, BS - Summer 2027](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603835?s=gh-new-grad-software-engineering-jobs-2027) | Burlington, VT | 5d |
+| Mastercard | [Product Manager, Blockchain and Crypto](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290443?s=gh-new-grad-software-engineering-jobs-2027) | Purchase, New York | 5d |
+| Fortinet | [Sales Engineer, Named Enterprise](https://zapply.jobs/l/d/oracle-fortinet-24177?s=gh-new-grad-software-engineering-jobs-2027) | Boston, MA, United States | 5d |
+| Oracle | [Technical Program Manager – Global Test Infrastructure](https://zapply.jobs/l/d/oracle-oracle-344906?s=gh-new-grad-software-engineering-jobs-2027) | Nashville, TN, United States | 5d |
+| TD Bank | [Solutions Architect (US)](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506206?s=gh-new-grad-software-engineering-jobs-2027) | Mount Laurel New Jersey | 6d |
+| Guidehouse | [Archibus Scrum Master](https://zapply.jobs/l/d/workday-guidehouse-external-42703?s=gh-new-grad-software-engineering-jobs-2027) | VA, Arlington | 6d |
+| Clarivate | [Solutions Architect (Coupa S2P)](https://zapply.jobs/l/d/workday-clarivate-clarivate-careers-JREQ134965?s=gh-new-grad-software-engineering-jobs-2027) | R186 Ann Arbor | 6d |
+| Databricks | [Solutions Architect - Digital Native Business (Healthtech)](https://zapply.jobs/l/d/greenhouse-databricks-8782711002?s=gh-new-grad-software-engineering-jobs-2027) | Remote - California | 6d |
+| Scale AI | [Technical Program Manager, Public Sector (Dayton, OH)](https://zapply.jobs/l/d/greenhouse-scaleai-4731017005?s=gh-new-grad-software-engineering-jobs-2027) | Dayton, OH | 6d |
+| Scale AI | [Technical Program Manager, Public Sector (Boston, MA)](https://zapply.jobs/l/d/greenhouse-scaleai-4730990005?s=gh-new-grad-software-engineering-jobs-2027) | Boston, MA | 6d |
+| Leidos | [ICAM/AD Solutions Architect](https://zapply.jobs/l/d/workday-leidos-external-R-00187700?s=gh-new-grad-software-engineering-jobs-2027) | Washington, DC | 6d |
+| Anduril | [Product Manager, Connected Warfare](https://zapply.jobs/l/d/greenhouse-andurilindustries-5232535007?s=gh-new-grad-software-engineering-jobs-2027) | Herndon, Virginia, United States | 6d |
+| Anduril | [Product Manager, Connected Warfare](https://zapply.jobs/l/d/greenhouse-andurilindustries-5231701007?s=gh-new-grad-software-engineering-jobs-2027) | Washington, District of... | 6d |
+| Rubrik | [Global Solutions Architect](https://zapply.jobs/l/d/greenhouse-rubrik-8140609?s=gh-new-grad-software-engineering-jobs-2027) | USA , Remote | 6d |
+| Cape | [Solutions Architect, Special Operations](https://zapply.jobs/l/d/ashby-cape-fa632988-c9d6-4a98-af93-383b40f69fba?s=gh-new-grad-software-engineering-jobs-2027) | Arlington, VA | 6d |
+| Apple | [Pricing Technical Product Manager](https://zapply.jobs/l/d/apple-200679672?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 6d |
+| OpenAI | [Technical Program Manager, Storage & Data Infrastructure](https://zapply.jobs/l/d/ashby-openai-c0c70d7e-c450-4ca4-842a-dbc5e643c048?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 6d |
+| JPMorgan Chase | [Technical Program Manager III](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210787839?s=gh-new-grad-software-engineering-jobs-2027) | Jersey City, NJ, United States | 7d |
+| RE/SPEC Inc. | [Cloud Solutions Architect 2 (Contractor) - 529701772](https://zapply.jobs/l/d/sr-RESPECInc-744000147980339?s=gh-new-grad-software-engineering-jobs-2027) | Austin, TX | 7d |
+| Apple | [Watch Technical Program Manager](https://zapply.jobs/l/d/apple-200681605?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 7d |
+| Intel | [Physical AI Solutions Architect](https://zapply.jobs/l/d/workday-intel-external-JR0286415?s=gh-new-grad-software-engineering-jobs-2027) | Oregon Hillsboro | 7d |
+| Fortinet | [Sales Engineer, Named Enterprise](https://zapply.jobs/l/d/oracle-fortinet-24021?s=gh-new-grad-software-engineering-jobs-2027) | Charlotte, NC, United States | 7d |
+| Fortinet | [Sales Engineer, Enterprise](https://zapply.jobs/l/d/oracle-fortinet-24022?s=gh-new-grad-software-engineering-jobs-2027) | Knoxville, TN, United States | 7d |
+| Leidos | [Jr. Scrum Master](https://zapply.jobs/l/d/workday-leidos-external-R-00191511?s=gh-new-grad-software-engineering-jobs-2027) | Tewksbury, MA | 7d |
+| NBCUniversal | [Associate Solutions Architect, Ad Technology](https://zapply.jobs/l/d/sr-NBCUniversal3-744000147563139?s=gh-new-grad-software-engineering-jobs-2027) | North Hollywood, CA | 7d |
+| NBCUniversal | [Associate Solutions Architect, Ad Technology](https://zapply.jobs/l/d/sr-NBCUniversal3-744000147558899?s=gh-new-grad-software-engineering-jobs-2027) | North Hollywood, CA | 7d |
+| ICF | [Solutions Architect (TS Clearance - Remote US)](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2602948?s=gh-new-grad-software-engineering-jobs-2027) | Reston, VA | 7d |
+| KBR | [Technical Program Manager](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129292?s=gh-new-grad-software-engineering-jobs-2027) | Beavercreek, Ohio | 7d |
+| Smartsheet | [Solutions Architect](https://zapply.jobs/l/d/greenhouse-smartsheet-8178793?s=gh-new-grad-software-engineering-jobs-2027) | -REMOTE, USA- | 7d |
+| Intuitive | [SFDC - Service Cloud Solutions Architect](https://zapply.jobs/l/d/sr-Intuitive-744000147358177?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, CA | 7d |
+| Fivetran | [Resident Solutions Architect](https://zapply.jobs/l/d/greenhouse-fivetran-7985884003?s=gh-new-grad-software-engineering-jobs-2027) | Remote, Colorado, United... | 7d |
+| Barclays | [AVP - Payments Product Manager](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000130081?s=gh-new-grad-software-engineering-jobs-2027) | New York, 745 7th Avenue | 7d |
+| Salesforce | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR346360?s=gh-new-grad-software-engineering-jobs-2027) | Illinois Chicago | 7d |
+| Cummins | [Scrum Master I](https://zapply.jobs/l/d/oracle-cummins-2433735?s=gh-new-grad-software-engineering-jobs-2027) | Columbus, IN, United States | 7d |
+| OpenAI | [Technical Program Manager, Developer Experience](https://zapply.jobs/l/d/ashby-openai-ad958934-fd89-4033-8b13-1a4871d8073c?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 7d |
+| OpenAI | [Technical Program Manager, Model Deployment & Capacity](https://zapply.jobs/l/d/ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 7d |
+| Palantir | [Deployment Strategist - US Government](https://zapply.jobs/l/d/lever-palantir-e2a3c133-7964-4e64-ba17-84a8b0b19506?s=gh-new-grad-software-engineering-jobs-2027) | Miami, FL | 7d |
+| NBCUniversal | [Associate Solutions Architect, Ad Technology](https://zapply.jobs/l/d/sr-NBCUniversal3-744000147080079?s=gh-new-grad-software-engineering-jobs-2027) | New York, NEW YORK | 7d |
+| Tenable | [Security Sales Engineer - SLED/Public Sector](https://zapply.jobs/l/d/greenhouse-tenableinc-5414481008?s=gh-new-grad-software-engineering-jobs-2027) | Remote - Austin - Texas | 7d |
+| HARMAN International | [AI Solutions Architect & Agent Builder](https://zapply.jobs/l/d/workday-harman-harman-R-55218-2026?s=gh-new-grad-software-engineering-jobs-2027) | Novi Michigan Cabot Drive | 7d |
+| Nokia | [Customer Solutions Architect](https://zapply.jobs/l/d/oracle-nokia-36323?s=gh-new-grad-software-engineering-jobs-2027) | United States | 7d |
+| CVS Health | [Workforce Management Solutions Architect - UKG](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0895875?s=gh-new-grad-software-engineering-jobs-2027) | Work At Home North Carolina | 7d |
+| Stripe | [Manager, Solutions Architecture- Enterprise Hunter](https://zapply.jobs/l/d/greenhouse-stripe-8163542?s=gh-new-grad-software-engineering-jobs-2027) | New York, NY | 7d |
+| Salesforce | [Product Manager – Developer Experience & Platform, Mulesoft](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR337926?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 7d |
+| AMD | [Technical Program Manager - Cluster Build](https://zapply.jobs/l/d/amd-91715?s=gh-new-grad-software-engineering-jobs-2027) | TX, United States | 7d |
+| Elastic | [Partner Solutions Architect - Public Sector](https://zapply.jobs/l/d/greenhouse-elastic-8170923?s=gh-new-grad-software-engineering-jobs-2027) | Florida, United States | 7d |
+| Zip | [Technical Program Manager](https://zapply.jobs/l/d/ashby-zip-d5abddc0-e7f3-4966-ab53-3e70e20da61d?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 7d |
+| HPE (University) | [AI & Analytics Solutions Engineer](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1212189?s=gh-new-grad-software-engineering-jobs-2027) | Ft. Collins, Colorado, United... | 7d |
+| HPE | [AI & Analytics Solutions Engineer](https://zapply.jobs/l/d/workday-hpe-acjobsite-1212189?s=gh-new-grad-software-engineering-jobs-2027) | Ft. Collins, Colorado, United... | 7d |
+| Leidos | [Network Solutions Architect - ADMS](https://zapply.jobs/l/d/workday-leidos-external-R-00185763?s=gh-new-grad-software-engineering-jobs-2027) | South Plainfield, NJ | 7d |
+| Polaris | [Project Engineer (Powertrain)](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31171?s=gh-new-grad-software-engineering-jobs-2027) | Wyoming, MN, USA | 0d |
+| HPE (University) | [Manager, Advanced Threat Detection and Research](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1204245?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| Intel | [FSMS Systems Analyst](https://zapply.jobs/l/d/workday-intel-external-JR0286993?s=gh-new-grad-software-engineering-jobs-2027) | Oregon Hillsboro | 0d |
+| Intel | [AI Frameworks Engineer](https://zapply.jobs/l/d/workday-intel-external-JR0285206?s=gh-new-grad-software-engineering-jobs-2027) | California Santa Clara | 0d |
+| Aerospace Corporation | [2027 Formal Methods Researcher Graduate Intern](https://zapply.jobs/l/d/workday-aero-external-R016552?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [Flight Dynamics Engineer](https://zapply.jobs/l/d/workday-aero-external-R016053?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Aerospace Corporation | [IC 2027 Signal & Image Processing and Modeling & Simulation Engineer](https://zapply.jobs/l/d/workday-aero-external-R016280?s=gh-new-grad-software-engineering-jobs-2027) | El Segundo, CA | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Ad Operations Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55309?s=gh-new-grad-software-engineering-jobs-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Sales Planning Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55307?s=gh-new-grad-software-engineering-jobs-2027) | NYC | 0d |
+| Dow Jones | [Summer 2027 Internship Program – Brand Creative Design Intern](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55301?s=gh-new-grad-software-engineering-jobs-2027) | New York City | 0d |
+| Viavi Solutions | [Early Careers R&D Rotational Program (Mechanical Engineer)](https://zapply.jobs/l/d/workday-viavisolutions-careers-260004977?s=gh-new-grad-software-engineering-jobs-2027) | Indianapolis, IN USA | 0d |
+| AssetMark | [Executive Support & Charitable Giving Coordinator](https://zapply.jobs/l/d/workday-assetmark-assetmark-careers-Req-003971?s=gh-new-grad-software-engineering-jobs-2027) | Concord, CA | 0d |
+| Oshkosh Corporation | [Test & Development Engineering Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49472?s=gh-new-grad-software-engineering-jobs-2027) | Orrville, Ohio, United States | 0d |
+| Oshkosh Corporation | [NPD Engineering Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49421?s=gh-new-grad-software-engineering-jobs-2027) | Frederick, Maryland, United States | 0d |
+| Oshkosh Corporation | [R&D Engineering Intern](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R49491?s=gh-new-grad-software-engineering-jobs-2027) | McConnellsburg, Pennsylvania,... | 0d |
+| CACI | [System Integration Engineer](https://zapply.jobs/l/d/workday-caci-external-328933?s=gh-new-grad-software-engineering-jobs-2027) | Sterling VA US | 0d |
+| S&P Global | [Release Train Engineer](https://zapply.jobs/l/d/workday-spgi-spgi-careers-330376?s=gh-new-grad-software-engineering-jobs-2027) | New York, NY | 0d |
+| Magna | [Design Release Engineer - Body Exterior](https://zapply.jobs/l/d/workday-magna-magna-R00253967?s=gh-new-grad-software-engineering-jobs-2027) | Troy, Michigan, US | 0d |
+| HPE | [Manager, Advanced Threat Detection and Research](https://zapply.jobs/l/d/workday-hpe-acjobsite-1204245?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 0d |
+| General Motors | [Brake System Design Release Engineer](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620072?s=gh-new-grad-software-engineering-jobs-2027) | Warren, Michigan, United States... | 0d |
+| General Motors | [Design Release Engineer - Mechatronics Hardware](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620113?s=gh-new-grad-software-engineering-jobs-2027) | 2 Locations | 0d |
+| General Motors | [Software Integration Engineer - Viewing Systems](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202616413?s=gh-new-grad-software-engineering-jobs-2027) | 2 Locations | 0d |
+| Caterpillar | [Manufacturing Project Engineer](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000378494?s=gh-new-grad-software-engineering-jobs-2027) | Pontiac, Illinois | 0d |
+| Caterpillar | [Manufacturing Project Engineer](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000388203?s=gh-new-grad-software-engineering-jobs-2027) | Decatur, Illinois | 0d |
+| KBR | [Junior Reverse Engineer](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2127496?s=gh-new-grad-software-engineering-jobs-2027) | Beavercreek, Ohio | 0d |
+| CME Group | [Mgr Pricing](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34778?s=gh-new-grad-software-engineering-jobs-2027) | Chicago | 0d |
+| Boeing | [Product Data Management Specialist](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026517680?s=gh-new-grad-software-engineering-jobs-2027) | USA - Tukwila, WA | 0d |
+| Boeing | [Low Observable (LO) Design and Integration Engineer (Mid-Level or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026516131?s=gh-new-grad-software-engineering-jobs-2027) | USA - Berkeley, MO | 0d |
+| Boeing | [Test and Evaluation Engineer (Associate, Experienced, or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523542?s=gh-new-grad-software-engineering-jobs-2027) | USA - Eglin AFB, FL | 0d |
+| Palo Alto Networks | [Strategic Account Manager](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-018500?s=gh-new-grad-software-engineering-jobs-2027) | New York City, United States of... | 0d |
+| Carnegie Mellon University | [Coordinator of Student Involvement and Traditions (Fixed Term) - Division of Student Affairs](https://zapply.jobs/l/d/workday-cmu-cmu-2025102?s=gh-new-grad-software-engineering-jobs-2027) | Pittsburgh, PA | 0d |
+| Booz Allen Hamilton | [Cloud Migration Product Owner](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249623?s=gh-new-grad-software-engineering-jobs-2027) | Lexington, MA | 0d |
+| Booz Allen Hamilton | [Network Solution Architect SME](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249340?s=gh-new-grad-software-engineering-jobs-2027) | Fayetteville, NC | 0d |
+| TD Synnex | [LC Associate l - CONV](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56199?s=gh-new-grad-software-engineering-jobs-2027) | Ft. Worth, Texas, United States | 0d |
+| TD Synnex | [LC Associate-CONV](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56108?s=gh-new-grad-software-engineering-jobs-2027) | Groveport, Ohio, United States | 0d |
+| TD Synnex | [LC Associate-CONV](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56109?s=gh-new-grad-software-engineering-jobs-2027) | Groveport, Ohio, United States | 0d |
+| Micron Technology | [IT Solution Architect - PLM & Master Data](https://zapply.jobs/l/d/workday-micron-external-JR93935?s=gh-new-grad-software-engineering-jobs-2027) | Boise, ID - Main Site | 0d |
+| DigiKey | [Supervisor, Product Viability](https://zapply.jobs/l/d/workday-digikey-digi-key-R5831?s=gh-new-grad-software-engineering-jobs-2027) | Thief River Falls, MN | 0d |
+| RTX | [Project Engineer II (Onsite)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874083?s=gh-new-grad-software-engineering-jobs-2027) | FL-JUPITER-ADR | 0d |
+| RTX | [Maintenance Repair & Overhaul (MRO) – Hot Section Engineering Intern (Summer 2027) (Onsite)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871722?s=gh-new-grad-software-engineering-jobs-2027) | OK-OKLAHOMA CITY | 0d |
+| RTX | [Project Engineering Co-op (Winter/Spring 2027)](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872926?s=gh-new-grad-software-engineering-jobs-2027) | CT-WINDSOR LOCKS-B1A | 0d |
+| Red Hat | [Global Telco Specialist Solution Architect - Lightwell](https://zapply.jobs/l/d/workday-redhat-jobs-R-059027?s=gh-new-grad-software-engineering-jobs-2027) | Boston | 0d |
+| Red Hat | [Openshift Consultant - Billingual - French-English // Consultant OpenShift – Bilingue...](https://zapply.jobs/l/d/workday-redhat-jobs-R-059036?s=gh-new-grad-software-engineering-jobs-2027) | Remote CA QC | 0d |
+| Crowe | [Microsoft Dynamics 365 ERP Solution Architect](https://zapply.jobs/l/d/workday-crowe-external-careers-R-51516?s=gh-new-grad-software-engineering-jobs-2027) | Chicago, IL | 0d |
+| Air Liquide | [Pipeline Project Engineer](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10100902?s=gh-new-grad-software-engineering-jobs-2027) | Pasadena, TX - Warehouse - National | 0d |
+| Velera | [Client Delivery Analyst III (CDE PMO Pilot Commercialization)](https://zapply.jobs/l/d/workday-velera-veleracareers-9672?s=gh-new-grad-software-engineering-jobs-2027) | Remote-USA | 0d |
+| TD Bank | [AML Surveillance Tools Engineer/Developer](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1494185?s=gh-new-grad-software-engineering-jobs-2027) | New York, New York | 0d |
+| ResMed | [Business Systems Analyst (Supply Chain & Distribution)](https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_048777?s=gh-new-grad-software-engineering-jobs-2027) | San Diego CA United States | 0d |
+| CoStar Group | [Technology Intern - Nashville, TN (Summer 2027)](https://zapply.jobs/l/d/workday-costar-costar-campus-R39670?s=gh-new-grad-software-engineering-jobs-2027) | TN Nashville | 0d |
+| CoStar Group | [Technology Intern - Arlington, VA (Summer 2027)](https://zapply.jobs/l/d/workday-costar-costar-campus-R39666?s=gh-new-grad-software-engineering-jobs-2027) | VA Arlington | 0d |
+| CoStar Group | [Technology Intern - Richmond, VA (Summer 2027)](https://zapply.jobs/l/d/workday-costar-costar-campus-R39665?s=gh-new-grad-software-engineering-jobs-2027) | VA Richmond - CoStar Tower | 0d |
+| Leidos | [Network Operations Center (NOC) Technician II](https://zapply.jobs/l/d/workday-leidos-external-R-00189445?s=gh-new-grad-software-engineering-jobs-2027) | Shiloh, IL | 0d |
+| Leidos | [Tier 2 Security Operations Center (SOC) Analyst](https://zapply.jobs/l/d/workday-leidos-external-R-00191306?s=gh-new-grad-software-engineering-jobs-2027) | Alexandria, VA | 0d |
+| Leidos | [Cyber Defense Infrastructure Support Engineer](https://zapply.jobs/l/d/workday-leidos-external-R-00190143?s=gh-new-grad-software-engineering-jobs-2027) | Suitland, MD | 0d |
+| CrowdStrike | [AI Tech Alliance Manager](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29864?s=gh-new-grad-software-engineering-jobs-2027) | USA - Sunnyvale, CA | 0d |
+| Analog Devices | [Equipment Engineering Intern](https://zapply.jobs/l/d/workday-analogdevices-external-R266095?s=gh-new-grad-software-engineering-jobs-2027) | OR Beaverton | 0d |
+| Cisco | [Partner Alliance Manager - Splunk PBST](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021222?s=gh-new-grad-software-engineering-jobs-2027) | Texas | 0d |
+| Cisco | [Partner Alliance Manager - Splunk PBST](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021587?s=gh-new-grad-software-engineering-jobs-2027) | Virginia | 0d |
+| Cisco | [Customer Success Area TAM Splunk Specialist](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023087?s=gh-new-grad-software-engineering-jobs-2027) | Allen, Texas, US | 0d |
+| Axiom Space | [Associate Materials & Processing Engineer](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100637?s=gh-new-grad-software-engineering-jobs-2027) | Houston | 0d |
+| Guidehouse | [IT Project Manager](https://zapply.jobs/l/d/workday-guidehouse-external-43550?s=gh-new-grad-software-engineering-jobs-2027) | VA, McLean | 0d |
+| Guidehouse | [Customer Information System Solution Architect](https://zapply.jobs/l/d/workday-guidehouse-external-43800?s=gh-new-grad-software-engineering-jobs-2027) | NY New York | 0d |
+| Guidehouse | [Workday Integrations Manager](https://zapply.jobs/l/d/workday-guidehouse-external-44245?s=gh-new-grad-software-engineering-jobs-2027) | Remote | 0d |
+| University System of New Hampshire | [Research Project Engineer](https://zapply.jobs/l/d/workday-usnh-careers-JR9295?s=gh-new-grad-software-engineering-jobs-2027) | University of New Hampshire – Main | 0d |
+| Hitachi | [Mechanical Integration Engineer](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0138263?s=gh-new-grad-software-engineering-jobs-2027) | Hagerstown, Maryland, United States | 0d |
+| ICF | [: Salesforce Administrator & Release Management Specialist](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603009?s=gh-new-grad-software-engineering-jobs-2027) | Reston, VA | 0d |
+| ICF | [Mulesoft Integration Engineer](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2602984?s=gh-new-grad-software-engineering-jobs-2027) | Reston, VA | 0d |
+| Citi | [Applications Development Intermediate Programmer Analyst - Officer](https://zapply.jobs/l/d/workday-citi-2-26993017?s=gh-new-grad-software-engineering-jobs-2027) | Tampa Florida United States | 0d |
+| Citi | [Applications Development Intermediate Programmer Analyst - Officer](https://zapply.jobs/l/d/workday-citi-2-26993025?s=gh-new-grad-software-engineering-jobs-2027) | Tampa Florida United States | 0d |
+| Vanguard | [Kubernetes Platform Junior Engineer](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-179294?s=gh-new-grad-software-engineering-jobs-2027) | Malvern, PA | 0d |
+| Northrop Grumman | [2027 Intern Engineer - Product Support](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250306?s=gh-new-grad-software-engineering-jobs-2027) | United States-Oklahoma-Oklahoma... | 0d |
+| Northrop Grumman | [Deployable Network Communications 2/3 - Secret](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250663?s=gh-new-grad-software-engineering-jobs-2027) | United... | 0d |
+| Northrop Grumman | [PC Network Support Technician 2/3 - Secret](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10243657?s=gh-new-grad-software-engineering-jobs-2027) | United States-Florida-Melbourne | 0d |
+| Johnson & Johnson | [Process/Project Engineering Co-op](https://zapply.jobs/l/d/workday-jj-jj-R-098250?s=gh-new-grad-software-engineering-jobs-2027) | Wilson, North Carolina, United... | 0d |
+| CACI | [DevSecOps Engineer](https://zapply.jobs/l/d/workday-caci-external-325176?s=gh-new-grad-software-engineering-jobs-2027) | Tampa FL US | 0d |
+| CACI | [DevSecOps Engineer](https://zapply.jobs/l/d/workday-caci-external-330626?s=gh-new-grad-software-engineering-jobs-2027) | Tampa FL US | 0d |
+| Highmark Health | [Intermediate Middleware Engineer](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283744?s=gh-new-grad-software-engineering-jobs-2027) | PA, Working at Home - Pennsylvania | 0d |
+| Disney | [Forward Deployed Product Engineer](https://zapply.jobs/l/d/workday-disney-disneycareer-10158258?s=gh-new-grad-software-engineering-jobs-2027) | Burbank, CA | 0d |
+| Disney | [Forward Deployed Engineer](https://zapply.jobs/l/d/workday-disney-disneycareer-10155880?s=gh-new-grad-software-engineering-jobs-2027) | Burbank, CA | 0d |
+| Disney | [Disneyland Resort Industrial Engineering Intern, Fall 2027](https://zapply.jobs/l/d/workday-disney-disneycareer-10159983?s=gh-new-grad-software-engineering-jobs-2027) | Anaheim, CA, USA | 0d |
+| KLA | [Product Support Engineer - Remote Applications](https://zapply.jobs/l/d/workday-kla-search-2639683?s=gh-new-grad-software-engineering-jobs-2027) | Ann Arbor, MI | 0d |
+| GDIT | [ITSM Integration Engineer](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ227799?s=gh-new-grad-software-engineering-jobs-2027) | USA CA El Segundo | 0d |
+| GDIT | [SMPES Application Support Engineer Junior](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ227621?s=gh-new-grad-software-engineering-jobs-2027) | USA NE Offutt AFB | 0d |
+| Verizon | [Head Materiel Attendant](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1097566?s=gh-new-grad-software-engineering-jobs-2027) | Watertown, New York | 0d |
+| Verizon | [Advanced Technician Network Operations](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100855?s=gh-new-grad-software-engineering-jobs-2027) | Phoenix, Arizona | 0d |
+| Verizon | [Advanced Technician Network Operations](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100854?s=gh-new-grad-software-engineering-jobs-2027) | Reno, Nevada | 0d |
+| Blue Origin | [New Glenn Avionics Production Support Engineer II](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71464?s=gh-new-grad-software-engineering-jobs-2027) | Greater Seattle Area | 0d |
+| State Street | [Product Specialist (Technical), AVP](https://zapply.jobs/l/d/workday-statestreet-global-R-785355?s=gh-new-grad-software-engineering-jobs-2027) | Burlington Massachusetts | 0d |
+| State Street | [AI-Engineer, Officer](https://zapply.jobs/l/d/workday-statestreet-global-R-797748?s=gh-new-grad-software-engineering-jobs-2027) | Quincy, Massachusetts | 0d |
+| State Street | [Encryption Engineer (DevSecOps & SDLC)](https://zapply.jobs/l/d/workday-statestreet-global-R-795316?s=gh-new-grad-software-engineering-jobs-2027) | Quincy Massachusetts | 0d |
+| Amentum | [Drafter - NISSC - CMSFS](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0168463?s=gh-new-grad-software-engineering-jobs-2027) | CO-Colorado Springs | 0d |
+| Amentum | [Security Monitor](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0167101?s=gh-new-grad-software-engineering-jobs-2027) | VA-Chantilly | 0d |
+| Amentum | [Security Specialist - NISSC - COS](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170634?s=gh-new-grad-software-engineering-jobs-2027) | CO-Colorado Springs | 0d |
+| Booz Allen Hamilton | [ServiceNow Developer](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249371?s=gh-new-grad-software-engineering-jobs-2027) | Chantilly, VA | 0d |
+| Philips | [Co-op – Software System Engineering – Plymouth, MN – January 2027](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-590406?s=gh-new-grad-software-engineering-jobs-2027) | Plymouth, Minnesota, United States | 0d |
+| JLL | [Stationary Engineer](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ532844?s=gh-new-grad-software-engineering-jobs-2027) | Fairfield, CA | 0d |
+| Applied Materials | [Technical Product Support Engineer](https://zapply.jobs/l/d/workday-amat-external-R2626825?s=gh-new-grad-software-engineering-jobs-2027) | Santa Clara,CA | 0d |
+| GDIT | [Field Engineer/Systems Specialist - TS/SCI W/ POLY](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228113?s=gh-new-grad-software-engineering-jobs-2027) | USA DC Washington | 0d |
+| Starbucks | [advanced systems analyst- Operational Data (Nashville, TN)](https://zapply.jobs/l/d/starbucks-260075567?s=gh-new-grad-software-engineering-jobs-2027) | Nashville, Tennessee, United States | 0d |
+| Schweitzer Engineering Laboratories | [Project Engineer - Protection](https://zapply.jobs/l/d/workday-selinc-sel-2026-22796?s=gh-new-grad-software-engineering-jobs-2027) | Washington - Pullman | Date unknown |
+| Robinhood | [Software Engineering Intern, Backend (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) | Bellevue +5 more | 1d |
+| Robinhood | [Software Engineering Intern, iOS (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) | Menlo Park, CA; New York, NY | 1d |
+| Robinhood | [Software Engineering Intern, Android (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) | Menlo Park, CA; New York, NY | 1d |
+| Figma | [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) | San Francisco, CA • New York, NY | 1d |
+| Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY | 1d |
+| DoorDash | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | New York +9 more | 1d |
+| Waymo | [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218) | Mountain View +5 more | 1d |
+| OpenGov | [Intern, Software Engineer](https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08) | US / Massachusetts / Boston | 1d |
+| OpenGov | [Intern, Software Engineer](https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849) | US / Georgia / Atlanta | 1d |
+| Schroders | [2027 Schroders Capital Internship Program - Infrastructure](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061) | NEW YORK, NY, United States | 1d |
+| Oshkosh | [Robotic Programming/Welding Intern (Summer 2027)](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598) | McConnellsburg +2 more | 1d |
+| Saab | [Software Engineer Co-Op (Summer 2027)](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1) | East Syracuse, NY (Collamer) | 1d |
+| Waymo | [2027 Summer Intern, BS/MS, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8193731) | San Francisco, California | 1d |
+| Genworth Financial | [Data Science Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1) | Raleigh, North Carolina | 1d |
+| Genworth Financial | [Software Engineering Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1) | Raleigh, North Carolina | 1d |
+| AnaVation | [Computer Science Internship Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7) | Chantilly, VA | 3d |
+| Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY | 4d |
+| Lyft | [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | San Francisco, CA | 4d |
+| Lyft | [Data Science Intern, Algorithms (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY | 4d |
+| MegazoneCloud | [Software Engineer Co-op 2027](https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca) | Rochester, NY | 4d |
+| MegazoneCloud | [Data Engineer Co-op 2027](https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa) | Rochester, NY | 4d |
+| Klaviyo | [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) | Boston, MA | 4d |
+| Xcimer Energy | [Summer 2027 Internship - Computational and Software Engineering](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911) | Denver, CO | 4d |
+| Corteva | [Agentic AI Engineer Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W) | Indianapolis, Indiana, United States | 4d |
+| EMC Insurance | [Intern- Data Science](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern--Data-Science_R6524) | Iowa | 4d |
+| Leidos | [AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) | Huntsville, AL | 4d |
+| Oshkosh | [AI Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | Oshkosh, Wisconsin, United States | 4d |
+| Commure | [Software Engineering Intern, Summer 2027](https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3) | Mountain View, CA | 4d |
+| Motorola | [2027 Software Engineering Summer Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125) | Plantation, FL | 4d |
+| DV Trading | [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | New York | 4d |
+| DV Trading | [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | New York | 4d |
+| DV Trading | [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) | New York | 4d |
+| Citizens Financial Group | [Data Science Undergraduate 2027 Summer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) | United States | 4d |
+| Citizens Financial Group | [Cloud Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284) | United States | 4d |
+| Citizens Financial Group | [Data Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | United States | 4d |
+| SEP | [Software Engineering Intern (Summer 2027, In person)](https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178) | Westfield, IN | 5d |
+| Avav | [Summer 2027 Embedded Software Engineering Intern](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) | Simi Valley, CA | 5d |
+| Bracco | [Software Engineering Intern/ Co-op (R&D Sustaining)](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327) | USA, Eden Prairie, Minnesota, 55344 | 5d |
+| Hudl | [Software Quality Assurance Engineering Intern](https://job-boards.greenhouse.io/hudl/jobs/8155102) | Lincoln, NE, United States | 5d |
+| Tanium | [Software Engineering Intern – Summer 2027](https://job-boards.greenhouse.io/tanium/jobs/8181017) | Durham +3 more | 5d |
+| Ketjen | [Ketjen Summer 2027 Data Science Internship](https://albemarle.wd5.myworkdayjobs.com/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, Texas, United States of America | 5d |
+| Bedrock Robotics | [Internship 2027 Onboard Infrastructure Engineer, ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8) | San Francisco, CA | 5d |
+| Bedrock Robotics | [Internship 2027 Behavior Machine Learning Engineer, World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1) | San Francisco, CA | 5d |
+| Emerson Electric | [Software Engineering Co-op (Jun-Dec 2027)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738) | Eden Prairie, MN, United States | 5d |
+| RF-SMART | [Product Engineering Software Developer Internship - Spring & Summer 2027](https://job-boards.greenhouse.io/rfsmart/jobs/5407206008) | Jacksonville, Florida, United States | 5d |
+| National Information Solutions Cooperative (NISC) | [Intern - Database Conversion Programming](https://job-boards.greenhouse.io/testnisc/jobs/8191898) | Mandan, ND | 5d |
+| National Information Solutions Cooperative (NISC) | [Intern - Information Security (Cybersecurity)](https://job-boards.greenhouse.io/testnisc/jobs/8191987) | Mandan, ND | 5d |
+| RTX | [Software Engineering Co-op (Summer/ Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293) | US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd… | 5d |
+| Target | [Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027)](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082) | 7000 Target Pkwy N +2 more | 5d |
+| Hudl | [Software Engineering Intern](https://job-boards.greenhouse.io/hudl/jobs/8114314) | Lincoln, NE, United States | 5d |
+| Schonfeld | [2027 Platform Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) | New York, New York, United States | 5d |
+| Pacific Fusion | [Summer 2027 Internship- Software Engineering](https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009) | San Leandro +3 more | 6d |
+| Immuta | [Platform & Site Reliability Engineering Internship - Summer 2027](https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e) | Columbus, OH | 6d |
+| Immuta | [Full-Stack Engineering Internship - Summer 2027](https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d) | Columbus, OH | 6d |
+| HMH | [Software Engineering Intern](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384) | Houston, TX | 6d |
+| Rocket Lab | [Flight Software Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) | Littleton, CO | 6d |
+| Saronic | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2) | Austin, TX | 6d |
+| Lexington Medical | [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) | Bedford, MA | 6d |
+| RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE… | 6d |
+| Leidos | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713) | Annapolis Junction, MD | 6d |
+| Verizon Communications | [Verizon Consumer Group: AI/ML Engineering Summer 2027 Internship](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605) | Basking Ridge, New Jersey | 6d |
+| Moog | [Intern, Software Engineering](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1) | Mineral Wells, TX | 6d |
+| Coinbase | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) | Hybrid - San Francisco, CA | 7d |
+| Coinbase | [Machine Learning Engineer Intern](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) | Hybrid - San Francisco, CA | 7d |
+| Coinbase | [Data Engineer Intern](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | Hybrid - San Francisco, CA | 7d |
+| Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston +5 more | 7d |
+| Shield AI | [Summer 2027 - Software Engineer Intern](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) | San Diego, California | 7d |
+| Viam | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004) | New York, NY | 7d |
+| Allen Control Systems | [Software Engineering Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c) | Austin, TX | 7d |
+| Allen Control Systems | [Computer Vision/Machine Learning Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037) | Austin, TX | 7d |
+| Devon Energy | [Cyber Security Intern 2027](https://wd5.myworkdaysite.com/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1) | Oklahoma City, OK | 7d |
+| Talos | [Quantitative Analyst Intern](https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b) | New York | 7d |
+| RF-SMART | [Software Support Engineer Internship (NetSuite) - Summer 2027](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008) | Highlands Ranch, Colorado, United States | 7d |
+| Meijer | [Information Security Intern- Summer 2027](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302) | Grand Rapids, MI | 7d |
+| Talos | [Software Engineer Intern, RFQ](https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285) | New York | 7d |
+| Talos | [Software Engineer Intern, Dealer](https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) | New York | 7d |
+| C.H. Robinson | [Software Engineering Internship 2027](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323) | Eden Prairie +1 more | 7d |
+| U.S. Bank | [2027 Information Security Summer Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770) | Cincinnati, OH | 7d |
+| Xcel Energy | [Data Analyst Intern- TX](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1) | Amarillo, TX, 79101 | 7d |
+| Dropbox ✓ | [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) | Remote - US: All locations | 8d |
+| ICF | [2027 Summer Intern, Software Developer (Reston, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) | Reston, VA | 8d |
+| Xcel Energy | [Reliability Data Analyst Intern- CO](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833) | Denver, CO, 80223 | 8d |
+| Amazon | [Software Development Engineer Intern/Co-Op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) | North Reading, Massachusetts, USA | 11d |
+| Scale AI | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA | 11d |
+| Applied Materials | [Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551) | Albany,NY | 11d |
+| Hy-Vee | [Cyber Security Intern- Summer 2027](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153) | Corporate Office +3 more | 11d |
+| Schonfeld | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York, New York, United States | 11d |
+| Schonfeld | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | New York, New York, United States | 11d |
+| ENFOS | [Software Engineer Intern (Summer 2027)](https://apply.workable.com/enfos-inc/j/CA15908E0A/) | Durham +5 more | 11d |
+| Stantec | [Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589) | Washington, DC, United States | 11d |
+| Skydio | [Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) | San Mateo, California, United States | 12d |
+| Neighbor | [Software Engineer Intern 2027](https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46) | Lehi, UT | 12d |
+| ID.me | [Summer Intern 2027 - Software Development Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003) | Mountain View, CA | 12d |
+| DriveTime | [Database Engineering Intern (Summer 2027)](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300) | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | 12d |
+| DriveTime | [Software Engineering Intern (Summer 2027)](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294) | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | 12d |
+| Waymo | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | San Francisco, California, USA | 12d |
+| Hermeus | [GNC & Flight Software Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) | Atlanta, GA | 12d |
+| Sierra Nevada Corporation | [Software Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754) | Dayton, OH | 12d |
+| Sierra Nevada Corporation | [Software Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1) | Folsom, CA | 12d |
+| Sierra Nevada Corporation | [Software Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757) | Lone Tree, CO | 12d |
+| AXQ Capital | [Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/axq/jobs/6181069004) | New York | 12d |
+| Skyward | [Software Engineer - Intern](https://jobs.smartrecruiters.com/Skyward1/744000147320799) | Stevens Point, WI, United States | 12d |
+| Cigna Group | [Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) | NC +2 more | 12d |
+| Saab | [Software Engineering Co-Op (Summer 2027)](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1) | East Syracuse, NY (Collamer) | 12d |
+| InfiniteQuant | [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390) | New York, NY, United States | 12d |
+| InfiniteQuant | [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) | New York +2 more | 12d |
+| Hermeus | [Software Engineering Intern (Command & Control) - Spring/Summer 2027](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) | Atlanta, GA | 12d |
+| General Matter | [Summer 2027 Internship - Embedded Software Engineering](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Los Angeles, CA | 13d |
+| Grant Thornton | [Cybersecurity and Privacy Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752) | Los Angeles, CA, United States | 13d |
+| Allied Solutions | [AI Solutions Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074) | Carmel, IN | 13d |
+| Allied Solutions | [Data Science Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077) | Carmel, IN | 13d |
+| Allied Solutions | [Software Delivery Management Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086) | Carmel, IN | 13d |
+| Stokespacetechnologies | [Summer 2027 Internship - Software](https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004) | Kent, Washington | 14d |
+| TWG Global | [AI Data Science Intern (SOLT) - Summer 2027](https://apply.workable.com/twgai/j/263B34D737/) | Santa Monica, California, United States | 14d |
+| TWG Global | [AI Engineering Intern - Summer 2027](https://apply.workable.com/twgai/j/772CD136FF/) | Santa Monica, California, United States | 14d |
+| TWG Global | [AI Data Science Intern (MAQR) - Summer 2027](https://apply.workable.com/twgai/j/AC536E5EE2/) | Santa Monica, California, United States | 14d |
+| FOTH | [Civil Engineering Intern-Coastal Infrastructure (Summer 2027)](https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64) | Newport, Rhode Island | 14d |
+| FOTH | [Civil Engineering Intern-Waterfront Infrastructure (Summer 2027)](https://jobs.lever.co/foth/95f75d08-ec27-48ff-8c60-dcf2d5720885) | Green Bay, Wisconsin | 14d |
+| IAT Insurance Group | [Cyber Security Internship](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410) | Raleigh NC | 14d |
+| Tarrant Regional Water District | [Summer 2027 Infrastructure Engineering Intern (T036)](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218) | Fort Worth, TX | 14d |
+| Hermeus | [Software Engineering Intern (HIL) - Spring/Summer 2027](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) | Atlanta, GA | 14d |
+| DraftKings | [Data Science Intern-Referral (Summer 2027)](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Boston, MA | 14d |
+| DraftKings | [Software Engineer Intern-Referral (Summer 2027)](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932) | Boston, MA | 14d |
+| Stryker ✓ | [Summer 2027 Internship - Data Science - Remote](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731) | Florida, Virtual Address | 14d |
+| HP IQ | [Software Engineering Intern, Connectivity (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) | San Francisco, CA | 14d |
+| DraftKings | [Data Science Intern (Summer 2027)](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958) | Boston, MA | 14d |
+| First National Bank | [Summer 2027 AI/ML Modeler Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) | Pittsburgh, PA | 14d |
+| Johnson & Johnson | [Data Science Co-Op, Summer 2027](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746) | Cincinnati +2 more | 14d |
+| Johnson & Johnson | [Software Engineering Co-Op. Summer 2027](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) | Cincinnati +2 more | 14d |
+| Stanley Black & Decker | [Embedded Engineering Summer Intern 2027](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) | Towson, MD, United States | 14d |
+| Texas Instruments | [IT Infrastructure Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297) | Pella, IA, United States | 14d |
+| Texas Instruments | [Software Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299) | Pella +5 more | 14d |
+| Texas Instruments | [Data Engineer Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Pella +5 more | 14d |
+| Clarios | [IT Digital/AI Intern (Summer 2027)](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) | United States, Wisconsin, Milwaukee | 14d |
+| American Express | [Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828) | Charlotte, NC, United States | 14d |
+| American Express | [Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831) | Sunrise, FL, United States | 14d |
+| American Express | [Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333) | Phoenix, AZ, United States | 14d |
+| Sierra | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) | San Francisco, CA | 15d |
+| BlueCross BlueShield of Nebraska | [Cyber Intern: Summer 2027](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407) | Omaha, NE | 15d |
+| BlueCross BlueShield of Nebraska | [IS Intern: AI & Automation (Managed Services) Summer 2027](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101411) | Omaha, NE | 15d |
+| HP IQ | [Software Engineer Intern, Cloud Services (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) | San Francisco, CA | 15d |
+| HP IQ | [Software Engineering Intern, AML Platform (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6114781004) | San Francisco, CA | 15d |
+| Olsson | [Civil Engineering Internship - Federal Infrastructure Site Design](https://job-boards.greenhouse.io/olsson/jobs/5396116008) | North Kansas City, MO | 15d |
+| Grant Thornton | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115733) | Dallas, TX, United States | 15d |
+| Grant Thornton | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115750) | Minneapolis, MN, United States | 15d |
+| Awetomaton | [Platform Engineering Intern](https://job-boards.greenhouse.io/awetomaton/jobs/5394046008) | Beavercreek, OH | 15d |
+| Northwood Space | [Software Engineering Intern (2027 Summer Internship)](https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119) | Torrance, CA | 17d |
+| Northwood Space | [Embedded Software Engineering Intern (2027 Summer Internship)](https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c) | Torrance, CA | 17d |
+| Charles River Associates (CRA) | [(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) | Boston +11 more | 18d |
+| Stantec | [Roadway Design Intern - Infrastructure (Summer 2027)](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361) | Raleigh, NC, United States | 18d |
+| Amazon | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Cupertino, California, USA | 19d |
+| AbbVie | [2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014896329) | North Chicago +2 more | 19d |
+| AbbVie | [2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014900496) | Irvine, CA, United States (Hybrid) | 19d |
+| AbbVie | [2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014900536) | South San Francisco +2 more | 19d |
+| Wavetronix | [Computer Science Internship Summer 2027](https://wavetronix.breezy.hr/p/565668353504-computer-science-internship-summer-2027) | Springville, UT | 20d |
+| Leidos | [Cybersecurity Analyst Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671) | Alexandria, VA | 20d |
+| Verisk | [AI Intern / 2027 Summer Internship Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | Jersey City, NJ, United States | 20d |
+| WhiteWater Midstream | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | 20d |
+| QTS | [Summer 2027 Internship: Internal Data Center Infrastructure Projects](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906) | Irving, TX | 20d |
+| Honeywell | [Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155557) | United States | 21d |
+| Honeywell | [Software Engineer & Computer Science - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155558) | United States | 21d |
+| DTCC | [Application Developer Intern [2027 Intern Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459) | Jersey City +8 more | 21d |
+| DTCC | [Infrastructure Engineer Intern [2027 Intern Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214473) | Jersey City +8 more | 21d |
+| DTCC | [Information Security Intern [2027 Intern Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214476) | Jersey City +8 more | 21d |
+| Honeywell | [Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155554) | United States | 21d |
+| Verkada | [Backend Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5210813007) | San Mateo, CA United States | 21d |
+| Verkada | [Frontend Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5210942007) | San Mateo, CA United States | 21d |
+| Verkada | [Embedded Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5211595007) | San Mateo, CA United States | 21d |
+| BTI360 | [Software Engineering Intern](https://job-boards.greenhouse.io/bti36021/jobs/8155152) | Herndon,VA | 22d |
+| Sage | [Software Engineering Intern (Full Stack) – Summer 2027](https://job-boards.greenhouse.io/sage49/jobs/6131185004) | New York, New York, United States | 22d |
+| Sage | [Software Engineering Intern (Edge) – Summer 2027](https://job-boards.greenhouse.io/sage49/jobs/6131191004) | New York, New York, United States | 22d |
+| Advanced Space | [2027 Software Engineering Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) | Westminster, CO | 22d |
+| Advanced Space | [2027 Machine Learning Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) | Westminster, CO | 22d |
+| Advanced Space | [2027 DevOps Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009) | Westminster, CO | 22d |
+| Freddie Mac | [Single-Family Software Developer Intern- Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | McLean, VA | 22d |
+| BNY | [2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) | Jersey City, NJ, United States | 22d |
+| BNY | [2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239) | Lake Mary, FL, United States | 22d |
+| BNY | [2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240) | New York, NY, United States | 22d |
+| Dev Technology Group | [React/Node Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/devtechnology/jobs/8726212002) | Reston, Virginia | 26d |
+| Dev Technology Group | [AI/ML Intern (Summer 2027)](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) | Reston, Virginia | 27d |
+| Dev Technology Group | [Microsoft Power Platform & AI Intern (Summer 2027)](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) | Reston, Virginia | 27d |
+| General Matter | [Summer 2027 Internship - Software Engineering](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | Los Angeles, CA | 27d |
+| Continental Resources | [Data Analyst Intern (Summer 2027)](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1) | Oklahoma City, OK | 28d |
+| Xantium | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | London, England, New York, New York | 29d |
+| Xantium | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | London, England, New York, New York | 29d |
+| Hilton Worldwide | [2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) | Memphis +8 more | 29d |
+| Notion | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | San Francisco, California | 1mo |
+| The Voleon Group | [Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) | Berkeley, CA | 1mo |
+| Freeform | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | Los Angeles, CA (On-site) | 1mo |
+| Western Digital | [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) | San Jose, CA, United States | 1mo |
+| Northwestern Mutual | [Public Investments Quantitative Analyst Intern, Summer 2027](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | Milwaukee, WI Corporate | 1mo |
+| Hewlett Packard (HP) | [Enterprise Operations Software Internship](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) | Spring, Texas, United States of America | 1mo |
+| Montenson | [AI Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | MN, United States | 1mo |
+| General Dynamics Information Technology | [PTOC AI/Machine Learning Internship -DC Metro Area](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | USA VA Falls Church | 1mo |
+| General Dynamics Information Technology | [Summer 2027 Software Developer Internship  _(4 openings)_](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | USA MD Annapolis Junction | 1mo |
+| Roblox | [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | San Mateo, CA, United States | 1mo |
+| Belvedere Trading | [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | Chicago, Illinois | 1mo |
+| Belvedere Trading | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | Chicago, Illinois | 1mo |
+| Hudson River Trading | [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | London +5 more | 2mo |
+| Hudson River Trading | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Austin +11 more | 2mo |
+| Anduril | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta +26 more | 3mo |
+| Moog | [Intern, Embedded Design Engineering](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | 4d |
+| Eurofins | [6-month paid internship - AI & Automation](https://jobs.smartrecruiters.com/Eurofins/744000148712379) | Barcelona, CT, International (ES) | 5d |
+| Eurofins | [AI & Automation Intern _(2 openings)_](https://jobs.smartrecruiters.com/Eurofins/744000147214369) | Barcelona, CT, International (ES) | 12d |
+| Hadrian | [Software Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e) | Los Angeles, CA | 13d |
+| Hadrian | [Data Science/ Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) | Los Angeles, CA | 13d |
+| Stantec | [Roadway Design Co-op Student - Infrastructure (Fall 2026)](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497) | Raleigh, NC, United States | 13d |
+| Amazon | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | Westboro, Massachusetts, USA | 19d |
+| ABB | [AI Robotics UI/UX Intern- Fall 2026](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1) | Milpitas, California, USA | 19d |
+| ABB | [Physical AI Robotics Simulation Intern- Fall 2026](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1) | Milpitas, California, USA | 19d |
+| Rivet Industries | [Software Engineer Intern, XR Team (Fall 2026)](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc) | Bellevue, WA | 22d |
+| Phoebe | [Software Engineering Intern](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca) | New York City | 26d |
+| Moog | [Intern, IT Computer Science](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378) | Buffalo, NY | 27d |
+| onsemi | [Fall 2026 - Tax AI and Automation Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307) | Scottsdale, AZ, United States | 1mo |
+| Johnson & Johnson | [Software Engineer Coop](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820) | Cincinnati +2 more | 1mo |
+| Melius | [Software Engineering Intern [Fall/Winter 2026]](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf) | New York City | 1mo |
+| Red Bull | [2026 Internship, Fall - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339) | Morristown, NJ, United States | 1mo |
+| onsemi | [Fall 2026 - AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | Scottsdale, AZ, United States | 2mo |
+| Junior | [Software Engineering Intern — Fall 2026](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891) | New York City | 2mo |
+| Figure | [Firmware Intern [Fall 2026]](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | 2mo |
+| SoloPulse | [Software Engineer Intern/Co-Op - Fall 2026](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) | Peachtree Corners, GA | 3mo |
+| Beacon Software | [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | San Francisco, CA | 3mo |
+| Amazon | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Seattle, Washington, USA | 4mo |
+| SharkNinja | [Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) | Miami +8 more | 5mo |
+| Hermeus | [Flight Software Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | 6mo |
+| Amazon | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | North Reading, Massachusetts, USA | 11mo |
+| Intel | [AI Solutions Engineering Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629) | US, Oregon, Hillsboro | 1d |
+| Base Power | [Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) | Austin, TX | 1d |
+| SingleStore | [Software Engineer Intern](https://job-boards.greenhouse.io/singlestore/jobs/8154399) | United States | 1d |
+| Oshkosh | [Robotics Programming Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597) | Greencastle, Pennsylvania, United States | 1d |
+| Tencent | [Cyber Security Engineer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2) | US-California-Palo Alto | 1d |
+| Base Power | [Software Engineering Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) | Austin, TX | 1d |
+| Base Power | [Firmware Engineering Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) | Austin, TX | 1d |
+| AI Intern to the CEO | [Engineering Intern - Software (SWE)/Machine Learning (ML)](https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328) | Boston, Massachusetts | 1d |
+| Reply | [AI/Machine Learning Intern](https://jobs.lever.co/reply/74422215-dd06-404a-a35c-3c9bd80e1f0b) | Detroit Area, Michigan | 1d |
+| Viavi Solutions | [Software Engineering Co-Op](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1) | Germantown, MD USA | 1d |
+| Acron Aviation | [Software Engineer Intern - Phoenix Site](https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e) | Phoenix, AZ | 1d |
+| Kulicke & Soffa | [Intern, Software Engineering](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649) | Fort Washington, PA, United States | 3d |
+| NewsBreak | [Nearby AI Internship Program - Engineering Track](https://job-boards.greenhouse.io/newsbreak/jobs/4712896006) | Mountain View, California, United States | 4d |
+| Businessolver | [Business Intelligence Analyst Internship (Innovation & Data Science)](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738) | United States | 4d |
+| Corteva | [Data Science Summer Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W) | Indianapolis, Indiana, United States | 4d |
+| Crowe | [MSFT AI Business Solutions Technical Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039) | Chicago IL USA | 4d |
+| Direct Supply | [Software Engineer Intern](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559) | Milwaukee, WI | 4d |
+| Fidelity Investments | [Co-op, Software Engineer](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200) | Boston, MA | 4d |
+| Citizens Financial Group | [Data Science Graduate 2027 Summer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) | United States | 4d |
+| Oshkosh | [Cyber Security Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267) | Oshkosh, Wisconsin, United States | 4d |
+| Wellmark | [Software Engineer Internship – User Experience Team](https://jobs.smartrecruiters.com/WellmarkInc/744000148915793) | Des Moines, IA, United States (Hybrid) | 4d |
+| Wellmark | [Cyber Security Internship](https://jobs.smartrecruiters.com/WellmarkInc/744000148918178) | Des Moines, IA, United States (Hybrid) | 4d |
+| Direct Supply | [AI Engineer Intern](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) | Milwaukee, WI | 4d |
+| Avav | [Software Engineering Intern](https://avav.wd1.myworkdayjobs.com/avav/job/Centreville-VA/Software-Engineering-Intern_8593) | Centreville, VA | 5d |
+| Avav | [Software Engineering Intern](https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Software-Engineering-Intern_8613) | Melbourne, FL | 5d |
+| Booz Allen | [Enterprise Cybersecurity Data Loss Prevention Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1) | McLean, VA | 5d |
+| Bracco | [Software Engineering Intern](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328) | USA, Eden Prairie, Minnesota, 55344 | 5d |
+| AllianceBernstein | [Infrastructure Engineering Summer Intern](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749) | Nashville, Tennessee | 5d |
+| AllianceBernstein | [Software Development Summer Intern](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771) | Nashville, Tennessee | 5d |
+| SCOR | [Data Science Intern](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393) | Charlotte, North Carolina, United States | 5d |
+| Texas Instruments | [Information Technology Intern – Software](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017625) | Dallas, TX, United States | 5d |
+| Hearst | [Software Engineering Intern](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455) | Indianapolis, IN, United States | 5d |
+| RTX | [Co-Op, Software Engineer- Onsite](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298) | US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd… | 5d |
+| Booz Allen | [Enterprise Cybersecurity Education and Execution Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071) | McLean, VA | 6d |
+| Sequence Holdings | [Software Engineer (Intern)](https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c) | New York City | 6d |
+| Amperesand | [Intern, Software](https://job-boards.greenhouse.io/amperesand/jobs/4381214009) | Reno +5 more | 6d |
+| GreatAmerica Financial Services | [Software Engineer Intern](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221) | Cedar Rapids, IA | 6d |
+| Epic Games | [Backend Services Programmer Intern](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004) | Cary,North Carolina,United States | 6d |
+| Internship | [AI Labs Intern](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac) | New York | 6d |
+| Crest Industries | [Developer Intern](https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd) | Pineville, Louisiana | 6d |
+| Texas Instruments | [Software Engineering Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573) | Dallas +5 more | 6d |
+| Graco | [AI Intern  _(2 openings)_](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1) | Dayton, Minnesota, USA (French Lake) | 6d |
+| Zachry Group | [Cyber Security Specialist I - Intern](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624) | Stonington +5 more | 6d |
+| Coretek Services | [AI & Automation Development Intern](https://apply.workable.com/coretek-services/j/8D69C6C871/) | Farmington Hills +2 more | 7d |
+| Syntiant | [Machine Learning Intern - KWS/AED](https://apply.workable.com/syntiant/j/113F994B7B/) | Redwood City, California, United States | 7d |
+| Buildertrend | [Software Engineering Intern](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467) | Omaha, NE | 7d |
+| Cisco | [Software Consulting Engineer I (Intern) United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | USA-RESEARCH TRIANGLE PARK | 7d |
+| Emerson Electric | [Software Development Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396) | Austin, TX, United States | 7d |
+| Allegion | [Summer Intern - Firmware Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1) | Farmington, CT | 7d |
+| RTX | [Electrical Firmware (Winter/Spring Co-op)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins R… | 7d |
+| SWBC | [DevOps Intern](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/DevOps-Intern_R0015484-2) | San Antonio, TX | 7d |
+| SWBC | [Software Engineering Intern](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2) | San Antonio, TX | 7d |
+| Amazon | [System Dev Engineer I Co-op (Robotics), Autonomous AI Security](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) | Austin, Texas, USA | 7d |
+| Eudia | [AI Engineer Intern](https://job-boards.greenhouse.io/eudia/jobs/4020078009) | Palo Alto, CA | 7d |
+| Flagship Pioneering | [Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)](https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002) | Cambridge, MA USA | 7d |
+| Syska Hennessy Group | [Software Developer (Innovation) Summer Intern](https://job-boards.greenhouse.io/syskahennessy/jobs/8177938) | New York, NY | 7d |
+| M3USA | [AI Engineering Intern (Remote)](https://jobs.smartrecruiters.com/M3USA/744000148244649) | Fort Washington +2 more | 7d |
+| Hewlett Packard (HP) | [Business Intelligence and Infrastructure Analysts Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1) | Vancouver +2 more | 8d |
+| Hewlett Packard Enterprise | [HPC AI Systems Administrator Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396) | Bloomington +2 more | 9d |
+| Harbinger Motors | [Intern, Cybersecurity](https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007) | Garden Grove, CA | 10d |
+| CNA Insurance | [Technology Internship Program (AI Engineering)](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126) | Chicago, IL, USA | 11d |
+| CNA Insurance | [Technology Internship Program (AI Strategy)](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Strategy-_R-8127-1) | Chicago, IL, USA | 11d |
+| CNA Insurance | [Technology Internship Program (Cybersecurity)](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1) | Chicago, IL, USA | 11d |
+| Garner Health | [Software Engineering Intern](https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004) | New York City, New York | 11d |
+| Texas Instruments | [Systems Engineering Intern - Machine Learning Expert](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705) | Dallas, TX, United States | 11d |
+| Nokia | [AI-Agent Development Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978) | United States | 11d |
+| Loram | [Machine Learning / Artificial Intelligence (AI) Intern](https://jobs.smartrecruiters.com/Loram1/3743990015082845) | Hamel, MN, United States | 11d |
+| Johnson Controls | [Software/Controls Engineering Grad Intern](https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) | Salem-Virginia-United States of America | 11d |
+| Premier | [Data Science Intern](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481) | Charlotte, NC | 12d |
+| Premier | [Software Engineer Intern](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) | Charlotte, NC | 12d |
+| Winsupply | [Data Analyst Intern](https://jobs.smartrecruiters.com/Winsupply1/3743990015046116) | Moraine, OH, United States | 12d |
+| Dynamic Catholic | [Internship - Front-End UX Intern](https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad) | Erlanger, Kentucky | 13d |
+| Dynamic Catholic | [Internship - Software Developer - Commerce Cloud](https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57) | Erlanger, Kentucky | 13d |
+| Reflect Orbital | [Flight Software Engineering Intern](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2) | Hawthorne, CA | 13d |
+| Reflect Orbital | [Embedded Firmware Engineering Intern](https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b) | Hawthorne, CA | 13d |
+| Hewlett Packard (HP) | [Software Product Security Engineer Intern  _(2 openings)_](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1) | Spring, Texas, United States of America | 13d |
+| Flagship Pioneering | [Pioneering Intelligence: Agentic AI Co-Op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002) | Cambridge, MA USA | 13d |
+| National Information Solutions Cooperative (NISC) | [Intern - Data Engineer](https://job-boards.greenhouse.io/testnisc/jobs/8167884) | Lake Saint Louis, MO | 13d |
+| National Information Solutions Cooperative (NISC) | [Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174096) | Mandan, ND | 13d |
+| Sherwin-Williams | [Year-Round IT Co-op, Cybersecurity](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615) | Cleveland, OH, United States | 13d |
+| Winsupply | [Software Developer Intern](https://jobs.smartrecruiters.com/Winsupply1/3743990015014717) | Moraine, OH, United States | 13d |
+| Rockwell Automation | [Intern, Content IDE Software Development (LCS)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2) | Mayfield Heights, Ohio, United States | 14d |
+| Rockwell Automation | [Intern, Cyber Professional Services (LCS)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2) | Mayfield Heights, Ohio, United States | 14d |
+| Valon | [Software Engineer Intern](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) | New York | 14d |
+| Eulerity | [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) | New York, New York | 14d |
+| Tencent | [AI Business Analyst Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1) | US-California-Palo Alto | 14d |
+| Emerson Electric | [AI Engineering Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510) | Marshalltown, IA, United States | 14d |
+| Emerson Electric | [Software Engineering Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442) | Marshalltown, IA, United States | 14d |
+| Talentpluto | [AI/ML Engineering Intern](https://apply.workable.com/talentpluto/j/6F93C25627/) | United States (Remote) | 15d |
+| Talentpluto | [Backend Engineering Intern](https://apply.workable.com/talentpluto/j/CCC60EBB0C/) | United States (Remote) | 15d |
+| Pluralis Research | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be) | USA or Australia | 15d |
+| Brunswick | [Mercury Marine: Software Controls Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436) | Fond du Lac, WI | 15d |
+| Katalyst Space Technologies | [Engineering Intern (Electrical / Mechanical / GNC / Software)](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) | Broomfield, Colorado, United States | 15d |
+| Stripe | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) | San Francisco, Seattle, New York City | 15d |
+| Epic Games | [Frontend Programmer Intern](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) | Cary,North Carolina,United States | 15d |
+| Integra FEC | [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5406101008) | Austin, Texas | 15d |
+| Integra FEC | [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5406110008) | Austin, Texas | 15d |
+| Marmon Holdings | [AI Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510) | Sauget, IL | 15d |
+| Nike | [NIKE, Inc. Software Engineering Undergraduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) | Beaverton, Oregon | 15d |
+| IGS Energy | [Software Engineer Intern](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263) | Ohio Remote | 15d |
+| Intel | [AI Solutions Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Graduate-Intern_JR0286546) | US, Oregon, Hillsboro | 15d |
+| Talentpluto | [Full Stack Engineering Intern](https://apply.workable.com/talentpluto/j/D3050663DF/) | New York, New York, United States | 18d |
+| Xaira Therapeutics | [AI Scientist Intern, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) | Seattle +5 more | 18d |
+| Analog Devices | [AI/ML Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) | US, MA, Wilmington | 18d |
+| Brunswick | [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1) | Menomonee Falls, WI | 18d |
+| Leidos | [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) | San Diego, CA | 18d |
+| Ambarella | [Software Architecture Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) | US Headquarters | 19d |
+| Ambarella | [Software Development Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1) | US Headquarters | 19d |
+| Ambarella | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) | US Headquarters | 19d |
+| Bosch | [Phone as a Key Software Engineering - Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145785190) | Plymouth, MI, United States | 20d |
+| Maximor AI | [Software engineering Intern](https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8) | New York City | 21d |
+| Brunswick | [Mercury Marine: Software Validation Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160) | Oshkosh, WI | 21d |
+| Nokia | [Deepfield Software Engineer Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908) | United States | 21d |
+| Nokia | [Data Analytics & AI Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743) | United States | 21d |
+| Bosch | [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908) | Pittsburgh, PA, United States | 21d |
+| Meridian Partners | [Machine Learning Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003) | Cambridge +5 more | 22d |
+| Meridian Partners | [Python Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003) | Cambridge +5 more | 22d |
+| Meridian Partners | [Embedded Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003) | Cambridge, MA | 22d |
+| Atoms | [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) | Pittsburgh, PA | 25d |
+| Ambrook | [Software Engineering Intern](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456) | New York | 25d |
+| Weave | [Data Engineer Intern](https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d) | Weave - Headquarters (Lehi, UT) | 25d |
+| Syska Hennessy Group | [Innovations Intern (Full Stack/Front End Engineering)](https://job-boards.greenhouse.io/syskahennessy/jobs/8147733) | New York | 25d |
+| H3X Technologies | [Embedded Controls Intern (Spring)](https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40) | Louisville, Colorado | 25d |
+| Intel | [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) | US, Arizona, Phoenix | 26d |
+| N1 | [Software Engineer Intern (Backend, Rust)](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) | New York City | 27d |
+| Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | New York, New York, United States | 28d |
+| Sherwin-Williams | [Year-Round IT Database Engineer Co-Op](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017) | Cleveland, OH, United States | 28d |
+| Amcor | [Intern - AI Innovation Engineer](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190) | ASC Atlanta HQ GA | 28d |
+| First American | [Software Engineering Intern _(2 openings)_](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261) | USA, California, Remote | 1mo |
+| Crowe | [Data Analytics Developer Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) | Chicago IL USA | 1mo |
+| Valeo | [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | Troy, MI | 1mo |
+| TransMarket Group | [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | Chicago, Illinois, United States | 1mo |
+| Crowe | [AI Project Coordinator Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007) | Chicago IL USA | 1mo |
+| Interco | [Paid Internship -- Software Development -- React](https://jobs.smartrecruiters.com/Interco/744000143346169) | St. Louis, MO, United States | 1mo |
+| Exa Labs | [Software Engineer, Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | San Francisco, California | 1mo |
+| ConnectPrep | [Data Analyst Internship](https://apply.workable.com/connectprep/j/D1C67258C0/) | Washington +2 more | 1mo |
+| Oracle | [Platform Software Engineer 1 - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | United States | 1mo |
+| American Fidelity | [Software Dev Internship (OKC local only)](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005) | Oklahoma City, Oklahoma | 1mo |
+| Marmon Holdings | [AI Project Management Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1) | Chicago, IL | 1mo |
+| Bosch | [Powertrain Controls Software Engineering Intern (6-Months, Full-Time)](https://jobs.smartrecruiters.com/BoschGroup/744000142898574) | Farmington Hills, MI, United States | 1mo |
+| Centerfield | [Frontend Engineer Intern (6 month internship)](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4) | Los Angeles, California | 1mo |
+| KBR | [Software Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) | Houston, Texas | 1mo |
+| Thales | [AppSec Product Support Intern](https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1) | Texas | 1mo |
+| Diversified Automation | [Software Engineering Co-op](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc) | Louisville, KY | 1mo |
+| IDEXX | [Security Operations (Cybersecurity) internship](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) | Westbrook, ME | 1mo |
+| Yotta Labs | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | United States | 1mo |
+| DoorDash | [Software Engineer Intern](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 0d |
+| Superhuman | [Software Engineer Intern](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 0d |
+| DoorDash | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify) | 5 locationsSeattle, WA SF LA NYC Sunnyvale, CA | 0d |
+| Superhuman | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 0d |
+| Johns Hopkins Applied Physics Laboratory | [Computer Engineer Intern - Shipboard Systems Group](https://careers.jhuapl.edu/jobs/60049?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 0d |
+| Waymo | [Software Engineering Intern - Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify) | SF Mountain View, CA | 0d |
+| Awardco | [Front-End Software Engineer Intern](https://award.co/position?gh_jid=4136562004&utm_source=Simplify&ref=Simplify) | Lindon, UT | 0d |
+| Awardco | [Back-End Software Engineer Intern](https://award.co/position?gh_jid=4322220004&utm_source=Simplify&ref=Simplify) | Lindon, UT | 0d |
+| Western Digital | [Systems Architecture Co-op - AI Systems Strategy 🎓](https://jobs.smartrecruiters.com/WesternDigital/744000149367234?utm_source=Simplify&ref=Simplify) | Rochester, MN | 0d |
+| Workshop | [Software Engineer Intern](https://job-boards.greenhouse.io/workshop/jobs/5237900007?utm_source=Simplify&ref=Simplify) | Omaha, NE | 0d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | OpenGov | [Software Engineer Intern](https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true&utm_source=Simplify&ref=Simplify) | Boston, MA | 0d |
 | OpenGov | [Software Engineer Intern](https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application?embed=true&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 0d |
 | Pace | [Member of Technical Staff Intern](https://jobs.ashbyhq.com/withpace/9acdae91-3834-4c08-8579-fd14ff40a76b/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 0d |
@@ -5614,7 +7660,6 @@
 | Robinhood | [Software Developer Intern](https://boards.greenhouse.io/robinhood/jobs/8199744?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 0d |
 | Dell Technologies | [Software Engineering Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773?utm_source=Simplify&ref=Simplify) | Round Rock, TX Hopkinton, MA | 0d |
 | SEP | [Software Engineer Intern](https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply?utm_source=Simplify&ref=Simplify) | Westfield, IN | 0d |
-| State Farm | [Software Engineer Intern - Innovation Group](https://jobs.statefarm.com/jobs/45838?icims=1&utm_source=Simplify&ref=Simplify) | 4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL | 0d |
 | State Farm | [Software Engineer Intern - Multiple Teams](https://jobs.statefarm.com/jobs/45589?icims=1&utm_source=Simplify&ref=Simplify) | 4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL | 0d |
 | State Farm | [Mainframe Software Engineer Intern - Enterprise Technology](https://jobs.statefarm.com/jobs/45592?icims=1&utm_source=Simplify&ref=Simplify) | 4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL | 0d |
 | URBN | [Software Engineer Intern](https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 0d |
@@ -5622,6 +7667,7 @@
 | American Express | [Software Engineer Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
 | American Express | [AI Engineer Intern 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
 | American Express | [AI Engineer Intern - Undergraduate 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756?utm_source=Simplify&ref=Simplify) | Burgess Hill, UK | 0d |
+<<<<<<< HEAD
 | Wex | [Software Engineer Intern - AI & Cloud 🎓](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546?utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
 | Wex | [Full-Stack Software Engineer Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593?utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
 | Wex | [Backend Software Engineer Intern - Java & AI - Master's 🎓](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547?utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
@@ -5648,30 +7694,59 @@
 | CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999?utm_source=Simplify&ref=Simplify) | Remote in USA Sterling, VA Denver, CO | 0d |
 | Baird | [Software Developer Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1?utm_source=Simplify&ref=Simplify) | Madison, WI Milwaukee, WI | 0d |
 | TD Bank | [Software Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1?utm_source=Simplify&ref=Simplify) | Mt Laurel Township, NJ | 1d |
+=======
+| Wex | [Software Engineer Intern - AI & Cloud 🎓](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546?utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
+| Wex | [Full-Stack Software Engineer Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593?utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
+| Wex | [Backend Software Engineer Intern - Java & AI - Master's 🎓](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547?utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
+| Wex | [Backend Software Engineer Intern - Cloud Security & AI - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589?utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
+| Wells Fargo | [Software Engineering Intern - Early Careers - Software Engineering](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify) | Concord, CA SF San Leandro, CA | 1d |
+| Wells Fargo | [Software Engineer Intern - Early Careers - Software Engineering](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285?utm_source=Simplify&ref=Simplify) | 6 locationsIselin, Woodbridge Township, NJ Charlotte, NC St. Louis, MO Phoenix, AZ Chandler, AZ Irving, TX | 1d |
+| Saab | [Software Engineer Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1?utm_source=Simplify&ref=Simplify) | East Syracuse, NY | 1d |
+| Oshkosh | [Software Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321?utm_source=Simplify&ref=Simplify) | Huntersville, NC | 1d |
+| Northrop Grumman | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669?utm_source=Simplify&ref=Simplify) | 4 locationsRedondo Beach, CA Palmdale, CA San Diego, CA El Segundo, CA | 1d |
+| LSEG | [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389?utm_source=Simplify&ref=Simplify) | London, UK | 1d |
+| LSEG | [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1?utm_source=Simplify&ref=Simplify) | London, UK | 1d |
+| Lowe's | [Software Engineer Intern](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 1d |
+| Lowe's | [Exploratory Software Engineer Intern](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 1d |
+| Guardian Life | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205?utm_source=Simplify&ref=Simplify) | Holmdel, NJ NYC Bethlehem, PA | 1d |
+| Guardian Life | [Application Development Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209?utm_source=Simplify&ref=Simplify) | Holmdel, NJ NYC Bethlehem, PA | 1d |
+| Genworth Financial | [Software Engineer Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| FNBO | [Technology Intern](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653?utm_source=Simplify&ref=Simplify) | Omaha, NE | 1d |
+| Enact Mortgage Insurance | [Software Engineer Intern](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| CoStar Group | [Technology Intern - Multiple Teams](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670?utm_source=Simplify&ref=Simplify) | Nashville, TN | 1d |
+| CoStar Group | [Technology Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666?utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 1d |
+| CoStar Group | [Technology Intern - Summer 2027](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665?utm_source=Simplify&ref=Simplify) | Richmond, VA | 1d |
+| Cleveland-Cliffs | [Computer Science Engineer Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553?utm_source=Simplify&ref=Simplify) | Rockport, IN | 1d |
+| CIBC | [Global Markets Analyst - Electronic Trading](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999?utm_source=Simplify&ref=Simplify) | Remote in USA Sterling, VA Denver, CO | 1d |
+| Baird | [Software Developer Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1?utm_source=Simplify&ref=Simplify) | Madison, WI Milwaukee, WI | 1d |
+| TD Bank | [Software Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1?utm_source=Simplify&ref=Simplify) | Mt Laurel Township, NJ | 2d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | AnaVation | [Computer Science Intern - Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply?utm_source=Simplify&ref=Simplify) | Chantilly, VA | 2d |
 | Klaviyo | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify) | Boston, MA | 2d |
 | Constellation Energy | [Information Technology Software Development Intern](https://jobs.constellationenergy.com/jobs/138708?icims=1&utm_source=Simplify&ref=Simplify) | Baltimore, MD | 2d |
-| Qualcomm | [Machine Learning Compiler & Performance Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721064018?utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 2d |
-| MegazoneCloud | [Software Engineer Co-op](https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true&utm_source=Simplify&ref=Simplify) | Rochester, NY | 2d |
-| Commure | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2d |
-| ibotta | [Software Engineer Intern](https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true&utm_source=Simplify&ref=Simplify) | Denver, CO | 2d |
-| DV Trading | [Software Developer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005?utm_source=Simplify&ref=Simplify) | NYC | 2d |
-| Veeam Software | [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
-| Veeam Software | [Policy Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
-| Veeam Software | [Security & AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
-| Veeam Software | [Engineering Intern 🎓](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101?utm_source=Simplify&ref=Simplify) | California | 2d |
-| Veeam Software | [AI & Automation Engineering Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101?utm_source=Simplify&ref=Simplify) | Georgia | 2d |
-| Amazon | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 2d |
-| Xcimer Energy | [Computational and Software Engineering Intern](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply?utm_source=Simplify&ref=Simplify) | Denver, CO | 2d |
-| Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002&utm_source=Simplify&ref=Simplify) | SF | 2d |
-| Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002&utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada | 2d |
-| Lyft | [Software Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 2d |
-| Lyft | [Software Engineer Intern - Fullstack - Multiple Teams](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002&utm_source=Simplify&ref=Simplify) | NYC | 2d |
-| Lyft | [Software Engineer Intern - Fullstack](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 2d |
-| TTP | [Software Engineering Intern](https://jobs.smartrecruiters.com/TTP1/744000149038758?utm_source=Simplify&ref=Simplify) | Melbourn, Royston, UK | 2d |
+| Qualcomm | [Machine Learning Compiler & Performance Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721064018?utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 3d |
+| MegazoneCloud | [Software Engineer Co-op](https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true&utm_source=Simplify&ref=Simplify) | Rochester, NY | 3d |
+| Commure | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 3d |
+| ibotta | [Software Engineer Intern](https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true&utm_source=Simplify&ref=Simplify) | Denver, CO | 3d |
+| DV Trading | [Software Developer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005?utm_source=Simplify&ref=Simplify) | NYC | 3d |
+| Veeam Software | [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
+| Veeam Software | [Policy Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
+| Veeam Software | [Security & AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
+| Veeam Software | [Engineering Intern 🎓](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101?utm_source=Simplify&ref=Simplify) | California | 3d |
+| Veeam Software | [AI & Automation Engineering Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101?utm_source=Simplify&ref=Simplify) | Georgia | 3d |
+| Amazon | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 3d |
+| Xcimer Energy | [Computational and Software Engineering Intern](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply?utm_source=Simplify&ref=Simplify) | Denver, CO | 3d |
+| Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002&utm_source=Simplify&ref=Simplify) | SF | 3d |
+| Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002&utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada | 3d |
+| Lyft | [Software Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 3d |
+| Lyft | [Software Engineer Intern - Fullstack - Multiple Teams](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002&utm_source=Simplify&ref=Simplify) | NYC | 3d |
+| Lyft | [Software Engineer Intern - Fullstack](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 3d |
+| TTP | [Software Engineering Intern](https://jobs.smartrecruiters.com/TTP1/744000149038758?utm_source=Simplify&ref=Simplify) | Melbourn, Royston, UK | 3d |
 | Johns Hopkins Applied Physics Laboratory | [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 3d |
 | Citizens Financial Group | [Software Engineer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286?utm_source=Simplify&ref=Simplify) | Plano, TX Johnston, RI Phoenix, AZ | 3d |
 | Wellmark | [Software Engineer Intern](https://jobs.smartrecruiters.com/WellmarkInc/744000148915793?utm_source=Simplify&ref=Simplify) | Des Moines, IA | 3d |
+<<<<<<< HEAD
 | Tanium | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify) | Emeryville, CA Durham, NC | 3d |
 | Vertiv | [Innovation Lab Engineering Intern 2](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129?utm_source=Simplify&ref=Simplify) | Delaware, OH | 3d |
 | Vertiv | [Innovation Lab Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126?utm_source=Simplify&ref=Simplify) | Delaware, OH | 3d |
@@ -5690,133 +7765,153 @@
 | Impulse Space | [Ground Software Engineering Intern - Summer 2027](https://impulsespace.pinpointhq.com/en/postings/56c98c48-25a5-4af7-ab9d-388c28bdbd50?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 3d |
 | Johns Hopkins Applied Physics Laboratory | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 3d |
 | Gulfstream | [Flight Sciences / Mass Properties College Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Sciences-Mass-Properties-College-Intern-GA-31401/1428564800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Savannah, GA | 3d |
+=======
+| Tanium | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify) | Emeryville, CA Durham, NC | 4d |
+| Vertiv | [Innovation Lab Engineering Intern 2](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129?utm_source=Simplify&ref=Simplify) | Delaware, OH | 4d |
+| Vertiv | [Innovation Lab Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126?utm_source=Simplify&ref=Simplify) | Delaware, OH | 4d |
+| Visier Solutions | [Test Developer Co-op](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006?utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 4d |
+| Visier Solutions | [Software Developer Co-op](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006?utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 4d |
+| Emerson Electric | [Software Engineer Co-op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738?utm_source=Simplify&ref=Simplify) | Eden Prairie, MN | 4d |
+| RTX | [Software Engineer Co-op - Spring/Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 4d |
+| Corteva | [AI Engineer Intern 🎓](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 4d |
+| Booz Allen | [Software Engineer Intern - Summer 2027](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225?utm_source=Simplify&ref=Simplify) | Fayetteville, NC | 4d |
+| Avis Budget Group | [Transformation Engineer Intern - Accelerate](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388?utm_source=Simplify&ref=Simplify) | Parsippany-Troy Hills, NJ | 4d |
+| Amgen | [Software Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Software Engineer Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| RF-SMART | [Software Developer Intern - Product Engineering](https://job-boards.greenhouse.io/rfsmart/jobs/5407206008?utm_source=Simplify&ref=Simplify) | Jacksonville, FL | 4d |
+| Hudl | [Software Engineer Intern](https://job-boards.greenhouse.io/hudl/jobs/8114314?utm_source=Simplify&ref=Simplify) | Lincoln, NE | 4d |
+| Zipline | [Change Management Intern - Summer 2027](https://www.zipline.com/open-roles/7991435003?gh_jid=7991435003&utm_source=Simplify&ref=Simplify) | South SF | 4d |
+| Impulse Space | [Ground Software Engineering Intern - Summer 2027](https://impulsespace.pinpointhq.com/en/postings/56c98c48-25a5-4af7-ab9d-388c28bdbd50?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 4d |
+| Johns Hopkins Applied Physics Laboratory | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 4d |
+| Gulfstream | [Flight Sciences / Mass Properties College Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Sciences-Mass-Properties-College-Intern-GA-31401/1428564800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Savannah, GA | 4d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Demco Products | [IT Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652?utm_source=Simplify&ref=Simplify) | Boyden, IA | 4d |
 | Planview | [Software Engineer Intern](https://careers.planview.com/jobs/5128?icims=1&utm_source=Simplify&ref=Simplify) | Austin, TX | 4d |
-| Epic Games | [Backend Services Programmer Intern - Epic Games Services](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004&utm_source=Simplify&ref=Simplify) | Cary, NC | 4d |
-| Tradeweb | [Market Data Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 4d |
-| Tradeweb | [Node.js Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301912?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 4d |
-| Tradeweb | [Application Software Engineering Internship - IFI Application](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 4d |
-| Tradeweb | [Engineering Intern - Distributed Ledger Technology - Engineering](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 4d |
-| Tradeweb | [C++ Distributed Systems Developer Intern - C++ Core Services](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 4d |
-| Shield AI | [Software Engineer Intern](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply?utm_source=Simplify&ref=Simplify) | San Diego, CA | 4d |
-| Wellington Management | [Technology Undergraduate Intern](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778?utm_source=Simplify&ref=Simplify) | Boston, MA | 4d |
-| Walmart | [Software Engineer 2 Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify) | Bentonville, AR Bellevue, WA Sunnyvale, CA | 4d |
-| Target | [Software Engineer Intern](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082?utm_source=Simplify&ref=Simplify) | Brooklyn Park, MN | 4d |
-| RTX | [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 4d |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01869001?utm_source=Simplify&ref=Simplify) | State College, PA | 4d |
-| Cox | [AI/Automation Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 4d |
-| CACI | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 4d |
-| CACI | [Configuration Control/Data Management Co-op - Engineering Department](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440?utm_source=Simplify&ref=Simplify) | Danbury, CT | 4d |
-| Brevan Howard | [Summer Internship Program - Systematic Trading Technology Software Engineer](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597?utm_source=Simplify&ref=Simplify) | NYC | 4d |
-| Booz Allen | [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 4d |
-| General Dynamics Mission Systems | [Payload Control System Software/Systems Engineering Intern - Summer 2027](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Middletown, RI Manassas, VA | 4d |
-| Saronic | [Forward Deployed Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TX | 4d |
-| Collier Aerospace | [Software Engineer Intern](https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51?utm_source=Simplify&ref=Simplify) | Newport News, VA | 4d |
-| Collier Aerospace | [Software Engineer Intern - Web Applications - Summer 2027](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77?utm_source=Simplify&ref=Simplify) | Newport News, VA | 4d |
-| Nova-Tech | [Software Development Co-op](https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN?utm_source=Simplify&ref=Simplify) | Willmar, MN | 4d |
-| DV Trading | [AI Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4d |
-| Immuta | [Product Engineering Intern](https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply?utm_source=Simplify&ref=Simplify) | College Park, MD | 4d |
-| Immuta | [Full-Stack Engineering Intern - Summer 2027](https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply?utm_source=Simplify&ref=Simplify) | Columbus, OH | 4d |
-| Pacific Fusion | [Software Engineer Intern](https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009?utm_source=Simplify&ref=Simplify) | Fremont, CA Los Lunas, NM San Leandro, CA | 4d |
-| Shure | [Application Software Engineer Intern](https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 4d |
-| Tradeweb | [Java Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901?utm_source=Simplify&ref=Simplify) | London, UK | 4d |
-| Publicis Groupe | [Software Engineer Intern](https://careers.publicisgroupe.com/jobs/172577?icims=1&utm_source=Simplify&ref=Simplify) | Chicago, IL | 4d |
-| Tradeweb | [C++ Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899?utm_source=Simplify&ref=Simplify) | London, UK | 4d |
-| Federated Insurance | [IT Intern](https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Owatonna, MN | 4d |
-| Domino Data Lab | [Software Engineer Intern](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560&utm_source=Simplify&ref=Simplify) | NYC | 4d |
-| Pilot Company | [Application Development Intern](https://jobs.smartrecruiters.com/PilotCompany/744000148575429?utm_source=Simplify&ref=Simplify) | Knoxville, TN | 4d |
-| Pilot Company | [Process Automation Intern - Process Automation](https://jobs.smartrecruiters.com/PilotCompany/744000148576544?utm_source=Simplify&ref=Simplify) | Knoxville, TN | 4d |
+| Epic Games | [Backend Services Programmer Intern - Epic Games Services](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004&utm_source=Simplify&ref=Simplify) | Cary, NC | 5d |
+| Tradeweb | [Market Data Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 5d |
+| Tradeweb | [Node.js Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301912?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 5d |
+| Tradeweb | [Application Software Engineering Internship - IFI Application](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 5d |
+| Tradeweb | [Engineering Intern - Distributed Ledger Technology - Engineering](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 5d |
+| Tradeweb | [C++ Distributed Systems Developer Intern - C++ Core Services](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 5d |
+| Shield AI | [Software Engineer Intern](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply?utm_source=Simplify&ref=Simplify) | San Diego, CA | 5d |
+| Wellington Management | [Technology Undergraduate Intern](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778?utm_source=Simplify&ref=Simplify) | Boston, MA | 5d |
+| Walmart | [Software Engineer 2 Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify) | Bentonville, AR Bellevue, WA Sunnyvale, CA | 5d |
+| Target | [Software Engineer Intern](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082?utm_source=Simplify&ref=Simplify) | Brooklyn Park, MN | 5d |
+| RTX | [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 5d |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01869001?utm_source=Simplify&ref=Simplify) | State College, PA | 5d |
+| Cox | [AI/Automation Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 5d |
+| CACI | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 5d |
+| CACI | [Configuration Control/Data Management Co-op - Engineering Department](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440?utm_source=Simplify&ref=Simplify) | Danbury, CT | 5d |
+| Brevan Howard | [Summer Internship Program - Systematic Trading Technology Software Engineer](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597?utm_source=Simplify&ref=Simplify) | NYC | 5d |
+| Booz Allen | [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 5d |
+| General Dynamics Mission Systems | [Payload Control System Software/Systems Engineering Intern - Summer 2027](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Middletown, RI Manassas, VA | 5d |
+| Saronic | [Forward Deployed Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TX | 5d |
+| Collier Aerospace | [Software Engineer Intern](https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51?utm_source=Simplify&ref=Simplify) | Newport News, VA | 5d |
+| Collier Aerospace | [Software Engineer Intern - Web Applications - Summer 2027](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77?utm_source=Simplify&ref=Simplify) | Newport News, VA | 5d |
+| Nova-Tech | [Software Development Co-op](https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN?utm_source=Simplify&ref=Simplify) | Willmar, MN | 5d |
+| DV Trading | [AI Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005?utm_source=Simplify&ref=Simplify) | Chicago, IL | 5d |
+| Immuta | [Product Engineering Intern](https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply?utm_source=Simplify&ref=Simplify) | College Park, MD | 5d |
+| Immuta | [Full-Stack Engineering Intern - Summer 2027](https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply?utm_source=Simplify&ref=Simplify) | Columbus, OH | 5d |
+| Pacific Fusion | [Software Engineer Intern](https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009?utm_source=Simplify&ref=Simplify) | Fremont, CA Los Lunas, NM San Leandro, CA | 5d |
+| Shure | [Application Software Engineer Intern](https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 5d |
+| Tradeweb | [Java Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901?utm_source=Simplify&ref=Simplify) | London, UK | 5d |
+| Publicis Groupe | [Software Engineer Intern](https://careers.publicisgroupe.com/jobs/172577?icims=1&utm_source=Simplify&ref=Simplify) | Chicago, IL | 5d |
+| Tradeweb | [C++ Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899?utm_source=Simplify&ref=Simplify) | London, UK | 5d |
+| Federated Insurance | [IT Intern](https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Owatonna, MN | 5d |
+| Domino Data Lab | [Software Engineer Intern](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560&utm_source=Simplify&ref=Simplify) | NYC | 5d |
+| Pilot Company | [Application Development Intern](https://jobs.smartrecruiters.com/PilotCompany/744000148575429?utm_source=Simplify&ref=Simplify) | Knoxville, TN | 5d |
+| Pilot Company | [Process Automation Intern - Process Automation](https://jobs.smartrecruiters.com/PilotCompany/744000148576544?utm_source=Simplify&ref=Simplify) | Knoxville, TN | 5d |
 | Navy Federal | [Payments AI Engineer Intern 🎓](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400?utm_source=Simplify&ref=Simplify) | Pensacola, FL Vienna, VA | 5d |
 | Navy Federal | [Security Workflow Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382?utm_source=Simplify&ref=Simplify) | Vienna, VA | 5d |
 | Navy Federal | [Mobile Developer Intern - Summer Associate](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=Simplify&ref=Simplify) | 4 locationsWinchester, VA Pensacola, FL Vienna, VA San Diego, CA | 5d |
 | Navy Federal | [AI Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261?utm_source=Simplify&ref=Simplify) | Vienna, VA | 5d |
 | K2 Space | [Simulation Software Engineering Intern](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify) | LA | 5d |
-| Gallup | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify) | SF | 5d |
-| Coinbase | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8168315&utm_source=Simplify&ref=Simplify) | SF | 5d |
-| SECURE | [Software Developer Intern](https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 5d |
-| USAA | [Technology Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133?utm_source=Simplify&ref=Simplify) | Plano, TX San Antonio, TX Phoenix, AZ | 5d |
-| S&P Global | [Software Engineer Intern - Summer 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2?utm_source=Simplify&ref=Simplify) | Cambridge, MA NYC | 5d |
-| RTX | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 5d |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623?utm_source=Simplify&ref=Simplify) | Aurora, CO | 5d |
-| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646?utm_source=Simplify&ref=Simplify) | Aurora, CO | 5d |
-| Ovintiv | [Technology Intern - Data & Digital](https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587?utm_source=Simplify&ref=Simplify) | The Woodlands, TX Denver, CO | 5d |
-| Kensho | [Software Engineer Intern - Summer 2027](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1?utm_source=Simplify&ref=Simplify) | Cambridge, MA NYC | 5d |
-| HMH | [Software Engineer Intern](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384?utm_source=Simplify&ref=Simplify) | Houston, TX | 5d |
-| GE Vernova | [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 5d |
-| GE Vernova | [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 5d |
-| Cigna Group | [Software Engineering Intern - Technology Development Program - Software Engineering Track](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527?utm_source=Simplify&ref=Simplify) | 5 locationsBloomington, MN Austin, TX Morris Plains, NJ St. Louis, MO Bloomfield, CT | 5d |
-| CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742?utm_source=Simplify&ref=Simplify) | Lisle, IL | 5d |
-| Booz Allen | [Quantum Computing Research Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046?utm_source=Simplify&ref=Simplify) | Washington, DC | 5d |
-| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 5d |
-| Barclays | [Technology Developer Apprentice - Digital & Technology Solutions](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431?utm_source=Simplify&ref=Simplify) | Northampton, UK | 5d |
-| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397?utm_source=Simplify&ref=Simplify) | London, UK | 5d |
-| Barclays | [Technology Developer Apprentice](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443?utm_source=Simplify&ref=Simplify) | Knutsford, UK | 5d |
-| Barclays | [Technology Developer Apprentice](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 5d |
-| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381?utm_source=Simplify&ref=Simplify) | Knutsford, UK | 5d |
-| Barclays | [Technology Developer Intern - Programme](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379?utm_source=Simplify&ref=Simplify) | Northampton, UK | 5d |
-| Auto-Owners Insurance | [Intelligent Automation Developer Intern](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474?utm_source=Simplify&ref=Simplify) | Lansing, MI | 5d |
-| Auto-Owners Insurance | [IT Document Automation Developer Intern](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471?utm_source=Simplify&ref=Simplify) | Lansing, MI | 5d |
-| RF-SMART | [Software Support Engineer Intern - Netsuite](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008?utm_source=Simplify&ref=Simplify) | Jacksonville, FL | 5d |
-| Viam | [Software Engineer Intern](https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004?utm_source=Simplify&ref=Simplify) | NYC | 5d |
-| Semgrep | [Software Engineer Intern - Cloud Platform](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 5d |
-| Two Sigma | [Software Engineering Intern - Summer 2027](https://twosigma.avature.net/careers/JobDetail/14016?utm_source=Simplify&ref=Simplify) | NYC | 5d |
-| Revel | [Full Stack Software Engineer Intern](https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true&utm_source=Simplify&ref=Simplify) | SF LA | 5d |
-| Revel | [Forward Deployed Engineer Intern - Software](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true&utm_source=Simplify&ref=Simplify) | SF LA | 5d |
-| Talos | [Software Engineer Intern - RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 5d |
-| Talos | [Software Engineer Intern - Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 5d |
-| Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 5d |
-| General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Pittsfield, MA | 5d |
-| Steel Dynamics | [Software Development Intern](https://careers-steeldynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Columbus, MS | 5d |
-| Steel Dynamics | [Software Development Intern](https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Columbus, MS | 5d |
-| Spirit AeroSystems | [Programmer Analyst / Developer Intern - IDT&S](https://careers.spiritaero.com/jobs/17481?icims=1&utm_source=Simplify&ref=Simplify) | Wichita, KS | 5d |
-| Neighbor | [Software Engineer Intern](https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46/apply?utm_source=Simplify&ref=Simplify) | Lehi, UT | 5d |
-| Datadog | [Software Engineer Intern - Summer](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118&utm_source=Simplify&ref=Simplify) | Boston, MA NYC | 5d |
+| Gallup | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify) | SF | 6d |
+| Coinbase | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8168315&utm_source=Simplify&ref=Simplify) | SF | 6d |
+| SECURE | [Software Developer Intern](https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 6d |
+| USAA | [Technology Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133?utm_source=Simplify&ref=Simplify) | Plano, TX San Antonio, TX Phoenix, AZ | 6d |
+| S&P Global | [Software Engineer Intern - Summer 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2?utm_source=Simplify&ref=Simplify) | Cambridge, MA NYC | 6d |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623?utm_source=Simplify&ref=Simplify) | Aurora, CO | 6d |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646?utm_source=Simplify&ref=Simplify) | Aurora, CO | 6d |
+| Ovintiv | [Technology Intern - Data & Digital](https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587?utm_source=Simplify&ref=Simplify) | The Woodlands, TX Denver, CO | 6d |
+| Kensho | [Software Engineer Intern - Summer 2027](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1?utm_source=Simplify&ref=Simplify) | Cambridge, MA NYC | 6d |
+| HMH | [Software Engineer Intern](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384?utm_source=Simplify&ref=Simplify) | Houston, TX | 6d |
+| GE Vernova | [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 6d |
+| GE Vernova | [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 6d |
+| Cigna Group | [Software Engineering Intern - Technology Development Program - Software Engineering Track](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527?utm_source=Simplify&ref=Simplify) | 5 locationsBloomington, MN Austin, TX Morris Plains, NJ St. Louis, MO Bloomfield, CT | 6d |
+| CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742?utm_source=Simplify&ref=Simplify) | Lisle, IL | 6d |
+| Booz Allen | [Quantum Computing Research Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046?utm_source=Simplify&ref=Simplify) | Washington, DC | 6d |
+| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 6d |
+| Barclays | [Technology Developer Apprentice - Digital & Technology Solutions](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431?utm_source=Simplify&ref=Simplify) | Northampton, UK | 6d |
+| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397?utm_source=Simplify&ref=Simplify) | London, UK | 6d |
+| Barclays | [Technology Developer Apprentice](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443?utm_source=Simplify&ref=Simplify) | Knutsford, UK | 6d |
+| Barclays | [Technology Developer Apprentice](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 6d |
+| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381?utm_source=Simplify&ref=Simplify) | Knutsford, UK | 6d |
+| Barclays | [Technology Developer Intern - Programme](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379?utm_source=Simplify&ref=Simplify) | Northampton, UK | 6d |
+| Auto-Owners Insurance | [Intelligent Automation Developer Intern](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474?utm_source=Simplify&ref=Simplify) | Lansing, MI | 6d |
+| Auto-Owners Insurance | [IT Document Automation Developer Intern](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471?utm_source=Simplify&ref=Simplify) | Lansing, MI | 6d |
+| RF-SMART | [Software Support Engineer Intern - Netsuite](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008?utm_source=Simplify&ref=Simplify) | Jacksonville, FL | 6d |
+| Viam | [Software Engineer Intern](https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004?utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| Semgrep | [Software Engineer Intern - Cloud Platform](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 6d |
+| Two Sigma | [Software Engineering Intern - Summer 2027](https://twosigma.avature.net/careers/JobDetail/14016?utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| Revel | [Full Stack Software Engineer Intern](https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true&utm_source=Simplify&ref=Simplify) | SF LA | 6d |
+| Revel | [Forward Deployed Engineer Intern - Software](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true&utm_source=Simplify&ref=Simplify) | SF LA | 6d |
+| Talos | [Software Engineer Intern - RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| Talos | [Software Engineer Intern - Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 6d |
+| General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Pittsfield, MA | 6d |
+| Steel Dynamics | [Software Development Intern](https://careers-steeldynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Columbus, MS | 6d |
+| Steel Dynamics | [Software Development Intern](https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Columbus, MS | 6d |
+| Spirit AeroSystems | [Programmer Analyst / Developer Intern - IDT&S](https://careers.spiritaero.com/jobs/17481?icims=1&utm_source=Simplify&ref=Simplify) | Wichita, KS | 6d |
+| Neighbor | [Software Engineer Intern](https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46/apply?utm_source=Simplify&ref=Simplify) | Lehi, UT | 6d |
+| Datadog | [Software Engineer Intern - Summer](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118&utm_source=Simplify&ref=Simplify) | Boston, MA NYC | 6d |
 | Peraton | [Software Engineer Intern](https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Blacksburg, VA Herndon, VA | 6d |
 | BJC HealthCare | [RPA Automation Intern](https://jobs.bjc.org/jobs/116509?icims=1&utm_source=Simplify&ref=Simplify) | St. Louis, MO | 6d |
 | United Launch Alliance | [Software Engineer Intern](https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Centennial, CO | 6d |
-| Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify) | 8 locationsDayton, OH Knoxville, TN Portsmouth, NH Princeton, NJ Lake Oswego, OR Westminster, CO Sunnyvale, CA Atlanta, GA | 6d |
-| TD Bank | [Summer Analyst - Software Engineering Rotational Program](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 6d |
-| RTX | [Platform System Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
-| RTX | [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
-| RTX | [Systems Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
-| Motorola | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388?utm_source=Simplify&ref=Simplify) | Chicago, IL | 6d |
-| Merck | [Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939?utm_source=Simplify&ref=Simplify) | West Point, PA | 6d |
-| Dimensional Fund Advisors | [Software Engineer Intern](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022?utm_source=Simplify&ref=Simplify) | Austin, TX | 6d |
-| Dick's Sporting Goods | [Software Engineer Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 6d |
-| COUNTRY Financial | [Information Technology Services Intern](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Information-Technology-Services-Intern_R26_0000000977?utm_source=Simplify&ref=Simplify) | Bloomington, IL | 6d |
-| COUNTRY Financial | [Automation Developer Intern](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000?utm_source=Simplify&ref=Simplify) | Bloomington, IL | 6d |
-| Capital One | [AI Engineering Intern 🎓](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify) | San Jose, CA McLean, VA NYC | 6d |
-| Capital One | [AI Engineer Intern 🎓](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify) | San Jose, CA McLean, VA NYC | 6d |
-| C.H. Robinson | [Software Engineer Intern](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323?utm_source=Simplify&ref=Simplify) | Eden Prairie, MN | 6d |
-| Boeing | [Artificial Intelligence Software Engineer Intern - Graduate Researcher Program 🎓](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687?utm_source=Simplify&ref=Simplify) | Tukwila, WA | 6d |
-| ABB | [Application Engineering Intern - Summer 2027](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706?utm_source=Simplify&ref=Simplify) | Lombard, IL Alpharetta, GA | 6d |
+| Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify) | 8 locationsDayton, OH Knoxville, TN Portsmouth, NH Princeton, NJ Lake Oswego, OR Westminster, CO Sunnyvale, CA Atlanta, GA | 7d |
+| TD Bank | [Summer Analyst - Software Engineering Rotational Program](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 7d |
+| RTX | [Platform System Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 7d |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 7d |
+| RTX | [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 7d |
+| RTX | [Systems Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 7d |
+| Motorola | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388?utm_source=Simplify&ref=Simplify) | Chicago, IL | 7d |
+| Merck | [Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939?utm_source=Simplify&ref=Simplify) | West Point, PA | 7d |
+| Dimensional Fund Advisors | [Software Engineer Intern](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022?utm_source=Simplify&ref=Simplify) | Austin, TX | 7d |
+| Dick's Sporting Goods | [Software Engineer Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 7d |
+| COUNTRY Financial | [Information Technology Services Intern](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Information-Technology-Services-Intern_R26_0000000977?utm_source=Simplify&ref=Simplify) | Bloomington, IL | 7d |
+| COUNTRY Financial | [Automation Developer Intern](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000?utm_source=Simplify&ref=Simplify) | Bloomington, IL | 7d |
+| Capital One | [AI Engineering Intern 🎓](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify) | San Jose, CA McLean, VA NYC | 7d |
+| Capital One | [AI Engineer Intern 🎓](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify) | San Jose, CA McLean, VA NYC | 7d |
+| C.H. Robinson | [Software Engineer Intern](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323?utm_source=Simplify&ref=Simplify) | Eden Prairie, MN | 7d |
+| Boeing | [Artificial Intelligence Software Engineer Intern - Graduate Researcher Program 🎓](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687?utm_source=Simplify&ref=Simplify) | Tukwila, WA | 7d |
+| ABB | [Application Engineering Intern - Summer 2027](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706?utm_source=Simplify&ref=Simplify) | Lombard, IL Alpharetta, GA | 7d |
 | Dropbox | [Software Engineer Intern - Summer 2027](https://boards.greenhouse.io/embed/job_app?token=8106224&utm_source=Simplify&ref=Simplify) | Remote in USA | 7d |
 | incident.io | [Product Engineer Intern](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK | 7d |
-| Xcel Energy | [AI Solutions Development Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1?utm_source=Simplify&ref=Simplify) | Minneapolis, MN Denver, CO | 7d |
-| Xcel Energy | [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 7d |
-| Tokyo Electron | [Automation Developer/Analyst Intern](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497?utm_source=Simplify&ref=Simplify) | Austin, TX | 7d |
-| Blackstone | [Software Engineer Summer Analyst - Technology and Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358?utm_source=Simplify&ref=Simplify) | London, UK | 7d |
-| Schonfeld | [Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089?utm_source=Simplify&ref=Simplify) | NYC | 9d |
-| Schonfeld | [Technology Intern - DMFI](https://job-boards.greenhouse.io/schonfeld/jobs/8171772?utm_source=Simplify&ref=Simplify) | NYC | 9d |
-| ENFOS | [Software Engineer Intern - Summer 2027](https://apply.workable.com/enfos-inc/j/CA15908E0A/apply?utm_source=Simplify&ref=Simplify) | Durham, NC | 9d |
-| Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Applications - Infotainment & Mobile](https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA Irvine, CA | 9d |
-| Zipline | [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003&utm_source=Simplify&ref=Simplify) | South SF | 9d |
-| Scale AI | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/scaleai/jobs/4730845005?utm_source=Simplify&ref=Simplify) | SF | 9d |
-| ID.me | [Software Development Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 9d |
-| Keysight Technologies | [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1&utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 9d |
-| CDM Smith | [Electrical Engineer Intern - Summer 2027](https://careers.cdmsmith.com/jobs/4398?icims=1&utm_source=Simplify&ref=Simplify) | Latham, NY | 9d |
-| General Dynamics UK | [Computer Science and Robotics Co-op - Information Technology](https://jobs.smartrecruiters.com/GDMSI/744000147541849?utm_source=Simplify&ref=Simplify) | Sherbrooke, QC, Canada | 9d |
-| Nokia | [AI Agent Development Co-op 🎓](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify) | San Jose, CA | 9d |
-| RoviSys | [Engineering Co-op - Summer 2027](https://careers-rovisys.icims.com/jobs/2131/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Houston, TX | 9d |
-| RoviSys | [Engineering Co-op - Summer 2027](https://careers-rovisys.icims.com/jobs/2128/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Holly Springs, NC | 9d |
-| RoviSys | [Engineering Co-op - Summer 2027](https://careers-rovisys.icims.com/jobs/2137/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Aurora, OH | 9d |
-| RoviSys | [Engineering Co-op](https://careers-rovisys.icims.com/jobs/2143/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Portage, MI | 9d |
-| RoviSys | [Engineering Co-op](https://careers-rovisys.icims.com/jobs/2144/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Charlotte, NC | 9d |
+| Xcel Energy | [AI Solutions Development Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1?utm_source=Simplify&ref=Simplify) | Minneapolis, MN Denver, CO | 8d |
+| Xcel Energy | [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 8d |
+| Tokyo Electron | [Automation Developer/Analyst Intern](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| Blackstone | [Software Engineer Summer Analyst - Technology and Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358?utm_source=Simplify&ref=Simplify) | London, UK | 8d |
+| Schonfeld | [Software Engineering Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8180089?utm_source=Simplify&ref=Simplify) | NYC | 10d |
+| Schonfeld | [Technology Intern - DMFI](https://job-boards.greenhouse.io/schonfeld/jobs/8171772?utm_source=Simplify&ref=Simplify) | NYC | 10d |
+| ENFOS | [Software Engineer Intern - Summer 2027](https://apply.workable.com/enfos-inc/j/CA15908E0A/apply?utm_source=Simplify&ref=Simplify) | Durham, NC | 10d |
+| Rivian and Volkswagen Group Technologies | [Software Engineering Intern - Applications - Infotainment & Mobile](https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA Irvine, CA | 10d |
+| Zipline | [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003&utm_source=Simplify&ref=Simplify) | South SF | 10d |
+| Scale AI | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/scaleai/jobs/4730845005?utm_source=Simplify&ref=Simplify) | SF | 10d |
+| ID.me | [Software Development Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 10d |
+| Keysight Technologies | [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1&utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 10d |
+| CDM Smith | [Electrical Engineer Intern - Summer 2027](https://careers.cdmsmith.com/jobs/4398?icims=1&utm_source=Simplify&ref=Simplify) | Latham, NY | 10d |
+| General Dynamics UK | [Computer Science and Robotics Co-op - Information Technology](https://jobs.smartrecruiters.com/GDMSI/744000147541849?utm_source=Simplify&ref=Simplify) | Sherbrooke, QC, Canada | 10d |
+| Nokia | [AI Agent Development Co-op 🎓](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify) | San Jose, CA | 10d |
+| RoviSys | [Engineering Co-op - Summer 2027](https://careers-rovisys.icims.com/jobs/2131/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Houston, TX | 10d |
+| RoviSys | [Engineering Co-op - Summer 2027](https://careers-rovisys.icims.com/jobs/2128/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Holly Springs, NC | 10d |
+| RoviSys | [Engineering Co-op - Summer 2027](https://careers-rovisys.icims.com/jobs/2137/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Aurora, OH | 10d |
+| RoviSys | [Engineering Co-op](https://careers-rovisys.icims.com/jobs/2143/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Portage, MI | 10d |
+| RoviSys | [Engineering Co-op](https://careers-rovisys.icims.com/jobs/2144/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Charlotte, NC | 10d |
 | Westinghouse Electric Company | [Application Development Intern](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 10d |
 | Westinghouse Electric Company | [Enovia PLM Developer Intern - Enovia PLM](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 10d |
 | Principal Financial Group | [Software Engineer Intern - Summer 2027](https://careers.principal.com/jobs/52513?icims=1&utm_source=Simplify&ref=Simplify) | Charlotte, NC | 10d |
 | Primer | [Software Engineer Intern - Full Stack](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 10d |
+<<<<<<< HEAD
 | Amazon | [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA Nashville, TN Austin, TX North Reading, MA Arlington County, Arlington, VA Bellevue, WA Westborough, MA | 10d |
 | TJX | [IT Engineer Intern](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160?utm_source=Simplify&ref=Simplify) | Marlborough, MA | 10d |
 | Saab | [Software Engineering Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1?utm_source=Simplify&ref=Simplify) | East Syracuse, NY | 10d |
@@ -5882,10 +7977,73 @@
 | GE Vernova | [Software Engineering Co-op - Critical Infrastructure Communication Engineering](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 11d |
 | DriveTime | [Software Engineer Intern - Summer 2027](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294?utm_source=Simplify&ref=Simplify) | Tempe, AZ | 11d |
 | Adobe | [Software Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT | 11d |
+=======
+| Amazon | [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA Nashville, TN Austin, TX North Reading, MA Arlington County, Arlington, VA Bellevue, WA Westborough, MA | 11d |
+| TJX | [IT Engineer Intern](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160?utm_source=Simplify&ref=Simplify) | Marlborough, MA | 11d |
+| Saab | [Software Engineering Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1?utm_source=Simplify&ref=Simplify) | East Syracuse, NY | 11d |
+| RSM | [Application Development Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2027_JR120736?utm_source=Simplify&ref=Simplify) | 4 locationsDes Moines, IA Chicago, IL Minneapolis, MN Denver, CO | 11d |
+| Procter & Gamble | [Digital Technologies Intern/Co-op](https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Digital-Technologies-Internship-Co-op---Stage-ou-programme-coopratif-en-en-technologies-digitales_R000158595?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 11d |
+| Hy-Vee | [Software Engineer Intern](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133?utm_source=Simplify&ref=Simplify) | West Des Moines, IA | 11d |
+| GE Vernova | [Project Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 11d |
+| GE Vernova | [Project Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 11d |
+| GE Vernova | [AI Digitization Co-op - HDNU Global Operations](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-1?utm_source=Simplify&ref=Simplify) | Schenectady, NY Atlanta, GA | 11d |
+| GE Vernova | [AI Digitization Co-op - HDNU Global Operations](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-2?utm_source=Simplify&ref=Simplify) | Schenectady, NY Atlanta, GA | 11d |
+| DIRECTV | [Customer Operations Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273?utm_source=Simplify&ref=Simplify) | El Segundo, CA | 11d |
+| CIBC | [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1?utm_source=Simplify&ref=Simplify) | Chicago, IL | 11d |
+| CIBC | [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322?utm_source=Simplify&ref=Simplify) | Chicago, IL | 11d |
+| CACI | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648?utm_source=Simplify&ref=Simplify) | Ypsilanti, MI | 11d |
+| Barclays | [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236?utm_source=Simplify&ref=Simplify) | Wilmington, DE | 11d |
+| Barclays | [Technology Developer Intern - Technology](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234?utm_source=Simplify&ref=Simplify) | Hanover, NJ | 11d |
+| Innovative Systems | [Software Engineer Intern/Co-op](http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 11d |
+| The Exploration Company | [Engineering Intern - Software](https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 11d |
+| Apex | [Ground Software Intern - Spring or Summer 2027](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 11d |
+| Skyward | [Software Engineer Intern](https://jobs.smartrecruiters.com/Skyward1/744000147320799?utm_source=Simplify&ref=Simplify) | Stevens Point, WI | 11d |
+| Hexagon AB | [Positioning Services Intern](https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 11d |
+| Waymo | [Software Engineering Intern - Behavior Test - MS 🎓](https://careers.withwaymo.com/jobs?gh_jid=8174504&utm_source=Simplify&ref=Simplify) | SF | 11d |
+| Waymo | [Intern](https://careers.withwaymo.com/jobs?gh_jid=8174099&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 11d |
+| Transcard Payments | [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288?utm_source=Simplify&ref=Simplify) | Chattanooga, TN | 11d |
+| Hadrian | [Software Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true&utm_source=Simplify&ref=Simplify) | LA Torrance, CA | 12d |
+| National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/nisc/jobs/8092699?utm_source=Simplify&ref=Simplify) | Lake St Louis, MO Mandan, ND Cedar Rapids, IA | 12d |
+| National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174096?utm_source=Simplify&ref=Simplify) | Mandan, ND | 12d |
+| National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174090?utm_source=Simplify&ref=Simplify) | Lake St Louis, MO | 12d |
+| National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174088?utm_source=Simplify&ref=Simplify) | Lake St Louis, MO Mandan, ND Cedar Rapids, IA | 12d |
+| Kinder Morgan | [Intern - IT](https://careers.kindermorgan.com/jobs/6171?icims=1&utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 12d |
+| Hermeus | [Software Engineer Intern - Command & Control](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 12d |
+| Shure | [Unified Communications Technology Intern](https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Skokie, IL | 12d |
+| Shure | [Mobile Applications Intern - iOS](https://careersus-shure.icims.com/jobs/5007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Cloud Applications Development Intern](https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Automated Test Software Engineering Intern](https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Software Engineer Intern 🎓](https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Cloud Software Engineer Intern](https://careersus-shure.icims.com/jobs/4976/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Application Systems Development Intern - Motive Mix](https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Mobile Applications Intern - Android](https://careersus-shure.icims.com/jobs/5006/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Application Software Development Intern](https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Atlassian | [Software Engineer Intern](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job?utm_source=Simplify&ref=Simplify) | Burnaby, BC, Canada Vancouver, BC, Canada Richmond, BC, Canada | 12d |
+| Sierra Nevada Corporation | [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760?utm_source=Simplify&ref=Simplify) | Sparks, NV | 12d |
+| Sierra Nevada Corporation | [Software Engineer Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758?utm_source=Simplify&ref=Simplify) | Plano, TX | 12d |
+| Sierra Nevada Corporation | [Software Engineer Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754?utm_source=Simplify&ref=Simplify) | Dayton, OH | 12d |
+| Sierra Nevada Corporation | [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759?utm_source=Simplify&ref=Simplify) | Southern Pines, NC | 12d |
+| Sierra Nevada Corporation | [Software Engineer Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757?utm_source=Simplify&ref=Simplify) | Lone Tree, CO | 12d |
+| Sierra Nevada Corporation | [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1?utm_source=Simplify&ref=Simplify) | Folsom, CA | 12d |
+| Saab | [Software Engineer Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1?utm_source=Simplify&ref=Simplify) | East Syracuse, NY | 12d |
+| Motorola | [Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363?utm_source=Simplify&ref=Simplify) | Schaumburg, IL Plantation, FL | 12d |
+| Momentive | [Software Development Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756?utm_source=Simplify&ref=Simplify) | Niskayuna, NY | 12d |
+| GE Vernova | [CIC Systems Engineer Co-op](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [CIC Systems Engineer Co-op](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Software Engineer Co-op - Critical Infrastructure Communication](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Software Engineering Co-op - Critical Infrastructure Communication Engineering](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Software Engineer Co-op - Critical Infrastructure Communication](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [CIC Systems Engineer Co-op](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [CIC Systems Engineer Co-op](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Software Engineering Co-op - Critical Infrastructure Communication Engineering](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| DriveTime | [Software Engineer Intern - Summer 2027](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294?utm_source=Simplify&ref=Simplify) | Tempe, AZ | 12d |
+| Adobe | [Software Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT | 12d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Universal Health Services | [Software Engineer Intern - Data Analytics](https://jobs.uhsinc.com/jobs/367247?icims=1&utm_source=Simplify&ref=Simplify) | King of Prussia, PA | 12d |
 | ByteDance | [Research Intern - AI-Native Databases 🎓](https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 12d |
 | ByteDance | [Research Intern - AI-Native Databases 🎓](https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 12d |
 | Johns Hopkins Applied Physics Laboratory | [Mission Systems Engineering Intern](https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 12d |
+<<<<<<< HEAD
 | Tesla | [Physics Engine Development Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 12d |
 | Textron | [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify) | Augusta, GA | 12d |
 | McKesson | [Software Engineer Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235?utm_source=Simplify&ref=Simplify) | Irving, TX Atlanta, GA | 12d |
@@ -5895,6 +8053,17 @@
 | Intel | [Software Engineer Intern 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 12d |
 | Intel | [Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 12d |
 | Allied Solutions | [Software Engineer Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087?utm_source=Simplify&ref=Simplify) | Carmel, IN | 12d |
+=======
+| Tesla | [Physics Engine Development Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 13d |
+| Textron | [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify) | Augusta, GA | 13d |
+| McKesson | [Software Engineer Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235?utm_source=Simplify&ref=Simplify) | Irving, TX Atlanta, GA | 13d |
+| McKesson | [Software Development Intern - Summer 2027](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635?utm_source=Simplify&ref=Simplify) | Irving, TX | 13d |
+| McKesson | [Software Engineer Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742?utm_source=Simplify&ref=Simplify) | Longmont, CO | 13d |
+| McKesson | [Software Engineer Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469?utm_source=Simplify&ref=Simplify) | Longmont, CO | 13d |
+| Intel | [Software Engineer Intern 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 13d |
+| Intel | [Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 13d |
+| Allied Solutions | [Software Engineer Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087?utm_source=Simplify&ref=Simplify) | Carmel, IN | 13d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Kinder Morgan | [Information Technology Intern - Application Development](https://careers.kindermorgan.com/jobs/6032?icims=1&utm_source=Simplify&ref=Simplify) | Houston, TX | 13d |
 | Eulerity | [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4709040006?utm_source=Simplify&ref=Simplify) | NYC | 13d |
 | Hermeus | [Software Engineer Intern - Modeling & Simulation - Multiple Teams](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply?utm_source=Simplify&ref=Simplify) | LA | 13d |
@@ -5929,6 +8098,7 @@
 | Maven Securities | [Software Developer Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=Simplify&ref=Simplify) | London, UK | 13d |
 | Edison International | [Computer Science Intern](https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Santa Ana, CA | 13d |
 | Edison International | [Computer Science Intern](https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Alhambra, CA Pomona, CA Rosemead, CA | 13d |
+<<<<<<< HEAD
 | WhatNot | [Software Engineer Intern](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA SF LA NYC | 13d |
 | Sierra | [Software Engineer Intern](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 13d |
 | JP Morgan Chase | [Software Engineer Intern - Immersion Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 13d |
@@ -6014,6 +8184,93 @@
 | The Hartford | [Software Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 19d |
 | DTCC | [Application Developer Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459?utm_source=Simplify&ref=Simplify) | Tampa, FL Dallas, TX Jersey City, NJ | 19d |
 | Zip | [Software Engineer Intern](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 19d |
+=======
+| WhatNot | [Software Engineer Intern](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA SF LA NYC | 14d |
+| Sierra | [Software Engineer Intern](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 14d |
+| JP Morgan Chase | [Software Engineer Intern - Immersion Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 14d |
+| JP Morgan Chase | [Software Engineer Intern - Summer Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716?utm_source=Simplify&ref=Simplify) | London, UK Glasgow, UK | 14d |
+| Vermeer | [Software Engineer Intern - IT](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178?utm_source=Simplify&ref=Simplify) | Pella, IA | 14d |
+| Vanguard | [Application Development Intern](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846?utm_source=Simplify&ref=Simplify) | Dallas, TX | 14d |
+| Teledyne | [Software Engineer Intern](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 14d |
+| Northern Trust | [Technology Intern - Software Engineering](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1?utm_source=Simplify&ref=Simplify) | Chicago, IL | 14d |
+| Newrez | [Software Developer Intern](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390?utm_source=Simplify&ref=Simplify) | Coppell, TX | 14d |
+| Medline | [Software Engineer Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623?utm_source=Simplify&ref=Simplify) | Northbrook, IL | 14d |
+| Medline | [Software Development Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Development-Intern---Summer-2027_R2617613?utm_source=Simplify&ref=Simplify) | Northbrook, IL | 14d |
+| Johnson & Johnson | [Software Engineer Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743?utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 14d |
+| Greenheck Group | [Engineering Co-op](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348?utm_source=Simplify&ref=Simplify) | Tulsa, OK | 14d |
+| First National Bank | [Application Development Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 14d |
+| Booz Allen | [Systems Engineer Intern - University - 2027 Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 14d |
+| Booz Allen | [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388?utm_source=Simplify&ref=Simplify) | Fort Walton Beach, FL | 14d |
+| Booz Allen | [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 14d |
+| Booz Allen | [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393?utm_source=Simplify&ref=Simplify) | Honolulu, HI | 14d |
+| Booz Allen | [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404?utm_source=Simplify&ref=Simplify) | Fort Walton Beach, FL | 14d |
+| Booz Allen | [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 14d |
+| Booz Allen | [Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365?utm_source=Simplify&ref=Simplify) | San Diego, CA | 14d |
+| Booz Allen | [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370?utm_source=Simplify&ref=Simplify) | Honolulu, HI | 14d |
+| Booz Allen | [Systems Engineer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369?utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 14d |
+| Booz Allen | [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366?utm_source=Simplify&ref=Simplify) | San Diego, CA | 14d |
+| Booz Allen | [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 14d |
+| Booz Allen | [Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361?utm_source=Simplify&ref=Simplify) | McLean, VA | 14d |
+| Booz Allen | [Systems Engineer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368?utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 14d |
+| Booz Allen | [Systems Engineer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386?utm_source=Simplify&ref=Simplify) | Rome, NY | 14d |
+| Ameriprise Financial | [Asset Management Technology Intern - Data Enablement](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538?utm_source=Simplify&ref=Simplify) | Boston, MA | 14d |
+| AeroVironment | [Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611?utm_source=Simplify&ref=Simplify) | 14 locationsGermantown, MD Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | 14d |
+| Aerotech | [Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team](https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 14d |
+| Westinghouse Electric Company | [Computer Engineering / Software Engineering Intern](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Rock Hill, SC Columbia, SC | 14d |
+| Cvent | [Software Engineer Intern - Summer 2027](https://careers.cvent.com/jobs/10806?icims=1&utm_source=Simplify&ref=Simplify) | Tysons, VA | 14d |
+| HP IQ | [Software Engineer Intern - Cloud Services - Summer 2027 🎓](https://job-boards.greenhouse.io/hpiq/jobs/6111955004?utm_source=Simplify&ref=Simplify) | SF | 14d |
+| HP IQ | [Software Engineer Intern - Software Systems](https://job-boards.greenhouse.io/hpiq/jobs/6140119004?utm_source=Simplify&ref=Simplify) | SF | 14d |
+| HP IQ | [Software Engineer Intern](https://job-boards.greenhouse.io/hpiq/jobs/6114912004?utm_source=Simplify&ref=Simplify) | SF | 14d |
+| Google | [Software Engineer Intern - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify) | 30 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | 14d |
+| Google | [Software Engineer Intern - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify) | 31 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | 14d |
+| Epic Games | [Frontend Programmer Intern](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004&utm_source=Simplify&ref=Simplify) | Cary, NC | 14d |
+| Bosch Home Comfort | [Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146546849?utm_source=Simplify&ref=Simplify) | Farmington Hills, MI | 14d |
+| C3.ai | [Software Engineer Intern](https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify) | Redwood City, CA | 14d |
+| Merchants Bank of Indiana | [Business Technology Intern - Application Development](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054?utm_source=Simplify&ref=Simplify) | Carmel, IN | 14d |
+| Qorvo | [Full-Stack Web Developer Intern](https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Richardson, TX | 15d |
+| The Home Depot | [Software Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 15d |
+| Stryker | [Software Engineering Intern - Multiple Teams](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify) | Fremont, CA San Jose, CA | 15d |
+| Stryker | [Software Engineering Intern - Multiple Teams](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631?utm_source=Simplify&ref=Simplify) | Fort Wayne, IN | 15d |
+| Stryker | [Software Engineering Intern - Software Engineering](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1?utm_source=Simplify&ref=Simplify) | Fort Lauderdale, FL | 15d |
+| Stryker | [Software Engineering Intern - Software Engineering](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1?utm_source=Simplify&ref=Simplify) | Portage, MI | 15d |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410?utm_source=Simplify&ref=Simplify) | Aurora, CO | 15d |
+| PricewaterhouseCoopers (PwC) | [Tax Innovation Delivery Experience Intern - Multiple Teams](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD?utm_source=Simplify&ref=Simplify) | Rosemont, IL | 15d |
+| PIMCO | [Software Engineering Intern - Technology Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800?utm_source=Simplify&ref=Simplify) | London, UK | 15d |
+| NiSource | [Software Engineer Intern](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449?utm_source=Simplify&ref=Simplify) | Columbus, OH Merrillville, IN | 15d |
+| Nike | [Software Engineer Intern](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 15d |
+| Medline | [RPA & Agentic AI Software Technologies Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378?utm_source=Simplify&ref=Simplify) | Northbrook, IL | 15d |
+| Manulife Financial | [Software Engineering Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 15d |
+| DraftKings | [Software Engineer Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928?utm_source=Simplify&ref=Simplify) | Boston, MA | 15d |
+| CACI | [Software Engineer Co-op - Summer & Fall 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354?utm_source=Simplify&ref=Simplify) | Danbury, CT | 15d |
+| CACI | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359?utm_source=Simplify&ref=Simplify) | Sarasota, FL | 15d |
+| CACI | [Software Engineer Co-op - Spring & Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1?utm_source=Simplify&ref=Simplify) | Danbury, CT | 15d |
+| BlueCross BlueShield of Nebraska | [Digital Experience Information Systems Intern](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101404?utm_source=Simplify&ref=Simplify) | Omaha, NE | 15d |
+| Northwood Space | [Software Engineer Intern - Multiple Teams](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify) | LA Torrance, CA | 17d |
+| Zipline | [Maps Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7980866003&utm_source=Simplify&ref=Simplify) | South SF | 17d |
+| Intuit | [Software Engineer Intern - Full Stack](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify) | 5 locationsCharlotte, NC NYC Mountain View, CA Atlanta, GA San Diego, CA | 17d |
+| Persona AI | [Robotics Software Intern - Manipulation](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true&utm_source=Simplify&ref=Simplify) | Houston, TX | 17d |
+| Booz Allen | [Software Developer Intern - University - 2027 Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130?utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 18d |
+| Booz Allen | [Software Developer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141?utm_source=Simplify&ref=Simplify) | Rome, NY | 18d |
+| Booz Allen | [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134?utm_source=Simplify&ref=Simplify) | Charleston, SC | 18d |
+| Booz Allen | [AI Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115?utm_source=Simplify&ref=Simplify) | San Diego, CA | 18d |
+| TELUS Digital | [Software Engineer Intern - US - Summer 2027](https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true&utm_source=Simplify&ref=Simplify) | Durham, NC Columbus, OH Charlottesville, VA | 18d |
+| Tesla | [Software Engineer Intern - Vehicle Software - Summer 2027](https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 18d |
+| IMC Trading | [Performance Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101?utm_source=Simplify&ref=Simplify) | Chicago, IL | 18d |
+| Auto-Owners Insurance | [Software Developer Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify) | Lansing, MI | 19d |
+| Manulife Financial | [Software Engineering Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680?utm_source=Simplify&ref=Simplify) | Boston, MA | 19d |
+| Commerce Bank | [IT Intern - Summer 2027](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395?utm_source=Simplify&ref=Simplify) | Kansas City, MO | 19d |
+| Booz Allen | [Software Developer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046?utm_source=Simplify&ref=Simplify) | El Segundo, CA | 19d |
+| Booz Allen | [Software Developer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038?utm_source=Simplify&ref=Simplify) | San Diego, CA | 19d |
+| Steven's Capital Management | [Software Engineer](https://grnh.se/abfli75k1us?utm_source=Simplify&ref=Simplify) | Radnor, PA | 20d |
+| AbbVie | [Business Technology Solutions Intern - Data & Software Engineering](https://jobs.smartrecruiters.com/AbbVie/3743990014860306?utm_source=Simplify&ref=Simplify) | Irvine, CA | 20d |
+| AbbVie | [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014860391?utm_source=Simplify&ref=Simplify) | South SF | 20d |
+| Honeywell | [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557?utm_source=Simplify&ref=Simplify) | United States | 20d |
+| Honeywell | [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558?utm_source=Simplify&ref=Simplify) | United States | 20d |
+| Epic Games | [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004&utm_source=Simplify&ref=Simplify) | Cary, NC | 20d |
+| The Hartford | [Software Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 20d |
+| DTCC | [Application Developer Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459?utm_source=Simplify&ref=Simplify) | Tampa, FL Dallas, TX Jersey City, NJ | 20d |
+| Zip | [Software Engineer Intern](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 20d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | The Voleon Group | [Software Engineer Intern](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true&utm_source=Simplify&ref=Simplify) | Berkeley, CA NYC | 20d |
 | Compeer Financial | [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008?utm_source=Simplify&ref=Simplify) | Sun Prairie, WI Mankato, MN Bloomington, IL | 20d |
 | Compeer Financial | [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008?utm_source=Simplify&ref=Simplify) | Lakeville, MN Mankato, MN | 20d |
@@ -6024,9 +8281,15 @@
 | Verkada | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify) | San Mateo, CA | 20d |
 | Verkada | [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify) | San Mateo, CA | 20d |
 | Verkada | [Backend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify) | San Mateo, CA | 20d |
+<<<<<<< HEAD
 | The Hartford | [Software Engineer Intern - Technology & Data](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609?utm_source=Simplify&ref=Simplify) | Columbus, OH | 20d |
 | Brunswick | [Systems Engineer Co-op - Software Engineering](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212?utm_source=Simplify&ref=Simplify) | Fond du Lac, WI | 20d |
 | BTI360 | [Software Engineer Intern](https://job-boards.greenhouse.io/bti36021/jobs/8155152?utm_source=Simplify&ref=Simplify) | Herndon, VA | 20d |
+=======
+| The Hartford | [Software Engineer Intern - Technology & Data](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609?utm_source=Simplify&ref=Simplify) | Columbus, OH | 21d |
+| Brunswick | [Systems Engineer Co-op - Software Engineering](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212?utm_source=Simplify&ref=Simplify) | Fond du Lac, WI | 21d |
+| BTI360 | [Software Engineer Intern](https://job-boards.greenhouse.io/bti36021/jobs/8155152?utm_source=Simplify&ref=Simplify) | Herndon, VA | 21d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Springs Window Fashions | [Software Engineering Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Long Island City, Queens, NY | 21d |
 | Sage | [Software Engineer Intern - Edge - Summer 2027](https://job-boards.greenhouse.io/sage49/jobs/6131191004?utm_source=Simplify&ref=Simplify) | NYC | 21d |
 | Sage | [Software Engineer Intern - Full Stack](https://job-boards.greenhouse.io/sage49/jobs/6131185004?utm_source=Simplify&ref=Simplify) | NYC | 21d |
@@ -6039,6 +8302,7 @@
 | BNY | [Engineering Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252?utm_source=Simplify&ref=Simplify) | Lake Mary, FL | 21d |
 | BNY | [Software Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253?utm_source=Simplify&ref=Simplify) | NYC | 21d |
 | Gulfstream | [Software Engineer Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Savannah, GA | 21d |
+<<<<<<< HEAD
 | The Hartford | [Software Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1?utm_source=Simplify&ref=Simplify) | Hartford, CT | 21d |
 | Procter & Gamble | [IT Engineering Internship - Software, Platform, Network](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503?utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 21d |
 | Motorola | [Android Application Developer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740?utm_source=Simplify&ref=Simplify) | Chicago, IL | 21d |
@@ -6047,47 +8311,57 @@
 | Freddie Mac | [Multifamily Software Development Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564?utm_source=Simplify&ref=Simplify) | McLean, VA | 21d |
 | DuCharme, McMillen & Associates | [Software Developer Intern](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636?utm_source=Simplify&ref=Simplify) | Indianapolis, IN Fort Wayne, IN | 21d |
 | TikTok | [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) | San Jose, CA | 23d |
+=======
+| The Hartford | [Software Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1?utm_source=Simplify&ref=Simplify) | Hartford, CT | 22d |
+| Procter & Gamble | [IT Engineering Internship - Software, Platform, Network](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503?utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 22d |
+| Motorola | [Android Application Developer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740?utm_source=Simplify&ref=Simplify) | Chicago, IL | 22d |
+| Freddie Mac | [Software Developer Intern - Single-Family](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544?utm_source=Simplify&ref=Simplify) | McLean, VA | 22d |
+| Freddie Mac | [Technology Intern - Enterprise Operations + Technology](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542?utm_source=Simplify&ref=Simplify) | McLean, VA | 22d |
+| Freddie Mac | [Multifamily Software Development Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564?utm_source=Simplify&ref=Simplify) | McLean, VA | 22d |
+| DuCharme, McMillen & Associates | [Software Developer Intern](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636?utm_source=Simplify&ref=Simplify) | Indianapolis, IN Fort Wayne, IN | 22d |
+| TikTok | [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) | San Jose, CA | 24d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Zipline | [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify) | South SF | 24d |
 | AMD | [Software Engineer Intern/Co-op - Masters 🎓](https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
 | AMD | [Software Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/91180?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
-| Ecolab | [Digital & AI Technology Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249?utm_source=Simplify&ref=Simplify) | Naperville, IL Eagan, MN St Paul, MN | 24d |
-| Blackstone | [Software Engineer Summer Analyst - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021?utm_source=Simplify&ref=Simplify) | Miami, FL | 24d |
+| Ecolab | [Digital & AI Technology Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249?utm_source=Simplify&ref=Simplify) | Naperville, IL Eagan, MN St Paul, MN | 25d |
+| Blackstone | [Software Engineer Summer Analyst - Blackstone Technology & Innovations](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021?utm_source=Simplify&ref=Simplify) | Miami, FL | 25d |
 | AbbVie | [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918?utm_source=Simplify&ref=Simplify) | North Chicago, IL | 25d |
-| TikTok | [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 25d |
-| TikTok | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493?utm_source=Simplify&ref=Simplify) | Seattle, WA | 25d |
-| TikTok | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify) | San Jose, CA | 25d |
-| TikTok | [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify) | San Jose, CA | 25d |
-| General Matter | [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008?utm_source=Simplify&ref=Simplify) | LA | 25d |
-| Deloitte | [Data & AI Solutions Engineering Summer Scholar Intern](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 26d |
-| Regions Bank | [Technology Intern - Multiple Teams](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425?utm_source=Simplify&ref=Simplify) | Hoover, AL | 26d |
-| NVIDIA | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify) | Canada Santa Clara, CA | 26d |
-| Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004?utm_source=Simplify&ref=Simplify) | NYC | 26d |
-| American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 26d |
+| TikTok | [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 26d |
+| TikTok | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493?utm_source=Simplify&ref=Simplify) | Seattle, WA | 26d |
+| TikTok | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify) | San Jose, CA | 26d |
+| TikTok | [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify) | San Jose, CA | 26d |
+| General Matter | [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008?utm_source=Simplify&ref=Simplify) | LA | 26d |
+| Deloitte | [Data & AI Solutions Engineering Summer Scholar Intern](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 27d |
+| Regions Bank | [Technology Intern - Multiple Teams](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425?utm_source=Simplify&ref=Simplify) | Hoover, AL | 27d |
+| NVIDIA | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify) | Canada Santa Clara, CA | 27d |
+| Garda Capital Partners | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004?utm_source=Simplify&ref=Simplify) | NYC | 27d |
+| American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 27d |
 | TikTok | [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify) | San Jose, CA | 27d |
 | American Express | [AI Engineer Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 27d |
 | American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 27d |
-| PIMCO | [Software Engineering Intern - Technology Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745?utm_source=Simplify&ref=Simplify) | Austin, TX | 27d |
-| American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 27d |
-| Deutsche Bank | [Technology, Data and Innovation Intern - Technology, Data and Innovation](https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w?utm_source=Simplify&ref=Simplify) | NYC | 27d |
-| ByteDance | [Software Engineer Intern - Global Payment](https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 27d |
-| American Express | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698?utm_source=Simplify&ref=Simplify) | NYC | 27d |
-| American Express | [Software Engineer Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 27d |
-| American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 27d |
-| American Express | [Software Engineer Intern - Technology](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970?utm_source=Simplify&ref=Simplify) | NYC | 27d |
+| PIMCO | [Software Engineering Intern - Technology Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745?utm_source=Simplify&ref=Simplify) | Austin, TX | 28d |
+| American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 28d |
+| Deutsche Bank | [Technology, Data and Innovation Intern - Technology, Data and Innovation](https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w?utm_source=Simplify&ref=Simplify) | NYC | 28d |
+| ByteDance | [Software Engineer Intern - Global Payment](https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 28d |
+| American Express | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698?utm_source=Simplify&ref=Simplify) | NYC | 28d |
+| American Express | [Software Engineer Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 28d |
+| American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 28d |
+| American Express | [Software Engineer Intern - Technology](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970?utm_source=Simplify&ref=Simplify) | NYC | 28d |
 | Optiver | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify) | London, UK | 28d |
 | FAST Enterprises | [Implementation Intern](https://careers.fastenterprises.com/jobs/1709?icims=1&utm_source=Simplify&ref=Simplify) | United States | 28d |
 | Google | [Software Engineering or Site Reliability Engineering PhD Intern 🎓](https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=Simplify&ref=Simplify) | London, UK | 28d |
 | W.W. Grainger | [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Chicago, IL | 28d |
 | American Express | [Software Engineer Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 28d |
 | American Express | [Software Engineer Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082?utm_source=Simplify&ref=Simplify) | NYC | 28d |
-| Vanguard | [IT Intern - Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 28d |
-| Vanguard | [IT Intern - Investment Systems](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1?utm_source=Simplify&ref=Simplify) | Malvern, PA | 28d |
-| Dee Zee | [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify) | Des Moines, IA | 28d |
-| Notion | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 30d |
-| ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 30d |
-| ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 30d |
+| Vanguard | [IT Intern - Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 29d |
+| Vanguard | [IT Intern - Investment Systems](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1?utm_source=Simplify&ref=Simplify) | Malvern, PA | 29d |
+| Dee Zee | [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify) | Des Moines, IA | 29d |
+| Notion | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 1mo |
+| ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | ByteDance | [Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓](https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | TikTok | [Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | Specter Aerospace | [Full Stack Developer Co-op](https://specteraerospace.bamboohr.com/careers/122/?utm_source=Simplify&ref=Simplify) | Boston, MA Peabody, MA | 1mo |
@@ -6168,44 +8442,52 @@
 | Appian | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify) | McLean, VA | 1mo |
 | Virtu Financial | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=Simplify&ref=Simplify) | Austin, TX NYC | 1mo |
 | Chicago Trading Company | [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+<<<<<<< HEAD
+=======
+| OpenGov | [Product Intern](https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true&utm_source=Simplify&ref=Simplify) | Boston, MA | 0d |
+| OpenGov | [Product Intern](https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 0d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Intuit | [Product Manager Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632?utm_source=Simplify&ref=Simplify) | Mountain View, CA San Diego, CA | 0d |
 | Ulta Beauty | [Digital Product Management Intern](https://careers.ulta.com/jobs/423575?icims=1&utm_source=Simplify&ref=Simplify) | Bolingbrook, IL | 0d |
 | American Express | [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
 | American Express | [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764?utm_source=Simplify&ref=Simplify) | Burgess Hill, UK | 0d |
-| Oshkosh | [Product Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276?utm_source=Simplify&ref=Simplify) | New Hudson, MI | 0d |
-| Veeam Software | [Services Portfolio Management Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955307101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
-| USAA | [Product Management Analyst Intern - Property and Casualty](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 3d |
-| Momentive | [Product Management Intern - Specialty Additives](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816?utm_source=Simplify&ref=Simplify) | Friendly, WV | 3d |
-| Amgen | [Digital Product Intern - Digital Product - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744?utm_source=Simplify&ref=Simplify) | Remote in USA | 3d |
-| Amgen | [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711?utm_source=Simplify&ref=Simplify) | Remote in USA | 3d |
-| ISN Software | [Product Strategy Intern](https://isnetworld.com/en/about/careers/jobs?gh_jid=6188490004&utm_source=Simplify&ref=Simplify) | Dallas, TX | 3d |
+| Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811?utm_source=Simplify&ref=Simplify) | Minneapolis, MN | 1d |
+| Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1?utm_source=Simplify&ref=Simplify) | Eau Claire, WI Minneapolis, MN | 1d |
+| Oshkosh | [Product Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276?utm_source=Simplify&ref=Simplify) | New Hudson, MI | 1d |
+| Veeam Software | [Services Portfolio Management Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955307101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
+| USAA | [Product Management Analyst Intern - Property and Casualty](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 4d |
+| Momentive | [Product Management Intern - Specialty Additives](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816?utm_source=Simplify&ref=Simplify) | Friendly, WV | 4d |
+| Amgen | [Digital Product Intern - Digital Product - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| ISN Software | [Product Strategy Intern](https://isnetworld.com/en/about/careers/jobs?gh_jid=6188490004&utm_source=Simplify&ref=Simplify) | Dallas, TX | 4d |
 | Hudl | [Product Management Intern](https://job-boards.greenhouse.io/hudl/jobs/8155103?utm_source=Simplify&ref=Simplify) | Lincoln, NE | 4d |
-| ITT | [Product Management Co-op - Spring/Summer 2027](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Seneca Falls, NY | 4d |
-| Robert Bosch Venture Capital | [Product Management AI-Tool Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000148575999?utm_source=Simplify&ref=Simplify) | Farmington Hills, MI | 4d |
+| ITT | [Product Management Co-op - Spring/Summer 2027](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Seneca Falls, NY | 5d |
+| Robert Bosch Venture Capital | [Product Management AI-Tool Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000148575999?utm_source=Simplify&ref=Simplify) | Farmington Hills, MI | 5d |
 | Navy Federal | [Product Strategist Intern - Student Loans](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361?utm_source=Simplify&ref=Simplify) | Vienna, VA | 5d |
 | Navy Federal | [Product Strategist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309?utm_source=Simplify&ref=Simplify) | Vienna, VA | 5d |
-| Coinbase | [Product Manager Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175504&utm_source=Simplify&ref=Simplify) | NYC | 5d |
-| Coinbase | [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322&utm_source=Simplify&ref=Simplify) | SF | 5d |
-| Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 5d |
-| USAA | [Digital Technical Product Management Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 5d |
-| RF-SMART | [Product Strategy Intern](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008?utm_source=Simplify&ref=Simplify) | Jacksonville, FL | 5d |
-| Hormel Foods | [R&D Product Development Intern - Campus Recruiting](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735?utm_source=Simplify&ref=Simplify) | Northbrook, IL | 5d |
+| Coinbase | [Product Manager Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175504&utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| Coinbase | [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322&utm_source=Simplify&ref=Simplify) | SF | 6d |
+| Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 6d |
+| USAA | [Digital Technical Product Management Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 6d |
+| RF-SMART | [Product Strategy Intern](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008?utm_source=Simplify&ref=Simplify) | Jacksonville, FL | 6d |
+| Hormel Foods | [R&D Product Development Intern - Campus Recruiting](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735?utm_source=Simplify&ref=Simplify) | Northbrook, IL | 6d |
 | ID.me | [Product Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 6d |
 | ID.me | [Associate Product Manager New Grad](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 6d |
 | BNY | [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify) | London, UK | 6d |
-| U.S. Bank | [Product Management Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766?utm_source=Simplify&ref=Simplify) | Minneapolis, MN | 6d |
-| Trimble | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1?utm_source=Simplify&ref=Simplify) | Westminster, CO San Diego, CA | 6d |
-| Dick's Sporting Goods | [Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 6d |
-| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185?utm_source=Simplify&ref=Simplify) | Long Island, New York | 6d |
-| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 6d |
-| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188?utm_source=Simplify&ref=Simplify) | Draper, UT | 6d |
-| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191?utm_source=Simplify&ref=Simplify) | Burlington, VT | 6d |
-| Ernst & Young | [Product Manager Intern - Tax - Other Tax](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify) | NYC | 9d |
-| Roblox | [Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 11d |
-| TikTok | [AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7677493272788683013?utm_source=Simplify&ref=Simplify) | San Jose, CA | 11d |
-| Shure | [Global Product Management Intern - Conferencing](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 11d |
-| Shure | [Global Product Management Data Intern](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 11d |
+| U.S. Bank | [Product Management Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766?utm_source=Simplify&ref=Simplify) | Minneapolis, MN | 7d |
+| Trimble | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1?utm_source=Simplify&ref=Simplify) | Westminster, CO San Diego, CA | 7d |
+| Dick's Sporting Goods | [Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 7d |
+| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185?utm_source=Simplify&ref=Simplify) | Long Island, New York | 7d |
+| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 7d |
+| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188?utm_source=Simplify&ref=Simplify) | Draper, UT | 7d |
+| Cox | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191?utm_source=Simplify&ref=Simplify) | Burlington, VT | 7d |
+| Ernst & Young | [Product Manager Intern - Tax - Other Tax](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify) | NYC | 10d |
+| Roblox | [Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 12d |
+| TikTok | [AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7677493272788683013?utm_source=Simplify&ref=Simplify) | San Jose, CA | 12d |
+| Shure | [Global Product Management Intern - Conferencing](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Global Product Management Data Intern](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
 | Atlassian | [Product Management Intern](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) | SF | 12d |
+<<<<<<< HEAD
 | Corning | [Digital & IT Intern](https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern,-Analyst,-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Corning, NY | 12d |
 | Mastercard | [Technical Product Management Intern - Switching Solutions](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711?utm_source=Simplify&ref=Simplify) | O'Fallon, MO | 12d |
 | Allied Solutions | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083?utm_source=Simplify&ref=Simplify) | St Paul, MN | 12d |
@@ -6239,9 +8521,45 @@
 | Schroders | [Product Intern](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952?utm_source=Simplify&ref=Simplify) | London, UK | 17d |
 | TELUS Digital | [Product Analyst Intern](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true&utm_source=Simplify&ref=Simplify) | Columbus, OH | 17d |
 | Honeywell | [Offering Management Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594?utm_source=Simplify&ref=Simplify) | United States | 17d |
+=======
+| Corning | [Digital & IT Intern](https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern,-Analyst,-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Corning, NY | 13d |
+| Mastercard | [Technical Product Management Intern - Switching Solutions](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711?utm_source=Simplify&ref=Simplify) | O'Fallon, MO | 13d |
+| Allied Solutions | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083?utm_source=Simplify&ref=Simplify) | St Paul, MN | 13d |
+| United Airlines | [Onboard Experience Intern - Summer 2027](https://careers.united.com/us/en/job/WHQ00026534?utm_source=Simplify&ref=Simplify) | Chicago, IL | 13d |
+| United Airlines | [Sales Product Intern](https://careers.united.com/us/en/job/WHQ00026558?utm_source=Simplify&ref=Simplify) | Chicago, IL | 13d |
+| Schroders | [Product Strategy Intern](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1953?utm_source=Simplify&ref=Simplify) | London, UK | 13d |
+| AMD | [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 13d |
+| American Express | [Product Management Intern - Global Merchant & Network Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 14d |
+| American Express | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143?utm_source=Simplify&ref=Simplify) | NYC | 14d |
+| American Express | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 14d |
+| American Express | [Digital Product Management Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681?utm_source=Simplify&ref=Simplify) | Phoenix, AZ | 14d |
+| American Express | [Product Management Intern - Global Merchant & Network Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636?utm_source=Simplify&ref=Simplify) | NYC | 14d |
+| American Express | [Digital Product Management Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 14d |
+| American Express | [Digital Product Management Intern - Enterprise Technology Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057?utm_source=Simplify&ref=Simplify) | NYC | 14d |
+| American Express | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627?utm_source=Simplify&ref=Simplify) | Sunrise, FL | 14d |
+| American Express | [Product Development Intern - 2027 Product Development - US Consumer Services 🎓](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605?utm_source=Simplify&ref=Simplify) | NYC | 14d |
+| Williams-Sonoma | [Merchandising Intern](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062?utm_source=Simplify&ref=Simplify) | Brooklyn, NY | 14d |
+| Vanguard | [Technical Product Manager Intern](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969?utm_source=Simplify&ref=Simplify) | Dallas, TX Malvern, PA Charlotte, NC | 14d |
+| NJM Insurance Group | [Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190?utm_source=Simplify&ref=Simplify) | Trenton, NJ | 14d |
+| Blackhawk Network Holdings | [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Coppell, TX | 14d |
+| Blackhawk Network Holdings | [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Pleasanton, CA | 14d |
+| American Express | [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 15d |
+| American Express | [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091?utm_source=Simplify&ref=Simplify) | NYC | 15d |
+| American Express | [Product Management Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558?utm_source=Simplify&ref=Simplify) | NYC | 15d |
+| The Home Depot | [Product Management Intern](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 15d |
+| PricewaterhouseCoopers (PwC) | [Tax Innovation Delivery Experience Intern - Product Management](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD?utm_source=Simplify&ref=Simplify) | Rosemont, IL | 15d |
+| Oshkosh | [Product Management Intern - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796?utm_source=Simplify&ref=Simplify) | Dodge Center, MN | 15d |
+| Oshkosh | [Product Management Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746?utm_source=Simplify&ref=Simplify) | Appleton, WI | 15d |
+| GE Vernova | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1?utm_source=Simplify&ref=Simplify) | Longmont, CO Greenville, SC | 16d |
+| GE Vernova | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2?utm_source=Simplify&ref=Simplify) | Longmont, CO Greenville, SC | 16d |
+| Schroders | [Product Intern](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952?utm_source=Simplify&ref=Simplify) | London, UK | 17d |
+| TELUS Digital | [Product Analyst Intern](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true&utm_source=Simplify&ref=Simplify) | Columbus, OH | 18d |
+| Honeywell | [Offering Management Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594?utm_source=Simplify&ref=Simplify) | United States | 18d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Vertiv | [Power Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279233?utm_source=Simplify&ref=Simplify) | Delaware, OH | 18d |
-| Johns Manville | [Product Management Intern](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432?utm_source=Simplify&ref=Simplify) | Denver, CO | 18d |
+| Johns Manville | [Product Management Intern](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432?utm_source=Simplify&ref=Simplify) | Denver, CO | 19d |
 | Vertiv | [DC Power Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952?utm_source=Simplify&ref=Simplify) | Delaware, OH | 20d |
+<<<<<<< HEAD
 | J.M. Smucker | [Sensory and Products Research Intern - Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677?utm_source=Simplify&ref=Simplify) | Orrville, OH | 20d |
 | GE Vernova | [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803?utm_source=Simplify&ref=Simplify) | Longmont, CO Greenville, SC | 20d |
 | GE Vernova | [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3?utm_source=Simplify&ref=Simplify) | Longmont, CO Greenville, SC | 20d |
@@ -6249,17 +8567,30 @@
 | TikTok | [Product Operations Intern](https://lifeattiktok.com/search/7673361736079329541?utm_source=Simplify&ref=Simplify) | LA | 20d |
 | TikTok | [Product Manager Intern - Pgc](https://lifeattiktok.com/search/7673365416605010229?utm_source=Simplify&ref=Simplify) | LA | 20d |
 | TikTok | [Product Manager Intern - Pgc](https://lifeattiktok.com/search/7673365923163638069?utm_source=Simplify&ref=Simplify) | San Jose, CA | 20d |
+=======
+| J.M. Smucker | [Sensory and Products Research Intern - Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677?utm_source=Simplify&ref=Simplify) | Orrville, OH | 21d |
+| GE Vernova | [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803?utm_source=Simplify&ref=Simplify) | Longmont, CO Greenville, SC | 21d |
+| GE Vernova | [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3?utm_source=Simplify&ref=Simplify) | Longmont, CO Greenville, SC | 21d |
+| Brunswick | [Product Management Intern - Oils & Lubricants](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213?utm_source=Simplify&ref=Simplify) | Fond du Lac, WI | 21d |
+| TikTok | [Product Operations Intern](https://lifeattiktok.com/search/7673361736079329541?utm_source=Simplify&ref=Simplify) | LA | 21d |
+| TikTok | [Product Manager Intern - Pgc](https://lifeattiktok.com/search/7673365416605010229?utm_source=Simplify&ref=Simplify) | LA | 21d |
+| TikTok | [Product Manager Intern - Pgc](https://lifeattiktok.com/search/7673365923163638069?utm_source=Simplify&ref=Simplify) | San Jose, CA | 21d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | BNY | [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345?utm_source=Simplify&ref=Simplify) | NYC | 21d |
 | Springs Window Fashions | [Product Management Competitive Product Assessment Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Middleton, WI | 23d |
 | Springs Window Fashions | [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Middleton, WI | 23d |
 | Springs Window Fashions | [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Long Island City, Queens, NY | 23d |
-| TikTok | [AI Product Manager Intern - Product Social](https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify) | San Jose, CA | 23d |
-| TikTok | [Product Manager Intern - Content and Service Ads 🎓](https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify) | San Jose, CA | 23d |
+| TikTok | [AI Product Manager Intern - Product Social](https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify) | San Jose, CA | 24d |
+| TikTok | [Product Manager Intern - Content and Service Ads 🎓](https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify) | San Jose, CA | 24d |
 | Vertiv | [Product Marketing Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046?utm_source=Simplify&ref=Simplify) | Delaware, OH | 24d |
+<<<<<<< HEAD
 | Goldman Sachs | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students&utm_source=Simplify&ref=Simplify) | Dallas, TX | 26d |
 | American Express | [Product Development Intern - Global Servicing](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749?utm_source=Simplify&ref=Simplify) | NYC | 26d |
+=======
+| American Express | [Product Development Intern - Global Servicing](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749?utm_source=Simplify&ref=Simplify) | NYC | 27d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241&utm_source=Simplify&ref=Simplify) | NYC | 28d |
-| PIMCO | [Product Strategy Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 28d |
+| PIMCO | [Product Strategy Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 29d |
 | TikTok | [Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | TikTok | [Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | TikTok | [Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
@@ -6293,7 +8624,15 @@
 | Uline | [Product Management Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939?utm_source=Simplify&ref=Simplify) | 5 locationsWaukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | 1mo |
 | Pentair | [Product Management Internship](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713?utm_source=Simplify&ref=Simplify) | 6 locationsApex, NC Brookfield, WI Delavan, WI North Aurora, IL New Brighton, MN Golden Valley, MN | 1mo |
 | Appian | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify) | McLean, VA | 1mo |
+<<<<<<< HEAD
 | Databricks | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=Simplify&ref=Simplify) | SF Bellevue, WA Mountain View, CA | 1mo |
+=======
+| Howden | [Analytics Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
+| Howden | [Business Intelligence Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Business-Intelligence-Summer-Internship-2027_R0019273?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
+| ibotta | [Data Engineer Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true&utm_source=Simplify&ref=Simplify) | Denver, CO | 0d |
+| Highgate | [Data Services Intern - Summer 2027](https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Irving, TX | 0d |
+| Ernst & Young | [Data Engineer Intern - Multiple Teams](https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 0d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Intuit | [AI Scientist Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536?utm_source=Simplify&ref=Simplify) | 4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA | 0d |
 | Intuit | [Fraud & Risk Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-ms-fraud-and-risk-intern/27595/100620927744?utm_source=Simplify&ref=Simplify) | NYC Mountain View, CA | 0d |
 | Intuit | [AI Research Intern 🎓](https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 0d |
@@ -6309,6 +8648,7 @@
 | Robinhood | [People Insights & Analytics Intern - Summer 2027 🎓](https://boards.greenhouse.io/robinhood/jobs/8198255?utm_source=Simplify&ref=Simplify) | Menlo Park, CA | 0d |
 | State Farm | [Technology Product Analyst Intern - Innovation Group](https://jobs.statefarm.com/jobs/45986?icims=1&utm_source=Simplify&ref=Simplify) | 4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL | 0d |
 | URBN | [Data Science Intern](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 0d |
+<<<<<<< HEAD
 | Xcel Energy | [Load Research & Energy and Demand Forecasting Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 0d |
 | Royal Bank of Canada | [AI Engineer Co-op - Global Equities](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 0d |
 | Raymond James Financial | [Private Client Banking Strategy, Analytics & Sales Intern](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001?utm_source=Simplify&ref=Simplify) | St. Petersburg, FL | 0d |
@@ -6349,6 +8689,62 @@
 | Lyft | [Data Science Intern - Algorithms 🎓](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002&utm_source=Simplify&ref=Simplify) | NYC | 2d |
 | Lyft | [Data Analyst Intern](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002&utm_source=Simplify&ref=Simplify) | NYC | 2d |
 | Lyft | [Data Science Intern - Algorithms 🎓](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 2d |
+=======
+| Xcel Energy | [AI and Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1?utm_source=Simplify&ref=Simplify) | Minneapolis, MN Denver, CO | 1d |
+| Xcel Energy | [Energy Programs Strategy & Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1?utm_source=Simplify&ref=Simplify) | Minneapolis, MN Denver, CO | 1d |
+| Xcel Energy | [Customer Insight Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Customer-Insight-Intern---MN--CO_JR115814-1?utm_source=Simplify&ref=Simplify) | Minneapolis, MN Denver, CO | 1d |
+| Xcel Energy | [Load Research & Energy and Demand Forecasting Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1?utm_source=Simplify&ref=Simplify) | Denver, CO | 1d |
+| Wex | [AI & Data Platform Engineering Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055?utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
+| Sun Life | [Medical Intelligence Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Medical-Intelligence-Co-op---Spring-2027_JR00127676?utm_source=Simplify&ref=Simplify) | Wellesley, MA | 1d |
+| Royal Bank of Canada | [AI Engineer Co-op - Global Equities](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| Repsol | [Energy Assessment Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Energy-Assesment-Intern_84105?utm_source=Simplify&ref=Simplify) | Houston, TX | 1d |
+| Repsol | [GIS Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106?utm_source=Simplify&ref=Simplify) | Houston, TX | 1d |
+| Raymond James Financial | [Private Client Banking Strategy, Analytics & Sales Intern](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001?utm_source=Simplify&ref=Simplify) | St. Petersburg, FL | 1d |
+| Oshkosh | [Advanced Analytics Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541?utm_source=Simplify&ref=Simplify) | Frederick, MD | 1d |
+| Oshkosh | [Autonomy Engineering Intern - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320?utm_source=Simplify&ref=Simplify) | New Hudson, MI | 1d |
+| Johnson & Johnson | [Robotics Controls & Autonomy Intern - Robotics R&D](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1d |
+| Johnson & Johnson | [Business Intelligence Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1?utm_source=Simplify&ref=Simplify) | Irving, TX | 1d |
+| Johnson & Johnson | [Technology and Digital Quality Intern](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463?utm_source=Simplify&ref=Simplify) | Horsham, PA Raritan, NJ | 1d |
+| Guardian Life | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202?utm_source=Simplify&ref=Simplify) | Holmdel, NJ NYC Bethlehem, PA | 1d |
+| Gordon Food Service | [Category Technology Intern - MMSC](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Internship_R-57187?utm_source=Simplify&ref=Simplify) | Wyoming, MI | 1d |
+| Gordon Food Service | [Material Master Data Intern 🎓](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Material-Master-Data-Internship_R-57186?utm_source=Simplify&ref=Simplify) | Wyoming, MI | 1d |
+| Genworth Financial | [Data Science Intern 🎓](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| Genworth Financial | [Commercial Analytics and Optimization Team Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363-1?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| Genworth Financial | [Process Improvement Analyst Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| General Motors | [Motorsports Strategy Intern - Sportscar Motorsports Strategy](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859?utm_source=Simplify&ref=Simplify) | Concord, NC | 1d |
+| General Motors | [Summer Intern - Performance Analysis](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985?utm_source=Simplify&ref=Simplify) | Concord, NC | 1d |
+| General Motors | [Race Strategy & Analytics Intern - IndyCar](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify) | Concord, NC | 1d |
+| Enact Mortgage Insurance | [Commercial Analytics and Optimization Team Intern](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| Enact Mortgage Insurance | [Data Science Intern 🎓](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| Enact Mortgage Insurance | [Process Improvement Analyst Intern](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 1d |
+| Dow Jones | [Data Analyst Intern - Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294?utm_source=Simplify&ref=Simplify) | NYC | 1d |
+| Dow Jones | [Marketing Data Science Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55295?utm_source=Simplify&ref=Simplify) | NYC | 1d |
+| Dow Jones | [Research Analyst Intern - Summer Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298?utm_source=Simplify&ref=Simplify) | Houston, TX | 1d |
+| Clarios | [People Analytics Intern - Summer 2027](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216?utm_source=Simplify&ref=Simplify) | Milwaukee, WI | 1d |
+| BlueCross BlueShield of Nebraska | [Healthcare Analytics Intern](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437?utm_source=Simplify&ref=Simplify) | Omaha, NE | 1d |
+| AtkinsRéalis | [Data Scientist Intern - Summer 2027](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1?utm_source=Simplify&ref=Simplify) | Tempe, AZ | 1d |
+| TD Bank | [Data Analyst Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800?utm_source=Simplify&ref=Simplify) | Mt Laurel Township, NJ | 2d |
+| TD Bank | [Data Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797?utm_source=Simplify&ref=Simplify) | Mt Laurel Township, NJ | 2d |
+| NVIDIA | [Research Intern 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 2d |
+| Energy Transfer Partners | [Power Optimization Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535&utm_source=Simplify&ref=Simplify) | Houston, TX | 2d |
+| Constellation Energy | [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1&utm_source=Simplify&ref=Simplify) | Baltimore, MD | 2d |
+| Energy Transfer Partners | [Business Transformation and Integration Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511&utm_source=Simplify&ref=Simplify) | Dallas, TX | 3d |
+| Perpay | [Data Science Intern 🎓](https://job-boards.greenhouse.io/perpay/jobs/4076978007?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 3d |
+| Perpay | [Data Engineering Intern 🎓](https://job-boards.greenhouse.io/perpay/jobs/4076965007?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 3d |
+| Veeam Software | [Data Analytics & Programs Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101?utm_source=Simplify&ref=Simplify) | Georgia | 3d |
+| Veeam Software | [Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101?utm_source=Simplify&ref=Simplify) | Columbus, OH | 3d |
+| Veeam Software | [Machine Learning Intern - AI 🎓](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
+| AMD | [AI Systems & GPU Performance Engineer Intern 🎓](https://careers.amd.com/jobs/92354?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 3d |
+| AMD | [Machine Learning System Engineering Intern/Co-op 🎓](https://careers.amd.com/jobs/92342?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 3d |
+| Kinder Morgan | [ESG Intern](https://careers.kindermorgan.com/jobs/6176?icims=1&utm_source=Simplify&ref=Simplify) | Houston, TX | 3d |
+| The Friedkin Group | [IT Data Analytics Intern - Business Systems & AI](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Houston, TX | 3d |
+| Lyft | [Software Engineer Intern - Machine Learning](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 3d |
+| Lyft | [Data Science Intern - Algorithms 🎓](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002&utm_source=Simplify&ref=Simplify) | SF | 3d |
+| Lyft | [Data Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 3d |
+| Lyft | [Data Science Intern - Algorithms 🎓](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002&utm_source=Simplify&ref=Simplify) | NYC | 3d |
+| Lyft | [Data Analyst Intern](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002&utm_source=Simplify&ref=Simplify) | NYC | 3d |
+| Lyft | [Data Science Intern - Algorithms 🎓](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 3d |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae
 | Westinghouse Electric Company | [Finance Analyst Intern](https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Madison, PA | 3d |
 | Citizens Financial Group | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276?utm_source=Simplify&ref=Simplify) | Boston, MA Johnston, RI Columbus, OH | 3d |
 | Citizens Financial Group | [Data Management Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277?utm_source=Simplify&ref=Simplify) | Boston, MA Johnston, RI Columbus, OH | 3d |
@@ -6360,6 +8756,7 @@
 | Citizens Financial Group | [Data Analyst Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278?utm_source=Simplify&ref=Simplify) | Boston, MA Johnston, RI Columbus, OH | 3d |
 | Citizens Financial Group | [Data Science Intern - Multiple Teams 🎓](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280?utm_source=Simplify&ref=Simplify) | Boston, MA Johnston, RI Columbus, OH | 3d |
 | Wellmark | [Data Analytics & Governance Internship](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718?utm_source=Simplify&ref=Simplify) | Des Moines, IA | 3d |
+<<<<<<< HEAD
 | Waymo | [Summer Intern - Multiple Teams 🎓](https://careers.withwaymo.com/jobs?gh_jid=8193295&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 3d |
 | USAA | [Decision Science Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 3d |
 | The Toro Company | [Robotics Engineer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 3d |
@@ -6535,3 +8932,385 @@
 | Schonfeld | [Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703?utm_source=Simplify&ref=Simplify) | NYC | 9d |
 =======
 >>>>>>> cb7e28ef1f0702ed485103550333b1b9806541d3
+=======
+| Waymo | [Summer Intern - Multiple Teams 🎓](https://careers.withwaymo.com/jobs?gh_jid=8193295&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 4d |
+| USAA | [Decision Science Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 4d |
+| The Toro Company | [Robotics Engineer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 4d |
+| The Toro Company | [Spatial Data R&D Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 4d |
+| The Toro Company | [Enterprise Analytics Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Analytics-Intern---The-Toro-Company_JR17104?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 4d |
+| Oshkosh | [AI Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265?utm_source=Simplify&ref=Simplify) | Oshkosh, WI | 4d |
+| Oshkosh | [Autonomy & Active Safety Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266?utm_source=Simplify&ref=Simplify) | Oshkosh, WI Pittsburgh, PA | 4d |
+| Nationwide | [Personal Lines Business Insights Intern](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197?utm_source=Simplify&ref=Simplify) | Columbus, OH | 4d |
+| Momentive | [Web Content Support and Administration Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Summer-2027-Intern-Web-Content-Support-and-Administration_R9796?utm_source=Simplify&ref=Simplify) | Pearl River, NY | 4d |
+| Merck | [Quality Assurance Research Clinical Quality, Analytics & AI Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---QA-Research-Clinical-Quality--Analytics---AI---Co-Op_R414840?utm_source=Simplify&ref=Simplify) | Upper Gwynedd Township, PA Rahway, NJ | 4d |
+| Merck | [Data Analytics and Insights Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657?utm_source=Simplify&ref=Simplify) | Rahway, NJ | 4d |
+| Leidos | [Artificial Intelligence/Machine Learning Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 4d |
+| LabCorp | [Financial Analytics & Technology Intern - Financial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| HNTB | [GIS Intern](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562?utm_source=Simplify&ref=Simplify) | Nashville, TN | 4d |
+| HNTB | [GIS Intern - Summer 2027](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2?utm_source=Simplify&ref=Simplify) | Nashville, TN | 4d |
+| Genworth Financial | [Data Analytics Intern - Summer 2027](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1?utm_source=Simplify&ref=Simplify) | Richmond, VA | 4d |
+| EMC Insurance | [Data Science Intern](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524?utm_source=Simplify&ref=Simplify) | Iowa | 4d |
+| Baird | [IT Data & Analytics Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1?utm_source=Simplify&ref=Simplify) | Madison, WI Milwaukee, WI | 4d |
+| Avis Budget Group | [Revenue Management Intern - Accelerate](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Revenue-Management-Summer-2027-Intern_R0190482?utm_source=Simplify&ref=Simplify) | Parsippany-Troy Hills, NJ | 4d |
+| Amgen | [Machine Learning Engineer Intern 🎓](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Machine Learning Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Data Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| Amgen | [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704?utm_source=Simplify&ref=Simplify) | Remote in USA | 4d |
+| AES | [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841?utm_source=Simplify&ref=Simplify) | Dayton, OH Indianapolis, IN | 4d |
+| Waymo | [Vehicle Intent and Prediction Intern 🎓](https://careers.withwaymo.com/jobs?gh_jid=8189848&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 4d |
+| Zipline | [Data Analytics Intern](https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003&utm_source=Simplify&ref=Simplify) | South SF | 4d |
+| Bedrock Robotics | [Onboard Infrastructure Engineer Intern - ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4d |
+| Bedrock Robotics | [Behavior Machine Learning Engineer Intern - World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4d |
+| The MJ Companies | [Enterprise Data Intern](https://job-boards.greenhouse.io/themjcos/jobs/5418283008?utm_source=Simplify&ref=Simplify) | Carmel, IN | 4d |
+| Johns Hopkins Applied Physics Laboratory | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 4d |
+| Johns Hopkins Applied Physics Laboratory | [Engineering/Science Intern - Tailored Autonomous Systems](https://careers.jhuapl.edu/jobs/59968?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 4d |
+| State Farm | [Data Science Intern - Magnet Program - Online MS Analytics 🎓](https://jobs.statefarm.com/jobs/46057?icims=1&utm_source=Simplify&ref=Simplify) | Athens, GA | 4d |
+| National Information Solutions Cooperative | [Database Conversion Programming Intern](https://job-boards.greenhouse.io/testnisc/jobs/8191898?utm_source=Simplify&ref=Simplify) | Mandan, ND | 4d |
+| National Information Solutions Cooperative | [Database Conversion Programming Intern](https://job-boards.greenhouse.io/nisc/jobs/8094408?utm_source=Simplify&ref=Simplify) | Lake St Louis, MO Mandan, ND | 4d |
+| National Information Solutions Cooperative | [Database Conversion Programming Intern](https://job-boards.greenhouse.io/testnisc/jobs/8191885?utm_source=Simplify&ref=Simplify) | Lake St Louis, MO | 4d |
+| Constellation Energy | [Business Performance & Analytics Intern](https://jobs.constellationenergy.com/jobs/138770?icims=1&utm_source=Simplify&ref=Simplify) | Houston, TX | 4d |
+| Tradeweb | [Data Platform Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301904?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 5d |
+| Walmart | [Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030?utm_source=Simplify&ref=Simplify) | Bentonville, AR | 5d |
+| Walmart | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032?utm_source=Simplify&ref=Simplify) | Bentonville, AR | 5d |
+| BlackRock | [Quantitative Master's Intern - Investments - Quantitative Investing 🎓](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465?utm_source=Simplify&ref=Simplify) | London, UK | 0d |
+| Royal Bank of Canada | [Algorithmic Trading Developer Co-op - Global Equities](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| Freddie Mac | [Multifamily Business Analysis Graduate Intern - Summer 2027 🎓](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638?utm_source=Simplify&ref=Simplify) | McLean, VA | 1d |
+| CIBC | [Global Markets Analyst or Associate - Months](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Summer-2027-Analyst-or-Associate--12-months-_2618796?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| Brevan Howard | [Quantitative Analyst Intern - AI](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602?utm_source=Simplify&ref=Simplify) | NYC | 1d |
+| Bank of Montreal | [Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| Bank of Montreal | [Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| Bank of Montreal | [Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
+| Energy Transfer Partners | [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520&utm_source=Simplify&ref=Simplify) | Overland Park, KS | 3d |
+| DV Trading | [Quantitative Research Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005?utm_source=Simplify&ref=Simplify) | NYC | 3d |
+| DV Trading | [Quantitative Trading Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005?utm_source=Simplify&ref=Simplify) | NYC | 3d |
+| Geneva Trading | [Quantitative Trading Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4d |
+| Repsol | [Middle Office Risk and Valuation Intern 🎓](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Middle-Office--Risk-and-Valuation-Intern_83841?utm_source=Simplify&ref=Simplify) | Houston, TX | 5d |
+| Brevan Howard | [Execution Research Intern - Systematic Execution Research](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595?utm_source=Simplify&ref=Simplify) | NYC | 5d |
+| Zions Bank | [Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620&utm_source=Simplify&ref=Simplify) | United States | 5d |
+| Navy Federal | [Credit Risk Analyst Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32396?utm_source=Simplify&ref=Simplify) | Vienna, VA | 5d |
+| Wells Fargo | [Quantitative Analytics Intern - Applied Computational Intelligence 🎓](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-574032?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 6d |
+| USAA | [Quantitative Risk Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753?utm_source=Simplify&ref=Simplify) | San Antonio, TX | 6d |
+| Brevan Howard | [Systematic Trading Intern 🎓](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591?utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| Schonfeld | [Quantitative Researcher Intern 🎓](https://job-boards.greenhouse.io/schonfeld/jobs/8187178?utm_source=Simplify&ref=Simplify) | London, UK | 6d |
+| Talos | [Quantitative Analyst Intern 🎓](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 6d |
+| U.S. Bank | [Quantitative Modeling Intern 🎓](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 7d |
+| Brevan Howard | [Trading Intern - Trading](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583?utm_source=Simplify&ref=Simplify) | NYC | 8d |
+| Schonfeld | [Risk Analyst Intern - DMFI](https://job-boards.greenhouse.io/schonfeld/jobs/8172053?utm_source=Simplify&ref=Simplify) | London, UK | 10d |
+| Schonfeld | [Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076?utm_source=Simplify&ref=Simplify) | Miami, FL | 10d |
+| Schonfeld | [Quantitative Research Intern 🎓](https://job-boards.greenhouse.io/schonfeld/jobs/8172074?utm_source=Simplify&ref=Simplify) | NYC | 10d |
+| Schonfeld | [Fixed Income Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172055?utm_source=Simplify&ref=Simplify) | NYC | 10d |
+| AXQ Capital | [Quantitative Research Intern - Summer 2027](https://job-boards.greenhouse.io/axq/jobs/6181069004?utm_source=Simplify&ref=Simplify) | NYC | 11d |
+| Garda Capital Partners | [Trading Analyst Intern - Credit](https://job-boards.greenhouse.io/gardacp/jobs/6163540004?utm_source=Simplify&ref=Simplify) | NYC | 12d |
+| Garda Capital Partners | [Trading Analyst Intern - Mortgages](https://job-boards.greenhouse.io/gardacp/jobs/6179468004?utm_source=Simplify&ref=Simplify) | NYC | 12d |
+| Garda Capital Partners | [Trading Analyst Intern - Rates](https://job-boards.greenhouse.io/gardacp/jobs/4934006004?utm_source=Simplify&ref=Simplify) | NYC | 12d |
+| Marshall Wace | [Quantitative Research Intern 🎓](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002?utm_source=Simplify&ref=Simplify) | London, UK | 12d |
+| Deutsche Bank | [Quantitative Trading Intern - Fixed Income & Currencies 🎓](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg?utm_source=Simplify&ref=Simplify) | NYC | 12d |
+| Deutsche Bank | [Quant Intern - Strategic Analytics 🎓](https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA?utm_source=Simplify&ref=Simplify) | NYC | 12d |
+| Royal Bank of Canada | [Quantitative Analyst Summer Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729?utm_source=Simplify&ref=Simplify) | NYC | 13d |
+| Royal Bank of Canada | [Quantitative Analyst Summer Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1?utm_source=Simplify&ref=Simplify) | NYC | 13d |
+| Tower Research Capital | [Quantitative Trader/Researcher Intern](https://www.tower-research.com/open-positions/?gh_jid=8037860&utm_source=Simplify&ref=Simplify) | London, UK | 13d |
+| Deutsche Bank | [Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs 🎓](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog?utm_source=Simplify&ref=Simplify) | London, UK | 13d |
+| Deutsche Bank | [Quantitative FIC Intern - Quantitative Trading 🎓](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA?utm_source=Simplify&ref=Simplify) | London, UK | 13d |
+| PIMCO | [Quantitative Research Analyst Intern - Client Solutions & Analytics 🎓](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804?utm_source=Simplify&ref=Simplify) | London, UK | 14d |
+| PIMCO | [Quant Research Analyst Intern - Client Solutions & Analytics 🎓](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 14d |
+| PIMCO | [Quantitative Portfolio Management Intern 🎓](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 14d |
+| PIMCO | [Quant Research Analyst Intern - Client Solutions & Analytics 🎓](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 14d |
+| PIMCO | [Quantitative Research Analyst Intern - Portfolio Management 🎓](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749?utm_source=Simplify&ref=Simplify) | Newport Beach, CA | 14d |
+| Manulife Financial | [Quantitative Analyst Co-op Intern - Derivative and Asset Modeling 🎓](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 15d |
+| Schroders | [Public Markets Quants Intern - Quants (Public Markets)](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941?utm_source=Simplify&ref=Simplify) | London, UK | 17d |
+| Alberta Investment Management Corporation | [Fixed Income Co-op](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Co-op--Fixed-Income--May-2027-_JR100898?utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 19d |
+| DV Trading | [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005?utm_source=Simplify&ref=Simplify) | NYC | 20d |
+| DTCC | [Model Risk Management Intern - 2027 Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401?utm_source=Simplify&ref=Simplify) | Jersey City, NJ | 20d |
+| AQR Capital Management | [Arbitrage Research Summer Analyst Intern - AQR Arbitrage](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 20d |
+| InfiniteQuant | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134?utm_source=Simplify&ref=Simplify) | Dubai - United Arab Emirates NYC | 21d |
+| Freddie Mac | [Quantitative Risk Management Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553?utm_source=Simplify&ref=Simplify) | McLean, VA | 22d |
+| Susquehanna International Group | [Trading Systems Engineer Intern](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK | 24d |
+| Susquehanna International Group | [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | London, UK Dublin, Ireland | 24d |
+| Ontario Teachers' Pension Plan | [Risk Intern - Models and Asset Liability](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Models-and-Asset-Liability--May-2027---12-months-_7196?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 25d |
+| Wells Fargo | [Quantitative Analytics Intern - Multiple Teams 🎓](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 28d |
+| Xantium | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009?utm_source=Simplify&ref=Simplify) | London, UK NYC | 28d |
+| Xantium | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009?utm_source=Simplify&ref=Simplify) | London, UK NYC | 28d |
+| Nucor | [Commodity Markets Analyst Intern](https://jobs.nucor.com/job/Cincinnati-Commodity-Markets-Analyst-Intern-(Summer-2027)-OH-45202/1420210100/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 28d |
+| Barclays | [Quantitative Finance Associate Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| InfiniteQuant | [Quantitative Researcher Intern - Summer 2027 🎓](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421?utm_source=Simplify&ref=Simplify) | Dubai - United Arab Emirates NYC | 1mo |
+| Wells Fargo | [Quantitative Analytics Intern - Capital Markets - Masters 🎓](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 1mo |
+| DV Trading | [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Northwestern Mutual | [Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807?utm_source=Simplify&ref=Simplify) | Milwaukee, WI | 1mo |
+| Quantbot Technologies | [Quantitative Researcher Intern 🎓](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009&utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Quantbot Technologies | [Data Trading Analyst Intern - Data Trading Lab](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009&utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| AQR Capital Management | [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 1mo |
+| Quantbot Technologies | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Quantbot Technologies | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| ConocoPhillips | [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429?utm_source=Simplify&ref=Simplify) | Houston, TX | 1mo |
+| Capula | [Trading and Research Intern](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Belvedere Trading | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Royal Bank of Canada | [Global Markets Quantitative Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Optiver | [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002&utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| Maven Securities | [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| DV Trading | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4718710005?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Chicago Trading Company | [Quantitative Trading Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| JP Morgan Chase | [Quantitative Research Intern 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| JP Morgan Chase | [Quantitative Research Intern - Risk and Treasury 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978?utm_source=Simplify&ref=Simplify) | Plano, TX Chicago, IL NYC | 1mo |
+| JP Morgan Chase | [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| JP Morgan Chase | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Two Sigma | [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Maven Securities | [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Trillium | [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007&utm_source=Simplify&ref=Simplify) | Miami, FL Chicago, IL NYC | 1mo |
+| Anthelion Capital | [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Optiver | [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| T. Rowe Price | [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718?utm_source=Simplify&ref=Simplify) | Baltimore, MD | 1mo |
+| G-Research | [Quantitative Research Internship 🎓](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Virtu Financial | [Quantitative Researcher Internship 🎓](https://job-boards.greenhouse.io/virtu/jobs/8624424002?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Virtu Financial | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=Simplify&ref=Simplify) | Austin, TX Chicago, IL NYC | 1mo |
+| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| AQR Capital Management | [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 1mo |
+| Castleton Commodities International | [Commodities Trading Analyst Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Chicago Trading Company | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Engenious Design | [Electrical Engineering Intern](http://engeniousdesign.applytojob.com/apply/loqVRerwDa/Internship-2027-Electrical-Engineering?utm_source=Simplify&ref=Simplify) | Prairie Village, KS | 0d |
+| Keysight Technologies | [Compound Semiconductor Device Characterization Intern](https://jobs.keysight.com/jobs/54226?icims=1&utm_source=Simplify&ref=Simplify) | Santa Rosa, CA | 0d |
+| Google | [Silicon Engineering Intern 🎓](https://www.google.com/about/careers/applications/jobs/results/136529930677560006?utm_source=Simplify&ref=Simplify) | Madison, WI Austin, TX Sunnyvale, CA | 0d |
+| Google | [Silicon Engineering Intern - BS/MS - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/88570332985598662?utm_source=Simplify&ref=Simplify) | Madison, WI Sunnyvale, CA | 0d |
+| Google | [Hardware Engineer Intern - PhD 🎓](https://www.google.com/about/careers/applications/jobs/results/97352132356645574?utm_source=Simplify&ref=Simplify) | 31 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Ann Arbor, MI Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | 0d |
+| Google | [Hardware Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/122803627516404422?utm_source=Simplify&ref=Simplify) | 31 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Ann Arbor, MI Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | 0d |
+| EquipmentShare | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297&utm_source=Simplify&ref=Simplify) | Columbia, MO | 0d |
+| EquipmentShare | [Electrical Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763&utm_source=Simplify&ref=Simplify) | Columbia, MO | 0d |
+| Bedrock Robotics | [Hardware Engineer Intern - Machine Integration & Test](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 0d |
+| North Atlantic Industries | [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501273?utm_source=Simplify&ref=Simplify) | Bohemia, NY | 0d |
+| North Atlantic Industries | [Test Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501298?utm_source=Simplify&ref=Simplify) | Bohemia, NY | 0d |
+| North Atlantic Industries | [Electrical Design Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330?utm_source=Simplify&ref=Simplify) | Bohemia, NY | 0d |
+| Dell Technologies | [Hardware Engineering Intern - Infrastructure Solutions Group](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770?utm_source=Simplify&ref=Simplify) | Round Rock, TX Hopkinton, MA | 0d |
+| Boston Scientific | [Software Engineer Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813549535?utm_source=Simplify&ref=Simplify) | Maple Grove, MN | 0d |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
+| Oshkosh | [Electronics & Controls Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319?utm_source=Simplify&ref=Simplify) | New Hudson, MI | 1d |
+| Marvell | [Architecture Intern - MS 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1d |
+| Marvell | [Architecture Intern - MS 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1d |
+| Johnson & Johnson | [Electrical Engineer Intern - Robotics R&D](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1d |
+| Blue Robotics | [Electronics Design Co-op](https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8?utm_source=Simplify&ref=Simplify) | Victoria, BC, Canada | 3d |
+| AMD | [SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/92350?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 3d |
+| AMD | [Analog/Mixed-Signal Design Intern/Co-op 🎓](https://careers.amd.com/jobs/92346?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 3d |
+| AMD | [Optical & Photonics Engineering Intern/Co-op 🎓](https://careers.amd.com/jobs/92358?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 3d |
+| Emerson Electric | [Hardware Design Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801?utm_source=Simplify&ref=Simplify) | Round Rock, TX | 3d |
+| TTP | [Electronic Engineer Intern](https://jobs.smartrecruiters.com/TTP1/744000149038070?utm_source=Simplify&ref=Simplify) | Melbourn, Royston, UK | 3d |
+| Western Digital | [Read/Write Channel Integration Engineer Co-op - Channel Integration](https://jobs.smartrecruiters.com/WesternDigital/744000149105974?utm_source=Simplify&ref=Simplify) | Rochester, MN | 3d |
+| Western Digital | [Channel Integration Engineer Co-op](https://jobs.smartrecruiters.com/WesternDigital/744000149106240?utm_source=Simplify&ref=Simplify) | Rochester, MN | 3d |
+| Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1&utm_source=Simplify&ref=Simplify) | Tulsa, OK | 3d |
+| Bedrock Robotics | [Hardware Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4d |
+| The Toro Company | [Embedded Software Engineer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 4d |
+| The Toro Company | [Embedded Software Engineering Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 4d |
+| NXP Semiconductors | [Test Engineer Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Test-Engineer-Intern---Summer-2027_R-10064679?utm_source=Simplify&ref=Simplify) | Austin, TX | 4d |
+| Motorola | [Software Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125?utm_source=Simplify&ref=Simplify) | Plantation, FL | 4d |
+| Motorola | [Digital Signal Processing Software Engineering Intern - Digital Signal Processing](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734?utm_source=Simplify&ref=Simplify) | Plantation, FL | 4d |
+| Ciena | [NPI Hardware Co-op - 8 month](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 4d |
+| Bedrock Robotics | [Validation & Verification Test Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4d |
+| Impulse Space | [RF Test Engineer Intern - Summer 2027](https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 4d |
+| Impulse Space | [Flight Software Engineer Intern - Summer 2027](https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 4d |
+| Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20131?icims=1&utm_source=Simplify&ref=Simplify) | Cary, NC | 4d |
+| Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19896?icims=1&utm_source=Simplify&ref=Simplify) | Tulsa, OK | 4d |
+| Rocket Lab USA | [Flight Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003?utm_source=Simplify&ref=Simplify) | Littleton, CO | 5d |
+| Rocket Lab USA | [Electrical Engineer Intern - Space Systems Division](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 5d |
+| Rocket Lab USA | [Flight Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003?utm_source=Simplify&ref=Simplify) | Littleton, CO | 5d |
+| Johns Hopkins Applied Physics Laboratory | [Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance](https://careers.jhuapl.edu/jobs/59764?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 5d |
+| Dell Technologies | [Hardware Engineering Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216?utm_source=Simplify&ref=Simplify) | Austin, TX | 5d |
+| The Toro Company | [Hardware and Software Engineering Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183?utm_source=Simplify&ref=Simplify) | Perry, OK | 5d |
+| RTX | [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 5d |
+| RTX | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977?utm_source=Simplify&ref=Simplify) | Burnsville, MN | 5d |
+| Insulet | [Life Cycle Engineering Co-op - Electrical](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043?utm_source=Simplify&ref=Simplify) | Acton, MA | 5d |
+| AeroVironment | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549?utm_source=Simplify&ref=Simplify) | Simi Valley, CA | 5d |
+| Saronic | [Software Engineer Intern](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TX | 5d |
+| Johns Hopkins Applied Physics Laboratory | [Electrical and Computer Engineer Intern - Miniature Device Technologies](https://careers.jhuapl.edu/jobs/59993?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 5d |
+| Lexington Medical | [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008?utm_source=Simplify&ref=Simplify) | Bedford, MA | 5d |
+| Hexagon AB | [Digital Hardware Engineer Intern - GNSS Positioning Digital Team](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 5d |
+| RTX | [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op---Spring-Summer-2027-_01872230?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| RTX | [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 6d |
+| Motorola | [FPGA Design Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401?utm_source=Simplify&ref=Simplify) | Schaumburg, IL | 6d |
+| Moog | [Software Engineer Intern - Military Aircraft](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1?utm_source=Simplify&ref=Simplify) | Mineral Wells, TX | 6d |
+| Moog | [Hardware Design Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887?utm_source=Simplify&ref=Simplify) | Mineral Wells, TX | 6d |
+| Marvell | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835?utm_source=Simplify&ref=Simplify) | Burlington, VT | 6d |
+| Marvell | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1?utm_source=Simplify&ref=Simplify) | Burlington, VT | 6d |
+| GE Vernova | [Hardware Automation and Test Engineering Intern - Spring/Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 6d |
+| GE Vernova | [Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 6d |
+| GE Vernova | [Hardware Automation and Test Engineering Intern - Spring/Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 6d |
+| GE Vernova | [Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 6d |
+| Bedrock Robotics | [Sensor Hardware Test Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 6d |
+| Allen Control Systems | [Electrical Engineer Intern](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TX | 6d |
+| Revel | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true&utm_source=Simplify&ref=Simplify) | SF LA | 6d |
+| RTX | [Electrical Engineer Intern - RDP](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242?utm_source=Simplify&ref=Simplify) | Tewksbury, MA | 6d |
+| Vertiv | [Design Engineer Intern - Graduate-Level - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217?utm_source=Simplify&ref=Simplify) | Delaware, OH Fort Lauderdale, FL Huntsville, AL | 6d |
+| Vertiv | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250?utm_source=Simplify&ref=Simplify) | Delaware, OH Fort Lauderdale, FL | 6d |
+| Vertiv | [Design Engineering Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211?utm_source=Simplify&ref=Simplify) | Delaware, OH Fort Lauderdale, FL Huntsville, AL | 6d |
+| Apple | [GPU Intern - Multiple Teams](https://jobs.apple.com/en-us/details/200682357?utm_source=Simplify&ref=Simplify) | London, UK Cambridge, UK St Albans, UK | 6d |
+| RTX | [FPGA Electrical Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 7d |
+| RTX | [Digital Design Electrical Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 7d |
+| Marvell | [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1?utm_source=Simplify&ref=Simplify) | Burlington, VT | 7d |
+| Marvell | [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156?utm_source=Simplify&ref=Simplify) | Burlington, VT | 7d |
+| Boeing | [Microelectronics R&D Intern - Engineering & Technology Innovation 🎓](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675?utm_source=Simplify&ref=Simplify) | Tukwila, WA Huntington Beach, CA | 7d |
+| Applied Materials | [Software Engineering Intern - Masters 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7d |
+| NXP Semiconductors | [Design for Test Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [Digital Validation Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [Device Engineering Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586?utm_source=Simplify&ref=Simplify) | Chandler, AZ | 8d |
+| NXP Semiconductors | [Microcontrollers System Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [Digital Verification Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [Analog Validation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| NXP Semiconductors | [FAB Device Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583?utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| Solidigm | [Software Engineering Intern - Firmware & AI Engineering 🎓](https://jobs.smartrecruiters.com/Solidigm/744000147613769?utm_source=Simplify&ref=Simplify) | Rancho Cordova, CA | 10d |
+| Solidigm | [Hardware & Product Development Engineering Intern](https://jobs.smartrecruiters.com/Solidigm/744000147613839?utm_source=Simplify&ref=Simplify) | Rancho Cordova, CA | 10d |
+| Solidigm | [Hardware, Electrical Validation and Product Engineering Intern - Validation 🎓](https://jobs.smartrecruiters.com/Solidigm/744000147613779?utm_source=Simplify&ref=Simplify) | Rancho Cordova, CA | 10d |
+| Solidigm | [Software Development & Firmware Engineering Intern - Multiple Teams](https://jobs.smartrecruiters.com/Solidigm/744000147613629?utm_source=Simplify&ref=Simplify) | Rancho Cordova, CA Longmont, CO Sacramento, CA | 10d |
+| Marvell | [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 10d |
+| Marvell | [Advanced Packaging Intern 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519?utm_source=Simplify&ref=Simplify) | 6 locationsAustin, TX Santa Clara, CA Westlake Village, CA Burlington, VT Chandler, AZ Westborough, MA | 10d |
+| Marvell | [Advanced Packaging Intern 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1?utm_source=Simplify&ref=Simplify) | 6 locationsAustin, TX Santa Clara, CA Westlake Village, CA Burlington, VT Chandler, AZ Westborough, MA | 10d |
+| Apex | [Simulation Software Engineering Intern](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 10d |
+| Nokia | [Optical Test Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023?utm_source=Simplify&ref=Simplify) | San Jose, CA | 10d |
+| Motorola | [Test Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059?utm_source=Simplify&ref=Simplify) | Illinois | 11d |
+| Marvell | [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Reliability-Intern_2604001-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 11d |
+| Marvell | [Physical Design Engineer Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517?utm_source=Simplify&ref=Simplify) | 7 locationsMorrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA | 11d |
+| Marvell | [Design Verification Intern - BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505?utm_source=Simplify&ref=Simplify) | 5 locationsMorrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Physical Design Engineer Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1?utm_source=Simplify&ref=Simplify) | 7 locationsMorrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA | 11d |
+| Marvell | [Physical Design Engineer Intern - MS - Multiple Teams 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518?utm_source=Simplify&ref=Simplify) | 7 locationsMorrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA | 11d |
+| Marvell | [Design Verification Intern - MS 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1?utm_source=Simplify&ref=Simplify) | 5 locationsMorrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Physical Design Engineer Intern - MS - Multiple Teams 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1?utm_source=Simplify&ref=Simplify) | 7 locationsMorrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA | 11d |
+| Marvell | [Design Verification Intern - MS 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506?utm_source=Simplify&ref=Simplify) | 5 locationsMorrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Design Verification Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1?utm_source=Simplify&ref=Simplify) | 5 locationsMorrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Firmware Engineer Intern 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 11d |
+| Marvell | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1?utm_source=Simplify&ref=Simplify) | 4 locationsMorrisville, NC Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511?utm_source=Simplify&ref=Simplify) | 4 locationsMorrisville, NC Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461?utm_source=Simplify&ref=Simplify) | Santa Clara, CA Westlake Village, CA | 11d |
+| Marvell | [Analog Design Intern - MS 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA Burlington, VT | 11d |
+| Marvell | [IC Validation Engineer Intern - MS - Multiple Teams 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515?utm_source=Simplify&ref=Simplify) | Irvine, CA Santa Clara, CA Westlake Village, CA | 11d |
+| Marvell | [IC Validation Engineer Intern - MS - Multiple Teams 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1?utm_source=Simplify&ref=Simplify) | Irvine, CA Santa Clara, CA Westlake Village, CA | 11d |
+| Marvell | [Analog Design Intern 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510?utm_source=Simplify&ref=Simplify) | Santa Clara, CA Burlington, VT | 11d |
+| Marvell | [Functional Validation Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Marvell | [Functional Validation Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514?utm_source=Simplify&ref=Simplify) | Santa Clara, CA Boise, ID Westborough, MA | 11d |
+| Tesla | [Embedded Software Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282340?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 11d |
+| Hexagon AB | [Defense Engineer Intern - Aerospace and Defense Engineering](https://careers-hexagonpositioning.icims.com/jobs/3078/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 11d |
+| Susquehanna International Group | [FPGA Engineer Intern](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Bala Cynwyd, PA | 11d |
+| AMD | [Diagnostics Design Engineering Intern/Co-op](https://careers.amd.com/jobs/91308?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 11d |
+| AMD | [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91361?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 11d |
+| Apex | [Software Engineer Intern - Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 12d |
+| General Matter | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008?utm_source=Simplify&ref=Simplify) | LA | 12d |
+| AMD | [ASIC Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91207?icims=1&utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 12d |
+| Geotab | [Hardware Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008?utm_source=Simplify&ref=Simplify) | Oakville, ON, Canada | 12d |
+| Shure | [Automated Test Engineer Intern - Hardware](https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Digital Signal Processing Intern](https://careersus-shure.icims.com/jobs/4957/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Electrical Engineer Intern - Digital Circuitry & Test Automation](https://careersus-shure.icims.com/jobs/5028/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Audio DSP Engineer Intern](https://careersus-shure.icims.com/jobs/4971/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [FPGA Development Intern](https://careersus-shure.icims.com/jobs/4985/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Audio Test Engineering Intern](https://careersus-shure.icims.com/jobs/4973/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Skokie, IL | 12d |
+| Shure | [Electrical Engineer Intern - Pro Audio Circuitry](https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Shure | [Embedded Software Intern](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Niles, IL | 12d |
+| Sierra Nevada Corporation | [Test Engineer Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772?utm_source=Simplify&ref=Simplify) | Hagerstown, MD | 12d |
+| RTX | [Electrical Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineer-Intern--Summer-2027-_01864998?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 12d |
+| GE Vernova | [Hardware Engineer Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Hardware Engineer Co-op - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-1?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Hardware Engineer Co-op - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| GE Vernova | [Hardware Engineer Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2?utm_source=Simplify&ref=Simplify) | Rochester, NY | 12d |
+| Booz Allen | [Electronic Warfare FPGA Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 12d |
+| RTX | [Electrical Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical-Engineer-Intern--Summer-2027-_01868065?utm_source=Simplify&ref=Simplify) | Melbourne, FL | 13d |
+| Intel | [Platform Hardware and Systems Engineering Intern - Bachelor's](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 13d |
+| Intel | [Silicon Hardware Engineering Intern - Bachelor's](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 13d |
+| Intel | [Silicon Hardware Engineering Intern - Graduate 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 13d |
+| Intel | [Platform Hardware and Systems Engineering Intern 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828?utm_source=Simplify&ref=Simplify) | 5 locationsAustin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | 13d |
+| HP IQ | [Software Engineer Intern - Connectivity](https://job-boards.greenhouse.io/hpiq/jobs/6176783004?utm_source=Simplify&ref=Simplify) | SF | 13d |
+| AMD | [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Analog and Mixed Signal Engineer Intern/Co-op](https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Firmware Engineer Intern/Co-op - Long Term](https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Hardware Design Engineer Intern/Co-op - Long Term](https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 13d |
+| AMD | [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 13d |
+| AMD | [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90372?icims=1&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 13d |
+| AMD | [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1&utm_source=Simplify&ref=Simplify) | Markham, ON, Canada | 13d |
+| AMD | [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91362?icims=1&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 13d |
+| Textron | [Integration Test Engineer Intern - Marine](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674&utm_source=Simplify&ref=Simplify) | New Orleans, LA | 13d |
+| Textron | [Software Engineer Intern - Sea Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935&utm_source=Simplify&ref=Simplify) | Hunt Valley, Cockeysville, MD | 13d |
+| Textron | [Firmware Engineer Intern - Weapons](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606&utm_source=Simplify&ref=Simplify) | Hunt Valley, Cockeysville, MD | 13d |
+| K2 Space | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008?utm_source=Simplify&ref=Simplify) | LA | 13d |
+| K2 Space | [Electrical Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008?utm_source=Simplify&ref=Simplify) | LA | 13d |
+| Eaton | [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596754?utm_source=Simplify&ref=Simplify) | Moon Twp, PA | 14d |
+| Eaton | [Electrical Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596674?utm_source=Simplify&ref=Simplify) | Moon Twp, PA | 14d |
+| Emerson Electric | [Software Engineer Co-op - January 2027 - May 2027](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454?utm_source=Simplify&ref=Simplify) | Shakopee, MN | 14d |
+| Vermeer | [Embedded Software Engineer Intern](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165?utm_source=Simplify&ref=Simplify) | Pella, IA | 14d |
+| Stanley Black & Decker | [Embedded Software Engineering Intern](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019?utm_source=Simplify&ref=Simplify) | Towson, MD | 14d |
+| Johnson & Johnson | [Electrical Engineering Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736?utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 14d |
+| Blue Origin | [Software Developer Intern - Avionics Software](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434?utm_source=Simplify&ref=Simplify) | 4 locationsWashington LA Longmont, CO Denver, CO | 14d |
+| Blue Origin | [Avionics Software Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424?utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA LA Longmont, CO Denver, CO | 14d |
+| Blue Origin | [Software Developer Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425?utm_source=Simplify&ref=Simplify) | Seattle, WA LA Denver, CO | 14d |
+| AeroVironment | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388?utm_source=Simplify&ref=Simplify) | 16 locationsDayton, OH Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Centreville, VA Lawrence, KS Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | 14d |
+| ByteDance | [Cloud Acceleration Research Intern - DPU & AI Infra 🎓](https://jobs.bytedance.com/en/position/7679552807864879365/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 14d |
+| ByteDance | [Cloud Acceleration Research Intern - DPU & AI Infra 🎓](https://jobs.bytedance.com/en/position/7679562740656933125/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 14d |
+| Hudson River Trading | [Hardware Engineer Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574&utm_source=Simplify&ref=Simplify) | NYC | 14d |
+| Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19858?icims=1&utm_source=Simplify&ref=Simplify) | Chandler, AZ | 14d |
+| Stryten | [Electrical Engineer Intern](https://jobs.stryten.com/jobs/5800?icims=1&utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| Stryten | [Industrial or Mechanical Engineering Intern](https://jobs.stryten.com/jobs/5809?icims=1&utm_source=Simplify&ref=Simplify) | Salina, KS | 15d |
+| Vermeer | [Test Engineer Intern](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Shop-48/Test-Engineering-Internship-Summer-2027_REQ-22120?utm_source=Simplify&ref=Simplify) | Pella, IA | 15d |
+| Oshkosh | [Telematics Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827?utm_source=Simplify&ref=Simplify) | Orlando, FL | 15d |
+| Oshkosh | [Software Engineer Intern - Software - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745?utm_source=Simplify&ref=Simplify) | Greenville, WI Oshkosh, WI | 15d |
+| Oshkosh | [Software Engineer Intern - Software - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786?utm_source=Simplify&ref=Simplify) | Dodge Center, MN | 15d |
+| Brunswick | [Software Controls Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436?utm_source=Simplify&ref=Simplify) | Fond du Lac, WI | 15d |
+| Northwood Space | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify) | LA Torrance, CA | 17d |
+| Northwood Space | [Electrical Engineer Intern - Summer Internship](https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true&utm_source=Simplify&ref=Simplify) | LA Torrance, CA | 17d |
+| V2X | [Electrical Engineer Intern - Hardware Engineering](https://careers.gov2x.com/jobs/62685?icims=1&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 17d |
+| Zipline | [Embedded Systems Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7978843003&utm_source=Simplify&ref=Simplify) | South SF | 19d |
+| Axon | [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003?utm_source=Simplify&ref=Simplify) | Boston, MA Seattle, WA | 19d |
+| Leidos | [Computer Engineering Co-op](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756?utm_source=Simplify&ref=Simplify) | Bethesda, MD | 19d |
+| Vertiv | [Firmware Engineer Intern - Summer 2027 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify) | Delaware, OH | 19d |
+| GlobalFoundries | [SiGe HBT Device Modelling Intern - Summer 2027 🎓](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/SiGe-HBT-Device-Modelling-Intern--Summer-2027-_JR-2604271?utm_source=Simplify&ref=Simplify) | Essex Junction, VT | 20d |
+| Honeywell | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify) | United States | 20d |
+| Honeywell | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562?utm_source=Simplify&ref=Simplify) | United States | 20d |
+| Verkada | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=Simplify&ref=Simplify) | San Mateo, CA | 20d |
+| AMD | [ASIC Package Engineering Intern Co-op 🎓](https://careers.amd.com/jobs/91471?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsSecaucus, NJ Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 20d |
+| AMD | [ASIC Package Engineer Intern Co-op 🎓](https://careers.amd.com/jobs/91469?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 20d |
+| AMD | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsSecaucus, NJ Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 20d |
+| AMD | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 20d |
+| MSA Safety | [Software Engineer Intern - Product Development - Summer 2027](https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 21d |
+| Daktronics | [Hardware Design Co-op Intern - Firmware](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Brookings, SD | 21d |
+| Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19693?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 21d |
+| Apple | [GPU Intern](https://jobs.apple.com/en-us/details/200679650?utm_source=Simplify&ref=Simplify) | London, UK Cambridge, UK St Albans, UK | 21d |
+| Apple | [GPU Intern](https://jobs.apple.com/en-us/details/200679652?utm_source=Simplify&ref=Simplify) | London, UK Cambridge, UK St Albans, UK | 21d |
+| AMD | [Firmware Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/90805?icims=1&utm_source=Simplify&ref=Simplify) | 7 locationsSecaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Hardware Design Verification Engineering Intern/Co-op](https://careers.amd.com/jobs/90820?icims=1&utm_source=Simplify&ref=Simplify) | 7 locationsSecaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Hardware Design Verification Engineer Co-op/Intern 🎓](https://careers.amd.com/jobs/90810?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
+| AMD | [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90813?icims=1&utm_source=Simplify&ref=Simplify) | 7 locationsSecaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
+| AMD | [Product Development Engineering Intern/Co-op](https://careers.amd.com/jobs/91230?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/90790?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1&utm_source=Simplify&ref=Simplify) | 7 locationsSecaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Massachusetts | 24d |
+| AMD | [Firmware Engineering Intern Co-op - Undergrad](https://careers.amd.com/jobs/90807?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
+| AMD | [Hardware Engineer Intern/Co-op](https://careers.amd.com/jobs/90894?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
+| AMD | [Firmware Engineer Co-op/Intern 🎓](https://careers.amd.com/jobs/90809?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
+| AMD | [Hardware Engineering Intern/Co-op - Undergrad](https://careers.amd.com/jobs/91173?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Hardware Engineer Intern/Co-op - Hardware Engineering 🎓](https://careers.amd.com/jobs/91182?icims=1&utm_source=Simplify&ref=Simplify) | 6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | 24d |
+| AMD | [Product Development Engineering Intern/Co-op 🎓](https://careers.amd.com/jobs/91228?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA Santa Clara, CA | 24d |
+| Freeform | [Electrical Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003?utm_source=Simplify&ref=Simplify) | LA | 26d |
+| Zipline | [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003&utm_source=Simplify&ref=Simplify) | South SF | 26d |
+| Zipline | [Electrical Engineer Intern - Summer 2027](https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003&utm_source=Simplify&ref=Simplify) | South SF | 26d |
+| NVIDIA | [Digital Circuit Design Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| NVIDIA | [Hardware ASIC Design Intern - Hardware](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| NVIDIA | [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| NVIDIA | [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| NVIDIA | [Hardware Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| NVIDIA | [Hardware Design for Test Intern - DFT 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| NVIDIA | [Mixed Signal Design Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 27d |
+| Zipline | [Long Range Platform Embedded Firmware Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7891459003&utm_source=Simplify&ref=Simplify) | South SF | 27d |
+| Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19643?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 27d |
+| GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1?utm_source=Simplify&ref=Simplify) | Lynn, MA Evendale, OH | 28d |
+| Freeform | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=Simplify&ref=Simplify) | LA | 1mo |
+| ByteDance | [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Vertiv | [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) | Westerville, OH | 1mo |
+| Axon | [2027 US Electrical Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003?utm_source=Simplify&ref=Simplify) | Scottsdale, AZ | 1mo |
+| ByteDance | [ASIC Design Engineer Intern - Video Silicon IP 🎓](https://jobs.bytedance.com/en/position/7670332179383699717/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| SpaceX | [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify) | Palo Alto, CA Irvine, CA Redmond, WA | 1mo |
+| HPR (Hyannis Port Research) | [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=Simplify&ref=Simplify) | Needham, MA | 1mo |
+| Virtu Financial | [Hardware Engineer Intern - FPGA 🎓](https://job-boards.greenhouse.io/virtu/jobs/8657286002?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| Western Digital | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875?utm_source=Simplify&ref=Simplify) | 6 locationsFremont, CA Rochester, MN San Jose, CA Irvine, CA Colorado Springs, CO Longmont, CO | 1mo |
+| Persona AI | [Electrical Engineer Intern](https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed/application?embed=true&utm_source=Simplify&ref=Simplify) | Houston, TX Pensacola, FL | 1mo |
+| Optiver | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
+| Optiver | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002&utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| GE Healthcare | [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1?utm_source=Simplify&ref=Simplify) | Twinsburg, OH Waukesha, WI | 1mo |
+>>>>>>> 7477e4cc52f4aeb31abd8aa7b25ad870e9d802ae

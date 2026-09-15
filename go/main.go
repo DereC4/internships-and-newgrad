@@ -143,7 +143,7 @@ func main() {
 		}
 	}
 
-	uniqueJobs := deduplicateJobs(internshipJobs)
+	uniqueJobs := keepLiveJobs(deduplicateJobs(internshipJobs))
 	table.Reset()
 	table.WriteString("| Company | Role | Location | Age |\n")
 	table.WriteString("| --- | --- | --- | --- |\n")
@@ -187,7 +187,7 @@ func main() {
 		}
 	}
 
-	uniqueNewGradJobs := deduplicateJobs(newGradJobs)
+	uniqueNewGradJobs := keepLiveJobs(deduplicateJobs(newGradJobs))
 	slices.SortFunc(uniqueNewGradJobs, compareJobListings)
 
 	table.Reset()
