@@ -21,4 +21,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: narayann7/star-history-action@v1
         with:
-          repos: ${{ github.repository }}   
+          repos: ${{ github.repository }}
+          output-dir: _static/star-history
