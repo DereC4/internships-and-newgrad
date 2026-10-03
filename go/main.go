@@ -156,13 +156,28 @@ func main() {
 		companySet[job.Company] = true
 	}
 	uniqueCompanyCount := len(companySet)
+	hasZeroDayJobs := false
+	for _, job := range uniqueJobs {
+		if job.Age == "0d" {
+			hasZeroDayJobs = true
+			break
+		}
+	}
 
 	var badges strings.Builder
 	badges.WriteString(fmt.Sprintf("![Job Listings](https://img.shields.io/badge/Aggregated_Jobs-%d-brightgreen?style=flat&logo=briefcase)\n", len(internshipJobs)))
 	badges.WriteString(fmt.Sprintf("![Unique Listings](https://img.shields.io/badge/Unique_Listings-%d-brightgreen?style=flat&logo=briefcase)\n", len(uniqueJobs)))
 	badges.WriteString(fmt.Sprintf("![Companies](https://img.shields.io/badge/Companies-%d-blue?style=flat&logo=building)\n", uniqueCompanyCount))
 
+	dividerWritten := false
 	for _, job := range uniqueJobs {
+		if hasZeroDayJobs && !dividerWritten && job.Age != "0d" {
+			table.WriteString("\n<!-- DerexXD 0d divider -->\n\n")
+			table.WriteString("| Company | Role | Location | Age |\n")
+			table.WriteString("| --- | --- | --- | --- |\n")
+			dividerWritten = true
+		}
+
 		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
 		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
 	}
