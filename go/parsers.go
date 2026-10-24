@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"strings"
 )
@@ -110,70 +111,54 @@ func parseSimplify(rawHTML string, isNewGrad bool) []JobListing {
 	return jobs
 }
 
-func parseVansh(rawMarkdown string) []JobListing {
-	var jobs []JobListing
-	var lastCompany string
+// vansh publishes a listings.json alongside the README, so read that instead of scraping the table
+type vanshListing struct {
+	CompanyName string   `json:"company_name"`
+	Title       string   `json:"title"`
+	Locations   []string `json:"locations"`
+	URL         string   `json:"url"`
+	DatePosted  int64    `json:"date_posted"`
+	Sponsorship string   `json:"sponsorship"`
+	Active      bool     `json:"active"`
+	IsVisible   bool     `json:"is_visible"`
+}
 
-	// discard the before return string, we do not need that
-	_, afterStart, foundStart := strings.Cut(rawMarkdown, "<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->")
-	tableContent, _, foundEnd := strings.Cut(afterStart, "[⬆️ Back to Top ⬆️]")
-
-	if !foundStart || !foundEnd {
+func parseVansh(rawJSON string) []JobListing {
+	var listings []vanshListing
+	if err := json.Unmarshal([]byte(rawJSON), &listings); err != nil {
+		fmt.Printf("[WARN] could not decode vansh listings.json: %v\n", err)
 		return nil
 	}
 
-	lines := strings.Split(tableContent, "\n")
-	for _, line := range lines {
-		line = strings.TrimSpace(line)
-
-		if !strings.HasPrefix(line, "|") || strings.Contains(line, "---") {
+	var jobs []JobListing
+	for _, listing := range listings {
+		if !listing.Active || !listing.IsVisible || listing.URL == "" {
 			continue
 		}
 
-		cols := strings.Split(line, "|")
-		if len(cols) < 6 {
-			continue
-		}
-
-		// cols[0] = "" (prefix)
-		// cols[1] = Company
-		// cols[2] = Role
-		// cols[3] = Location
-		// cols[4] = Application / Link
-		// cols[5] = Date Posted
-		appCell := cols[4]
-
-		if strings.Contains(appCell, "🔒") {
-			continue
-		}
-
-		var appURL string
-		if strings.Contains(appCell, "href=\"") {
-			_, afterHref, _ := strings.Cut(appCell, "href=\"")
-			appURL, _, _ = strings.Cut(afterHref, "\"")
-		}
-
-		if appURL == "" {
-			continue
-		}
-
-		company := cleanHTML(cols[1])
-		role := cleanHTML(cols[2])
-		location := cleanHTML(cols[3])
-		datePosted := convertVanshDate(cleanHTML(cols[5]))
-
-		if company == "↳" || company == "" {
-			company = lastCompany
+		// keep the same utm tag vansh's README puts on every link
+		link := listing.URL
+		if strings.Contains(link, "?") {
+			link += "&utm_source=github-vansh-ouckah"
 		} else {
-			lastCompany = company
+			link += "?utm_source=github-vansh-ouckah"
+		}
+
+		// same sponsorship emojis vansh's README adds to the role
+		role := listing.Title
+		switch listing.Sponsorship {
+		case "Does Not Offer Sponsorship":
+			role += " 🛂"
+		case "U.S. Citizenship is Required":
+			role += " 🇺🇸"
 		}
 
 		jobs = append(jobs, JobListing{
-			Company:  company,
+			Company:  listing.CompanyName,
 			Role:     role,
-			Location: location,
-			Link:     appURL,
-			Age:      datePosted,
+			Location: strings.Join(listing.Locations, ", "),
+			Link:     link,
+			Age:      convertUnixDate(listing.DatePosted),
 			NewGrad:  false,
 		})
 	}

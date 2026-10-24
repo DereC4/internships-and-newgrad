@@ -49,16 +49,12 @@ func cleanHTML(val string) string {
 	return strings.Join(strings.Fields(builder.String()), " ")
 }
 
-func convertVanshDate(dateStr string) string {
-	if dateStr == "" {
+func convertUnixDate(timestamp int64) string {
+	if timestamp == 0 {
 		return "N/A"
 	}
-	parsed, err := time.Parse("Jan 02 2006", dateStr+" 2026")
-	if err != nil {
-		return dateStr
-	}
 
-	days := int(time.Since(parsed).Hours() / 24)
+	days := int(time.Since(time.Unix(timestamp, 0)).Hours() / 24)
 	if days < 0 {
 		days = 0
 	}
