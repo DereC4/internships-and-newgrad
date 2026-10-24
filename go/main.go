@@ -42,7 +42,7 @@ func dogWorker(url string, ch chan string) {
 func main() {
 	urls := []string{
 		// this is a slice
-		"https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+		"https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
 		"https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/refs/heads/dev/README.md",
 		"https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/sndsh404/summer-2027-internships/refs/heads/main/README.md",
