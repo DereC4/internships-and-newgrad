@@ -319,6 +319,10 @@ func parseZapply(rawMarkdown string, isNewGrad bool) []JobListing {
 			continue
 		}
 
+		if strings.Contains(sec, "Other Internships") || strings.Contains(sec, "Business & Operations") {
+			continue
+		}
+
 		tableContent, _, _ := strings.Cut(sec, "</details>")
 		lines := strings.Split(tableContent, "\n")
 
