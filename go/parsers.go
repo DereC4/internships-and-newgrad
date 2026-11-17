@@ -37,7 +37,15 @@ func parseSimplifyCategories(results string, isNewGrad bool) []JobListing {
 		tableBlock, _, _ := strings.Cut(afterHeader, "</table>")
 		tableBlock = tableBlock + "</table>"
 
-		parsedJobs := parseSimplify(tableBlock, isNewGrad)
+		category := ""
+		if catName == "Software Engineering" {
+			category = "SWE"
+		} else if catName == "Quant Finance" {
+			category = "Quant"
+		} else if catName == "Product Management" || catName == "Hardware Engineering" {
+			category = "Other"
+		}
+		parsedJobs := parseSimplify(tableBlock, isNewGrad, category)
 
 		fmt.Printf("-> Found %d jobs under category: [%s]\n", len(parsedJobs), catName)
 		categoryJobs = append(categoryJobs, parsedJobs...)
@@ -47,7 +55,7 @@ func parseSimplifyCategories(results string, isNewGrad bool) []JobListing {
 	return categoryJobs
 }
 
-func parseSimplify(rawHTML string, isNewGrad bool) []JobListing {
+func parseSimplify(rawHTML string, isNewGrad bool, category string) []JobListing {
 	var jobs []JobListing
 	var lastCompany string
 
@@ -105,6 +113,7 @@ func parseSimplify(rawHTML string, isNewGrad bool) []JobListing {
 			Link:     appURL,
 			Age:      age,
 			NewGrad:  isNewGrad,
+			Category: category,
 		})
 	}
 
