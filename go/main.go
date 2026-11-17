@@ -135,6 +135,14 @@ func main() {
 		fmt.Printf("Saved %d raw jobs to UNFILTERED.md\n", len(totalJobs))
 	}
 
+	for i := range totalJobs {
+		r := strings.ToLower(totalJobs[i].Role)
+		if strings.Contains(r, "intern") || strings.Contains(r, "co-op") || strings.Contains(r, "coop") {
+			totalJobs[i].NewGrad = false
+		}
+		totalJobs[i].Category = classifyRole(totalJobs[i].Role, totalJobs[i].Category)
+	}
+
 	// final output to README.md goes here
 	var internshipJobs []JobListing
 	for _, job := range totalJobs {
@@ -144,10 +152,6 @@ func main() {
 	}
 
 	uniqueJobs := keepLiveJobs(deduplicateJobs(internshipJobs))
-	table.Reset()
-	table.WriteString("| Company | Role | Location | Age |\n")
-	table.WriteString("| --- | --- | --- | --- |\n")
-
 	slices.SortFunc(uniqueJobs, compareJobListings)
 
 	// update the fancy badges
@@ -156,38 +160,20 @@ func main() {
 		companySet[job.Company] = true
 	}
 	uniqueCompanyCount := len(companySet)
-	hasZeroDayJobs := false
-	for _, job := range uniqueJobs {
-		if job.Age == "0d" {
-			hasZeroDayJobs = true
-			break
-		}
-	}
 
 	var badges strings.Builder
 	badges.WriteString(fmt.Sprintf("![Job Listings](https://img.shields.io/badge/Aggregated_Jobs-%d-brightgreen?style=flat&logo=briefcase)\n", len(internshipJobs)))
 	badges.WriteString(fmt.Sprintf("![Unique Listings](https://img.shields.io/badge/Unique_Listings-%d-brightgreen?style=flat&logo=briefcase)\n", len(uniqueJobs)))
 	badges.WriteString(fmt.Sprintf("![Companies](https://img.shields.io/badge/Companies-%d-blue?style=flat&logo=building)\n", uniqueCompanyCount))
 
-	dividerWritten := false
-	for _, job := range uniqueJobs {
-		if hasZeroDayJobs && !dividerWritten && job.Age != "0d" {
-			table.WriteString("\n<!-- DerexXD 0d divider -->\n\n")
-			table.WriteString("| Company | Role | Location | Age |\n")
-			table.WriteString("| --- | --- | --- | --- |\n")
-			dividerWritten = true
-		}
-
-		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
-		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
-	}
+	internshipMarkdown := renderSectionedMarkdown(uniqueJobs, false)
 
 	content, _ := os.ReadFile("../README.md")
 	updatedReadme := string(content)
 
 	beforeTable, afterTableStart, _ := strings.Cut(updatedReadme, jobTableStart)
 	_, afterTableEnd, _ := strings.Cut(afterTableStart, jobTableEnd)
-	updatedReadme = beforeTable + jobTableStart + "\n\n" + table.String() + "\n" + jobTableEnd + afterTableEnd
+	updatedReadme = beforeTable + jobTableStart + "\n\n" + internshipMarkdown + "\n" + jobTableEnd + afterTableEnd
 
 	beforeBadges, afterBadgesStart, _ := strings.Cut(updatedReadme, badgesStart)
 	_, afterBadgesEnd, _ := strings.Cut(afterBadgesStart, badgesEnd)
@@ -205,22 +191,91 @@ func main() {
 	uniqueNewGradJobs := keepLiveJobs(deduplicateJobs(newGradJobs))
 	slices.SortFunc(uniqueNewGradJobs, compareJobListings)
 
-	table.Reset()
-	table.WriteString("| Company | Role | Location | Age |\n")
-	table.WriteString("| --- | --- | --- | --- |\n")
-
-	for _, job := range uniqueNewGradJobs {
-		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
-		table.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
-	}
+	newGradMarkdown := renderSectionedMarkdown(uniqueNewGradJobs, true)
 
 	newGradContent, _ := os.ReadFile("../NEWGRAD.md")
 	updatedNewGrad := string(newGradContent)
 
 	beforeNewGradTable, afterNewGradTableStart, _ := strings.Cut(updatedNewGrad, newGradTableStart)
 	_, afterNewGradTableEnd, _ := strings.Cut(afterNewGradTableStart, newGradTableEnd)
-	updatedNewGrad = beforeNewGradTable + newGradTableStart + "\n\n" + table.String() + "\n" + newGradTableEnd + afterNewGradTableEnd
+	updatedNewGrad = beforeNewGradTable + newGradTableStart + "\n\n" + newGradMarkdown + "\n" + newGradTableEnd + afterNewGradTableEnd
 
 	os.WriteFile("../NEWGRAD.md", []byte(updatedNewGrad), 0644)
 
+}
+
+type categoryDef struct {
+	key    string
+	title  string
+	anchor string
+}
+
+var coreCategories = []categoryDef{
+	{key: "SWE", title: "💻 Software Engineering", anchor: "-software-engineering"},
+	{key: "Quant", title: "📈 Quantitative Finance", anchor: "-quantitative-finance"},
+	{key: "AI_ML", title: "🤖 AI & Machine Learning", anchor: "-ai--machine-learning"},
+	{key: "Data", title: "📊 Data Science & Analytics", anchor: "-data-science--analytics"},
+	{key: "Other", title: "🛠️ Other Tech Roles", anchor: "-other-tech-roles"},
+}
+
+func renderSectionedMarkdown(jobs []JobListing, isNewGrad bool) string {
+	categoryMap := make(map[string][]JobListing)
+	for _, job := range jobs {
+		cat := job.Category
+		if cat == "" {
+			cat = "Other"
+		}
+		categoryMap[cat] = append(categoryMap[cat], job)
+	}
+
+	var sb strings.Builder
+
+	if isNewGrad {
+		sb.WriteString("> 📍 **Browsing: 🎓 New Grad Listings** &nbsp;|&nbsp; 🔄 **Switch to: [💼 Internships](README.md)**\n\n")
+	} else {
+		sb.WriteString("> 📍 **Browsing: 💼 Internships** &nbsp;|&nbsp; 🔄 **Switch to: [🎓 New Grad Listings](NEWGRAD.md)**\n\n")
+	}
+
+	sb.WriteString("### 🎯 Quick Filters\n")
+	for _, cat := range coreCategories {
+		count := len(categoryMap[cat.key])
+		sb.WriteString(fmt.Sprintf("- [%s (%d)](#%s)\n", cat.title, count, cat.anchor))
+	}
+	sb.WriteString("\n---\n\n")
+
+	for _, cat := range coreCategories {
+		catJobs := categoryMap[cat.key]
+		if len(catJobs) == 0 {
+			continue
+		}
+
+		hasZeroDayJobs := false
+		for _, job := range catJobs {
+			if job.Age == "0d" {
+				hasZeroDayJobs = true
+				break
+			}
+		}
+
+		sb.WriteString(fmt.Sprintf("## %s\n\n", cat.title))
+		sb.WriteString("[⬆ Back to Top](#-quick-filters)\n\n")
+		sb.WriteString("| Company | Role | Location | Age |\n")
+		sb.WriteString("| --- | --- | --- | --- |\n")
+
+		dividerWritten := false
+		for _, job := range catJobs {
+			if hasZeroDayJobs && !dividerWritten && job.Age != "0d" {
+				sb.WriteString("\n<!-- DerexXD 0d divider -->\n\n")
+				sb.WriteString("| Company | Role | Location | Age |\n")
+				sb.WriteString("| --- | --- | --- | --- |\n")
+				dividerWritten = true
+			}
+
+			roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
+			sb.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
+		}
+		sb.WriteString("\n")
+	}
+
+	return sb.String()
 }
