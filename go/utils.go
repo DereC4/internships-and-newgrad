@@ -183,3 +183,23 @@ func cleanCompanyName(name string) string {
 
 	return strings.TrimSpace(name)
 }
+
+func classifyRole(role, sourceCategory string) string {
+	if sourceCategory != "" {
+		return sourceCategory
+	}
+	r := strings.ToLower(role)
+	if strings.Contains(r, "quant") || strings.Contains(r, "trading") || strings.Contains(r, "trader") || strings.Contains(r, "portfolio") || strings.Contains(r, "hft") || strings.Contains(r, "algorithmic") {
+		return "Quant"
+	}
+	if strings.Contains(r, "machine learning") || strings.Contains(r, "deep learning") || strings.Contains(r, "artificial intelligence") || strings.Contains(r, "computer vision") || strings.Contains(r, "applied scientist") || strings.Contains(r, "research scientist") || strings.Contains(r, "ai engineer") || strings.Contains(r, "ml engineer") || strings.Contains(r, "ai intern") || strings.Contains(r, "ml intern") {
+		return "AI_ML"
+	}
+	if strings.Contains(r, "data scien") || strings.Contains(r, "data analyst") || strings.Contains(r, "business intelligence") || strings.Contains(r, "data engineer") || strings.Contains(r, "analytics") || strings.Contains(r, "bi engineer") || strings.Contains(r, "bi developer") {
+		return "Data"
+	}
+	if strings.Contains(r, "software") || strings.Contains(r, "developer") || strings.Contains(r, "swe") || strings.Contains(r, "frontend") || strings.Contains(r, "backend") || strings.Contains(r, "full stack") || strings.Contains(r, "fullstack") || strings.Contains(r, "mobile") || strings.Contains(r, "ios") || strings.Contains(r, "android") || strings.Contains(r, "devops") || strings.Contains(r, "sre") || strings.Contains(r, "cloud") || strings.Contains(r, "security") || strings.Contains(r, "firmware") || strings.Contains(r, "embedded") || strings.Contains(r, "systems") {
+		return "SWE"
+	}
+	return "Other"
+}
