@@ -162,9 +162,9 @@ func main() {
 	uniqueCompanyCount := len(companySet)
 
 	var badges strings.Builder
-	badges.WriteString(fmt.Sprintf("![Job Listings](https://img.shields.io/badge/Aggregated_Jobs-%d-brightgreen?style=for-the-badge&logo=briefcase)\n", len(internshipJobs)))
-	badges.WriteString(fmt.Sprintf("![Unique Listings](https://img.shields.io/badge/Unique_Listings-%d-brightgreen?style=for-the-badge&logo=briefcase)\n", len(uniqueJobs)))
-	badges.WriteString(fmt.Sprintf("![Companies](https://img.shields.io/badge/Companies-%d-blue?style=for-the-badge&logo=building)\n", uniqueCompanyCount))
+	badges.WriteString(fmt.Sprintf(" ![Job Listings](https://img.shields.io/badge/Aggregated_Jobs-%d-brightgreen?style=for-the-badge&logo=briefcase)", len(internshipJobs)))
+	badges.WriteString(fmt.Sprintf(" ![Unique Listings](https://img.shields.io/badge/Unique_Listings-%d-brightgreen?style=for-the-badge&logo=briefcase)", len(uniqueJobs)))
+	badges.WriteString(fmt.Sprintf(" ![Companies](https://img.shields.io/badge/Companies-%d-blue?style=for-the-badge&logo=building) ", uniqueCompanyCount))
 
 	writeTrackFiles(uniqueJobs, "internships", "README.md", "Internships")
 	internshipMarkdown := renderMainMarkdown(uniqueJobs, false)
@@ -178,7 +178,7 @@ func main() {
 
 	beforeBadges, afterBadgesStart, _ := strings.Cut(updatedReadme, badgesStart)
 	_, afterBadgesEnd, _ := strings.Cut(afterBadgesStart, badgesEnd)
-	updatedReadme = beforeBadges + badgesStart + "\n" + badges.String() + badgesEnd + afterBadgesEnd
+	updatedReadme = beforeBadges + badgesStart + badges.String() + badgesEnd + afterBadgesEnd
 
 	os.WriteFile("../README.md", []byte(updatedReadme), 0644)
 

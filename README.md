@@ -2,13 +2,7 @@
 # About
 > Star and bookmark this repository if it helps you
  
-![GitHub Repo stars](https://img.shields.io/github/stars/DereC4/internships-and-newgrad?style=for-the-badge)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-<!-- BADGES_START_DEREXXD -->
-![Job Listings](https://img.shields.io/badge/Aggregated_Jobs-5035-brightgreen?style=for-the-badge&logo=briefcase)
-![Unique Listings](https://img.shields.io/badge/Unique_Listings-3818-brightgreen?style=for-the-badge&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-1175-blue?style=for-the-badge&logo=building)
-<!-- BADGES_END_DEREXXD -->
+![GitHub Repo stars](https://img.shields.io/github/stars/DereC4/internships-and-newgrad?style=for-the-badge) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) <!-- BADGES_START_DEREXXD --> ![Job Listings](https://img.shields.io/badge/Aggregated_Jobs-5035-brightgreen?style=for-the-badge&logo=briefcase) ![Unique Listings](https://img.shields.io/badge/Unique_Listings-3818-brightgreen?style=for-the-badge&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-1175-blue?style=for-the-badge&logo=building) <!-- BADGES_END_DEREXXD -->
 
 When I was in college (aka literally just a month ago) and in the horrible trenches of recruiting, there were like 3 billion different repos, job sites, and I had a horrible time keeping track of all those tabs, opening them every day to spam 25 more futile applications before going to bed. So I made a single site of my own to have a dead simple front end to collect all of the job postings in one place. Now, I will do it here. But when i wake up ofc. I am sleepy rn it is 6 am. 
 
