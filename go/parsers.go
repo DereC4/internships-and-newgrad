@@ -132,7 +132,7 @@ type vanshListing struct {
 	IsVisible   bool     `json:"is_visible"`
 }
 
-func parseVansh(rawJSON string) []JobListing {
+func parseVansh(rawJSON string, isNewGrad bool) []JobListing {
 	var listings []vanshListing
 	if err := json.Unmarshal([]byte(rawJSON), &listings); err != nil {
 		fmt.Printf("[WARN] could not decode vansh listings.json: %v\n", err)
@@ -168,7 +168,7 @@ func parseVansh(rawJSON string) []JobListing {
 			Location: strings.Join(listing.Locations, ", "),
 			Link:     link,
 			Age:      convertUnixDate(listing.DatePosted),
-			NewGrad:  false,
+			NewGrad:  isNewGrad,
 		})
 	}
 

@@ -43,8 +43,10 @@ func main() {
 	urls := []string{
 		// this is a slice
 		"https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
-		"https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/refs/heads/dev/README.md",
+		"https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json",
+		"https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/refs/heads/dev/README.md",
 		"https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/refs/heads/main/README.md",
+		"https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/sndsh404/summer-2027-internships/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/zapplyjobs/Internships-2027/refs/heads/main/README.md",
 		"https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/refs/heads/main/README.md",
@@ -85,7 +87,7 @@ func main() {
 			totalJobs = append(totalJobs, jobs...)
 		} else if strings.Contains(fetchedURL, "vanshb03") {
 			fmt.Println("Processing Vansh Repo...")
-			jobs := parseVansh(results)
+			jobs := parseVansh(results, isNewGradSource(fetchedURL))
 			fmt.Printf("-> Found %d active jobs in Vansh Repo\n", len(jobs))
 			totalJobs = append(totalJobs, jobs...)
 		} else if strings.Contains(fetchedURL, "speedyapply") {
