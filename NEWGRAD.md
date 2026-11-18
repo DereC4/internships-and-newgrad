@@ -5,276 +5,673 @@
 > 📍 **Browsing: 🎓 New Grad Listings** &nbsp;|&nbsp; 🔄 **Switch to: [💼 Internships](README.md)**
 
 ### Filter by Track
-- [Software Engineering (395)](tracks/newgrad/SWE.md)
-- [Quantitative Finance (29)](tracks/newgrad/QUANT.md)
-- [AI & Machine Learning (45)](tracks/newgrad/AI_ML.md)
-- [Data Science & Analytics (34)](tracks/newgrad/DATA.md)
+- [Software Engineering (806)](tracks/newgrad/SWE.md)
+- [Quantitative Finance (51)](tracks/newgrad/QUANT.md)
+- [AI & Machine Learning (124)](tracks/newgrad/AI_ML.md)
+- [Data Science & Analytics (70)](tracks/newgrad/DATA.md)
 
 ---
 
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| AeroVironment | [Junior Software Engineer (TS/SCI w/ Poly)](https://zapply.jobs/l/d/workday-avav-avav-8322?s=gh-new-grad-software-engineering-jobs-2027) | 420 National Business Parkway,... | 0d |
 | Alo Yoga | [Colorist](https://zapply.jobs/l/d/greenhouse-aloyoga-6264361004?s=gh-new-grad-software-engineering-jobs-2027) | Warehouse 2, Commerce, CA (WH2) | 0d |
 | Alo Yoga | [Temp Color Assistant](https://zapply.jobs/l/d/greenhouse-aloyoga-6264503004?s=gh-new-grad-software-engineering-jobs-2027) | Commerce, California, United States | 0d |
-| Ancestry | [Imaging Data Technician](https://zapply.jobs/l/d/workday-ancestry-careers-R003492?s=gh-new-grad-software-engineering-jobs-2027) | Draper, UT | 0d |
-| Argonne National Laboratory | [Directorate Safety Manager](https://zapply.jobs/l/d/workday-argonne-argonne-careers-423668?s=gh-new-grad-software-engineering-jobs-2027) | Lemont, IL USA | 0d |
+| Amazon | [New Grad 2027: Software Development Engineer, Robotics](https://go.vansh.nyc/1C2?utm_source=github-vansh-ouckah) | Austin, TX | 0d |
+| Atoms | [New Grad: AI Researcher](https://go.vansh.nyc/1BU?utm_source=github-vansh-ouckah) | San Francisco, CA, Mountain View, CA | 0d |
+| BAE Systems | [Software Engineer I - Applied Visualization and Interaction](https://zapply.jobs/l/d/phenom-bae-systems-132599BR?s=gh-new-grad-software-engineering-jobs-2027) | Broomfield, Colorado | 0d |
 | BIS Safety Software | [Junior Data Analyst](https://jobs.lever.co/bis/ce37713b-9922-4a73-999a-f0b8e544540b/apply?utm_source=Simplify&ref=Simplify) | Sherwood Park, AB, Canada | 0d |
-| BMO | [Software Developer (New or Recent Graduate)](https://zapply.jobs/l/d/workday-bmo-external-R260023733?s=gh-new-grad-software-engineering-jobs-2027) | Berkeley Heights, NJ, USA | 0d |
-| Boeing | [Software Engineer (Associate or Experienced)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523054?s=gh-new-grad-software-engineering-jobs-2027) | USA - Colorado Springs, CO | 0d |
-| Boeing | [Software Quality Engineer (Associate, Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529715?s=gh-new-grad-software-engineering-jobs-2027) | USA - El Segundo, CA | 0d |
-| Boeing | [Software Quality Engineer (Associate, Mid-Level or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529719?s=gh-new-grad-software-engineering-jobs-2027) | USA - Berkeley, MO | 0d |
-| Boeing | [Software Test & Verification Engineer (Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522039?s=gh-new-grad-software-engineering-jobs-2027) | Albuquerque, NM | 0d |
-| Booz Allen Hamilton | [Digital Forensic Examiner](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249734?s=gh-new-grad-software-engineering-jobs-2027) | Warrenton, OR | 0d |
-| CACI | [Cloud Operations Administrator](https://zapply.jobs/l/d/workday-caci-external-335161?s=gh-new-grad-software-engineering-jobs-2027) | Hampton, VA, US | 0d |
-| Cadence | [Program Coordinator](https://zapply.jobs/l/d/workday-cadence-external-careers-R56910?s=gh-new-grad-software-engineering-jobs-2027) | SAN JOSE | 0d |
-| Comcast | [AI Solutions Manager](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R449397?s=gh-new-grad-software-engineering-jobs-2027) | MD - Laurel, 14880 Sweitzer Lane | 0d |
+| BIS Safety Software | [Junior Data Analyst](https://go.vansh.nyc/1BF?utm_source=github-vansh-ouckah) | Sherwood Park, Canada | 0d |
+| CDM Smith | [Artificial Intelligence/Machine Learning Developer](https://go.vansh.nyc/1BG?utm_source=github-vansh-ouckah) | Fairfax, VA | 0d |
+| Cisco | [Technical Product Management Specialist I (Master's)](https://go.vansh.nyc/1C5?utm_source=github-vansh-ouckah) | San Jose, CA | 0d |
 | Compunetix | [Junior Hardware Engineer](https://jobs.jobvite.com/compunetix/job/ol3oAfw6?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Monroeville, PA | 0d |
-| Expedia Group | [Disputes Investigator I](https://zapply.jobs/l/d/workday-expedia-private-R-110557?s=gh-new-grad-software-engineering-jobs-2027) | USA - Missouri - Springfield | 0d |
 | Fortinet | [Early Careers Software Developer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 0d |
-| HPE | [AI Automation Engineer Graduate](https://zapply.jobs/l/d/workday-hpe-acjobsite-1213068?s=gh-new-grad-software-engineering-jobs-2027) | Spring, Texas, United States of... | 0d |
-| HPE (University) | [AI Automation Engineer Graduate](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213068?s=gh-new-grad-software-engineering-jobs-2027) | Spring, Texas, United States of... | 0d |
+| General Matter | [New Grad: Automation & Controls Engineer](https://go.vansh.nyc/1BY?utm_source=github-vansh-ouckah) | Los Angeles, CA | 0d |
+| HPE | [AI Automation Engineer](https://go.vansh.nyc/1BX?utm_source=github-vansh-ouckah) | Spring, TX | 0d |
 | John Deere | [ENGR, Wiring Harness & EL Integration](https://zapply.jobs/l/d/eightfold-johndeere-137480958566?s=gh-new-grad-software-engineering-jobs-2027) | Waterloo,Iowa,United States | 0d |
 | John Deere | [Software PV&V Verification Champion](https://zapply.jobs/l/d/eightfold-johndeere-137484449509?s=gh-new-grad-software-engineering-jobs-2027) | DUBUQUE,Iowa,United States | 0d |
-| Kraun Electric | [Junior Software Developer](https://kraunelectric.bamboohr.com/careers/98/?utm_source=Simplify&ref=Simplify) | St. Catharines, ON, Canada | 0d |
 | Laansu | [Junior Software Developer](https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer?utm_source=Simplify&ref=Simplify) | Sterling, VA | 0d |
 | Leidos | [Software Engineer TS/SCI w Poly(Junior-Senior Levels))](https://zapply.jobs/l/d/workday-leidos-external-R-00197152?s=gh-new-grad-software-engineering-jobs-2027) | Aurora, CO | 0d |
 | Leidos | [Software Engineer TS/SCI w Poly (Junior to Senior Levels)](https://zapply.jobs/l/d/workday-leidos-external-R-00197157?s=gh-new-grad-software-engineering-jobs-2027) | San Diego, CA | 0d |
 | MatX | [Technical Editor](https://zapply.jobs/l/d/ashby-matx-50fb9e9c-adee-42b5-956f-9ed00643eebd?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View ( | 0d |
-| Micron Technology | [New College Grad - Software Engineer](https://zapply.jobs/l/d/workday-micron-external-JR109692?s=gh-new-grad-software-engineering-jobs-2027) | Boise, ID - Main Site | 0d |
 | Mirantis | [Software Engineer New Grad - Backend - Go](https://jobs.smartrecruiters.com/Mirantis/744000162186029?utm_source=Simplify&ref=Simplify) | Raleigh, NC | 0d |
-| Nasdaq | [Specialist - Systems and Network Administration](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0026928?s=gh-new-grad-software-engineering-jobs-2027) | Denver 18 Street | 0d |
+| QuaverEd | [Junior Developer - AI Team](https://go.vansh.nyc/1Bv?utm_source=github-vansh-ouckah) | Nashville, TN | 0d |
 | Relativity Space | [Software Engineer I (Factory Platform)](https://zapply.jobs/l/d/greenhouse-relativity-8949325002?s=gh-new-grad-software-engineering-jobs-2027) | Long Beach, California, United... | 0d |
-| Salesforce | [Software Engineering PMTS](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368536?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 0d |
-| Salesforce | [Software Engineering, AI Systems PMTS](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368561?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 0d |
-| Salesforce | [Software Engineering LMTS](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368519?s=gh-new-grad-software-engineering-jobs-2027) | Washington Bellevue | 0d |
-| Salesforce | [Associate Researcher, Product Research & Insights](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368647?s=gh-new-grad-software-engineering-jobs-2027) | California - San Francisco | 0d |
-| Sierra Nevada Corporation | [Project Engineer I](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031402?s=gh-new-grad-software-engineering-jobs-2027) | Lone Tree, CO | 0d |
-| TD Synnex | [LC Associate](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R58150?s=gh-new-grad-software-engineering-jobs-2027) | Southaven, MS | 0d |
+| Relativity Space | [Software Engineer I, Factory Platform](https://go.vansh.nyc/1BH?utm_source=github-vansh-ouckah) | Long Beach, CA | 0d |
 | Twitch | [Software Engineer I, Commerce](https://zapply.jobs/l/d/greenhouse-twitch-8949388002?s=gh-new-grad-software-engineering-jobs-2027) | Seattle, WA | 0d |
-| University of Texas at Austin | [Research Engineering/Scientist Associate I](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00050041?s=gh-new-grad-software-engineering-jobs-2027) | UT MAIN | 0d |
-| Wyetech | [Cloud Software Engineer 1](https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1?utm_source=Simplify&ref=Simplify) | Laurel, MD | 0d |
+| Utilidata | [Embedded Firmware Engineer](https://go.vansh.nyc/1BT?utm_source=github-vansh-ouckah) | Remote | 0d |
 | Wyetech | [Software Engineer 0](https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 0d |
+| Wyetech | [Cloud Software Engineer 1](https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1?utm_source=Simplify&ref=Simplify) | Laurel, MD | 0d |
 
 <!-- DerexXD 0d divider -->
 
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| ASML | [Dynamic Systems and Servo Analysis Researcher](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350854?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 1d |
-| Adobe | [2027 University Graduate - Enterprise Architecture Analyst](https://zapply.jobs/l/d/workday-adobe-external-experienced-R172327?s=gh-new-grad-software-engineering-jobs-2027) | New York | 1d |
-| AeroVironment | [Systems Engineer I](https://zapply.jobs/l/d/workday-avav-avav-9041?s=gh-new-grad-software-engineering-jobs-2027) | Petaluma, CA | 1d |
-| AeroVironment | [Software Engineer (EMB) I](https://zapply.jobs/l/d/workday-avav-avav-9054?s=gh-new-grad-software-engineering-jobs-2027) | 14501 Princeton Moorpark, CA | 1d |
-| AeroVironment | [Software Engineer (EMB), I](https://zapply.jobs/l/d/workday-avav-avav-9055?s=gh-new-grad-software-engineering-jobs-2027) | 14501 Princeton Moorpark, CA | 1d |
-| Amentum | [Entry Level Software Engineer - SECRET](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175348?s=gh-new-grad-software-engineering-jobs-2027) | VA-Dahlgren | 1d |
-| Amentum | [Cybersecurity Engineer Junior](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175566?s=gh-new-grad-software-engineering-jobs-2027) | FL-Cocoa Beach | 1d |
+| AMD | [Silicon Design Engineer](https://go.vansh.nyc/1AU?utm_source=github-vansh-ouckah) | Markham, Canada | 1d |
+| AeroVironment | [Junior Software Engineer (TS/SCI w/ Poly)](https://zapply.jobs/l/d/workday-avav-avav-8322?s=gh-new-grad-software-engineering-jobs-2027) | 420 National Business Parkway,... | 1d |
+| All Options | [New Grad 2027: Quantitative Researcher](https://go.vansh.nyc/1B3?utm_source=github-vansh-ouckah) | Austin, TX | 1d |
 | American Express | [Campus Undergraduate Full-Time Engineer - Software Engineer 1](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1d |
-| Barclays | [Exotic Rates Trader](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139071?s=gh-new-grad-software-engineering-jobs-2027) | New York, 745 7th Avenue | 1d |
-| Boeing | [Software Engineer (Experienced or Senior), Phantom Works](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529912?s=gh-new-grad-software-engineering-jobs-2027) | Berkeley, MO | 1d |
-| CACI | [Junior Systems Engineer](https://zapply.jobs/l/d/workday-caci-external-332029?s=gh-new-grad-software-engineering-jobs-2027) | King George, VA, US | 1d |
-| Cox | [Entry Level Software Engineer - Atlanta, GA](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202680858?s=gh-new-grad-software-engineering-jobs-2027) | Atlanta GA | 1d |
-| CrossCountry Consulting | [Junior Forward Deployed Software Engineer](https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 1d |
-| CrossCountry Consulting | [Junior Forward Deployed Software Engineer](https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0/apply?utm_source=Simplify&ref=Simplify) | Georgia | 1d |
+| Analog Devices | [Analog Design Engineer - Summer 2027 Start](https://zapply.jobs/l/d/workday-analogdevices-external-R265973?s=gh-new-grad-software-engineering-jobs-2027) | US, AZ, Chandler, East Elliot | 1d |
+| Ancestry | [Imaging Data Technician](https://zapply.jobs/l/d/workday-ancestry-careers-R003492?s=gh-new-grad-software-engineering-jobs-2027) | Draper, UT | 1d |
+| Argonne National Laboratory | [Directorate Safety Manager](https://zapply.jobs/l/d/workday-argonne-argonne-careers-423668?s=gh-new-grad-software-engineering-jobs-2027) | Lemont, IL USA | 1d |
+| BMO | [Software Developer (New or Recent Graduate)](https://zapply.jobs/l/d/workday-bmo-external-R260023733?s=gh-new-grad-software-engineering-jobs-2027) | Berkeley Heights, NJ, USA | 1d |
+| Barclays | [Equity Research Software, AVP](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000074634?s=gh-new-grad-software-engineering-jobs-2027) | New York, 745 7th Avenue | 1d |
+| Boeing | [Software Quality Engineer (Associate, Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529715?s=gh-new-grad-software-engineering-jobs-2027) | USA - El Segundo, CA | 1d |
+| Boeing | [Software Engineer (Associate or Experienced)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523054?s=gh-new-grad-software-engineering-jobs-2027) | USA - Colorado Springs, CO | 1d |
+| Boeing | [Software Quality Engineer (Associate, Mid-Level or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529719?s=gh-new-grad-software-engineering-jobs-2027) | USA - Berkeley, MO | 1d |
+| Boeing | [Software Test & Verification Engineer (Experienced or Senior)](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522039?s=gh-new-grad-software-engineering-jobs-2027) | Albuquerque, NM | 1d |
+| Booz Allen Hamilton | [Scientific Data Engineering Specialist](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251925?s=gh-new-grad-software-engineering-jobs-2027) | McLean, VA | 1d |
+| CACI | [Cloud Operations Administrator](https://zapply.jobs/l/d/workday-caci-external-335161?s=gh-new-grad-software-engineering-jobs-2027) | Hampton, VA, US | 1d |
+| Cadence | [Program Coordinator](https://zapply.jobs/l/d/workday-cadence-external-careers-R56910?s=gh-new-grad-software-engineering-jobs-2027) | SAN JOSE | 1d |
+| Canonical | [New Grad 2027: Graduate Software Engineer - Open Source and Linux](https://go.vansh.nyc/1Bw?utm_source=github-vansh-ouckah) | Remote | 1d |
+| Comcast | [AI Solutions Manager](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R449397?s=gh-new-grad-software-engineering-jobs-2027) | MD - Laurel, 14880 Sweitzer Lane | 1d |
+| CrossCountry Consulting | [New Grad 2027: Junior Forward Deployed Software Engineer](https://go.vansh.nyc/1AH?utm_source=github-vansh-ouckah) | Philadelphia, PA | 1d |
 | CrossCountry Consulting | [Junior Forward Deployed Software Engineer](https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply?utm_source=Simplify&ref=Simplify) | McLean, VA | 1d |
+| CrossCountry Consulting | [Junior Forward Deployed Software Engineer](https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0/apply?utm_source=Simplify&ref=Simplify) | Georgia | 1d |
+| CrossCountry Consulting | [Junior Forward Deployed Software Engineer](https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 1d |
+| CrossCountry Consulting | [Junior Forward Deployed Software Engineer](https://go.vansh.nyc/1AI?utm_source=github-vansh-ouckah) | McLean, VA | 1d |
+| Expedia Group | [Disputes Investigator I](https://zapply.jobs/l/d/workday-expedia-private-R-110557?s=gh-new-grad-software-engineering-jobs-2027) | USA - Missouri - Springfield | 1d |
+| Federal Reserve System | [New Grad 2027: Quantitative Fellowship Program (Master's)](https://go.vansh.nyc/1AM?utm_source=github-vansh-ouckah) | Minneapolis, MN | 1d |
+| Flexspring | [New Grad: AI Model Training and Deployment Developer](https://go.vansh.nyc/1B5?utm_source=github-vansh-ouckah) | Montreal, Canada | 1d |
 | Fortinet | [Embedded Software Engineer - Early Careers](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
 | Fortinet | [Early Careers: Software Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
-| GDIT | [OPSEC Technical Risk Analyst I](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228805?s=gh-new-grad-software-engineering-jobs-2027) | USA OH Dayton | 1d |
-| GlobalFoundries | [Test Wafer and Qual Automation Engineering (Summer 2027)](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604662?s=gh-new-grad-software-engineering-jobs-2027) | USA - Vermont - Essex Junction | 1d |
+| HPE | [AI Automation Engineer Graduate](https://zapply.jobs/l/d/workday-hpe-acjobsite-1213068?s=gh-new-grad-software-engineering-jobs-2027) | Spring, Texas, United States of... | 1d |
+| HPE (University) | [AI Automation Engineer Graduate](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213068?s=gh-new-grad-software-engineering-jobs-2027) | Spring, Texas, United States of... | 1d |
 | JLL | [Specialist, Mobile Engineering Services](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ549090?s=gh-new-grad-software-engineering-jobs-2027) | Jacksonville, FL | 1d |
 | Jensen Hughes | [Associate Drafter - Security Technology](https://zapply.jobs/l/d/greenhouse-jensenhughes-5474766008?s=gh-new-grad-software-engineering-jobs-2027) | Remote - United States | 1d |
-| Johnson & Johnson | [Associate Engineer 1](https://zapply.jobs/l/d/workday-jj-jj-R-110578?s=gh-new-grad-software-engineering-jobs-2027) | Raynham, Massachusetts, United... | 1d |
+| Jobgether | [New Grad 2027: Software Engineer, Open Source and Linux](https://go.vansh.nyc/1B9?utm_source=github-vansh-ouckah) | Remote | 1d |
+| Kraun Electric | [Junior Software Developer](https://kraunelectric.bamboohr.com/careers/98/?utm_source=Simplify&ref=Simplify) | St. Catharines, ON, Canada | 1d |
+| Kraun Electric | [Junior Software Developer](https://go.vansh.nyc/1B4?utm_source=github-vansh-ouckah) | St. Catharines, Canada | 1d |
 | Laborie Medical Technologies | [Software Engineer 1](https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Portsmouth, NH | 1d |
-| Leidos | [Network Vulnerability Remediation Engineer – Junior Level](https://zapply.jobs/l/d/workday-leidos-external-R-00197022?s=gh-new-grad-software-engineering-jobs-2027) | 6314 Remote/Teleworker US | 1d |
 | Leidos | [Network Integration Engineer – Junior](https://zapply.jobs/l/d/workday-leidos-external-R-00197024?s=gh-new-grad-software-engineering-jobs-2027) | 6314 Remote/Teleworker US | 1d |
+| Leidos | [Network Vulnerability Remediation Engineer – Junior Level](https://zapply.jobs/l/d/workday-leidos-external-R-00197022?s=gh-new-grad-software-engineering-jobs-2027) | 6314 Remote/Teleworker US | 1d |
 | Leidos | [Network Security Migration Engineer – Junior Level](https://zapply.jobs/l/d/workday-leidos-external-R-00197026?s=gh-new-grad-software-engineering-jobs-2027) | 6314 Remote/Teleworker US | 1d |
 | ManTech | [Junior Software Developer](https://mantech.avature.net/en_US/careers/JobDetail/67115?utm_source=Simplify&ref=Simplify) | St Inigoes, MD | 1d |
+| Microchip Technology | [Engineer 1 - Verification](https://go.vansh.nyc/1BS?utm_source=github-vansh-ouckah) | Chandler, AZ | 1d |
 | Micron | [New College Grad - Software Engineer](https://zapply.jobs/l/d/eightfold-micron-44144084?s=gh-new-grad-software-engineering-jobs-2027) | Boise, Idaho, United States of... | 1d |
-| Northrop Grumman | [Manager Computer Systems Analysis 1 - TS/SCI](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260927?s=gh-new-grad-software-engineering-jobs-2027) | United States-Connecticut-East... | 1d |
-| Northrop Grumman | [PC Network Support Tech 3 - 20374 - Roy Utah](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260702?s=gh-new-grad-software-engineering-jobs-2027) | United States-Utah-Roy | 1d |
+| Micron Technology | [Software Engineer](https://go.vansh.nyc/1C3?utm_source=github-vansh-ouckah) | Boise, ID | 1d |
+| Micron Technology | [New College Grad - Software Engineer](https://zapply.jobs/l/d/workday-micron-external-JR109692?s=gh-new-grad-software-engineering-jobs-2027) | Boise, ID - Main Site | 1d |
+| Momentum | [New Grad 2027: Associate Cybersecurity Analyst](https://go.vansh.nyc/1Ak?utm_source=github-vansh-ouckah) | Dallas, TX | 1d |
+| Nasdaq | [Specialist - Systems and Network Administration](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0026928?s=gh-new-grad-software-engineering-jobs-2027) | Denver 18 Street | 1d |
 | OpenAI | [Builder Education](https://zapply.jobs/l/d/ashby-openai-d6fac6f4-0b96-4c09-9349-9b7fc99a6547?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco | 1d |
-| RELX | [Legal Data Expert - Patent](https://zapply.jobs/l/d/workday-relx-relx-R121078?s=gh-new-grad-software-engineering-jobs-2027) | Home based Texas | 1d |
-| RTX | [Embedded Cybersecurity Researcher - Onsite](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889068?s=gh-new-grad-software-engineering-jobs-2027) | IA-CEDAR RAPIDS | 1d |
+| Peraton | [New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program](https://go.vansh.nyc/1Bi?utm_source=github-vansh-ouckah) | Blacksburg, VA | 1d |
+| RTX | [Software Engineer I](https://go.vansh.nyc/1Ca?utm_source=github-vansh-ouckah) | Cedar Rapids, IA | 1d |
 | Roblox | [Data Scientist – PhD Early Career - Safety 🎓](https://careers.roblox.com/jobs/8384186?gh_jid=8384186&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 1d |
-| Salesforce | [Finance Pathways Rotation Analyst (Early Career)](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR359637?s=gh-new-grad-software-engineering-jobs-2027) | Indiana - Indianapolis | 1d |
-| State Street | [CDAIO AI Strategy & Product Management, Assistant Vice President](https://zapply.jobs/l/d/workday-statestreet-global-R-799047?s=gh-new-grad-software-engineering-jobs-2027) | Boston Massachusetts | 1d |
-| Thermo Fisher Scientific | [Executive Assistant - Cybersecurity & Infrastructure](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01375887?s=gh-new-grad-software-engineering-jobs-2027) | Frederick, Maryland, USA | 1d |
+| Salesforce | [Software Engineering, AI Systems PMTS](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368561?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 1d |
+| Senstar | [Machine Learning Developer](https://go.vansh.nyc/1B2?utm_source=github-vansh-ouckah) | Waterloo, Canada | 1d |
+| Sierra Nevada Corporation | [Project Engineer I](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031402?s=gh-new-grad-software-engineering-jobs-2027) | Lone Tree, CO | 1d |
 | Thorlabs | [Photonics Systems Engineer I](https://zapply.jobs/l/d/workable-thorlabs-94444F7056?s=gh-new-grad-software-engineering-jobs-2027) | Newton, New Jersey | 1d |
+| University of Texas at Austin | [Research Engineering/Scientist Associate I](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00050041?s=gh-new-grad-software-engineering-jobs-2027) | UT MAIN | 1d |
 | Verkada | [Recruiting Program Coordinator](https://zapply.jobs/l/d/greenhouse-verkada-5294939007?s=gh-new-grad-software-engineering-jobs-2027) | San Mateo, CA United States | 1d |
-| Viavi Solutions | [Process Engineering Technician](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005354?s=gh-new-grad-software-engineering-jobs-2027) | Chandler, AZ USA | 1d |
 | Wyetech | [Software Engineer 0 or 1](https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1?utm_source=Simplify&ref=Simplify) | United States | 1d |
+| ASML | [Dynamic Systems and Servo Analysis Researcher](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350854?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 2d |
+| Adobe | [2027 University Graduate - Enterprise Architecture Analyst](https://zapply.jobs/l/d/workday-adobe-external-experienced-R172327?s=gh-new-grad-software-engineering-jobs-2027) | New York | 2d |
+| AeroVironment | [Systems Engineer I](https://zapply.jobs/l/d/workday-avav-avav-9041?s=gh-new-grad-software-engineering-jobs-2027) | Petaluma, CA | 2d |
+| AeroVironment | [Software Engineer (EMB) I](https://zapply.jobs/l/d/workday-avav-avav-9054?s=gh-new-grad-software-engineering-jobs-2027) | 14501 Princeton Moorpark, CA | 2d |
+| AeroVironment | [Software Engineer (EMB), I](https://zapply.jobs/l/d/workday-avav-avav-9055?s=gh-new-grad-software-engineering-jobs-2027) | 14501 Princeton Moorpark, CA | 2d |
+| AlphaOne Robotics | [Junior Robotics Software Engineer](https://go.vansh.nyc/1Ar?utm_source=github-vansh-ouckah) | Dallas, TX | 2d |
+| Amentum | [Entry Level Software Engineer - SECRET](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175348?s=gh-new-grad-software-engineering-jobs-2027) | VA-Dahlgren | 2d |
+| Amentum | [Cybersecurity Engineer Junior](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175566?s=gh-new-grad-software-engineering-jobs-2027) | FL-Cocoa Beach | 2d |
+| American Express | [New Grad 2027: Software Engineer I, Enterprise Technology Services](https://go.vansh.nyc/1Ab?utm_source=github-vansh-ouckah) | Toronto, Canada | 2d |
+| Barclays | [Exotic Rates Trader](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139071?s=gh-new-grad-software-engineering-jobs-2027) | New York, 745 7th Avenue | 2d |
+| Boeing | [Software Engineer (Experienced or Senior), Phantom Works](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529912?s=gh-new-grad-software-engineering-jobs-2027) | Berkeley, MO | 2d |
+| CACI | [Junior Systems Engineer](https://zapply.jobs/l/d/workday-caci-external-332029?s=gh-new-grad-software-engineering-jobs-2027) | King George, VA, US | 2d |
+| Cox | [Entry Level Software Engineer - Atlanta, GA](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202680858?s=gh-new-grad-software-engineering-jobs-2027) | Atlanta GA | 2d |
+| GDIT | [OPSEC Technical Risk Analyst I](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228805?s=gh-new-grad-software-engineering-jobs-2027) | USA OH Dayton | 2d |
+| GlobalFoundries | [Test Wafer and Qual Automation Engineering (Summer 2027)](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604662?s=gh-new-grad-software-engineering-jobs-2027) | USA - Vermont - Essex Junction | 2d |
 | JPMorgan Chase | [Product Delivery Manager – Infrastructure Engineering Enablement](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801713?s=gh-new-grad-software-engineering-jobs-2027) | Columbus, OH, United States | 2d |
+| Johnson & Johnson | [Associate Engineer 1](https://zapply.jobs/l/d/workday-jj-jj-R-110578?s=gh-new-grad-software-engineering-jobs-2027) | Raynham, Massachusetts, United... | 2d |
+| Microsoft | [Applied Sciences](https://go.vansh.nyc/1A4?utm_source=github-vansh-ouckah) | Remote | 2d |
+| Northrop Grumman | [Manager Computer Systems Analysis 1 - TS/SCI](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260927?s=gh-new-grad-software-engineering-jobs-2027) | United States-Connecticut-East... | 2d |
+| Northrop Grumman | [PC Network Support Tech 3 - 20374 - Roy Utah](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260702?s=gh-new-grad-software-engineering-jobs-2027) | United States-Utah-Roy | 2d |
+| Northrop Grumman | [PC Network Support Technician 2/3 - 20618 - California-Vandenberg AFB](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260709?s=gh-new-grad-software-engineering-jobs-2027) | United... | 2d |
+| RELX | [Legal Data Expert - Patent](https://zapply.jobs/l/d/workday-relx-relx-R121078?s=gh-new-grad-software-engineering-jobs-2027) | Home based Texas | 2d |
+| RTX | [Embedded Cybersecurity Researcher - Onsite](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889068?s=gh-new-grad-software-engineering-jobs-2027) | IA-CEDAR RAPIDS | 2d |
+| Silna Health | [AI Deployment Analyst](https://go.vansh.nyc/1AG?utm_source=github-vansh-ouckah) | New York, NY | 2d |
+| State Street | [CDAIO AI Strategy & Product Management, Assistant Vice President](https://zapply.jobs/l/d/workday-statestreet-global-R-799047?s=gh-new-grad-software-engineering-jobs-2027) | Boston Massachusetts | 2d |
+| Thermo Fisher Scientific | [Executive Assistant - Cybersecurity & Infrastructure](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01375887?s=gh-new-grad-software-engineering-jobs-2027) | Frederick, Maryland, USA | 2d |
+| Velocity Explorations | [Software Engineer](https://go.vansh.nyc/1As?utm_source=github-vansh-ouckah) | Patrick AFB, FL | 2d |
+| Viavi Solutions | [Process Engineering Technician](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005354?s=gh-new-grad-software-engineering-jobs-2027) | Chandler, AZ USA | 2d |
 | BAE Systems | [Software Engineer I](https://zapply.jobs/l/d/phenom-bae-systems-127649BR?s=gh-new-grad-software-engineering-jobs-2027) | Nashua, New Hampshire | 3d |
-| Leidos | [Cyberspace Operations Planner, Junior](https://zapply.jobs/l/d/workday-leidos-external-R-00193841?s=gh-new-grad-software-engineering-jobs-2027) | Fort Meade, MD | 3d |
-| ABB | [R&D Associate Engineer - Power Electronics](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050116?s=gh-new-grad-software-engineering-jobs-2027) | Richmond, Virginia, United... | 4d |
-| ASML | [Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday,...](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357579?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 4d |
-| ASML | [Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday,...](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00352570?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 4d |
-| Amentum | [Cleared Security Escort](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175418?s=gh-new-grad-software-engineering-jobs-2027) | CO-Denver | 4d |
-| Analog Devices | [Design Evaluation Engineer - Summer 2027](https://zapply.jobs/l/d/workday-analogdevices-external-R266633?s=gh-new-grad-software-engineering-jobs-2027) | US, CA, San Jose, Rio Robles | 4d |
+| Ingalls Shipbuilding | [Software Development Engineer 1 🇺🇸](https://go.vansh.nyc/1A0?utm_source=github-vansh-ouckah) | Newport News, VA | 3d |
+| Miraterra | [Associate Software Developer](https://go.vansh.nyc/1At?utm_source=github-vansh-ouckah) | Toronto, Canada | 3d |
+| SpaceX | [Full Stack Software Engineer (Starlink)](https://go.vansh.nyc/1zZ?utm_source=github-vansh-ouckah) | Palo Alto, CA | 3d |
+| Aerospace | [Embedded Software Engineer I - Flight Management System 🛂](https://go.vansh.nyc/1zw?utm_source=github-vansh-ouckah) | Phoenix, AZ | 4d |
 | Apple | [Network Circuit Provisioning Manager, Infrastructure Services](https://zapply.jobs/l/d/apple-200694991?s=gh-new-grad-software-engineering-jobs-2027) | Dallas - Fort Worth Metro Area | 4d |
-| Barclays | [Equity Derivatives Structuring, AVP](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000127922?s=gh-new-grad-software-engineering-jobs-2027) | New York, 745 7th Avenue | 4d |
 | Cambridge Mobile Telematics | [Software Engineer 1, Cloud](https://job-boards.greenhouse.io/cmt/jobs/8385978?utm_source=Simplify&ref=Simplify) | Cambridge, MA | 4d |
+| Cisco | [Software Engineer Compiler I](https://go.vansh.nyc/1yI?utm_source=github-vansh-ouckah) | Austin, TX | 4d |
 | Cisco | [Software Engineer Compiler I (Full Time) – United States](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2031593?s=gh-new-grad-software-engineering-jobs-2027) | Austin Texas US | 4d |
-| FactSet | [Client Solutions Associate - San Francisco, CA (February 2027)](https://zapply.jobs/l/d/workday-factset-factsetcareers-R33276?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, CA, USA | 4d |
+| Cummins | [New Grad 2027: Systems Engineer](https://go.vansh.nyc/1zp?utm_source=github-vansh-ouckah) | Seymour, IN | 4d |
+| DataVisor | [New Grad: Infrastructure Engineer](https://go.vansh.nyc/1zv?utm_source=github-vansh-ouckah) | Toronto, Canada | 4d |
+| Empire State Realty Trust | [Applied AI Engineer 1](https://go.vansh.nyc/1zo?utm_source=github-vansh-ouckah) | New York, NY | 4d |
 | Huntington Ingalls Industries | [Software Development Engineer 1](https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Newport News, VA | 4d |
+| Huntington Ingalls Industries | [Software Development Engineer 1 🇺🇸](https://go.vansh.nyc/1zm?utm_source=github-vansh-ouckah) | Newport News, VA | 4d |
+| Integrated Biosciences | [Software Engineer - Robotics (Master's)](https://go.vansh.nyc/1zA?utm_source=github-vansh-ouckah) | Redwood City, CA | 4d |
 | Intuit | [Graduate Software Engineer 1](https://jobs.intuit.com/job/london/graduate-software-engineer-1/27595/103261389616?utm_source=Simplify&ref=Simplify) | London, UK | 4d |
 | John Deere | [Part-Time Student - Electrification - Morrisville, NC](https://zapply.jobs/l/d/eightfold-johndeere-137483235535?s=gh-new-grad-software-engineering-jobs-2027) | Morrisville, NC,North... | 4d |
-| Nightwing | [Junior Software Engineer (SWE0)](https://zapply.jobs/l/d/workday-nwis-nw-01677525?s=gh-new-grad-software-engineering-jobs-2027) | Annapolis Junction, MD | 4d |
-| Sierra Nevada Corporation | [Software Engineer I](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031292?s=gh-new-grad-software-engineering-jobs-2027) | Lone Tree, CO | 4d |
-| The Travelers Companies | [Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)](https://zapply.jobs/l/d/workday-travelers-external-R-53687?s=gh-new-grad-software-engineering-jobs-2027) | CT - Hartford | 4d |
+| Micron Technology | [Design Engineer](https://go.vansh.nyc/1yS?utm_source=github-vansh-ouckah) | San Jose, CA | 4d |
 | Twitch | [Software Engineer I, Payments](https://zapply.jobs/l/d/greenhouse-twitch-8943553002?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, CA | 4d |
-| Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://zapply.jobs/l/d/greenhouse-affirm-8181183003?s=gh-new-grad-software-engineering-jobs-2027) | Remote US | 5d |
+| UTHealth Houston | [Clinical Business Intelligence Analyst](https://go.vansh.nyc/1zn?utm_source=github-vansh-ouckah) | San Antonio, TX | 4d |
+| ABB | [R&D Associate Engineer - Power Electronics](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050116?s=gh-new-grad-software-engineering-jobs-2027) | Richmond, Virginia, United... | 5d |
+| ASML | [Optical Fabrication Technician Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday,...](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357579?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 5d |
+| ASML | [Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday,...](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00352570?s=gh-new-grad-software-engineering-jobs-2027) | Wilton, CT, USA | 5d |
 | Affirm | [Software Engineer 1 - Backend - Continuous Delivery](https://job-boards.greenhouse.io/affirm/jobs/8181183003?utm_source=Simplify&ref=Simplify) | Remote in USA | 5d |
 | Affirm | [Software Engineer 1 - Backend - Continuous Delivery](https://job-boards.greenhouse.io/affirm/jobs/8181185003?utm_source=Simplify&ref=Simplify) | Remote in Canada | 5d |
+| Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://zapply.jobs/l/d/greenhouse-affirm-8181183003?s=gh-new-grad-software-engineering-jobs-2027) | Remote US | 5d |
+| Affirm | [Software Engineer 1, Backend, Continuous Delivery](https://go.vansh.nyc/1yc?utm_source=github-vansh-ouckah) | Remote, Canada | 5d |
+| Amentum | [Cleared Security Escort](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175418?s=gh-new-grad-software-engineering-jobs-2027) | CO-Denver | 5d |
 | BAE Systems | [Network Engineer_Network Ops Center](https://zapply.jobs/l/d/phenom-bae-systems-131271BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 5d |
 | BAE Systems | [Data Engineer_ SPLUNK](https://zapply.jobs/l/d/phenom-bae-systems-131110BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 5d |
-| Bask Health | [Frontend Engineer New Grad](https://apply.workable.com/bask-health-1/j/95FB1074E4/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 5d |
+| Barclays | [Equity Derivatives Structuring, AVP](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000127922?s=gh-new-grad-software-engineering-jobs-2027) | New York, 745 7th Avenue | 5d |
 | Booz Allen Hamilton | [C++ Software Engineer, Junior](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253425?s=gh-new-grad-software-engineering-jobs-2027) | Beavercreek, OH | 5d |
 | Booz Allen Hamilton | [Cybersecurity Test Engineer, Junior](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253386?s=gh-new-grad-software-engineering-jobs-2027) | Rome, NY | 5d |
-| CME Group | [Software Engineering Fellowship - Summer 2027](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824?s=gh-new-grad-software-engineering-jobs-2027) | Chicago | 5d |
 | Cisco | [Software Engineer Compiler I (Full Time) – United States](https://zapply.jobs/l/d/phenom-cisco-2031593?s=gh-new-grad-software-engineering-jobs-2027) | Austin, Texas | 5d |
-| HPE | [Systems/Software Engineer I](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215821?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 5d |
-| HPE (University) | [Systems/Software Engineer I](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215821?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 5d |
+| Citi | [AVP Quantitative Engineer, Exotic Equity Derivatives (Master's)](https://go.vansh.nyc/1yH?utm_source=github-vansh-ouckah) | New York, NY | 5d |
+| Dillards | [COBOL Developer](https://go.vansh.nyc/1wB?utm_source=github-vansh-ouckah) | Little Rock, AR | 5d |
+| Everest | [New Grad 2027: Information Technology Rotational Development Program](https://go.vansh.nyc/1zG?utm_source=github-vansh-ouckah) | Warren, NJ | 5d |
+| FactSet | [Client Solutions Associate - San Francisco, CA (February 2027)](https://zapply.jobs/l/d/workday-factset-factsetcareers-R33276?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, CA, USA | 5d |
 | Johns Hopkins Applied Physics Laboratory | [Mission Modeling, Simulation & Software Engineer New Grad](https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Laurel, MD | 5d |
+| Johns Hopkins Applied Physics Laboratory | [New Grad: Mission Modeling, Simulation & Software Engineer](https://go.vansh.nyc/1wC?utm_source=github-vansh-ouckah) | Laurel, MD | 5d |
+| L3Harris Technologies | [Associate, Application Development](https://go.vansh.nyc/1yb?utm_source=github-vansh-ouckah) | Melbourne, FL | 5d |
+| Leidos | [Network and Systems Engineer](https://go.vansh.nyc/1wS?utm_source=github-vansh-ouckah) | Huntsville, AL | 5d |
+| Nightwing | [Junior Software Engineer (SWE0)](https://zapply.jobs/l/d/workday-nwis-nw-01677525?s=gh-new-grad-software-engineering-jobs-2027) | Annapolis Junction, MD | 5d |
+| Nuro | [New Grad 2027: Systems Engineering](https://go.vansh.nyc/1Aq?utm_source=github-vansh-ouckah) | Mountain View, CA | 5d |
 | Nuro | [Systems Engineering, New Grad 2027](https://zapply.jobs/l/d/greenhouse-nuro-8360415?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View, California ( | 5d |
+| Oracle | [New Grad 2027: Site Reliability Engineer, OCI](https://go.vansh.nyc/1yT?utm_source=github-vansh-ouckah) | Nashville, TN | 5d |
+| Peraton | [Full Stack Engineer](https://go.vansh.nyc/1yG?utm_source=github-vansh-ouckah) | Columbus, OH | 5d |
+| Sierra Nevada Corporation | [Software Engineer I](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031292?s=gh-new-grad-software-engineering-jobs-2027) | Lone Tree, CO | 5d |
 | Sierra Nevada Corporation | [Software Engineer 1](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292?utm_source=Simplify&ref=Simplify) | Lone Tree, CO | 5d |
 | SpaceX | [Aerospace Software Engineer New Grad - Aerospace Software](https://boards.greenhouse.io/spacex/jobs/8939697002?utm_source=Simplify&ref=Simplify) | Hawthorne, CA | 5d |
+| SpaceX | [New Grad 2027: Engineer, Aerospace Software (Starfall)](https://go.vansh.nyc/1wR?utm_source=github-vansh-ouckah) | Hawthorne, CA | 5d |
+| The Travelers Companies | [Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)](https://zapply.jobs/l/d/workday-travelers-external-R-53687?s=gh-new-grad-software-engineering-jobs-2027) | CT - Hartford | 5d |
 | Amazon | [Post-Silicon Systems Validation Engineer 1](https://amazon.jobs/en/jobs/10602663/post-silicon-systems-validation-engineer-i-annapurna-labs?utm_source=Simplify&ref=Simplify) | Austin, TX | 6d |
 | Amazon | [Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference](https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference?utm_source=Simplify&ref=Simplify) | Cupertino, CA | 6d |
 | Atlantic Health System | [Cybersecurity Engineer I](https://zapply.jobs/l/d/oracle-atlantic-health-32509?s=gh-new-grad-software-engineering-jobs-2027) | Morristown, NJ, United States | 6d |
-| Bask Health | [Backend Engineer New Grad](https://apply.workable.com/bask-health-1/j/472CF47F60/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
+| Bask | [New Grad: Frontend Engineer](https://go.vansh.nyc/1wf?utm_source=github-vansh-ouckah) | Remote | 6d |
+| Bask | [New Grad: Product Engineer](https://go.vansh.nyc/1vl?utm_source=github-vansh-ouckah) | Remote | 6d |
+| Bask | [New Grad: Backend Engineer](https://go.vansh.nyc/1vk?utm_source=github-vansh-ouckah) | Remote | 6d |
 | Bask Health | [Product Engineer New Grad](https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
+| Bask Health | [New Grad: Backend Engineer](https://go.vansh.nyc/1vF?utm_source=github-vansh-ouckah) | Remote | 6d |
+| Bask Health | [New Grad: Product Engineer](https://go.vansh.nyc/1vG?utm_source=github-vansh-ouckah) | Remote | 6d |
+| Bask Health | [Backend Engineer New Grad](https://apply.workable.com/bask-health-1/j/472CF47F60/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
+| Bask Health | [New Grad: Frontend Engineer](https://go.vansh.nyc/1wd?utm_source=github-vansh-ouckah) | Remote | 6d |
 | Bask Health | [Junior Full Stack Engineer](https://apply.workable.com/bask-health-1/j/DFC51193B4/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
 | Bask Health | [Junior Product Engineer - Interactive Experiences](https://apply.workable.com/bask-health-1/j/7B69E15EFA/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
+| Bask Health | [Junior Design Engineer](https://go.vansh.nyc/1we?utm_source=github-vansh-ouckah) | Remote | 6d |
+| Bask Health | [Frontend Engineer New Grad](https://apply.workable.com/bask-health-1/j/95FB1074E4/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
+| Boeing | [Flight Software Engineer, Vehicle Management Systems 🇺🇸](https://go.vansh.nyc/1y8?utm_source=github-vansh-ouckah) | El Segundo, CA | 6d |
 | Booz Allen | [Junior C++ Software Engineer](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 6d |
+| Booz Allen | [Junior C++ Software Engineer 🇺🇸](https://go.vansh.nyc/1yd?utm_source=github-vansh-ouckah) | Beavercreek, OH | 6d |
+| CME Group | [Software Engineering Fellowship - Summer 2027](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824?s=gh-new-grad-software-engineering-jobs-2027) | Chicago | 6d |
 | General Dynamics Mission Systems | [Platform Services Software Engineer Entry Level](https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Scottsdale, AZ | 6d |
+| GlobalFoundries | [New Grad 2027: Tapeout Biz Products & Engineering](https://go.vansh.nyc/1w3?utm_source=github-vansh-ouckah) | Austin, TX | 6d |
+| HPE | [Systems/Software Engineer I](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215821?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 6d |
+| HPE (University) | [Systems/Software Engineer I](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215821?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale, California, United... | 6d |
 | Hewlett Packard Enterprise | [Systems/Software Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 6d |
 | Hewlett Packard Enterprise | [Systems/Software Engineer 1](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 6d |
+| Keysight Technologies | [New Grad 2027: Software Engineer, Semiconductor Technology 🇺🇸](https://go.vansh.nyc/1wU?utm_source=github-vansh-ouckah) | Bldg, CA | 6d |
+| Lanteris Space | [Simulation Software Engineer 🇺🇸](https://go.vansh.nyc/1wV?utm_source=github-vansh-ouckah) | Remote | 6d |
+| Leidos | [Software Engineer 🇺🇸](https://go.vansh.nyc/1y9?utm_source=github-vansh-ouckah) | Tucson, AZ | 6d |
 | Luxfer MEL Technologies | [Junior Data Engineer](https://luxfermeltechnologiesuk.applytojob.com/apply/7D3Toqbi0l/Junior-Data-Engineer?utm_source=Simplify&ref=Simplify) | Swinton, Manchester, UK | 6d |
+| MITRE | [Associate Data Scientist 🇺🇸](https://go.vansh.nyc/1w6?utm_source=github-vansh-ouckah) | Clarksburg, WV | 6d |
 | Medpace | [Junior Data Governance Analyst](https://careers.medpace.com/jobs/13127?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 6d |
+| Northrop Grumman | [New Grad 2027: Associate Software Engineer, Pathways 🇺🇸](https://go.vansh.nyc/1z4?utm_source=github-vansh-ouckah) | Boulder, CO | 6d |
+| Northrop Grumman | [New Grad 2027: Associate Software Engineer, Pathways 🇺🇸](https://go.vansh.nyc/1z3?utm_source=github-vansh-ouckah) | Colorado Springs, CO | 6d |
+| Pacific Northwest National Laboratory | [Post-Bachelor Research Associate, Full Stack Product](https://go.vansh.nyc/1vH?utm_source=github-vansh-ouckah) | Richland, WA | 6d |
+| Planview | [Software Engineer I](https://go.vansh.nyc/1wp?utm_source=github-vansh-ouckah) | Vancouver, Canada | 6d |
+| Planview | [Software Engineer I](https://go.vansh.nyc/1wo?utm_source=github-vansh-ouckah) | Vancouver, Canada | 6d |
+| RLI | [Associate Software Engineer](https://go.vansh.nyc/1yn?utm_source=github-vansh-ouckah) | Peoria, IL, Tempe, AZ | 6d |
 | RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972?utm_source=Simplify&ref=Simplify) | Marlborough, MA | 6d |
+| RTX | [Associate Software Engineer I, CDS / Engine System Software 🇺🇸](https://go.vansh.nyc/1w2?utm_source=github-vansh-ouckah) | Etc, CT | 6d |
+| Rubrik | [Software Engineer - Virtual Platform](https://go.vansh.nyc/1vE?utm_source=github-vansh-ouckah) | Palo Alto, CA | 6d |
 | Sierra Space | [Software Engineer 1 - DevOps - DevSecOps](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535?utm_source=Simplify&ref=Simplify) | Centennial, CO Louisville, CO | 6d |
-| Symbotic | [New Grad- Robotics Software Engineer](https://zapply.jobs/l/d/workday-symbotic-symbotic-R8496?s=gh-new-grad-software-engineering-jobs-2027) | USA Wilmington, MA - | 6d |
+| SpaceX | [Software Engineer (Starship)](https://go.vansh.nyc/1wQ?utm_source=github-vansh-ouckah) | Starbase, TX | 6d |
+| Spring Venture Group | [DevOps Engineer I 🇺🇸](https://go.vansh.nyc/1v7?utm_source=github-vansh-ouckah) | Kansas City, MO | 6d |
+| Symbotic | [New Grad: Robotics Software Engineer](https://go.vansh.nyc/1uP?utm_source=github-vansh-ouckah) | Wilmington, MA | 6d |
 | TechInsights | [Circuit Analyst New Grad](https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 6d |
 | Twitch | [Software Engineer I, Commerce](https://zapply.jobs/l/d/greenhouse-twitch-8934067002?s=gh-new-grad-software-engineering-jobs-2027) | San Francisco, CA | 6d |
+| Western Digital | [Software Engineer](https://go.vansh.nyc/1v8?utm_source=github-vansh-ouckah) | San Jose, CA | 6d |
+| Zensar | [Software Engineer, AI Platform Development](https://go.vansh.nyc/1vO?utm_source=github-vansh-ouckah) | San Jose, CA, Ann Arbor, MI | 6d |
+| ZettaSquared | [New Grad 2027: Forward Engineer / AI Developer 🛂](https://go.vansh.nyc/1ya?utm_source=github-vansh-ouckah) | Houston, TX | 6d |
 | edmentum | [Software Engineer 1](https://job-boards.greenhouse.io/edmentum/jobs/6255572004?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 6d |
 | Adobe | [Data Scientist New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462?utm_source=Simplify&ref=Simplify) | San Jose, CA | 7d |
+| Aerospace | [Software Engineer I, Web Applications 🇺🇸](https://go.vansh.nyc/1rV?utm_source=github-vansh-ouckah) | Phoenix, AZ | 7d |
 | Amazon | [Software Development Engineer Early Career - Amazon Dedicated Cloud](https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc?utm_source=Simplify&ref=Simplify) | 5 locationsSeattle, WA Jessup, MD Arlington County, Arlington, VA Denver, CO Herndon, VA | 7d |
+| Amazon | [New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud 🇺🇸](https://go.vansh.nyc/1sv?utm_source=github-vansh-ouckah) | Seattle, WA | 7d |
 | Amentum | [Junior Software Developer](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175040?s=gh-new-grad-software-engineering-jobs-2027) | VA-Dahlgren | 7d |
+| Anduril | [New Grad 2027: Information Security Engineer](https://go.vansh.nyc/1s4?utm_source=github-vansh-ouckah) | Costa Mesa, CA | 7d |
 | Anduril | [2027 New Grad Information Security Engineer](https://zapply.jobs/l/d/greenhouse-andurilindustries-5270839007?s=gh-new-grad-software-engineering-jobs-2027) | Costa Mesa, California, United... | 7d |
-| Apple | [AV Project Manager, SWE Employee Experience](https://zapply.jobs/l/d/apple-200694406?s=gh-new-grad-software-engineering-jobs-2027) | Cupertino | 7d |
-| BAE Systems | [Data Scientist_ SPLUNK](https://zapply.jobs/l/d/phenom-bae-systems-131115BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 7d |
+| Annapurna Labs (U.S.) Inc. | [Software Development Engineer I, Inference models optimization, AWS Neuron Inference](https://go.vansh.nyc/1v5?utm_source=github-vansh-ouckah) | Cupertino, CA | 7d |
 | BAE Systems | [Network Engineer_Voice & Video](https://zapply.jobs/l/d/phenom-bae-systems-131259BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 7d |
-| Bask Health | [Junior Product Manager - Intakes & Conversion](https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 7d |
+| BAE Systems | [Data Scientist_ SPLUNK](https://zapply.jobs/l/d/phenom-bae-systems-131115BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 7d |
 | Bask Health | [Associate Product Manager New Grad](https://apply.workable.com/bask-health-1/j/10419258C9/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 7d |
 | Bask Health | [Product Builder, Early Career](https://apply.workable.com/bask-health-1/j/854A2D27D1/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 7d |
+| Bask Health | [Junior Product Manager - Intakes & Conversion](https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply?utm_source=Simplify&ref=Simplify) | Remote in USA | 7d |
+| Bask Health | [Product Builder](https://go.vansh.nyc/1sQ?utm_source=github-vansh-ouckah) | Remote | 7d |
 | Booz Allen Hamilton | [Information Security Risk Specialist](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251859?s=gh-new-grad-software-engineering-jobs-2027) | Patuxent River, MD | 7d |
 | Caterpillar | [Embedded Software Engineering Specialist - Agentic IDE](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000404578?s=gh-new-grad-software-engineering-jobs-2027) | Mossville, Illinois | 7d |
 | Ciena | [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 7d |
+| Coreintels | [New Grad: Data Analyst](https://go.vansh.nyc/1rr?utm_source=github-vansh-ouckah) | Remote | 7d |
+| Cummins | [Electronic Systems Engineer - Software](https://go.vansh.nyc/1rL?utm_source=github-vansh-ouckah) | Columbus, IN | 7d |
 | John Deere | [Part-Time Student - Test Automation Engineering - Silvis, IL](https://zapply.jobs/l/d/eightfold-johndeere-137484298451?s=gh-new-grad-software-engineering-jobs-2027) | Silvis, IL,Illinois,United States | 7d |
+| Johns Hopkins APL | [New Grad 2027: Algorithm Development Engineer](https://go.vansh.nyc/1sJ?utm_source=github-vansh-ouckah) | Laurel, MD | 7d |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/Analyst New Grad - ISRT and BMC2 Applications 🎓](https://careers.jhuapl.edu/jobs/59851?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Laurel, MD | 7d |
-| RELX | [Founding Editor-in-Chief, Cell Biotech (Cell Press)](https://zapply.jobs/l/d/workday-relx-relx-R115305?s=gh-new-grad-software-engineering-jobs-2027) | Medford, MA | 7d |
+| MITRE | [Associate Software Engineer 🇺🇸](https://go.vansh.nyc/1w5?utm_source=github-vansh-ouckah) | Clarksburg, WV | 7d |
+| Natoma | [New Grad: Software Engineer](https://go.vansh.nyc/1rq?utm_source=github-vansh-ouckah) | Boston, MA | 7d |
+| Natoma | [New Grad: Software Engineer](https://go.vansh.nyc/1rp?utm_source=github-vansh-ouckah) | Boston, MA | 7d |
+| Salesforce | [New Grad: Software Engineering AMTS](https://go.vansh.nyc/1uI?utm_source=github-vansh-ouckah) | Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA | 7d |
+| Salesforce | [Software Engineering AMTS (College Grad)](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368047?s=gh-new-grad-software-engineering-jobs-2027) | California San Francisco | 7d |
 | Salesforce | [Software Engineering AMTS New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1?utm_source=Simplify&ref=Simplify) | 7 locationsPalo Alto, CA Seattle, WA Indianapolis, IN SF Dallas, TX NYC Bellevue, WA | 7d |
 | Salesforce | [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047?utm_source=Simplify&ref=Simplify) | 7 locationsPalo Alto, CA Seattle, WA Indianapolis, IN SF Dallas, TX NYC Bellevue, WA | 7d |
 | Symbotic | [Robotics Software Engineer New Grad 🎓](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496?utm_source=Simplify&ref=Simplify) | Wilmington, MA | 7d |
+| Symbotic | [New Grad- Robotics Software Engineer](https://zapply.jobs/l/d/workday-symbotic-symbotic-R8496?s=gh-new-grad-software-engineering-jobs-2027) | USA Wilmington, MA - | 7d |
+| Techstra Solutions | [AI Engineer (Master's)](https://go.vansh.nyc/1sr?utm_source=github-vansh-ouckah) | Pittsburgh, PA | 7d |
 | UPS | [Buildings and Systems Engineering Specialist](https://zapply.jobs/l/d/phenom-ups-R26041661?s=gh-new-grad-software-engineering-jobs-2027) | DFW AIRPORT, Texas | 7d |
-| University of Texas at Austin | [Research Engineering/ Scientist Associate I (4216)](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049925?s=gh-new-grad-software-engineering-jobs-2027) | MARINE SCIENCE INSTITUTE | 7d |
+| Xperteez Technology | [New Grad: Software Engineer](https://go.vansh.nyc/1rD?utm_source=github-vansh-ouckah) | Remote | 7d |
+| Zingage | [New Grad: Software Engineer](https://go.vansh.nyc/1rE?utm_source=github-vansh-ouckah) | New York, NY | 7d |
+| CSI | [Software Engineer I, C#/.NET 🛂](https://go.vansh.nyc/1oL?utm_source=github-vansh-ouckah) | Paducah, KY, Valparaiso, IN | 8d |
+| Domino | [New Grad 2027: Software Engineer](https://go.vansh.nyc/1q7?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| F7d8749a 72d6 407c Bf98 292ea630c73a | [New Grad 2027: Engineer I, Software - Autonomous Pilot Integration 🇺🇸](https://go.vansh.nyc/1p6?utm_source=github-vansh-ouckah) | Washington, DC | 8d |
+| F7d8749a 72d6 407c Bf98 292ea630c73a | [New Grad 2027: Engineer I, Software - Autonomy Capabilities 🇺🇸](https://go.vansh.nyc/1p7?utm_source=github-vansh-ouckah) | Remote | 8d |
+| F7d8749a 72d6 407c Bf98 292ea630c73a | [New Grad 2027: Engineer I, Software - Perception 🇺🇸](https://go.vansh.nyc/1p5?utm_source=github-vansh-ouckah) | Washington, DC | 8d |
 | Fidelity National Information Services | [Mainframe Software Engineer 1](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1?utm_source=Simplify&ref=Simplify) | Columbus, GA | 8d |
 | Kyndryl | [Early Career Consult Program - Associate Data Engineer](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870?utm_source=Simplify&ref=Simplify) | Frisco, TX | 8d |
 | Multi Media | [Software Engineer 1/2](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs?utm_source=Simplify&ref=Simplify) | Remote in USA | 8d |
 | Planview | [Software Engineer 1](https://careers.planview.com/jobs/5149?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Austin, TX | 8d |
+| SambaNova | [New Grad: Machine Learning Engineer](https://go.vansh.nyc/1qm?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 8d |
+| SambaNova | [New Grad: ML Infrastructure Engineer](https://go.vansh.nyc/1qn?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 8d |
+| SambaNova | [New Grad: Design Verification Engineer](https://go.vansh.nyc/1ql?utm_source=github-vansh-ouckah) | San Jose, CA | 8d |
+| SambaNova | [New Grad: Compiler Engineer](https://go.vansh.nyc/1qk?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 8d |
+| SambaNova | [New Grad: Runtime Engineer](https://go.vansh.nyc/1qp?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 8d |
+| SambaNova | [New Grad: Physical Design Engineer](https://go.vansh.nyc/1qo?utm_source=github-vansh-ouckah) | San Jose, CA | 8d |
+| SambaNova | [New Grad: Cloud Platform Engineer](https://go.vansh.nyc/1qj?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 8d |
+| SeatGeek | [New Grad 2027: Software Engineer](https://go.vansh.nyc/1p1?utm_source=github-vansh-ouckah) | New York, NY | 8d |
 | Tidal Wave Auto Spa | [Junior Data Analyst](https://tidalwaveautospa.wd1.myworkdayjobs.com/TWAS/job/Thomaston-GA/Junior-Data-Analyst_R11470?utm_source=Simplify&ref=Simplify) | Birmingham, AL Peachtree Corners, GA Thomaston, GA | 8d |
+| Wolverine Trading | [New Grad: C++ Software Engineer](https://go.vansh.nyc/1oT?utm_source=github-vansh-ouckah) | Chicago, IL | 8d |
 | Wolverine Trading | [C++ Software Engineer New Grad](https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Chicago, IL | 8d |
 | Bank of Montreal | [Software Developer New Grad](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 9d |
 | CSI | [Software Engineer 1 - C#/.NET](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739?utm_source=Simplify&ref=Simplify) | Paducah, KY Valparaiso, IN | 9d |
+| Intel | [SoC Logic Design Engineer](https://go.vansh.nyc/1q9?utm_source=github-vansh-ouckah) | Santa Clara, CA, Hillsboro, OR, Folsom, CA | 9d |
+| Intel | [SoC Design Verification Engineer](https://go.vansh.nyc/1q8?utm_source=github-vansh-ouckah) | Santa Clara, CA | 9d |
+| National Grid | [New Grad 2027: Associate Data Analyst, Electric Projects Estimating](https://go.vansh.nyc/1rO?utm_source=github-vansh-ouckah) | Waltham, MA | 9d |
 | Netholabs | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 9d |
-| RTX | [Embedded Security Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154?utm_source=Simplify&ref=Simplify) | Goleta, CA | 9d |
-| Shield AI | [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true&utm_source=Simplify&ref=Simplify) | United States | 10d |
+| D3 | [New Grad: Backend Engineer](https://go.vansh.nyc/1mR?utm_source=github-vansh-ouckah) | Los Angeles, CA | 10d |
+| D3 | [New Grad: Frontend Engineer](https://go.vansh.nyc/1mS?utm_source=github-vansh-ouckah) | Los Angeles, CA | 10d |
+| ElevenLabs | [Full-Stack Engineer (Backend Leaning)](https://go.vansh.nyc/1mm?utm_source=github-vansh-ouckah) | New York, NY, Boston, MA | 10d |
+| ElevenLabs | [Full-Stack Engineer](https://go.vansh.nyc/1ml?utm_source=github-vansh-ouckah) | New York, NY, Boston, MA | 10d |
+| Lawrence Livermore National Laboratory | [Embedded Systems Engineer, Super Intelligence Integration 🇺🇸](https://go.vansh.nyc/1n9?utm_source=github-vansh-ouckah) | Livermore, CA | 10d |
 | Shield AI | [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true&utm_source=Simplify&ref=Simplify) | United States | 10d |
+| Shield AI | [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true&utm_source=Simplify&ref=Simplify) | United States | 10d |
+| ASM | [Software Engineer](https://go.vansh.nyc/1na?utm_source=github-vansh-ouckah) | Phoenix, AZ | 11d |
 | Ande | [Software Engineer – Early Career - AI](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 11d |
+| Cisco | [ASIC DFT Engineer I](https://go.vansh.nyc/1lV?utm_source=github-vansh-ouckah) | San Jose, CA | 11d |
+| Fortinet | [Software Engineer – Cloud Platform (FortiSIEM) 🛂](https://go.vansh.nyc/1l1?utm_source=github-vansh-ouckah) | Santa Clara, CA | 11d |
 | Prosync | [Software Engineer 0/1](https://apply.workable.com/prosync/j/6ECFBED6E7/apply?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 11d |
+| Rovisys | [New Grad 2027: Entry Level Engineer/Developer](https://go.vansh.nyc/1mG?utm_source=github-vansh-ouckah) | Houston, TX | 11d |
+| Rovisys | [New Grad 2027: Entry Level Engineer/Developer](https://go.vansh.nyc/1mH?utm_source=github-vansh-ouckah) | Remote | 11d |
+| Rovisys | [New Grad 2027: Entry Level Engineer/Developer](https://go.vansh.nyc/1mI?utm_source=github-vansh-ouckah) | Holly Springs, NC | 11d |
+| Secfix | [Backend Engineer, GTM Engineering](https://go.vansh.nyc/1mk?utm_source=github-vansh-ouckah) | Remote | 11d |
 | Sopra Steria | [FPGA Verification Engineer – Entry Level](https://jobs.smartrecruiters.com/SopraSteria1/744000160220699?utm_source=Simplify&ref=Simplify) | East Hartford, CT | 11d |
-| Amazon | [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us?utm_source=Simplify&ref=Simplify) | Redmond, WA | 12d |
+| Valsoft | [AI Engineer 1](https://go.vansh.nyc/1lL?utm_source=github-vansh-ouckah) | Montreal, Canada | 11d |
 | Amazon | [ASIC Formal Verification Engineer 1](https://amazon.jobs/en/jobs/10597433/asic-formal-verification-engineer-i-annapurna-labs?utm_source=Simplify&ref=Simplify) | Austin, TX Cupertino, CA | 12d |
 | Amazon | [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us?utm_source=Simplify&ref=Simplify) | Redmond, WA Northridge, LA | 12d |
+| Amazon | [New Grad 2027: Software Development Engineer, Amazon Leo 🇺🇸](https://go.vansh.nyc/1iP?utm_source=github-vansh-ouckah) | Redmond, WA | 12d |
+| Amazon | [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us?utm_source=Simplify&ref=Simplify) | Redmond, WA | 12d |
+| Amazon | [New Grad 2027: Software Development Engineer, Embedded Systems 🇺🇸](https://go.vansh.nyc/1jB?utm_source=github-vansh-ouckah) | Redmond, WA, Northridge, LA | 12d |
+| BP | [New Grad 2027: Digital – Data & AI and Digital Engineering](https://go.vansh.nyc/1lA?utm_source=github-vansh-ouckah) | Houston, TX | 12d |
+| CACI | [Junior Software Developer](https://go.vansh.nyc/1iG?utm_source=github-vansh-ouckah) | Remote | 12d |
+| Celonis | [Associate Deployment Engineer](https://go.vansh.nyc/1ki?utm_source=github-vansh-ouckah) | Raleigh, NC | 12d |
+| Celonis | [Associate Deployment Engineer](https://go.vansh.nyc/1kh?utm_source=github-vansh-ouckah) | New York, NY | 12d |
 | Chewy | [Software Engineer 1 - Full Stack - Promotions](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442?utm_source=Simplify&ref=Simplify) | Boston, MA | 12d |
-| Everwatch | [Junior Software Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 12d |
+| Fortinet | [Technical Content DevOps Developer](https://go.vansh.nyc/1lB?utm_source=github-vansh-ouckah) | Burnaby, Canada | 12d |
 | Hewlett Packard Enterprise | [Campus Switching Product Manager New Grad](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1?utm_source=Simplify&ref=Simplify) | San Jose, CA Roseville, CA | 12d |
 | Hewlett Packard Enterprise | [Campus Switching Product Manager New Grad](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267?utm_source=Simplify&ref=Simplify) | San Jose, CA Roseville, CA | 12d |
-| Peraton | [Cloud Software Engineer 1](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Fort Meade, MD | 12d |
+| Intel | [New Grad 2027: Software Performance Engineer (Master's)](https://go.vansh.nyc/1lS?utm_source=github-vansh-ouckah) | Hillsboro, OR | 12d |
+| L3Harris Technologies | [Associate, Software Engineer](https://go.vansh.nyc/1kJ?utm_source=github-vansh-ouckah) | Troutman, FL | 12d |
+| Persimmons.ai | [New Grad: Design Verification Engineer](https://go.vansh.nyc/1jQ?utm_source=github-vansh-ouckah) | San Jose, CA | 12d |
+| StubHub | [New Grad: Software Engineer I, Consumer Experience](https://go.vansh.nyc/1iQ?utm_source=github-vansh-ouckah) | New York, NY | 12d |
 | StubHub | [Software Engineer New Grad - Consumer Experience](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=Simplify&ref=Simplify) | NYC | 12d |
 | Ultima Genomics | [Firmware Engineer 1](https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004?utm_source=Simplify&ref=Simplify) | Fremont, CA | 12d |
-| Vancouver Coastal Health | [Junior Business Advisor - Data & Analytics](https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 12d |
 | Amazon | [Software Developer Engineer 1 - Security Platform](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform?utm_source=Simplify&ref=Simplify) | Seattle, WA SF Irvine, CA | 13d |
+| Annapurna Labs (U.S.) Inc. | [ASIC Formal Verification Engineer I, Annapurna Labs](https://go.vansh.nyc/1j2?utm_source=github-vansh-ouckah) | Austin, TX | 13d |
+| Cardinal Health | [New Grad 2027: Data & Analytics Development Program](https://go.vansh.nyc/1jL?utm_source=github-vansh-ouckah) | Dublin, OH | 13d |
 | Cardinal Health | [Data & Analytics Early Career Development Program](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569?utm_source=Simplify&ref=Simplify) | Dublin, OH | 13d |
 | Choice Hotels | [Software Engineer 1 - Finance Technology](https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514?utm_source=Simplify&ref=Simplify) | Scottsdale, AZ | 13d |
+| Cisco | [Software Engineer Full Stack / Backend I](https://go.vansh.nyc/1hr?utm_source=github-vansh-ouckah) | Austin, TX | 13d |
+| Everwatch | [Junior Software Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 13d |
+| Lyft | [Software Engineer, Backend](https://go.vansh.nyc/1h1?utm_source=github-vansh-ouckah) | Toronto, Canada | 13d |
+| M&T Bank | [New Grad 2027: Technology Development Program, Cybersecurity (Insider Threat)](https://go.vansh.nyc/1j6?utm_source=github-vansh-ouckah) | Buffalo, NY | 13d |
+| M&T Bank | [New Grad 2027: Technology Development Program - Cybersecurity (Workforce Identity & Access Management)](https://go.vansh.nyc/1j9?utm_source=github-vansh-ouckah) | Buffalo, NY | 13d |
+| M&T Bank | [New Grad 2027: Technology Development Program - Cybersecurity (Encryption Services)](https://go.vansh.nyc/1j5?utm_source=github-vansh-ouckah) | Buffalo, NY | 13d |
+| M&T Bank | [New Grad 2027: Technology Development Program, Cybersecurity (Vulnerability Risk Management)](https://go.vansh.nyc/1j8?utm_source=github-vansh-ouckah) | Buffalo, NY | 13d |
+| Peraton | [Cloud Software Engineer 1](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Fort Meade, MD | 13d |
 | ShadowDragon | [Junior AI/Machine Learning Engineer](https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c?utm_source=Simplify&ref=Simplify) | Remote in USA Hoover, AL | 13d |
+| Susquehanna International Group | [Quantitative Sports Researcher (Master's)](https://go.vansh.nyc/1hG?utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 13d |
 | Twitch | [Software Development Engineer 1 - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002?utm_source=Simplify&ref=Simplify) | Seattle, WA SF Irvine, CA | 13d |
-| Twitch | [Software Development Engineer 1 - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8929545002?utm_source=Simplify&ref=Simplify) | SF | 13d |
 | Twitch | [Software Development Engineer 1 - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931343002?utm_source=Simplify&ref=Simplify) | Seattle, WA | 13d |
+| Twitch | [Software Development Engineer 1 - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8929545002?utm_source=Simplify&ref=Simplify) | SF | 13d |
 | Ultra | [FPGA/Firmware Engineer New Grad](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-3?utm_source=Simplify&ref=Simplify) | Maidenhead, UK | 13d |
 | Ultra Intelligence and Communications | [FPGA/Firmware Engineer New Grad](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-2?utm_source=Simplify&ref=Simplify) | Maidenhead, UK | 13d |
 | V2X | [Hardware Engineer 1](https://careers.gov2x.com/jobs/63915?icims=1&utm_source=Simplify&ref=Simplify) | Harvard, MA | 13d |
+| Vancouver Coastal Health | [Junior Business Advisor - Data & Analytics](https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 13d |
+| Yusen Logistics | [IT Reporting Analyst 1, Reports & Labels](https://go.vansh.nyc/1i1?utm_source=github-vansh-ouckah) | Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX | 13d |
 | Amazon | [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us?utm_source=Simplify&ref=Simplify) | Seattle, WA Cupertino, CA United States | 14d |
+| Amazon | [New Grad 2027: Software Development Engineer (Embedded Systems)](https://go.vansh.nyc/1ec?utm_source=github-vansh-ouckah) | Seattle, WA | 14d |
 | BAE Systems | [Network Engineer_Network Serices](https://zapply.jobs/l/d/phenom-bae-systems-131263BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 14d |
+| CCT | [Technical Consultant 🛂](https://go.vansh.nyc/1fP?utm_source=github-vansh-ouckah) | Tulsa, OK | 14d |
+| Cylake | [New Grad 2027: Software Engineer 🛂](https://go.vansh.nyc/1fu?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 14d |
+| Deloitte | [New Grad 2027: Tax Technology Services Consultant](https://go.vansh.nyc/1fO?utm_source=github-vansh-ouckah) | Atlanta, GA | 14d |
 | Draper | [Software Engineer 1](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr_JR003108?utm_source=Simplify&ref=Simplify) | Cambridge, MA | 14d |
+| FSH Technologies | [New Grad: Engineer](https://go.vansh.nyc/1f9?utm_source=github-vansh-ouckah) | Philadelphia, PA | 14d |
+| Faros AI | [New Grad: Software Engineer](https://go.vansh.nyc/1fH?utm_source=github-vansh-ouckah) | San Mateo, CA | 14d |
+| Human Interest | [Software Engineer I 🛂](https://go.vansh.nyc/1gi?utm_source=github-vansh-ouckah) | San Francisco, CA | 14d |
+| Infoblox | [Associate Software Engineer](https://go.vansh.nyc/1gv?utm_source=github-vansh-ouckah) | Burnaby, Canada | 14d |
+| Julius AI | [New Grad: Software Engineer - Product](https://go.vansh.nyc/1fn?utm_source=github-vansh-ouckah) | San Francisco, CA | 14d |
+| LexisNexis Risk Solutions | [New Grad 2027: Tech Accelerate Program](https://go.vansh.nyc/1eb?utm_source=github-vansh-ouckah) | Alpharetta, GA | 14d |
+| M&T Bank | [New Grad 2027: Technology Development Program - Operating Systems Engineer](https://go.vansh.nyc/1hd?utm_source=github-vansh-ouckah) | Buffalo, NY | 14d |
+| M&T Bank | [New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer](https://go.vansh.nyc/1he?utm_source=github-vansh-ouckah) | Buffalo, NY | 14d |
+| Microchip Technology | [Engineer 1 - Design](https://go.vansh.nyc/1hC?utm_source=github-vansh-ouckah) | Hauppauge, NY | 14d |
+| NVIDIA | [GPU System and Scheduling Architect (Master's)](https://go.vansh.nyc/1ea?utm_source=github-vansh-ouckah) | Santa Clara, CA | 14d |
+| Nexthop.ai | [New Grad 2027: Software Engineer](https://go.vansh.nyc/1f6?utm_source=github-vansh-ouckah) | Burnaby, Canada | 14d |
+| Nooks | [New Grad: Software Engineer](https://go.vansh.nyc/1fJ?utm_source=github-vansh-ouckah) | San Francisco, CA | 14d |
+| Nooks | [Software Engineer](https://go.vansh.nyc/1g9?utm_source=github-vansh-ouckah) | Seattle, WA, San Francisco, CA | 14d |
+| Nuance Labs | [New Grad: Member of Technical Staff — Model Optimization and Inference](https://go.vansh.nyc/1g7?utm_source=github-vansh-ouckah) | Seattle, WA | 14d |
+| Preference Model | [New Grad: Member of Technical Staff - Machine Learning Capabilities](https://go.vansh.nyc/1fI?utm_source=github-vansh-ouckah) | San Francisco, CA | 14d |
+| Realm | [New Grad: Software Engineer](https://go.vansh.nyc/1f8?utm_source=github-vansh-ouckah) | Remote | 14d |
 | SambaNova Systems | [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004&utm_source=Simplify&ref=Simplify) | Austin, TX San Jose, CA | 14d |
+| Shield | [New Grad: Engineer I, Simulation Framework 🇺🇸](https://go.vansh.nyc/1gd?utm_source=github-vansh-ouckah) | Washington, DC | 14d |
+| Shield | [New Grad: Engineer I, Software, Factory Team 🇺🇸](https://go.vansh.nyc/1ge?utm_source=github-vansh-ouckah) | Washington, DC | 14d |
+| Shield | [New Grad: Engineer II, Simulation Framework (Master's) 🇺🇸](https://go.vansh.nyc/1gc?utm_source=github-vansh-ouckah) | San Diego, CA | 14d |
+| SpaceX | [Propulsion Software Engineer, Falcon Engineering](https://go.vansh.nyc/1gU?utm_source=github-vansh-ouckah) | Hawthorne, CA | 14d |
+| Strada | [New Grad: Software Engineer](https://go.vansh.nyc/1f7?utm_source=github-vansh-ouckah) | San Francisco, CA | 14d |
+| Synhawk | [Member of Technical Staff: Junior AI Researcher (Master's)](https://go.vansh.nyc/1fQ?utm_source=github-vansh-ouckah) | San Francisco, CA | 14d |
+| TRM Labs | [New Grad 2027: Product Engineer](https://go.vansh.nyc/1fv?utm_source=github-vansh-ouckah) | Los Angeles, CA | 14d |
+| Vantive | [Embedded Software Engineer](https://go.vansh.nyc/1h0?utm_source=github-vansh-ouckah) | Plymouth, MN | 14d |
+| endeavorai.com | [New Grad 2027: Forward Deployed Engineer](https://go.vansh.nyc/1fT?utm_source=github-vansh-ouckah) | Chicago, IL | 14d |
+| Boeing | [ASIC / FPGA Digital Design Engineer (Master's) 🇺🇸](https://go.vansh.nyc/19R?utm_source=github-vansh-ouckah) | El Segundo, CA | 15d |
+| Boeing | [ASIC / FPGA Design Verification Engineer (Master's) 🇺🇸](https://go.vansh.nyc/19S?utm_source=github-vansh-ouckah) | El Segundo, CA | 15d |
 | Databricks | [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=8847747002&utm_source=Simplify&ref=Simplify) | London, UK | 15d |
 | Google | [Software Developer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806?utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada Waterloo, ON, Canada | 15d |
-| Google | [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318?utm_source=Simplify&ref=Simplify) | 12 locationsPalo Alto, CA Madison, WI Seattle, WA LA Raleigh, NC San Bruno, CA Durham, NC Pittsburgh, PA Kirkland, WA NYC Sunnyvale, CA Mountain View, CA | 15d |
 | Integration Innovation (i3) | [Junior Machine Learning Engineer](https://i3-corps.jibeapply.com/jobs/5417?icims=1&utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 15d |
+| Intel | [Physical Design Clocking Engineer](https://go.vansh.nyc/1gb?utm_source=github-vansh-ouckah) | Santa Clara, CA | 15d |
 | LexisNexis Risk Solutions | [Software Engineer 1 New Grad - Software Engineer I](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| Micron Technology | [Engineer, Edge Systems Architecture](https://go.vansh.nyc/1dv?utm_source=github-vansh-ouckah) | Boise, ID | 15d |
+| Micron Technology | [New Grad: Engineer, Edge Systems Architecture](https://go.vansh.nyc/1ds?utm_source=github-vansh-ouckah) | Boise, ID | 15d |
+| Microsoft | [Software Engineering IC2](https://go.vansh.nyc/19Q?utm_source=github-vansh-ouckah) | Redmond, WA | 15d |
 | Ocado Group | [Software Engineer New Grad](https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101&utm_source=Simplify&ref=Simplify) | Hatfield, UK | 15d |
+| PRI Engineering | [Junior Software Developer](https://go.vansh.nyc/1e3?utm_source=github-vansh-ouckah) | Calgary, Canada | 15d |
+| PRI Engineering | [Junior Software Developer](https://go.vansh.nyc/1e2?utm_source=github-vansh-ouckah) | Mississauga, Canada | 15d |
 | RELX | [Software Engineer 1 New Grad - Software Engineer I](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 15d |
+| Shield | [New Grad: Software Engineer I](https://go.vansh.nyc/1bP?utm_source=github-vansh-ouckah) | Seattle, WA | 15d |
+| Shield | [New Grad 2027: Software Development Engineer](https://go.vansh.nyc/1bQ?utm_source=github-vansh-ouckah) | San Diego, CA | 15d |
 | Shield AI | [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true&utm_source=Simplify&ref=Simplify) | San Diego, CA | 15d |
+| SpaceX | [Software Engineer, Starlink Enterprise](https://go.vansh.nyc/1dT?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15d |
+| Verkada | [New Grad 2027: Backend Software Engineer](https://go.vansh.nyc/19H?utm_source=github-vansh-ouckah) | San Mateo, CA | 15d |
+| Amazon | [Software Development Engineer, AWS Data Services](https://go.vansh.nyc/19E?utm_source=github-vansh-ouckah) | Seattle, WA | 16d |
+| Amazon | [Software Development Engineer, Robotics](https://go.vansh.nyc/19D?utm_source=github-vansh-ouckah) | Austin, TX, Bellevue, WA, North Reading, MA, Westborough, MA | 16d |
+| GlobalFoundries | [New Grad 2027: Design Verification Engineer](https://go.vansh.nyc/1bo?utm_source=github-vansh-ouckah) | Plano, TX | 16d |
+| Google | [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318?utm_source=Simplify&ref=Simplify) | 12 locationsPalo Alto, CA Madison, WI Seattle, WA LA Raleigh, NC San Bruno, CA Durham, NC Pittsburgh, PA Kirkland, WA NYC Sunnyvale, CA Mountain View, CA | 16d |
+| Amazon | [Software Development Engineer, Amazon Leo 🇺🇸](https://go.vansh.nyc/17q?utm_source=github-vansh-ouckah) | Redmond, WA | 17d |
+| Amazon | [Software Development Engineer, Amazon Dedicated Cloud 🇺🇸](https://go.vansh.nyc/17p?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| Amazon | [New Grad 2027: ASIC Engineer I, Annapurna Labs](https://go.vansh.nyc/17n?utm_source=github-vansh-ouckah) | Cupertino, CA | 17d |
+| Amazon | [Software Development Engineer](https://go.vansh.nyc/17o?utm_source=github-vansh-ouckah) | Cambridge, MA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)](https://go.vansh.nyc/151?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Backend Inference Framework Engineer (AML Inference)](https://go.vansh.nyc/152?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/153?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)](https://go.vansh.nyc/155?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Production System Engineer (Server Management)](https://go.vansh.nyc/156?utm_source=github-vansh-ouckah) | New York, NY | 17d |
+| ByteDance | [New Grad 2027: Research Scientist (Seed Model - Speech)](https://go.vansh.nyc/157?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Technology)](https://go.vansh.nyc/158?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US) 🛂](https://go.vansh.nyc/159?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)](https://go.vansh.nyc/15a?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Dev AI Software Engineer (Dev Infra US)](https://go.vansh.nyc/15b?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform](https://go.vansh.nyc/15d?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform](https://go.vansh.nyc/15e?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer (AML-Engine-Forge Platform)](https://go.vansh.nyc/15f?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Scheduling)](https://go.vansh.nyc/15g?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer](https://go.vansh.nyc/15h?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15i?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: AI Agent Security Software Engineer (Security Engineering)](https://go.vansh.nyc/15j?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15k?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling)](https://go.vansh.nyc/15l?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: LLM Backend Engineer (Applied Machine Learning)](https://go.vansh.nyc/15m?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Product Security Engineer (Security BP)](https://go.vansh.nyc/15n?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)](https://go.vansh.nyc/15o?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer, AI Infra Compute (Master's)](https://go.vansh.nyc/15p?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Production System Engineer (Server Management)](https://go.vansh.nyc/15q?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/15r?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/15s?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: ASIC Design Engineer (Video Silicon IP)](https://go.vansh.nyc/15t?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)](https://go.vansh.nyc/15v?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)](https://go.vansh.nyc/15w?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)](https://go.vansh.nyc/15x?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Site Reliability Graduate (Data Infrastructure)](https://go.vansh.nyc/15y?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)](https://go.vansh.nyc/15z?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/150?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World Model)](https://go.vansh.nyc/14Z?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/14Y?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer](https://go.vansh.nyc/14X?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14W?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)](https://go.vansh.nyc/14V?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Backend Inference Runtime Engineer (AML Inference)](https://go.vansh.nyc/14U?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14T?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Machine Learning Backend Engineer (AML MLDev)](https://go.vansh.nyc/14R?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14Q?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform](https://go.vansh.nyc/14P?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture)](https://go.vansh.nyc/14O?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14N?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/14L?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| ByteDance | [New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)](https://go.vansh.nyc/14K?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14J?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness](https://go.vansh.nyc/14H?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| Corgi | [Full Stack Engineer, New Product Line](https://go.vansh.nyc/19o?utm_source=github-vansh-ouckah) | New York, NY | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Visual Search 🛂](https://go.vansh.nyc/17j?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (Search Ads)](https://go.vansh.nyc/16h?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)](https://go.vansh.nyc/16t?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation 🛂](https://go.vansh.nyc/16v?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live](https://go.vansh.nyc/16x?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Software Engineer, Global E-commerce](https://go.vansh.nyc/16y?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Fullstack Software Engineer, Global E-commerce](https://go.vansh.nyc/16z?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (Ads Targeting)](https://go.vansh.nyc/16C?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Search-Basic Ranking 🛂](https://go.vansh.nyc/16I?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning MLOps Engineer](https://go.vansh.nyc/16J?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: AI Infra Engineer (Recommendation & LLM)](https://go.vansh.nyc/16U?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16W?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)](https://go.vansh.nyc/170?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: LLM Post-Training Engineer (Research & Product) (Master's)](https://go.vansh.nyc/171?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Ads Delivery](https://go.vansh.nyc/172?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Testing Engineer, Social-User and Relation](https://go.vansh.nyc/173?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Data Engineer, Data Platform - Global Live](https://go.vansh.nyc/174?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Foundation Platform (Master's)](https://go.vansh.nyc/175?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Engineer (Video-on-Demand Algorithm)](https://go.vansh.nyc/176?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Foundation Platform](https://go.vansh.nyc/177?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Development Engineer (TikTok - Testing - Growth)](https://go.vansh.nyc/178?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Software Engineer, Privacy and Security - Product](https://go.vansh.nyc/17a?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Software Engineer (Global E-commerce)](https://go.vansh.nyc/17b?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Media Engine (Master's)](https://go.vansh.nyc/17c?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture](https://go.vansh.nyc/17d?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Testing Engineer, Intelligent Creation](https://go.vansh.nyc/17e?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Business Integrity](https://go.vansh.nyc/17g?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation](https://go.vansh.nyc/17h?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Software Engineer, Data Lifecycle Management](https://go.vansh.nyc/17i?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Data Engineer, Monetization Data](https://go.vansh.nyc/160?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Software Engineer, Creation Platform (Master's)](https://go.vansh.nyc/17k?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Recommendation Infrastructure](https://go.vansh.nyc/17l?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture](https://go.vansh.nyc/17m?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall](https://go.vansh.nyc/16r?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Ads Infra](https://go.vansh.nyc/16q?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16p?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Frontend Software Engineer (Ads Interface)](https://go.vansh.nyc/16n?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)](https://go.vansh.nyc/161?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16m?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (Lead Ads)](https://go.vansh.nyc/19A?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Research Scientist, Monetization Technology - Business Integrity (Master's)](https://go.vansh.nyc/16l?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16k?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Software Engineer (Global E-commerce-Search)](https://go.vansh.nyc/16s?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Software Engineer, Ads Interface](https://go.vansh.nyc/16g?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Self-Built Engineer (CDN Platform)](https://go.vansh.nyc/16f?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live](https://go.vansh.nyc/16e?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Backend Software Engineer (Trust & Safety)](https://go.vansh.nyc/16d?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16b?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)](https://go.vansh.nyc/16a?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics](https://go.vansh.nyc/165?utm_source=github-vansh-ouckah) | Seattle, WA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)](https://go.vansh.nyc/164?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)](https://go.vansh.nyc/163?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Commerce Ads](https://go.vansh.nyc/162?utm_source=github-vansh-ouckah) | San Jose, CA | 17d |
+| Amazon | [New Grad 2027: Software Development Engineer, Database](https://go.vansh.nyc/11i?utm_source=github-vansh-ouckah) | Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA | 18d |
+| Ambral | [New Grad: Member of Technical Staff](https://go.vansh.nyc/19f?utm_source=github-vansh-ouckah) | New York, NY | 18d |
 | BodySpec | [Junior Software Engineer](https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer?utm_source=Simplify&ref=Simplify) | Austin, TX | 18d |
 | Built Technologies | [Innovation Software Engineer 1 - Marketplace](https://job-boards.greenhouse.io/getbuilt/jobs/4749545005?utm_source=Simplify&ref=Simplify) | Nashville, TN | 18d |
+| Goaly | [Applied AI Engineer](https://go.vansh.nyc/13P?utm_source=github-vansh-ouckah) | Palo Alto, CA | 18d |
+| Hyphenate | [New Grad: Software Engineer](https://go.vansh.nyc/13Q?utm_source=github-vansh-ouckah) | New York, NY | 18d |
+| NVIDIA | [Formal Verification Engineer](https://go.vansh.nyc/11j?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [New Grad 2027: ASIC Design Engineer](https://go.vansh.nyc/11o?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [ASIC Floorplan Design Engineer (Master's)](https://go.vansh.nyc/11k?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [New Grad 2027: ASIC Verification Engineer, Memory Management](https://go.vansh.nyc/11l?utm_source=github-vansh-ouckah) | Durham, NC, Madison, AL, Hillsboro, OR | 18d |
+| NVIDIA | [ASIC Design Engineer](https://go.vansh.nyc/11m?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [Power Methodology and Modeling Engineer (Master's)](https://go.vansh.nyc/11H?utm_source=github-vansh-ouckah) | Austin, TX | 18d |
+| NVIDIA | [Software Engineer, Hardware Tools and Methodology (Master's)](https://go.vansh.nyc/11G?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [RTL Power Optimization Engineer (Master's)](https://go.vansh.nyc/11E?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [Cell Modeling and Verification Engineer](https://go.vansh.nyc/11B?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [ASIC Physical Design and Timing Engineer (Master's)](https://go.vansh.nyc/11A?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [Applied Systems Engineering Rotation Engineer](https://go.vansh.nyc/11r?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [GPU Verification Engineer](https://go.vansh.nyc/11q?utm_source=github-vansh-ouckah) | Westford, MA | 18d |
+| NVIDIA | [Architecture Energy Modeling Engineer (Master's)](https://go.vansh.nyc/11p?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| NVIDIA | [Applied Machine Learning Engineer, AI for VLSI Design (Master's)](https://go.vansh.nyc/11n?utm_source=github-vansh-ouckah) | Santa Clara, CA | 18d |
+| Relling | [New Grad: Robotics Software Engineer](https://go.vansh.nyc/13S?utm_source=github-vansh-ouckah) | San Francisco, CA | 18d |
+| Rockwell Automation | [New Grad 2027: EDGE, Information Technology Rotational Program 🛂](https://go.vansh.nyc/13X?utm_source=github-vansh-ouckah) | Milwaukee, WI | 18d |
+| SuperApp | [New Grad 2027: Software Engineer](https://go.vansh.nyc/13T?utm_source=github-vansh-ouckah) | San Francisco, CA | 18d |
 | TikTok | [Product Solutions and Operations New Grad - Global Monetization Product and Technology](https://lifeattiktok.com/search/7702517151362976053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 18d |
+| Urban Science | [Associate Software Engineer](https://go.vansh.nyc/12w?utm_source=github-vansh-ouckah) | Detroit, MI | 18d |
+| endeavorai.com | [Forward Deployed Engineer](https://go.vansh.nyc/13O?utm_source=github-vansh-ouckah) | Chicago, IL | 18d |
 | Broadcom | [Physical Design Engineer New Grad - ASIC Products Division (APD)](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027516?utm_source=Simplify&ref=Simplify) | San Jose, CA | 19d |
+| Broadcom | [Physical Design Engineer, ASIC Products Division (Master's)](https://go.vansh.nyc/124?utm_source=github-vansh-ouckah) | San Jose, CA | 19d |
+| Broadcom | [New Grad: Physical Design Engineer, ASIC Products Division (APD) (Master's)](https://go.vansh.nyc/123?utm_source=github-vansh-ouckah) | San Jose, CA | 19d |
+| Ciena | [New Grad: Photonic Card Software Developer](https://go.vansh.nyc/10O?utm_source=github-vansh-ouckah) | Ottawa, Canada | 19d |
+| Fuku | [Software Engineer / Member of Technical Staff](https://go.vansh.nyc/1ub?utm_source=github-vansh-ouckah) | Austin, TX | 19d |
+| Intel | [New Grad: Software Application Development Engineer](https://go.vansh.nyc/11c?utm_source=github-vansh-ouckah) | Hillsboro, OR, Phoenix, AZ | 19d |
 | Intelliforce-IT Solutions Group | [Junior Software Engineer - Prime](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 19d |
+| Johns Hopkins APL | [New Grad 2027: Software Systems Engineer](https://go.vansh.nyc/10j?utm_source=github-vansh-ouckah) | Laurel, MD | 19d |
 | Mitel Networks | [Junior Full Stack Web Developer](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 19d |
+| NVIDIA | [ASIC Physical Design Engineer, Netlisting (Master's)](https://go.vansh.nyc/10i?utm_source=github-vansh-ouckah) | Santa Clara, CA, Austin, TX | 19d |
 | Noble Machines | [Electrical Engineer – Early Career - Embedded Systems & Tools](https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4473572009?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 19d |
+| Oceaneering | [Robotics Software Engineer](https://go.vansh.nyc/195?utm_source=github-vansh-ouckah) | Houston, TX | 19d |
 | RTX | [CCA/PCB Product Development Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/CCA-PCB-Product-Development-Engineer-I--Onsite-_01886239?utm_source=Simplify&ref=Simplify) | McKinney, TX | 19d |
+| Raydar | [Member of Technical Staff - Product](https://go.vansh.nyc/1uc?utm_source=github-vansh-ouckah) | San Francisco, CA | 19d |
+| Raydar | [New Grad: Engineer](https://go.vansh.nyc/10h?utm_source=github-vansh-ouckah) | San Francisco, CA | 19d |
 | TSC | [Software Engineer 1](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 19d |
 | TSC | [Software Engineer 1](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898?utm_source=Simplify&ref=Simplify) | Silver Spring, MD | 19d |
+| United Methodist Communities | [Applied AI Developer, BEAM](https://go.vansh.nyc/12x?utm_source=github-vansh-ouckah) | Neptune, NJ | 19d |
 | Voyager Technologies | [Electrical Hardware Engineer 1](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4455215009?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 19d |
+| Booz Allen | [New Grad 2027: Data Scientist](https://go.vansh.nyc/ZR?utm_source=github-vansh-ouckah) | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | 20d |
+| EXL | [Junior Developer](https://go.vansh.nyc/Yy?utm_source=github-vansh-ouckah) | Remote | 20d |
+| Intel | [EDA Tools Software Engineer](https://go.vansh.nyc/Zb?utm_source=github-vansh-ouckah) | Hillsboro, OR | 20d |
+| KLA | [System Software Engineer - Distributed Computing (Master's)](https://go.vansh.nyc/YT?utm_source=github-vansh-ouckah) | Milpitas, CA | 20d |
+| Pure | [iOS / UI Engineer](https://go.vansh.nyc/YG?utm_source=github-vansh-ouckah) | New York, NY | 20d |
 | RTX | [Electrical Production Support REA Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Electrical-Production-Support-REA-Engineer-I---Onsite_01885401?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 20d |
 | TSC | [Junior Software Engineer](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896?utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 20d |
 | Amazon | [Software Developer Engineer 1 - Graviton Software - Annapurna Labs](https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs?utm_source=Simplify&ref=Simplify) | Austin, TX | 21d |
+| Charles River Associates (CRA) | [New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate](https://go.vansh.nyc/WZ?utm_source=github-vansh-ouckah) | Boston, MA, Chicago, IL, Dallas, TX, New York, NY, Washington, DC | 21d |
+| Charles River Associates (CRA) | [New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate](https://go.vansh.nyc/WY?utm_source=github-vansh-ouckah) | Toronto, Canada | 21d |
+| Ciena | [New Grad: Routing/IP Software Engineer](https://go.vansh.nyc/Ym?utm_source=github-vansh-ouckah) | Ottawa, Canada | 21d |
 | Ciena | [Routing/IP Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 21d |
-| Databricks | [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=6865698002&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 21d |
 | Databricks | [Software Engineer New Grad - Distributed Data Systems](https://boards.greenhouse.io/embed/job_app?token=6865704002&utm_source=Simplify&ref=Simplify) | Bellevue, WA Mountain View, CA | 21d |
+| Databricks | [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=6865698002&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 21d |
+| Emerson Electric | [Software Engineer](https://go.vansh.nyc/WK?utm_source=github-vansh-ouckah) | Austin, TX | 21d |
+| ID.me | [New Grad 2027: General Program](https://go.vansh.nyc/W3?utm_source=github-vansh-ouckah) | Mountain View, CA | 21d |
+| Johns Hopkins APL | [New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection](https://go.vansh.nyc/Wt?utm_source=github-vansh-ouckah) | Laurel, MD | 21d |
 | LSEG | [Product & Market Planning New Grad - Risk Intelligence](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Product---Market-Planning-Graduate-Programme--Risk-Intelligence-_R0124725?utm_source=Simplify&ref=Simplify) | London, UK | 21d |
-| SambaNova Systems | [Post-Silicon Validation Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004&utm_source=Simplify&ref=Simplify) | San Jose, CA | 21d |
+| Neon | [New Grad 2027: Software Engineer, Distributed Data Systems](https://go.vansh.nyc/YI?utm_source=github-vansh-ouckah) | Mountain View, CA, Bellevue, WA | 21d |
+| Perpay | [New Grad 2027: Junior Strategic Analyst](https://go.vansh.nyc/X0?utm_source=github-vansh-ouckah) | Philadelphia, PA | 21d |
+| SAIC | [Software Engineer Associate 🇺🇸](https://go.vansh.nyc/XG?utm_source=github-vansh-ouckah) | Crane, IN | 21d |
 | SambaNova Systems | [Compiler Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004&utm_source=Simplify&ref=Simplify) | Austin, TX San Jose, CA | 21d |
+| SambaNova Systems | [Post-Silicon Validation Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004&utm_source=Simplify&ref=Simplify) | San Jose, CA | 21d |
 | SambaNova Systems | [ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004&utm_source=Simplify&ref=Simplify) | Austin, TX San Jose, CA | 21d |
 | Agave | [Full-Stack Software Engineer New Grad](https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 22d |
+| Agave | [New Grad: Full-Stack Software Engineer](https://go.vansh.nyc/Xc?utm_source=github-vansh-ouckah) | San Francisco, CA | 22d |
+| Cerebras | [CoDesign & NextGen](https://go.vansh.nyc/Vo?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 22d |
+| Cerebras | [New Grad: Kernel Engineer](https://go.vansh.nyc/Vp?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 22d |
+| Cisco | [ASIC Design Verification Engineer I](https://go.vansh.nyc/Wc?utm_source=github-vansh-ouckah) | San Jose, CA | 22d |
+| Clark | [New Grad 2027: Engineering Talent](https://go.vansh.nyc/YH?utm_source=github-vansh-ouckah) | New York, NY | 22d |
+| Databricks | [New Grad 2027: Software Engineer](https://go.vansh.nyc/WA?utm_source=github-vansh-ouckah) | Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada | 22d |
+| Didero | [Forward Deployed Engineer](https://go.vansh.nyc/1uf?utm_source=github-vansh-ouckah) | Toronto, Canada | 22d |
+| L3Harris Technologies | [Associate, Software Engineering](https://go.vansh.nyc/Ve?utm_source=github-vansh-ouckah) | Rochester, NY | 22d |
+| NUVACORE | [CPU Design & Verification Engineer](https://go.vansh.nyc/Vs?utm_source=github-vansh-ouckah) | Austin, TX, Santa Clara, CA | 22d |
+| Northwood Space | [New Grad: Software Engineer – General 🇺🇸](https://go.vansh.nyc/Vq?utm_source=github-vansh-ouckah) | Torrance, CA | 22d |
 | Planview | [Software Engineer 1](https://careers.planview.com/jobs/5182?icims=1&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 22d |
 | RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 22d |
+| Shield AI | [New Grad 2027: Autonomous Software Engineer](https://go.vansh.nyc/Xb?utm_source=github-vansh-ouckah) | San Diego, CA | 22d |
 | Shield AI | [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true&utm_source=Simplify&ref=Simplify) | San Diego, CA | 22d |
 | Sierra | [Software Engineer New Grad - Agent](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK | 22d |
-| TikTok | [Product Manager New Grad - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7680761598014015797?utm_source=Simplify&ref=Simplify) | San Jose, CA | 22d |
 | Bcore | [Junior Software Developer](https://careers-bcore.icims.com/jobs/3253/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Chantilly, VA Vienna, VA | 23d |
 | General Dynamics Mission Systems | [Software Engineer Entry Level](https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Manassas, VA | 23d |
 | HNTB | [Software Engineer 1 New Grad](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175-1?utm_source=Simplify&ref=Simplify) | Tampa, FL Tallahassee, FL | 23d |
 | HNTB | [Software Engineer 1 New Grad](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175?utm_source=Simplify&ref=Simplify) | Tampa, FL Tallahassee, FL | 23d |
+| Intel | [SoC Logic Design Engineer (Master's)](https://go.vansh.nyc/Tl?utm_source=github-vansh-ouckah) | Santa Clara, CA | 23d |
+| TikTok | [Product Manager New Grad - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7680761598014015797?utm_source=Simplify&ref=Simplify) | San Jose, CA | 23d |
 | Addepar | [Product Manager – Early Career - AI Platform](https://job-boards.greenhouse.io/addepar1/jobs/8910404002?utm_source=Simplify&ref=Simplify) | NYC | 25d |
+| Analog Devices | [Associate Engineer, SDK and Tools Development](https://go.vansh.nyc/Bo?utm_source=github-vansh-ouckah) | Vancouver, Canada | 25d |
+| Applied Materials | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Bj?utm_source=github-vansh-ouckah) | Gloucester, MA | 25d |
+| Booz Allen | [New Grad 2027: Data Scientist 🇺🇸](https://go.vansh.nyc/Bw?utm_source=github-vansh-ouckah) | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, Arlington, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | 25d |
 | ByteDance | [Research Scientist New Grad - Video and Edge - Multimedia Lab 🎓](https://jobs.bytedance.com/en/position/7670374385110599989/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 25d |
-| Amazon | [Data Engineer Early Career](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 26d |
-| Amazon | [ASIC Engineer Early Career](https://amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo?utm_source=Simplify&ref=Simplify) | Redmond, WA Cupertino, CA San Diego, CA | 26d |
+| Citi | [New Grad 2027: Software Developer, Application Development](https://go.vansh.nyc/Br?utm_source=github-vansh-ouckah) | Jacksonville, FL | 25d |
+| Citi | [New Grad 2027: Application Development Technology Analyst](https://go.vansh.nyc/Bs?utm_source=github-vansh-ouckah) | Mississauga, Canada | 25d |
+| Citi | [New Grad 2027: Technology Cyber Security](https://go.vansh.nyc/Bq?utm_source=github-vansh-ouckah) | Irving, TX | 25d |
+| Citi | [New Grad 2027: Technology Analyst, Application Development](https://go.vansh.nyc/Bt?utm_source=github-vansh-ouckah) | Irving, TX | 25d |
+| Citi | [New Grad 2027: Application Development Analyst](https://go.vansh.nyc/Bu?utm_source=github-vansh-ouckah) | Jersey City, NJ | 25d |
+| Citi | [New Grad 2027: Technology, Production Support Analyst](https://go.vansh.nyc/Bm?utm_source=github-vansh-ouckah) | New York, NY | 25d |
+| Citi | [New Grad 2027: Technology Analyst, Application Development](https://go.vansh.nyc/Bp?utm_source=github-vansh-ouckah) | Tampa, FL | 25d |
+| Lovelytics | [Advance Program Data Associate 🛂](https://go.vansh.nyc/1k1?utm_source=github-vansh-ouckah) | Arlington, VA | 25d |
+| ServiceNow | [Associate Software Engineer](https://go.vansh.nyc/Bn?utm_source=github-vansh-ouckah) | Santa Clara, CA | 25d |
+| Acxiom | [Associate Solution Developer](https://go.vansh.nyc/AG?utm_source=github-vansh-ouckah) | Conway, AR | 26d |
+| Amazon | [New Grad 2027: Software Development Engineer 1, Annapurna Labs](https://go.vansh.nyc/Bg?utm_source=github-vansh-ouckah) | Seattle, WA, Austin, TX, Cupertino, CA | 26d |
 | Amazon | [ASIC Formal Verification Engineer 1](https://amazon.jobs/en/jobs/10586351/asic-formal-verification-engineer-i-annapurna-labs?utm_source=Simplify&ref=Simplify) | Austin, TX Cupertino, CA | 26d |
+| Amazon | [New Grad 2027: Software Development Engineer](https://go.vansh.nyc/B2?utm_source=github-vansh-ouckah) | Vancouver, Canada | 26d |
 | Amazon | [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can?utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 26d |
 | Amazon | [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027?utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA Austin, TX NYC Cupertino, CA | 26d |
+| Amazon | [Data Engineer Early Career](https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 26d |
+| Amazon | [ASIC Engineer Early Career](https://amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo?utm_source=Simplify&ref=Simplify) | Redmond, WA Cupertino, CA San Diego, CA | 26d |
+| Amazon | [Data Engineer](https://go.vansh.nyc/Bh?utm_source=github-vansh-ouckah) | Toronto, Canada | 26d |
+| Amazon | [New Grad 2027: Software Engineer](https://go.vansh.nyc/AD?utm_source=github-vansh-ouckah) | Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO | 26d |
 | Amentum | [Software Engineer 1](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0173916?utm_source=Simplify&ref=Simplify) | Hanover, MD | 26d |
+| Applied Materials | [Software Engineer (Master's)](https://go.vansh.nyc/Bi?utm_source=github-vansh-ouckah) | Chandler, AZ | 26d |
+| Booz Allen | [New Grad 2027: Data Scientist 🇺🇸](https://go.vansh.nyc/Bd?utm_source=github-vansh-ouckah) | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | 26d |
+| Booz Allen | [New Grad 2027: Software Developer 🇺🇸](https://go.vansh.nyc/Bc?utm_source=github-vansh-ouckah) | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | 26d |
+| Booz Allen | [New Grad 2027: Systems Engineer 🇺🇸](https://go.vansh.nyc/Be?utm_source=github-vansh-ouckah) | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | 26d |
+| Brain Co. | [New Grad 2027: AI Product Engineer](https://go.vansh.nyc/Au?utm_source=github-vansh-ouckah) | San Francisco, CA | 26d |
+| Brain Co. | [New Grad 2027: AI Security Engineer](https://go.vansh.nyc/At?utm_source=github-vansh-ouckah) | San Francisco, CA | 26d |
+| Brain Co. | [New Grad 2027: AI/ML Engineer](https://go.vansh.nyc/As?utm_source=github-vansh-ouckah) | San Francisco, CA | 26d |
+| Brain Co. | [New Grad 2027: AI Platform Engineer](https://go.vansh.nyc/Av?utm_source=github-vansh-ouckah) | San Francisco, CA | 26d |
 | Ciena | [Hardware Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 26d |
-| Citi | [Application Development Analyst New Grad](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1?utm_source=Simplify&ref=Simplify) | Jersey City, NJ NYC | 26d |
 | Citi | [Software Developer New Grad - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=Simplify&ref=Simplify) | Jacksonville, FL | 26d |
-| HNTB | [GIS Analyst 1 New Grad](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/New-Grad-GIS-Analyst-I_R-32164?utm_source=Simplify&ref=Simplify) | Tallahassee, FL | 26d |
+| Citi | [Application Development Analyst New Grad](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1?utm_source=Simplify&ref=Simplify) | Jersey City, NJ NYC | 26d |
+| College Board | [Software Engineer I](https://go.vansh.nyc/B0?utm_source=github-vansh-ouckah) | Remote | 26d |
 | HNTB | [GIS Analyst 1 New Grad](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/New-Grad-GIS-Analyst-I_R-32164-1?utm_source=Simplify&ref=Simplify) | Tallahassee, FL | 26d |
+| HNTB | [GIS Analyst 1 New Grad](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/New-Grad-GIS-Analyst-I_R-32164?utm_source=Simplify&ref=Simplify) | Tallahassee, FL | 26d |
+| Oshkosh | [Software Engineer](https://go.vansh.nyc/AJ?utm_source=github-vansh-ouckah) | Oshkosh, WI | 26d |
+| Palantir | [Software Engineer, Query Engines](https://go.vansh.nyc/Az?utm_source=github-vansh-ouckah) | New York, NY | 26d |
+| Palantir | [New Grad 2027: Forward Deployed Software Engineer, Warp Speed](https://go.vansh.nyc/Bb?utm_source=github-vansh-ouckah) | New York, NY | 26d |
 | Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply?utm_source=Simplify&ref=Simplify) | NYC | 26d |
+| Performance Software | [Software Engineer](https://go.vansh.nyc/UK?utm_source=github-vansh-ouckah) | Cedar Rapids, IA | 26d |
+| Rendezvous Robotics | [New Grad 2027: Flight Software Engineer](https://go.vansh.nyc/B8?utm_source=github-vansh-ouckah) | Golden, CO | 26d |
 | Rendezvous Robotics | [Flight Software Engineer – Early Career](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=Simplify&ref=Simplify) | Golden, CO | 26d |
+| Rhoda AI | [Software Engineer - Rhoda Platform](https://go.vansh.nyc/AN?utm_source=github-vansh-ouckah) | Mountain View, CA | 26d |
+| Scopely | [Software Engineer, Machine Learning (Master's)](https://go.vansh.nyc/AX?utm_source=github-vansh-ouckah) | San Francisco, CA | 26d |
 | Shield AI | [Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true&utm_source=Simplify&ref=Simplify) | Seattle, WA | 26d |
+| Sola | [Forward Deployed Engineer](https://go.vansh.nyc/I8?utm_source=github-vansh-ouckah) | New York, NY | 26d |
+| Thorlabs | [Data Analyst 1](https://go.vansh.nyc/AO?utm_source=github-vansh-ouckah) | Newton, NJ | 26d |
+| Verily | [Cloud Engineer](https://go.vansh.nyc/AY?utm_source=github-vansh-ouckah) | Raleigh, NC | 26d |
+| Xaira Therapeutics | [Robotics Systems & Simulation Engineer](https://go.vansh.nyc/AR?utm_source=github-vansh-ouckah) | South San Francisco, CA | 26d |
 | Affirm | [Analyst – Early Career - Full Stack](https://job-boards.greenhouse.io/affirm/jobs/8039471003?utm_source=Simplify&ref=Simplify) | SF Remote in USA NYC | 27d |
 | Akamai Technologies | [Software Engineer 1](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4237?utm_source=Simplify&ref=Simplify) | United States | 27d |
 | Hewlett Packard Enterprise | [Graduate Electrical Hardware Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Graduate-Electrical-Hdwr-Engineer-I_1213433?utm_source=Simplify&ref=Simplify) | Chippewa Falls, WI | 27d |
+| Intel | [SoC Design Verification Engineer (Master's)](https://go.vansh.nyc/Tn?utm_source=github-vansh-ouckah) | Hillsboro, OR, Folsom, CA, Fort Collins, CO | 27d |
+| Intel | [IP Design Verification Engineer](https://go.vansh.nyc/To?utm_source=github-vansh-ouckah) | Santa Clara, CA, Worcester, MA | 27d |
 | Micron Technology | [DRAM Product Development Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Engineer-DRAM-Product-Development-Engineer_JR114840?utm_source=Simplify&ref=Simplify) | Boise, ID | 27d |
 | NVIDIA | [Silicon Co-Design Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335?utm_source=Simplify&ref=Simplify) | United States | 27d |
 | Twitch | [Software Engineer 1](https://job-boards.greenhouse.io/twitch/jobs/8906750002?utm_source=Simplify&ref=Simplify) | Seattle, WA | 27d |
@@ -282,278 +679,473 @@
 | Brain Co. | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 28d |
 | EBSCO | [Software Developer Engineer 1](https://careers-ebscoind.icims.com/jobs/2112/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Birmingham, AL | 28d |
 | Garmin | [Software Engineer 1 - C++ MEC Maptech](https://careers.garmin.com/jobs/20439?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 28d |
-| Graphcore | [Graduate Software Engineer New Grad - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8894177002?utm_source=Simplify&ref=Simplify) | Bristol, UK | 28d |
 | Graphcore | [Software Engineer New Grad - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002?utm_source=Simplify&ref=Simplify) | Bristol, UK | 28d |
+| Graphcore | [Graduate Software Engineer New Grad - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8894177002?utm_source=Simplify&ref=Simplify) | Bristol, UK | 28d |
 | NCR Voyix | [Software Engineer 1](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 28d |
 | Quora | [Full Stack Software Engineer New Grad](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA Remote in Canada | 28d |
 | WTW | [Software Developer New Grad](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606689?utm_source=Simplify&ref=Simplify) | Reigate, UK | 28d |
 | Amazon | [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us?utm_source=Simplify&ref=Simplify) | 9 locationsMadison, WI Boston, MA Seattle, WA Austin, TX Detroit, MI Santa Clara, CA Arlington County, Arlington, VA Minneapolis, MN Denver, CO | 29d |
 | Bloom & Wild Group | [Junior Full Stack Engineer](https://jobs.lever.co/bloomon/7f832927-5c83-4fe9-9e7a-52de0fea57dd/apply?utm_source=Simplify&ref=Simplify) | London, UK Netherlands | 29d |
+| C3.ai | [New Grad: Forward Deployed Engineer - Federal 🇺🇸](https://go.vansh.nyc/1u6?utm_source=github-vansh-ouckah) | Tysons, VA | 29d |
 | General Dynamics Mission Systems | [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/75608/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Manassas, VA | 29d |
 | Node.Digital | [Junior AI/ML Engineer](https://apply.workable.com/node/j/2E183FDDB9/apply?utm_source=Simplify&ref=Simplify) | Herndon, VA | 29d |
 | Palantir | [Software Engineer New Grad - Query Engines](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa/apply?utm_source=Simplify&ref=Simplify) | London, UK | 29d |
 | Palantir | [Software Engineer New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply?utm_source=Simplify&ref=Simplify) | NYC | 29d |
+| AMD | [RTL/Firmware Design Engineer](https://go.vansh.nyc/Hw?utm_source=github-vansh-ouckah) | Markham, Canada | 1mo |
+| AMD | [Silicon Design Engineer](https://go.vansh.nyc/1ud?utm_source=github-vansh-ouckah) | Markham, Canada, Ottawa, Canada | 1mo |
 | AMERICAN SYSTEMS | [Junior Operations Research Analyst](https://careers-americansystems.icims.com/jobs/5007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 1mo |
-| Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Manchester, UK | 1mo |
-| Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Newcastle upon Tyne, UK | 1mo |
+| AVEVA | [New Grad 2027: Cloud Operations & Infrastructure Graduate](https://go.vansh.nyc/1um?utm_source=github-vansh-ouckah) | Lake Forest, CA, Scottsdale, AZ | 1mo |
 | Accenture | [Software Engineer New Grad](https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Bristol, UK | 1mo |
-| Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Edinburgh, UK | 1mo |
+| Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Newcastle upon Tyne, UK | 1mo |
 | Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Glasgow, UK | 1mo |
 | Accenture | [Software Engineering New Grad - Graduate Programme](https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Birmingham, UK | 1mo |
-| Adobe | [Machine Learning Engineer New Grad 🎓](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT | 1mo |
+| Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Manchester, UK | 1mo |
+| Accenture | [Software Engineering New Grad](https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Edinburgh, UK | 1mo |
+| Adobe | [New Grad 2027: Machine Learning Engineer (Master's)](https://go.vansh.nyc/L6?utm_source=github-vansh-ouckah) | Seattle, WA, San Francisco, CA, Austin, TX, San Jose, CA, Waltham, MA, New York, NY, Lehi, UT | 1mo |
 | Adobe | [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083?utm_source=Simplify&ref=Simplify) | 6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT | 1mo |
-| AeroVironment | [Junior Software Engineer](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1?utm_source=Simplify&ref=Simplify) | Jessup, MD | 1mo |
-| AeroVironment | [Software Engineer 1 (Embedded)](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054?utm_source=Simplify&ref=Simplify) | Moorpark, CA | 1mo |
+| Adobe | [Machine Learning Engineer New Grad 🎓](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT | 1mo |
+| Adobe | [New Grad 2027: Software Engineer](https://go.vansh.nyc/L7?utm_source=github-vansh-ouckah) | Seattle, WA, San Francisco, CA, Austin, TX, San Jose, CA, New York, NY, Lehi, UT | 1mo |
 | AeroVironment | [Software Engineer 1 - Apps](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655?utm_source=Simplify&ref=Simplify) | San Diego, CA | 1mo |
+| AeroVironment | [Software Engineer 1 (Embedded)](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054?utm_source=Simplify&ref=Simplify) | Moorpark, CA | 1mo |
+| AeroVironment | [Junior Software Engineer](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1?utm_source=Simplify&ref=Simplify) | Jessup, MD | 1mo |
 | Aescape | [Junior Electrical & Firmware Engineer](https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Affirm | [Software Engineer 1 New Grad](https://job-boards.greenhouse.io/affirm/jobs/8010617003?utm_source=Simplify&ref=Simplify) | SF NYC | 1mo |
+| Affirm | [New Grad 2027: Software Engineer I, Instruments](https://go.vansh.nyc/BX?utm_source=github-vansh-ouckah) | Remote | 1mo |
 | Affirm | [Software Engineer 1 - Fullstack - Search](https://job-boards.greenhouse.io/affirm/jobs/8017340003?utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
-| Affirm | [Software Engineer 1 New Grad](https://job-boards.greenhouse.io/affirm/jobs/8008649003?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Affirm | [Software Engineer New Grad - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Affirm | [Software Engineer 1 New Grad](https://job-boards.greenhouse.io/affirm/jobs/8010617003?utm_source=Simplify&ref=Simplify) | SF NYC | 1mo |
 | Affirm | [Software Engineer 1 - Fullstack - Search](https://job-boards.greenhouse.io/affirm/jobs/8017342003?utm_source=Simplify&ref=Simplify) | Remote in Canada | 1mo |
+| Affirm | [Software Engineer 1](https://go.vansh.nyc/HM?utm_source=github-vansh-ouckah) | San Francisco, CA, New York, NY | 1mo |
+| Affirm | [Software Engineer 1 New Grad](https://job-boards.greenhouse.io/affirm/jobs/8008649003?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Affirm | [Software Engineer 1](https://go.vansh.nyc/HK?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Affirm | [Software Engineer New Grad - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Agilent Technologies | [Junior Full Stack R&D Software Developer](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/Junior-Full-Stack-R-D-Software-Developer_4039765-1?utm_source=Simplify&ref=Simplify) | Harwell, Didcot, UK | 1mo |
+| Amazon | [New Grad 2027: Software Development Engineer, Robotics](https://go.vansh.nyc/HB?utm_source=github-vansh-ouckah) | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington, VA, Bellevue, WA, Westborough, MA | 1mo |
 | Amazon | [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc?utm_source=Simplify&ref=Simplify) | 5 locationsSeattle, WA Jessup, MD Arlington County, Arlington, VA Denver, CO Herndon, VA | 1mo |
+| Amazon | [New Grad 2027: Cloud Hardware Development Engineer 1 – Early Career](https://go.vansh.nyc/HA?utm_source=github-vansh-ouckah) | Austin, TX, Cupertino, CA | 1mo |
 | Amentum | [Software Engineer 1](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606?utm_source=Simplify&ref=Simplify) | Hanover, MD | 1mo |
+| Anduril | [Firmware Engineer](https://go.vansh.nyc/L0?utm_source=github-vansh-ouckah) | Costa Mesa, CA | 1mo |
+| Anduril | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Us?utm_source=github-vansh-ouckah) | Atlanta, GA, Boston, MA, Broomfield, CO, Colorado Springs, CO, Costa Mesa, CA, Fort Collins, CO, Irvine, CA, Reston, VA, Seattle, WA | 1mo |
 | Anduril | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?utm_source=Simplify&ref=Simplify) | Costa Mesa, CA | 1mo |
-| Applied Materials | [Software Engineer New Grad](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914?utm_source=Simplify&ref=Simplify) | Gloucester, MA | 1mo |
-| Applied Materials | [Product Management 2 New Grad 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
+| AnySignal | [Associate Embedded Software Engineer 🇺🇸](https://go.vansh.nyc/DD?utm_source=github-vansh-ouckah) | Los Angeles, CA | 1mo |
+| Appian | [New Grad 2027: Associate Application Engineer 🛂](https://go.vansh.nyc/Ui?utm_source=github-vansh-ouckah) | McLean, VA | 1mo |
+| Applied Intuition | [New Grad 2027: Research Engineer (Master's)](https://go.vansh.nyc/Tp?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 1mo |
+| Applied Intuition | [New Grad 2027: Embedded Software Engineer](https://go.vansh.nyc/Tq?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 1mo |
 | Applied Materials | [Service Product Manager New Grad - Product Line Management 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842?utm_source=Simplify&ref=Simplify) | Austin, TX Santa Clara, CA | 1mo |
-| Astera Labs | [Applied AI New Grad - Non Silicon](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Applied Materials | [Product Management 2 New Grad 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
+| Applied Materials | [Software Engineer New Grad](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914?utm_source=Simplify&ref=Simplify) | Gloucester, MA | 1mo |
+| Astera Labs | [Applied AI (Non Silicon)](https://go.vansh.nyc/HG?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
 | Astera Labs | [Data Analyst New Grad](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Astera Labs | [Applied AI New Grad - Non Silicon](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Astera Labs | [Digital Design Engineer](https://go.vansh.nyc/Do?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
+| Astera Labs | [New Grad: Data Analyst](https://go.vansh.nyc/1un?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
 | Atlassian | [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| Atlassian | [New Grad 2027: Machine Learning Engineer](https://go.vansh.nyc/1tW?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
+| Atlassian | [New Grad 2027: Data Scientist (Master's)](https://go.vansh.nyc/1tY?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
+| Atlassian | [New Grad 2027: Data Engineer](https://go.vansh.nyc/1u2?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
 | Aurelian | [Software Engineer New Grad](https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true&utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
 | Authentic | [Software Engineer New Grad](https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Auto-Owners Insurance | [COBOL Software Developer 🛂](https://go.vansh.nyc/HE?utm_source=github-vansh-ouckah) | Lansing, MI | 1mo |
+| Avis Budget Group | [New Grad 2027: Deployed Transformation Engineer](https://go.vansh.nyc/Dv?utm_source=github-vansh-ouckah) | Troy Hills, NJ | 1mo |
+| Axtria | [New Grad 2027: Decision Intelligence Analyst](https://go.vansh.nyc/Dt?utm_source=github-vansh-ouckah) | Berkeley Heights, NJ | 1mo |
+| Axtria | [New Grad 2027: AI & Data Associate](https://go.vansh.nyc/Di?utm_source=github-vansh-ouckah) | Berkeley Heights, NJ | 1mo |
+| BDO Canada | [New Grad 2027: DevOps Engineer](https://go.vansh.nyc/Hn?utm_source=github-vansh-ouckah) | Toronto, Canada | 1mo |
+| Bell Canada | [New Grad 2027: Technology Services, Emerging AI and Data Solutions](https://go.vansh.nyc/TC?utm_source=github-vansh-ouckah) | Verdun, Canada | 1mo |
+| Bell Canada | [New Grad 2027: Technology Services, Delivery, Excellence & Architecture](https://go.vansh.nyc/TB?utm_source=github-vansh-ouckah) | Verdun, Canada | 1mo |
 | Brain Corp | [Embedded Software Engineer 1 - Firmware](https://www.braincorp.com/open-positions?gh_jid=8879726002&utm_source=Simplify&ref=Simplify) | San Diego, CA | 1mo |
 | CACI | [Entry Level C# Software Engineer](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249?utm_source=Simplify&ref=Simplify) | Virginia Beach, VA | 1mo |
 | CLEAR | [Software Development Engineer 1](https://job-boards.greenhouse.io/clear/jobs/8241829?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| CWILL | [AI SEO R&D Trainee - Multiple Teams](https://go.vansh.nyc/Dl?utm_source=github-vansh-ouckah) | Cary, NC | 1mo |
+| CWILL | [Loyalty & Referrals R&D Trainee](https://go.vansh.nyc/Dk?utm_source=github-vansh-ouckah) | Cary, NC | 1mo |
 | Capgemini | [Software Engineer New Grad](https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Telford, UK Hove, Brighton and Hove, UK | 1mo |
 | Chalk | [Software Engineer New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 1mo |
+| Chalk | [New Grad 2027: Software Engineer](https://go.vansh.nyc/HQ?utm_source=github-vansh-ouckah) | San Francisco, CA, New York, NY | 1mo |
+| Charter Manufacturing | [New Grad 2027: Digital Rotational Analyst](https://go.vansh.nyc/Dg?utm_source=github-vansh-ouckah) | Mequon, WI | 1mo |
+| Chicago Trading Company | [New Grad 2027: Associate Engineer](https://go.vansh.nyc/Ut?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 1mo |
 | Ciena | [Product Validation Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Ingnieur-de-Validation-de-Composant--Product-Validation-Engineer---New-Grad_R031778?utm_source=Simplify&ref=Simplify) | Québec City, QC, Canada | 1mo |
+| Cincinnati Children’s | [Developer I, Psychiatry](https://go.vansh.nyc/Ic?utm_source=github-vansh-ouckah) | Burnet, TX | 1mo |
 | Clearwater Analytics | [Associate Software Development Engineer 1](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Associate-Software-Development-Engineer-1_R12354?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| Cricut | [Firmware Engineer](https://go.vansh.nyc/Dn?utm_source=github-vansh-ouckah) | South Jordan, UT | 1mo |
+| DV Trading | [New Grad 2027: Software Engineer, DV Commodities](https://go.vansh.nyc/Ud?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Darebay | [Junior React Native / Expo Developer, AI-first](https://go.vansh.nyc/Im?utm_source=github-vansh-ouckah) | Remote | 1mo |
+| DoorDash | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Kd?utm_source=github-vansh-ouckah) | Toronto, Canada | 1mo |
 | Duolingo | [AI Research Engineer New Grad 🎓](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA NYC | 1mo |
 | Duolingo | [AI Research Engineer New Grad 🎓](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002&utm_source=Simplify&ref=Simplify) | Pittsburgh, PA NYC | 1mo |
+| Ellipsis Labs | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Tw?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Faraday Future | [SDK Platform Engineer](https://go.vansh.nyc/DB?utm_source=github-vansh-ouckah) | El Segundo, CA | 1mo |
 | Fellow | [Software Engineer New Grad](https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true&utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 1mo |
+| Fellow Insights | [New Grad 2027: Software Engineer](https://go.vansh.nyc/If?utm_source=github-vansh-ouckah) | Ottawa, Canada | 1mo |
+| Five Rings | [New Grad 2027: Quantitative Trader](https://go.vansh.nyc/Uf?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Forge Nano | [Software Engineer 1](https://forge-nano.breezy.hr/p/66630c61f7e4/apply?utm_source=Simplify&ref=Simplify) | Thornton, CO | 1mo |
+| Fortinet | [New Grad: AI Automation Engineer 🛂](https://go.vansh.nyc/Uw?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 1mo |
+| Freeform | [New Grad: Software Engineer](https://go.vansh.nyc/Uh?utm_source=github-vansh-ouckah) | Los Angeles, CA | 1mo |
 | Freeform | [FPGA Engineer New Grad](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8016243003?utm_source=Simplify&ref=Simplify) | LA | 1mo |
 | Frontier Technology | [Early Career Associate Data Scientist](https://careers-ftidefense.icims.com/jobs/7093/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Norfolk, VA | 1mo |
 | GE Aerospace | [Entry Level FPGA Design/Verification Engineer](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Entry-Level---FPGA-Design-Verification-Engineer_R5041307-1?utm_source=Simplify&ref=Simplify) | Grand Rapids, MI | 1mo |
+| GE Aerospace | [Entry Level FPGA Design/Verification Engineer](https://go.vansh.nyc/1u3?utm_source=github-vansh-ouckah) | Grand Rapids, MI | 1mo |
 | Garmin | [Software Engineer 1 - Web Applications](https://careers.garmin.com/jobs/20219?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 1mo |
+| Garner Health | [New Grad 2027: Associate Software Engineer 🛂](https://go.vansh.nyc/Ke?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | General Dynamics Mission Systems | [Embedded Software Engineer Entry Level](https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Bloomington, MN | 1mo |
 | Goldbelt | [Junior Data Analyst](https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Falls Church, VA | 1mo |
 | Handshake | [Machine Learning Engineer 1](https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | Harbor | [Junior Developer - Finance Systems](https://job-boards.greenhouse.io/harborglobal/jobs/5238900007?utm_source=Simplify&ref=Simplify) | Remote in UK Remote in Canada | 1mo |
-| Hewlett Packard Enterprise | [Electrical/Hardware Engineer 1](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860?utm_source=Simplify&ref=Simplify) | Spring, TX | 1mo |
-| Hewlett Packard Enterprise | [Systems/Software Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648?utm_source=Simplify&ref=Simplify) | Houston, TX | 1mo |
-| Hewlett Packard Enterprise | [Graduate Systems/Software Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 1mo |
-| Hewlett Packard Enterprise | [Electrical/Hardware Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860-2?utm_source=Simplify&ref=Simplify) | Spring, TX | 1mo |
+| Harbor | [Junior Developer, Finance Systems](https://go.vansh.nyc/I7?utm_source=github-vansh-ouckah) | Remote, Remote, Canada | 1mo |
+| Headlands Technologies | [New Grad: Quantitative Researcher](https://go.vansh.nyc/Uv?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 1mo |
 | Hewlett Packard Enterprise | [Electrical Hardware Engineer 1 Graduate](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineer-I---Graduate_1213428?utm_source=Simplify&ref=Simplify) | Chippewa Falls, WI | 1mo |
+| Hewlett Packard Enterprise | [Electrical/Hardware Engineer 1](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860?utm_source=Simplify&ref=Simplify) | Spring, TX | 1mo |
+| Hewlett Packard Enterprise | [Graduate Systems/Software Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439?utm_source=Simplify&ref=Simplify) | Bloomington, MN | 1mo |
+| Hewlett Packard Enterprise | [Systems/Software Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648?utm_source=Simplify&ref=Simplify) | Houston, TX | 1mo |
+| Hewlett Packard Enterprise | [Electrical/Hardware Engineer 1](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860-2?utm_source=Simplify&ref=Simplify) | Spring, TX | 1mo |
+| Honeywell | [New Grad 2027: Future IT Leaders 🛂](https://go.vansh.nyc/U0?utm_source=github-vansh-ouckah) | Atlanta, GA, Charlotte, NC | 1mo |
 | ICF International | [Junior Data Scientist](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453?utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
 | ID.me | [Software Development Engineer 2 New Grad - Life Hub - Super App](https://job-boards.greenhouse.io/idme/jobs/8011095003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1mo |
 | IXL Learning | [Software Engineer New Grad](https://www.ixl.com/company/jobs?gh_jid=8862043002&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 1mo |
+| IXL Learning | [Software Engineer](https://go.vansh.nyc/Hp?utm_source=github-vansh-ouckah) | Raleigh, NC | 1mo |
+| IXL Learning | [Software Engineer](https://go.vansh.nyc/Ho?utm_source=github-vansh-ouckah) | San Mateo, CA | 1mo |
 | IXL Learning | [Associate Product Manager New Grad](https://www.ixl.com/company/jobs?gh_jid=8862211002&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 1mo |
+| Infinitive | [Technology Consultant](https://go.vansh.nyc/1tX?utm_source=github-vansh-ouckah) | McLean, VA | 1mo |
 | Integration Innovation (i3) | [Data Analyst - Junior-Associate](https://i3-corps.jibeapply.com/jobs/5307?icims=1&utm_source=Simplify&ref=Simplify) | Orlando, FL Huntsville, AL | 1mo |
 | Intuit | [Software Engineer 1](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536?utm_source=Simplify&ref=Simplify) | 5 locationsCharlotte, NC NYC Mountain View, CA Atlanta, GA San Diego, CA | 1mo |
+| JPMorganChase | [New Grad 2027: Data & AI Program, Analyst](https://go.vansh.nyc/Kf?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Engineer/Analyst for ISRT and BMC2 Applications](https://go.vansh.nyc/Dm?utm_source=github-vansh-ouckah) | Laurel, MD | 1mo |
 | Johns Hopkins Applied Physics Laboratory | [PhD New Grad - Strategic Deterrent Nuclear Survivability Analyst - System Modeling, Evaluation, and Planning Group 🎓](https://careers.jhuapl.edu/jobs/60114?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 1mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Engineer/Researcher, Cyber Capabilities Development](https://go.vansh.nyc/TG?utm_source=github-vansh-ouckah) | Laurel, MD | 1mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Developer, Cyber-Physical Systems](https://go.vansh.nyc/TK?utm_source=github-vansh-ouckah) | Laurel, MD | 1mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Navigation Prototyping and Analysis Engineer](https://go.vansh.nyc/TJ?utm_source=github-vansh-ouckah) | Laurel, MD | 1mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Robotics Engineer](https://go.vansh.nyc/TH?utm_source=github-vansh-ouckah) | Laurel, MD | 1mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Software/Electrical/Computer Engineer, Advanced RF Capabilities](https://go.vansh.nyc/TI?utm_source=github-vansh-ouckah) | Laurel, MD | 1mo |
+| KLA | [Software Engineer 1](https://go.vansh.nyc/Dj?utm_source=github-vansh-ouckah) | Ann Arbor, MI | 1mo |
+| KLA | [Software Engineer, Metrology Systems (Master's)](https://go.vansh.nyc/Lk?utm_source=github-vansh-ouckah) | Milpitas, CA | 1mo |
 | KLA | [Software Engineer 1](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057?utm_source=Simplify&ref=Simplify) | Ann Arbor, MI | 1mo |
+| Kearney and Co. | [Data Analyst 🇺🇸](https://go.vansh.nyc/1ug?utm_source=github-vansh-ouckah) | Alexandria, VA | 1mo |
+| Keysight Technologies | [R&D Software Engineer, Electronic Measurement Systems (Master's)](https://go.vansh.nyc/Du?utm_source=github-vansh-ouckah) | Colorado Springs, CO | 1mo |
 | Konrad Group | [Mobile Developer Entry Level](https://boards.greenhouse.io/embed/job_app?token=7976082003&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 1mo |
+| Leidos | [Systems Integration and Test Engineer](https://go.vansh.nyc/Ih?utm_source=github-vansh-ouckah) | Atlantic City, NJ | 1mo |
 | LexisNexis Risk Solutions | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 1mo |
-| M&T Bank | [Forward Deployed Digital Product Analyst New Grad - IS](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998?utm_source=Simplify&ref=Simplify) | Wilmington, DE | 1mo |
+| LexisNexis Risk Solutions | [Tech Accelarate](https://go.vansh.nyc/K9?utm_source=github-vansh-ouckah) | Alpharetta, GA | 1mo |
 | M&T Bank | [Management Development Program New Grad - IS Forward Deployed Product Analyst](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997?utm_source=Simplify&ref=Simplify) | Wilmington, DE | 1mo |
+| M&T Bank | [Forward Deployed Digital Product Analyst New Grad - IS](https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998?utm_source=Simplify&ref=Simplify) | Wilmington, DE | 1mo |
+| MITRE | [Associate Data Scientist](https://go.vansh.nyc/1w7?utm_source=github-vansh-ouckah) | McLean, VA | 1mo |
 | Mach Industries | [Software Engineer New Grad - Software](https://job-boards.greenhouse.io/machindustries/jobs/4401995009?utm_source=Simplify&ref=Simplify) | Huntington Beach, CA | 1mo |
 | Mach Industries | [Software Engineer New Grad](https://job-boards.greenhouse.io/machindustries/jobs/4390274009?utm_source=Simplify&ref=Simplify) | Huntington Beach, CA | 1mo |
+| Mach Industries | [New Grad 2027: Software Engineer - Software 🛂](https://go.vansh.nyc/HH?utm_source=github-vansh-ouckah) | Huntington Beach, CA | 1mo |
+| Mach Industries | [Software Engineer 🛂](https://go.vansh.nyc/HI?utm_source=github-vansh-ouckah) | Huntington Beach, CA | 1mo |
+| Mechanize | [Junior Software Engineer](https://go.vansh.nyc/Kg?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
 | Medpace | [Junior Business Intelligence Analyst](https://careers.medpace.com/jobs/12986?icims=1&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 1mo |
 | Medpace | [Junior Business Intelligence Analyst](https://careers.medpace.com/jobs/13058?icims=1&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 1mo |
+| Meow | [Software Engineer 🛂](https://go.vansh.nyc/Kh?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Meta | [ASIC Engineer New Grad - Performance Architecture and Modeling](https://www.metacareers.com/jobs/4596319193960098?utm_source=Simplify&ref=Simplify) | Austin, TX Sunnyvale, CA | 1mo |
 | Microchip Technology | [Product/Test Engineer 1 - Networking & Connectivity Solutions](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4032-26?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
+| Micron Technology | [Computer Engineer, Central Engineering](https://go.vansh.nyc/De?utm_source=github-vansh-ouckah) | Boise, ID | 1mo |
+| Micron Technology | [HBM SoC Design Engineer/Architect](https://go.vansh.nyc/Hx?utm_source=github-vansh-ouckah) | Folsom, CA, Richardson, TX | 1mo |
 | Micron Technology | [Semiconductor Design Engineer New Grad - DRAM Products Group](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119?utm_source=Simplify&ref=Simplify) | Boise, ID | 1mo |
 | Micron Technology | [Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENG--HIG-HBM-PSE-Design-Validation_JR112995?utm_source=Simplify&ref=Simplify) | Boise, ID | 1mo |
 | Micron Technology | [Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer---HIG-HBM-PSE---Design-Validation_JR112996?utm_source=Simplify&ref=Simplify) | Boise, ID | 1mo |
-| Motorola | [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300?utm_source=Simplify&ref=Simplify) | Remote in Canada | 1mo |
 | Motorola | [Junior Software Engineer - Emergency Call Handling](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731?utm_source=Simplify&ref=Simplify) | Gatineau, QC, Canada Ottawa, ON, Canada | 1mo |
+| Motorola | [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300?utm_source=Simplify&ref=Simplify) | Remote in Canada | 1mo |
+| NOV | [New Grad 2027: Associate Software Engineer, Pathway](https://go.vansh.nyc/Ki?utm_source=github-vansh-ouckah) | Houston, TX | 1mo |
+| NVIDIA | [SRAM Circuit Design Engineer New Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
 | NVIDIA | [Low Power ASIC Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
+| NVIDIA | [ASIC Clocks Verification Engineer (Master's)](https://go.vansh.nyc/I3?utm_source=github-vansh-ouckah) | Santa Clara, CA | 1mo |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
 | NVIDIA | [ASIC Clocks Verification Engineer New Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
-| NVIDIA | [SRAM Circuit Design Engineer New Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
+| Netic | [New Grad 2027: Full-Stack Software Engineer, Product](https://go.vansh.nyc/Tr?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
+| NewsBreak | [New Grad: Applied AI Engineer, Advertising Agents](https://go.vansh.nyc/Uc?utm_source=github-vansh-ouckah) | Mountain View, CA | 1mo |
+| Nuro | [New Grad: Software Engineer, AI Platform](https://go.vansh.nyc/1ul?utm_source=github-vansh-ouckah) | Mountain View, CA | 1mo |
 | Nutanix | [Software Engineer New Grad - Master’s - Bachelor’s + 2 🎓](https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 1mo |
+| Nutanix | [New Grad: Software Engineer (Master's)](https://go.vansh.nyc/1u1?utm_source=github-vansh-ouckah) | Vancouver, Canada | 1mo |
+| Old Mission | [New Grad 2027: Software Engineer (August Start)](https://go.vansh.nyc/Tv?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
+| Old Mission | [New Grad 2027: Quantitative Trader (August Start)](https://go.vansh.nyc/Tu?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 1mo |
+| Old Mission | [New Grad 2027: Quantitative Trader (February Start)](https://go.vansh.nyc/Tt?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 1mo |
+| OneImaging | [New Grad 2027: Full Stack Associate Software Engineer](https://go.vansh.nyc/Hv?utm_source=github-vansh-ouckah) | Miami, FL | 1mo |
+| OneImaging | [New Grad 2027: Associate Data Engineer](https://go.vansh.nyc/Hu?utm_source=github-vansh-ouckah) | Miami, FL | 1mo |
+| Oracle | [New Grad 2027: Software Engineer, Oracle Cloud Infrastructure](https://go.vansh.nyc/Hy?utm_source=github-vansh-ouckah) | Nashville, TN | 1mo |
+| Oshkosh | [Software Engineer](https://go.vansh.nyc/Dy?utm_source=github-vansh-ouckah) | Oshkosh, WI | 1mo |
 | Otter.ai | [Software Engineer New Grad - Front-End](https://otter.ai/careers?gh_jid=8016078003&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1mo |
+| PMG | [AI & Software Engineering 🛂](https://go.vansh.nyc/Kj?utm_source=github-vansh-ouckah) | Dallas, TX | 1mo |
+| Palantir | [New Grad: Privacy & Civil Liberties Engineer](https://go.vansh.nyc/U6?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Palantir | [New Grad: Software Engineer, Infrastructure](https://go.vansh.nyc/U7?utm_source=github-vansh-ouckah) | Palo Alto, CA | 1mo |
+| Palantir | [New Grad: Forward Deployed Infrastructure Engineer, US Government](https://go.vansh.nyc/U2?utm_source=github-vansh-ouckah) | Washington, DC | 1mo |
+| Palantir | [New Grad: Software Engineer, Production Infrastructure](https://go.vansh.nyc/U8?utm_source=github-vansh-ouckah) | Washington, DC | 1mo |
+| Palantir | [New Grad: Forward Deployed Software Engineer, Commercial](https://go.vansh.nyc/U4?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
+| Palantir | [New Grad: Forward Deployed Infrastructure Engineer, US Government](https://go.vansh.nyc/U3?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Palantir | [New Grad: Forward Deployed Infrastructure Engineer, US Government](https://go.vansh.nyc/U1?utm_source=github-vansh-ouckah) | Palo Alto, CA | 1mo |
+| Palantir | [New Grad: Forward Deployed Software Engineer, Intel, US Government](https://go.vansh.nyc/U5?utm_source=github-vansh-ouckah) | Washington, DC | 1mo |
 | Peraton | [Artificial Intelligence/Machine Learning Engineer 1](https://peraton.jibeapply.com/jobs/171011?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 1mo |
-| Pinterest | [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591&utm_source=Simplify&ref=Simplify) | SF Remote in USA | 1mo |
 | Pinterest | [Master's University Graduate Data Scientist 🎓](https://www.pinterestcareers.com/jobs/?gh_jid=8140389&utm_source=Simplify&ref=Simplify) | 4 locationsPalo Alto, CA Seattle, WA SF NYC | 1mo |
+| Pinterest | [University Grad Software Engineer](https://go.vansh.nyc/1u0?utm_source=github-vansh-ouckah) | San Francisco, CA, Remote | 1mo |
+| Pinterest | [Master's University Graduate Data Scientist](https://go.vansh.nyc/1tZ?utm_source=github-vansh-ouckah) | Palo Alto, CA, Seattle, WA, San Francisco, CA, New York, NY | 1mo |
+| Pinterest | [New Grad 2027: Machine Learning Engineer (Master's)](https://go.vansh.nyc/1uk?utm_source=github-vansh-ouckah) | San Francisco, CA, Palo Alto, CA, Seattle, WA, New York, NY | 1mo |
+| Pinterest | [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591&utm_source=Simplify&ref=Simplify) | SF Remote in USA | 1mo |
+| Planview | [Software Engineer 1](https://go.vansh.nyc/1u4?utm_source=github-vansh-ouckah) | Remote | 1mo |
 | Planview | [Software Engineer 1](https://careers.planview.com/jobs/5080?icims=1&utm_source=Simplify&ref=Simplify) | United States | 1mo |
 | Pure Storage | [Software Engineer New Grad](https://job-boards.greenhouse.io/purestorage/jobs/8249851?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
+| Pylon | [New Grad: Software Engineer](https://go.vansh.nyc/Tx?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
 | Qumulo | [Software Development Engineer New Grad](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true&utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| Qumulo | [Software Development Engineer](https://go.vansh.nyc/L5?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
+| Quora | [Machine Learning Engineer](https://go.vansh.nyc/Dx?utm_source=github-vansh-ouckah) | Remote, Remote, Canada | 1mo |
 | Quora | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA Remote in Canada | 1mo |
 | Quora | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA Remote in Canada | 1mo |
+| RELX | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Kn?utm_source=github-vansh-ouckah) | Boca Raton, FL | 1mo |
 | RELX | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 1mo |
 | RTX | [Research Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338?utm_source=Simplify&ref=Simplify) | Cambridge, MA | 1mo |
-| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 1mo |
 | RTX | [FPGA/Digital Design Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA--Digital-Design-Engineer-I---Onsite_01879326?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 1mo |
-| RTX | [Electrical Engineer 1 - Hardware Engineering](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Electrical-Engineer-I---Hardware-Engineering_01879465?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 1mo |
-| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 1mo |
 | RTX | [Embedded Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013?utm_source=Simplify&ref=Simplify) | East Hartford, CT | 1mo |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 1mo |
+| RTX | [Electrical Engineer 1 - Hardware Engineering](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Electrical-Engineer-I---Hardware-Engineering_01879465?utm_source=Simplify&ref=Simplify) | Tucson, AZ | 1mo |
+| RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 1mo |
+| Recidiviz | [Data Analyst](https://go.vansh.nyc/Ik?utm_source=github-vansh-ouckah) | Remote | 1mo |
 | Relling | [Robotics Software Engineer New Grad](https://jobs.ashbyhq.com/relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Roblox | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Uu?utm_source=github-vansh-ouckah) | San Mateo, CA | 1mo |
 | Roblox | [Senior Machine Learning Engineer - PhD Early Career 🎓](https://careers.roblox.com/jobs/8242623?gh_jid=8242623&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 1mo |
+| Rubrik | [Software Engineer - Product Platform Security](https://go.vansh.nyc/1uj?utm_source=github-vansh-ouckah) | Palo Alto, CA | 1mo |
+| Scale AI | [New Grad 2027: Software Engineer, Public Sector](https://go.vansh.nyc/Ka?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
 | Scale AI | [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005?utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | SeatGeek | [Software Engineer New Grad](https://seatgeek.com/jobs/8227548?gh_jid=8227548&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
 | Sierra Nevada Corporation | [Software Engineer 1](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031025?utm_source=Simplify&ref=Simplify) | Lone Tree, CO | 1mo |
 | Sierra Space | [Software Engineer 1 - Flight Software](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Software-Engineer-I---Flight-Software_R26390-1?utm_source=Simplify&ref=Simplify) | Centennial, CO Louisville, CO | 1mo |
+| Sim | [Forward Deployed Engineer](https://go.vansh.nyc/L8?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
 | SirenOpt | [Software Engineer - Early Career - C++ & Systems](https://job-boards.greenhouse.io/sirenopt/jobs/4452002009?utm_source=Simplify&ref=Simplify) | San Leandro, CA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software Security, Starlink](https://go.vansh.nyc/Ur?utm_source=github-vansh-ouckah) | Palo Alto, CA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software, Starlink](https://go.vansh.nyc/Un?utm_source=github-vansh-ouckah) | Palo Alto, CA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, GNC](https://go.vansh.nyc/Uj?utm_source=github-vansh-ouckah) | Redmond, WA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software, Starlink](https://go.vansh.nyc/Um?utm_source=github-vansh-ouckah) | Bastrop, TX | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software Security, Starlink](https://go.vansh.nyc/Uq?utm_source=github-vansh-ouckah) | Redmond, WA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software, Starlink](https://go.vansh.nyc/Uo?utm_source=github-vansh-ouckah) | Redmond, WA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software (Starfall)](https://go.vansh.nyc/Ht?utm_source=github-vansh-ouckah) | Hawthorne, CA | 1mo |
+| SpaceX | [New Grad 2027: Engineer, Software Security, Starlink](https://go.vansh.nyc/Up?utm_source=github-vansh-ouckah) | Bastrop, TX | 1mo |
 | SpaceX | [Software Engineer New Grad - Software - Starfall](https://boards.greenhouse.io/spacex/jobs/8854394002?utm_source=Simplify&ref=Simplify) | Hawthorne, CA | 1mo |
 | SpruceID | [Full-Stack Software Engineer New Grad](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
 | State Street | [Software Engineer Junior - REST API Development - Officer](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140?utm_source=Simplify&ref=Simplify) | Burlington, MA | 1mo |
+| Stryker | [Software Engineering, R&D Engineering Development Program](https://go.vansh.nyc/I0?utm_source=github-vansh-ouckah) | Fort Lauderdale, FL | 1mo |
+| Susquehanna International Group | [New Grad 2027: Quantitative Strategy Developer](https://go.vansh.nyc/TA?utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 1mo |
+| Susquehanna International Group | [New Grad 2027: Trading System Engineer](https://go.vansh.nyc/Tz?utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 1mo |
 | Swarm Aero | [Software Engineer Early Career - Real-Time Systems](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | Systems Planning and Analysis | [Junior Targeting Analyst](https://spa.jibeapply.com/jobs/23563?icims=1&utm_source=Simplify&ref=Simplify) | Sterling, VA | 1mo |
-| Thales | [Software Engineering New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871?utm_source=Simplify&ref=Simplify) | Cheadle, UK | 1mo |
-| Thales | [Software Engineering New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787?utm_source=Simplify&ref=Simplify) | Templecombe, UK | 1mo |
 | Thales | [Software Engineer New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788?utm_source=Simplify&ref=Simplify) | Belfast, UK | 1mo |
-| Thales | [Software Engineering New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725?utm_source=Simplify&ref=Simplify) | Crawley, UK | 1mo |
 | Thales | [Software Engineer New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840?utm_source=Simplify&ref=Simplify) | Glasgow, UK | 1mo |
-| TikTok | [Research Engineer New Grad - Realtime Codec Optimizations-Video Codec 🎓](https://lifeattiktok.com/search/7670335888371927349?utm_source=Simplify&ref=Simplify) | San Diego, CA | 1mo |
-| TikTok | [Research Scientist New Grad - Conversational AI 🎓](https://lifeattiktok.com/search/7670685496821713205?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
-| TikTok | [Machine Learning Engineer New Grad - E-Commerce User Growth](https://lifeattiktok.com/search/7694352871949682997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| Thales | [Software Engineering New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871?utm_source=Simplify&ref=Simplify) | Cheadle, UK | 1mo |
+| Thales | [Software Engineering New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725?utm_source=Simplify&ref=Simplify) | Crawley, UK | 1mo |
+| Thales | [Software Engineering New Grad](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787?utm_source=Simplify&ref=Simplify) | Templecombe, UK | 1mo |
 | TikTok | [Research Scientist New Grad 🎓](https://lifeattiktok.com/search/7695927144126253317?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
+| TikTok | [New Grad 2027: Research Scientist Graduate](https://go.vansh.nyc/Dh?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
+| TikTok | [Research Engineer New Grad - Realtime Codec Optimizations-Video Codec 🎓](https://lifeattiktok.com/search/7670335888371927349?utm_source=Simplify&ref=Simplify) | San Diego, CA | 1mo |
+| TikTok | [Machine Learning Engineer New Grad - E-Commerce User Growth](https://lifeattiktok.com/search/7694352871949682997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce User Growth](https://go.vansh.nyc/HS?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
+| TikTok | [Research Scientist New Grad - Conversational AI 🎓](https://lifeattiktok.com/search/7670685496821713205?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph](https://go.vansh.nyc/HR?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
+| TransMarket Group | [New Grad 2027: Junior Quantitative Trader](https://go.vansh.nyc/Ue?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
 | Two Sigma | [Software Engineer New Grad](https://twosigma.avature.net/careers/JobDetail/14020?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| VAST Data | [Software Engineer, V-Force](https://go.vansh.nyc/DF?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | VTG | [Junior Software Engineer](https://careers.vtgdefense.com/jobs/9669?icims=1&utm_source=Simplify&ref=Simplify) | Hanover, MD | 1mo |
 | Varsity Brands | [Software Engineer 1](https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1?utm_source=Simplify&ref=Simplify) | Farmers Branch, TX | 1mo |
+| Veeva Systems | [New Grad 2027: Data Analyst, Marketing Analytics](https://go.vansh.nyc/Ua?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Vigil Labs | [Founding Software Engineer](https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
+| Wonderbrands | [New Grad: Fullstack Software Developer](https://go.vansh.nyc/1ue?utm_source=github-vansh-ouckah) | Etobicoke, Canada | 1mo |
 | Wonderbrands | [Fullstack Software Developer New Grad](https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Etobicoke, ON, Canada | 1mo |
 | ZipRecruiter | [Software Engineer New Grad - Multiple Teams](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108?utm_source=Simplify&ref=Simplify) | Santa Monica, CA | 1mo |
+| iManage | [Applied AI Engineer](https://go.vansh.nyc/Hz?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
+| Akuna Capital University | [New Grad 2027: Junior Quantitative Researcher](https://go.vansh.nyc/Kp?utm_source=github-vansh-ouckah) | Chicago, IL | 2mo |
 | American Express | [Software Engineer 1 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796?utm_source=Simplify&ref=Simplify) | NYC | 2mo |
+| Anduril | [Flight Software Engineer](https://go.vansh.nyc/Ks?utm_source=github-vansh-ouckah) | Costa Mesa, CA | 2mo |
 | Anduril | [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?utm_source=Simplify&ref=Simplify) | Costa Mesa, CA | 2mo |
+| Applied Intuition | [New Grad 2027: Software Engineer](https://go.vansh.nyc/P3?utm_source=github-vansh-ouckah) | Ann Arbor, MI, Sunnyvale, CA | 2mo |
+| Applied Materials | [Logistics Automation](https://go.vansh.nyc/O5?utm_source=github-vansh-ouckah) | Santa Clara, CA | 2mo |
 | Applied Materials | [Software Engineer - New College Grad-Master's 🎓](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=Simplify&ref=Simplify) | Chandler, AZ | 2mo |
 | Atlassian | [Software Engineer New Grad - 2027 Graduate](https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job?utm_source=Simplify&ref=Simplify) | Burnaby, BC, Canada Vancouver, BC, Canada Richmond, BC, Canada | 2mo |
 | Blenheim Chalcot | [Junior Software Engineer](https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207847?utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
-| Blue Origin | [Avionics / Embedded Software Engineer 1 - 2027 Starts](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA LA Cape Canaveral, FL Kent, WA Denver, CO Huntsville, AL Van Horn, TX | 2mo |
 | Blue Origin | [Software Development Engineer 1 - Early Career - 2027 Starts](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326?utm_source=Simplify&ref=Simplify) | 6 locationsSeattle, WA LA Cape Canaveral, FL Kent, WA Denver, CO Huntsville, AL | 2mo |
+| Blue Origin | [Software Development Engineer I 🛂](https://go.vansh.nyc/Nj?utm_source=github-vansh-ouckah) | Kent, WA | 2mo |
+| Blue Origin | [Avionics / Embedded Software Engineer 1 - 2027 Starts](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA LA Cape Canaveral, FL Kent, WA Denver, CO Huntsville, AL Van Horn, TX | 2mo |
+| Blue Origin | [New Grad 2027: Avionics / Embedded Software Engineer I 🇺🇸](https://go.vansh.nyc/O9?utm_source=github-vansh-ouckah) | Van Horn, TX, Space Coast, FL, Huntsville, AL, Denver, CO | 2mo |
+| Booz Allen | [New Grad 2027: Software Developer 🇺🇸](https://go.vansh.nyc/Ph?utm_source=github-vansh-ouckah) | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | 2mo |
 | Bruno Independent Living Aids | [Junior Software Developer - AI Focus](https://careers-bruno.icims.com/jobs/3336/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Oconomowoc, WI | 2mo |
+| C3.ai | [New Grad 2027: Forward Deployed Engineer](https://go.vansh.nyc/KL?utm_source=github-vansh-ouckah) | Redwood City, CA | 2mo |
 | C3.ai | [Platform Full-Stack Engineer New Grad](https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify) | Redwood City, CA | 2mo |
-| Cadence Design Systems | [Software Engineer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2mo |
+| CACI | [Software Engineer](https://go.vansh.nyc/P4?utm_source=github-vansh-ouckah) | Annapolis Junction, MD | 2mo |
+| CSX | [New Grad 2027: Technology Leadership Development Associate](https://go.vansh.nyc/KT?utm_source=github-vansh-ouckah) | Jacksonville, FL | 2mo |
 | Cadence Design Systems | [Software Engineer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2mo |
+| Cadence Design Systems | [Software Engineer New Grad](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2mo |
+| Capital de Recherche Tower | [New Grad: C++ Software Developer](https://go.vansh.nyc/1ua?utm_source=github-vansh-ouckah) | Montreal, Canada | 2mo |
 | Capital de Recherche Tower | [C++ Software Developer New Grad](https://www.tower-research.ca/postes-vacants/?gh_jid=8126668&utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada | 2mo |
-| Ciena | [Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 2mo |
+| Cerebras | [DevOps Engineer](https://go.vansh.nyc/OU?utm_source=github-vansh-ouckah) | Toronto, Canada | 2mo |
+| Cerebras | [Software Engineer - Kernel Reliability](https://go.vansh.nyc/1tV?utm_source=github-vansh-ouckah) | Remote | 2mo |
 | Ciena | [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 2mo |
+| Ciena | [Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 2mo |
+| Ciena | [WaveLogic Software Developer](https://go.vansh.nyc/Nk?utm_source=github-vansh-ouckah) | Atlanta, GA | 2mo |
+| Ciena | [Embedded Software Engineer](https://go.vansh.nyc/Pi?utm_source=github-vansh-ouckah) | Ottawa, Canada | 2mo |
+| Clearwater Analytics | [Quantitative Financial Analyst 1 (Master's)](https://go.vansh.nyc/KR?utm_source=github-vansh-ouckah) | Boise, ID | 2mo |
+| Cogent Security | [Forward Deployed Agent Engineer](https://go.vansh.nyc/PF?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
+| Commure | [Software Engineer](https://go.vansh.nyc/Kw?utm_source=github-vansh-ouckah) | Los Angeles, CA, Mountain View, CA | 2mo |
+| DTCC | [New Grad 2027: Application Developer Analyst 🛂](https://go.vansh.nyc/Pn?utm_source=github-vansh-ouckah) | Tampa, FL, Dallas, TX, Jersey City, NJ | 2mo |
 | Deliveroo | [Software Engineer New Grad](https://job-boards.greenhouse.io/deliveroo/jobs/8202627?utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
+| DoorDash | [New Grad 2027: Software Engineer I](https://go.vansh.nyc/Nh?utm_source=github-vansh-ouckah) | Los Angeles, CA, New York, NY, San Francisco, CA, Sunnyvale, CA, Seattle, WA | 2mo |
 | DoorDash | [Software Engineer 1 - Entry-Level](https://job-boards.greenhouse.io/doordashusa/jobs/8163709?utm_source=Simplify&ref=Simplify) | 5 locationsSeattle, WA SF LA NYC Sunnyvale, CA | 2mo |
 | Eaton | [Junior Software Engineer - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239270493?utm_source=Simplify&ref=Simplify) | Wimborne Minster, Wimborne, UK | 2mo |
+| Freeform | [New Grad 2027: Software Engineer](https://go.vansh.nyc/P6?utm_source=github-vansh-ouckah) | Los Angeles, CA | 2mo |
+| GE Vernova | [AI Engineer](https://go.vansh.nyc/NY?utm_source=github-vansh-ouckah) | Greenville, SC | 2mo |
 | Garmin | [Software Engineer 1 - Aviation Backend Web](https://careers.garmin.com/jobs/19142?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 2mo |
-| Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 2mo |
 | Garmin | [Software Engineer 1 - Android](https://careers.garmin.com/jobs/16587?icims=1&utm_source=Simplify&ref=Simplify) | Yarmouth, ME | 2mo |
+| Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 2mo |
 | Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19680?icims=1&utm_source=Simplify&ref=Simplify) | Yarmouth, ME | 2mo |
+| Garner Health | [New Grad 2027: Associate Applied Scientist 🛂](https://go.vansh.nyc/O3?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | General Dynamics Mission Systems | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Manassas, VA | 2mo |
+| General Dynamics Mission Systems | [Junior Hardware Engineering Developer, FPGA](https://go.vansh.nyc/Oa?utm_source=github-vansh-ouckah) | Ottawa, Canada | 2mo |
 | General Dynamics UK | [Junior Hardware Engineer Developer - FPGA](https://jobs.smartrecruiters.com/GDMSI/744000147039249?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 2mo |
 | General Motors | [Software Engineer - Early Careers](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418?utm_source=Simplify&ref=Simplify) | Seattle, WA Austin, TX Warren, MI | 2mo |
+| Global Lending Services | [New Grad 2027: Data Scientist](https://go.vansh.nyc/Px?utm_source=github-vansh-ouckah) | Greenville, SC | 2mo |
 | Goaly | [Founding Senior AI Infrastructure Engineer](https://jobs.ashbyhq.com/goaly/ce5f6b51-0258-4956-87cf-c630a08323c7/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2mo |
 | Google | [Software Engineer Early Career - Multiple Teams 🎓](https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify) | 12 locationsMadison, WI Seattle, WA Austin, TX LA Raleigh, NC San Bruno, CA Durham, NC Kirkland, WA NYC Sunnyvale, CA Mountain View, CA Atlanta, GA | 2mo |
+| HPE | [Embedded Software Test Engineer](https://go.vansh.nyc/Oc?utm_source=github-vansh-ouckah) | Spring, TX | 2mo |
 | Headlands Tech Holdings | [C++ Software Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009?utm_source=Simplify&ref=Simplify) | Chicago, IL | 2mo |
 | Hewlett Packard Enterprise | [Software Engineer New Grad](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1?utm_source=Simplify&ref=Simplify) | 10 locationsAndover, MA Bloomington, MN San Jose, CA Spring, TX Durham, NC Westford, MA Chippewa Falls, WI Fort Collins, CO Sunnyvale, CA Roseville, CA | 2mo |
 | Hyphenate | [Software Engineer New Grad](https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 2mo |
-| ID.me | [Data Scientist New Grad 🎓](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2mo |
 | ID.me | [Associate Product Manager New Grad](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify) | McLean, VA Mountain View, CA | 2mo |
+| ID.me | [Data Scientist New Grad 🎓](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2mo |
 | Imbue | [Software Engineer New Grad](https://job-boards.greenhouse.io/imbueunlisted/jobs/4404628009?utm_source=Simplify&ref=Simplify) | SF | 2mo |
 | Integration Innovation (i3) | [Entry Level Software Engineer](https://i3-corps.jibeapply.com/jobs/5218?icims=1&utm_source=Simplify&ref=Simplify) | Huntsville, AL | 2mo |
 | InterSystems | [Software Engineer Rotational Program - Early Career](https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify) | Boston, MA | 2mo |
+| InterSystems | [New Grad 2027: Software Engineer Rotational Program](https://go.vansh.nyc/Kz?utm_source=github-vansh-ouckah) | Boston, MA | 2mo |
 | Jampack AI | [Founding Product Engineer](https://jobs.ashbyhq.com/jampack-ai/8668f920-0640-42b9-8bb4-d322c14e97a9/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Data Scientist New Grad - Computer Scientist - Decision Systems 🎓](https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Data Analyst New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Software Developer, Tactical System Prototyping and Deployment](https://go.vansh.nyc/Nw?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Software Developer, Engagement Optimization](https://go.vansh.nyc/Nv?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Electrical or Computer Engineer, Miniature Device Technologies](https://go.vansh.nyc/O0?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Robotics & Autonomous Systems Engineer, Tailored Autonomous Systems](https://go.vansh.nyc/NZ?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development](https://careers.jhuapl.edu/jobs/59974?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence 🎓](https://careers.jhuapl.edu/jobs/59888?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Sensor Systems/Data Analytics New Grad](https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Software Developer New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Data Scientist/Engineer New Grad - Analytic Capabilities 🎓](https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems 🎓](https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Software Developer New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Sensor Systems/Data Analytics New Grad](https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Data Analyst New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: AI/ML Research Engineer](https://go.vansh.nyc/Ps?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Artificial Intelligence and Complex Systems BS/MS](https://go.vansh.nyc/Pl?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Data Scientist New Grad - Computer Scientist - Decision Systems 🎓](https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Software Developer, Modeling, Simulation and Analysis Tool](https://go.vansh.nyc/Nt?utm_source=github-vansh-ouckah) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence 🎓](https://careers.jhuapl.edu/jobs/59888?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | KBR | [Junior Software Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745?utm_source=Simplify&ref=Simplify) | 7 locationsKing of Prussia, PA Chantilly, VA San Antonio, TX Clearfield, UT Columbia, MD Beavercreek, OH El Segundo, CA | 2mo |
 | KBR | [Junior Data Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=Simplify&ref=Simplify) | Chantilly, VA | 2mo |
+| Kitware | [Software Developer](https://go.vansh.nyc/O4?utm_source=github-vansh-ouckah) | Clifton Park, NY | 2mo |
+| LSEG | [New Grad 2027: Engineering Graduate Programme](https://go.vansh.nyc/1tU?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | Lattice Semiconductor | [Junior BMC Firmware Engineer](https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-102808?utm_source=Simplify&ref=Simplify) | Duluth, GA | 2mo |
 | Leidos | [Junior Software Engineer - Intel Sector](https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592?utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| LexisNexis Risk Solutions | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Nm?utm_source=github-vansh-ouckah) | Alpharetta, GA | 2mo |
 | LexisNexis Risk Solutions | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 2mo |
 | LexisNexis Risk Solutions | [Software Engineer New Grad - Risk Solutions Technology Graduate Program](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2?utm_source=Simplify&ref=Simplify) | Boca Raton, FL | 2mo |
 | LexisNexis Risk Solutions | [Software Engineer New Grad - Risk Solutions Technology Graduate Program](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 2mo |
+| Makai Labs | [Forward Deployed AI Analyst 🛂](https://go.vansh.nyc/NR?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | Meow | [Software Engineer New Grad](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 2mo |
 | Micron Technology | [Product Test Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985?utm_source=Simplify&ref=Simplify) | Boise, ID | 2mo |
+| N1 | [Software Engineer (Full Stack)](https://go.vansh.nyc/OV?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | NVIDIA | [ASIC Floorplan Design Engineer New Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 2mo |
+| Notion | [Software Engineer](https://go.vansh.nyc/P8?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| Pentair | [New Grad 2027: Engineering Leadership Development Program, Computer Science / Computer Engineering 🛂](https://go.vansh.nyc/O6?utm_source=github-vansh-ouckah) | Apex, NC, Delavan, WI, Golden Valley, MN | 2mo |
+| Perpay | [New Grad 2027: Software Engineer](https://go.vansh.nyc/KB?utm_source=github-vansh-ouckah) | Philadelphia, PA | 2mo |
 | Perpay | [Software Engineer New Grad](https://job-boards.greenhouse.io/perpay/jobs/4034578007?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 2mo |
-| RELX | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 2mo |
+| Procter & Gamble | [New Grad 2027: Data and AI Engineering](https://go.vansh.nyc/Pk?utm_source=github-vansh-ouckah) | Cincinnati, OH | 2mo |
+| Procter & Gamble | [New Grad 2027: Data Science (Master's)](https://go.vansh.nyc/Pj?utm_source=github-vansh-ouckah) | Cincinnati, OH | 2mo |
+| Qualcomm | [New Grad: Machine Learning Engineer - AI Processors](https://go.vansh.nyc/1tT?utm_source=github-vansh-ouckah) | Markham, Canada | 2mo |
 | RELX | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 2mo |
-| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
-| RTX | [Receiver – Exciter - & Processing Architecture Software Engineer I](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475?utm_source=Simplify&ref=Simplify) | Marlborough, MA | 2mo |
-| RTX | [Digital Hardware Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineering-I---Onsite_01870657?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 2mo |
-| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871018?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
-| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
-| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
+| RELX | [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1?utm_source=Simplify&ref=Simplify) | Alpharetta, GA | 2mo |
 | RTX | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
+| RTX | [Digital Hardware Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineering-I---Onsite_01870657?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 2mo |
+| RTX | [Receiver – Exciter - & Processing Architecture Software Engineer I](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475?utm_source=Simplify&ref=Simplify) | Marlborough, MA | 2mo |
 | RTX | [FPGA Electrical Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Electrical-Engineer-I---Onsite_01871787?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 2mo |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
+| RTX | [Flight Control Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871018?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2mo |
 | Roblox | [Associate Product Manager - Early Career](https://careers.roblox.com/jobs/8143976?gh_jid=8143976&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 2mo |
-| Scale AI | [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
+| Rovisys | [New Grad 2027: Engineer/Developer](https://go.vansh.nyc/Ii?utm_source=github-vansh-ouckah) | Aurora, OH | 2mo |
+| Rovisys | [New Grad 2027: Engineer/Developer](https://go.vansh.nyc/Ij?utm_source=github-vansh-ouckah) | Carlsbad, CA | 2mo |
+| Scale AI | [Software Engineer](https://go.vansh.nyc/Ni?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
 | Scale AI | [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005?utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Scale AI | [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
 | Sierra | [Software Engineer New Grad - Agent](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=Simplify&ref=Simplify) | SF NYC | 2mo |
 | Silicon Laboratories | [Software Engineer 1 - RAIL team 🎓](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1?utm_source=Simplify&ref=Simplify) | Austin, TX | 2mo |
 | SingleStore | [Software Engineer New Grad](https://job-boards.greenhouse.io/singlestore/jobs/8205427?utm_source=Simplify&ref=Simplify) | United States | 2mo |
 | SingleStore | [Software Engineer New Grad](https://job-boards.greenhouse.io/singlestore/jobs/8205389?utm_source=Simplify&ref=Simplify) | United States | 2mo |
+| SpaceX | [New Grad 2027: Engineer, Security Software](https://go.vansh.nyc/Ng?utm_source=github-vansh-ouckah) | Hawthorne, CA | 2mo |
+| SpaceX | [New Grad 2027: Engineer, Security Software](https://go.vansh.nyc/Nf?utm_source=github-vansh-ouckah) | Washington, DC | 2mo |
 | SpaceX | [Software Engineer New Grad - Software - Starship](https://boards.greenhouse.io/spacex/jobs/8743362002?utm_source=Simplify&ref=Simplify) | Hawthorne, CA | 2mo |
+| SpaceX | [New Grad 2027: Engineer, Software (Application Software)](https://go.vansh.nyc/Pd?utm_source=github-vansh-ouckah) | Hawthorne, CA | 2mo |
 | Stanley Black & Decker | [Software Engineer 1 - Motor Control](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-1--Software-Engineering---Motor-Control_REQ-1000052383?utm_source=Simplify&ref=Simplify) | Towson, MD | 2mo |
 | StepStone Group | [Junior Analyst - AI Solutions - R&D & Coding](https://boards.greenhouse.io/embed/job_app?token=8171272&utm_source=Simplify&ref=Simplify) | La Jolla, San Diego, CA | 2mo |
-| Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 2mo |
 | Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 2mo |
-| Stripe | [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 2mo |
+| Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 2mo |
+| Stripe | [New Grad 2027: Software Engineer](https://go.vansh.nyc/No?utm_source=github-vansh-ouckah) | San Francisco, CA, Seattle, WA, New York, NY | 2mo |
 | Stripe | [Product Manager New Grad](https://stripe.com/jobs/search?gh_jid=7737124&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 2mo |
+| Stripe | [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508&utm_source=Simplify&ref=Simplify) | Seattle, WA SF NYC | 2mo |
 | Stripe | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8130930&utm_source=Simplify&ref=Simplify) | London, UK | 2mo |
+| Stryker | [Design Engineer - Software, RISE](https://go.vansh.nyc/Og?utm_source=github-vansh-ouckah) | Portage, MI | 2mo |
 | Study.com | [Software Engineer New Grad - AI-Native](https://study.com/pages/jobApplication.html/?gh_jid=5429313008&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2mo |
 | SuperApp | [Software Engineer - Early Careers](https://job-boards.greenhouse.io/superapp/jobs/8813982002?utm_source=Simplify&ref=Simplify) | SF | 2mo |
+| Susquehanna International Group | [Quantitative Strategy Developer](https://go.vansh.nyc/Pa?utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 2mo |
 | Susquehanna International Group | [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Bala Cynwyd, PA | 2mo |
+| Susquehanna International Group | [Trading System Engineer](https://go.vansh.nyc/P9?utm_source=github-vansh-ouckah) | Bala Cynwyd, PA | 2mo |
 | THG Ingenuity | [Graduate / Junior Data Scientist](https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101?utm_source=Simplify&ref=Simplify) | Manchester, UK | 2mo |
-| Textron | [Software Engineer 1 - Weapons](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify) | Wilmington, MA | 2mo |
+| Texas Instruments | [Data Engineer, Career Accelerator Program](https://go.vansh.nyc/KQ?utm_source=github-vansh-ouckah) | Richardson, TX | 2mo |
+| Textron | [Software Engineer 1 - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666&utm_source=Simplify&ref=Simplify) | Hunt Valley, Cockeysville, MD | 2mo |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph](https://go.vansh.nyc/PG?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| TikTok | [New Grad 2027: Data Engineer, Data Platform E-commerce](https://go.vansh.nyc/Po?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| TikTok | [New Grad 2027: Data Engineer, Data Platform Global Live](https://go.vansh.nyc/Pp?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
 | Tower Research Capital | [C++ Software Developer New Grad - Rotational Program](https://www.tower-research.com/open-positions/?gh_jid=8126667&utm_source=Simplify&ref=Simplify) | Montreal, QC, Canada | 2mo |
 | True Anomaly | [Flight Software Engineer 1 New Grad](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 2mo |
-| True Anomaly | [Software Engineer 1 New Grad - Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 2mo |
 | True Anomaly | [Software Engineer 1 New Grad - Elixir](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 2mo |
+| True Anomaly | [Software Engineer 1 New Grad - Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 2mo |
+| Veeva Systems | [New Grad 2027: Associate Software Engineer 🛂](https://go.vansh.nyc/P0?utm_source=github-vansh-ouckah) | Pleasanton, CA | 2mo |
 | Vermeer | [Embedded Software Engineer 1 - Engineering Development Program](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180?utm_source=Simplify&ref=Simplify) | Pella, IA | 2mo |
+| Viggle AI | [New Grad: Full-Stack Software Engineer - AI & 3D Creator Tools](https://go.vansh.nyc/1u7?utm_source=github-vansh-ouckah) | Toronto, Canada | 2mo |
 | Viggle AI | [Full-Stack Software Engineer New Grad - AI & 3D Creator Tools](https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true&utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada | 2mo |
+| Voleon | [New Grad 2027: Software Engineer, University Hire](https://go.vansh.nyc/Pm?utm_source=github-vansh-ouckah) | Berkeley, CA, New York, NY | 2mo |
 | WSP | [Junior Geoscientist / Geochemist / Data Scientist](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94867?utm_source=Simplify&ref=Simplify) | 4 locationsCalgary, AB, Canada Edmonton, AB, Canada Whitehorse, YT, Canada Vancouver, BC, Canada | 2mo |
 | WTW | [Data Scientist New Grad - Insurance Consulting](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605389?utm_source=Simplify&ref=Simplify) | London, UK Reigate, UK | 2mo |
+| WeRide | [New Grad 2027: Software Engineer](https://go.vansh.nyc/P2?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
 | WhatNot | [Software Engineer New Grad](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true&utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA SF LA NYC | 2mo |
 | Wolverine Trading | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Chicago, IL | 2mo |
+| Zip | [New Grad 2027: Software Engineer](https://go.vansh.nyc/Nq?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
 | iSoftStone | [Junior Full Stack Software Engineer](https://jobs.jobvite.com/isoftstone/job/oB4MAfwL?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2mo |
 | 9to9 Software Solutions | [Entry Level Software Developer](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473?utm_source=Simplify&ref=Simplify) | Copperhill, TN | 3mo |
 | 9to9 Software Solutions | [Entry Level Software Developer](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935?utm_source=Simplify&ref=Simplify) | Randolph AFB, TX | 3mo |
 | AeroVironment | [Junior Software Engineer](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322?utm_source=Simplify&ref=Simplify) | Jessup, MD | 3mo |
 | Amazon | [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | Applied Intuition | [Research Engineer New Grad 🎓](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true&utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 3mo |
-| Applied Intuition | [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true&utm_source=Simplify&ref=Simplify) | Ann Arbor, MI Sunnyvale, CA | 3mo |
 | Applied Intuition | [Embedded Software Engineer New Grad](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true&utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 3mo |
+| Applied Intuition | [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true&utm_source=Simplify&ref=Simplify) | Ann Arbor, MI Sunnyvale, CA | 3mo |
 | Arondite | [Deployed Software Engineer New Grad](https://apply.workable.com/arondite/j/5C5C551ADA/apply?utm_source=Simplify&ref=Simplify) | London, UK | 3mo |
+| Artera | [Software Developer Associate](https://go.vansh.nyc/Ai?utm_source=github-vansh-ouckah) | Seattle, WA | 3mo |
 | Astrion | [Junior Software Developer - Datalinks Test Flight](https://careers.astrion.us/jobs/24705?icims=1&utm_source=Simplify&ref=Simplify) | Eglin AFB, FL | 3mo |
 | Bags | [Junior Full Stack Engineer](https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 3mo |
 | Blue Origin | [ASIC Engineer - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802?utm_source=Simplify&ref=Simplify) | Washington California Texas | 3mo |
 | Blue Origin | [Software Development Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | Blue Origin | [Avionics / Embedded Software Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055?utm_source=Simplify&ref=Simplify) | LA Kent, WA | 3mo |
 | Bridger | [Early Career Product Engineer](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 3mo |
-| ByteDance | [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| ByteDance | [Research Scientist New Grad - Distributed NoSQL Database Systems 🎓](https://jobs.bytedance.com/en/position/7668365143156721973/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| ByteDance | [Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799020705679669/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | ByteDance | [Software Engineer New Grad - AI Infra Compute 🎓](https://jobs.bytedance.com/en/position/7667303429264115973/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| ByteDance | [Research Scientist New Grad - Multi-modal Agentic Databases 🎓](https://jobs.bytedance.com/en/position/7665104241446652213/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| ByteDance | [Research Scientist New Grad - AI for Infrastructure 🎓](https://jobs.bytedance.com/en/position/7667291055662811445/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | ByteDance | [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| ByteDance | [Research Scientist New Grad - Distributed NoSQL Database Systems 🎓](https://jobs.bytedance.com/en/position/7668365143156721973/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| ByteDance | [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | ByteDance | [Research Scientist New Grad - Infrastructure System Lab 🎓](https://jobs.bytedance.com/en/position/7665108869591140613/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| ByteDance | [Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799020705679669/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| ByteDance | [Research Scientist New Grad - AI for Infrastructure 🎓](https://jobs.bytedance.com/en/position/7667291055662811445/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | ByteDance | [Research Scientist New Grad - Computational Imaging 🎓](https://jobs.bytedance.com/en/position/7665836153219959093/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| ByteDance | [Research Scientist New Grad - Multi-modal Agentic Databases 🎓](https://jobs.bytedance.com/en/position/7665104241446652213/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | CACI | [Entry Level Software Engineer](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 3mo |
-| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2?utm_source=Simplify&ref=Simplify) | Livonia, MI | 3mo |
-| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3?utm_source=Simplify&ref=Simplify) | Livonia, MI | 3mo |
 | Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788?utm_source=Simplify&ref=Simplify) | Livonia, MI | 3mo |
+| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3?utm_source=Simplify&ref=Simplify) | Livonia, MI | 3mo |
+| Cadence Design Systems | [Multibody Dynamics Application Software Developer New Grad - Adams](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2?utm_source=Simplify&ref=Simplify) | Livonia, MI | 3mo |
+| Chicago Trading Company | [New Grad 2027: Associate Engineer](https://go.vansh.nyc/Aq?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 3mo |
 | Ciena | [Photonic Card Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379?utm_source=Simplify&ref=Simplify) | Ottawa, ON, Canada | 3mo |
 | Composio | [Fullstack Engineer New Grad - Product Team](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 3mo |
 | Crowe | [Machine Learning Software Engineer 1](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006?utm_source=Simplify&ref=Simplify) | 36 locationsLexington, KY Boston, MA Indianapolis, IN Houston, TX Louisville, KY Knoxville, TN Nashville, TN Washington, DC SF Austin, TX Cleveland, OH LA Tampa, FL San Jose, CA Livingston, NJ Grand Rapids, MI Miami, FL Dallas, TX The Woodlands, TX Plano, TX Boca Raton, FL Chicago, IL Tallahassee, FL Charlotte, NC Oakbrook Terrace, IL Burlington, VT Sacramento, CA Columbus, OH Hartford, CT Springfield, IL NYC Denver, CO Fort Wayne, IN South Bend, IN Sarasota, FL Costa Mesa, CA | 3mo |
 | Datalab USA | [Production Programmer – Entry Level SQL Developer](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply?utm_source=Simplify&ref=Simplify) | Germantown, MD | 3mo |
+| Duke University | [Analytics Engineer](https://go.vansh.nyc/Ab?utm_source=github-vansh-ouckah) | Durham, NC | 3mo |
 | EAi Technologies | [Entry Level .NET Software Developer](https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer?utm_source=Simplify&ref=Simplify) | Vienna, VA | 3mo |
 | EAi Technologies | [Entry Level Software Developer](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer?utm_source=Simplify&ref=Simplify) | Vienna, VA | 3mo |
 | Freeform | [Software Engineer New Grad - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003?utm_source=Simplify&ref=Simplify) | LA | 3mo |
 | Freeform | [Software Engineer New Grad](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify) | LA | 3mo |
+| Garmin | [Embedded Software Engineer 1](https://careers.garmin.com/jobs/19134?icims=1&utm_source=Simplify&ref=Simplify) | Chandler, AZ | 3mo |
 | Garmin | [Software Engineer 1 - Aviation Database](https://careers.garmin.com/jobs/17162?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 3mo |
+| Garmin | [Software Engineer 1 - Embedded Aviation](https://careers.garmin.com/jobs/18513?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 3mo |
 | Garmin | [Software Engineer 1 - Connect IQ Applications](https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 3mo |
 | Garmin | [Software Engineer 1](https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 3mo |
 | Garmin | [Embedded Software Engineer 1](https://careers.garmin.com/jobs/17783?icims=1&utm_source=Simplify&ref=Simplify) | Cary, NC | 3mo |
-| Garmin | [Software Engineer 1 - Embedded Aviation](https://careers.garmin.com/jobs/18513?icims=1&utm_source=Simplify&ref=Simplify) | Olathe, KS | 3mo |
-| Garmin | [Embedded Software Engineer 1](https://careers.garmin.com/jobs/19134?icims=1&utm_source=Simplify&ref=Simplify) | Chandler, AZ | 3mo |
 | General Matter | [Software Engineer New Grad](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008?utm_source=Simplify&ref=Simplify) | LA | 3mo |
 | GliaCell Technologies | [Junior Java Software Engineer](https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 3mo |
 | Goaly | [AI Research Scientist – Early Career 🎓](https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 3mo |
@@ -576,48 +1168,49 @@
 | Palantir | [Forward Deployed Software Engineer New Grad - UK Government](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply?utm_source=Simplify&ref=Simplify) | London, UK | 3mo |
 | Panasonic Holdings | [Software Engineer 1 - Embedded Systems](https://careers.na.panasonic.com/jobs/50269?icims=1&utm_source=Simplify&ref=Simplify) | Irvine, CA | 3mo |
 | PathAI | [Software Engineer 1 - Fullstack](https://www.pathai.com/careers/8696764002?gh_jid=8696764002&utm_source=Simplify&ref=Simplify) | Boston, MA | 3mo |
-| Peterson Technologies | [Junior Software Engineer](https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 3mo |
+| Pennsylvania State University | [DevSecOps Research Computing Software Engineer](https://go.vansh.nyc/Al?utm_source=github-vansh-ouckah) | State College, PA | 3mo |
 | Peterson Technologies | [Junior Software Engineer](https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 3mo |
+| Peterson Technologies | [Junior Software Engineer](https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 3mo |
 | Qualcomm | [Entry Level & Senior Software Engineer - Core AI Software - Machine Learning Engineering](https://qualcomm.eightfold.ai/careers/job/446718018413?utm_source=Simplify&ref=Simplify) | San Diego, CA | 3mo |
 | RTX | [Software Engineer 1 - Air Traffic Solutions](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077?utm_source=Simplify&ref=Simplify) | Marlborough, MA | 3mo |
 | RTX | [FPGA Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 3mo |
 | Roblox | [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 3mo |
 | Smarter Agent | [Junior Data Engineer - Multiple Teams](https://jobs.smartrecruiters.com/SmarterAgent/743999706496509?utm_source=Simplify&ref=Simplify) | Collingswood, NJ | 3mo |
-| SpaceX | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696097002?utm_source=Simplify&ref=Simplify) | Bastrop, TX | 3mo |
 | SpaceX | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8729121002?utm_source=Simplify&ref=Simplify) | Brownsville, TX | 3mo |
-| SpaceX | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8696058002?utm_source=Simplify&ref=Simplify) | Redmond, WA | 3mo |
-| SpaceX | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696080002?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 3mo |
 | SpaceX | [Software Engineer New Grad - Software - Application Software](https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify) | Hawthorne, CA | 3mo |
+| SpaceX | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696080002?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 3mo |
+| SpaceX | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8696058002?utm_source=Simplify&ref=Simplify) | Redmond, WA | 3mo |
+| SpaceX | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696097002?utm_source=Simplify&ref=Simplify) | Bastrop, TX | 3mo |
 | Stantec | [Junior Environmental Data Analyst](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007138?utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada Waterloo, ON, Canada | 3mo |
 | Susquehanna International Group | [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Bala Cynwyd, PA | 3mo |
-| TikTok | [Machine Learning Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665989163791403269?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Content Product New Grad - TikTok Local Services](https://lifeattiktok.com/search/7667573235673073925?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| TikTok | [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| TikTok | [Machine Learning Infrastructure Engineer New Grad - Ads Infra](https://lifeattiktok.com/search/7668693662561634613?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | TikTok | [Software Engineer New Grad - Ads Infrastructure](https://lifeattiktok.com/search/7668879883938203957?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Content Product New Grad - TikTok Local Services](https://lifeattiktok.com/search/7667573235673073925?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Research Scientist New Grad - TikTok Recommendation](https://lifeattiktok.com/search/7663389956951918853?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Machine Learning Engineer New Grad - Search Ads](https://lifeattiktok.com/search/7669698543896054069?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Machine Learning Engineer New Grad - Recommendation](https://lifeattiktok.com/search/7663389745178757429?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665973724622342453?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Scientist New Grad - Recommendation 🎓](https://lifeattiktok.com/search/7663389363824773381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665977123255896325?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| TikTok | [Research Engineer New Grad - Multiple Teams 🎓](https://lifeattiktok.com/search/7667767820142643461?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| TikTok | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| TikTok | [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Frontend Software Engineer New Grad - Ads Interface](https://lifeattiktok.com/search/7668569995571726597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Search Quality 🎓](https://lifeattiktok.com/search/7665793152026740997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Machine Learning Engineer New Grad - Data Search - Visual Search 🎓](https://lifeattiktok.com/search/7667346535273007413?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| TikTok | [Machine Learning Infrastructure Engineer New Grad - Ads Infra](https://lifeattiktok.com/search/7668693662561634613?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665973724622342453?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Search Quality 🎓](https://lifeattiktok.com/search/7665793152026740997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Engineer New Grad - Multiple Teams 🎓](https://lifeattiktok.com/search/7667767820142643461?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665977123255896325?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Scientist New Grad - Recommendation 🎓](https://lifeattiktok.com/search/7663389363824773381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665989163791403269?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | Walgreens | [Software Engineer 1 - Java](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify) | Deerfield, IL | 3mo |
 | WeRide | [Software Engineer New Grad - Algorithm 🎓](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | Wolverine Trading | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Chicago, IL | 3mo |
@@ -625,28 +1218,28 @@
 | WonderBotz | [Junior Software Engineer](https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify) | Princeton, NJ | 3mo |
 | Zen3 | [Software Engineer 1 - Software Development Engineer - Azure & C# Programming](https://jobs.smartrecruiters.com/Zen31/743999664760255?utm_source=Simplify&ref=Simplify) | Redmond, WA | 3mo |
 | iSAM | [Quantitative Research New Grad - PhD Graduate 🎓](https://job-boards.eu.greenhouse.io/isam/jobs/4940752101?utm_source=Simplify&ref=Simplify) | London, UK | 3mo |
-| Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065007?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
-| Akuna Capital | [Junior Quantitative Researcher](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065206?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
-| Akuna Capital | [Junior Quantitative Researcher](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065202?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065123?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
-| Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065025?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
+| Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065049?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital | [Junior Quantitative Researcher](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065317?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital | [Junior Quantitative Researcher - Harvard](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065211?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
+| Akuna Capital | [Junior Quantitative Researcher](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065202?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
+| Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065025?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065051?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
+| Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065007?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
+| Akuna Capital | [Junior Quantitative Researcher](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065206?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital | [Junior Quantitative Researcher](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065309?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
-| Akuna Capital | [Junior Quantitative Developer & Strategist](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital University | [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687&utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Akuna Capital University | [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541&utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Backbone Systems | [Founding Engineer - Applied Research](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4mo |
-| Cerebras | [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 4mo |
 | Cerebras | [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify) | Toronto, ON, Canada Sunnyvale, CA | 4mo |
-| Citadel | [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
+| Cerebras | [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 4mo |
 | Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=Simplify&ref=Simplify) | Greenwich, CT Miami, FL NYC | 4mo |
+| Citadel | [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
 | Citadel | [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify) | 4 locationsGreenwich, CT Houston, TX Miami, FL NYC | 4mo |
-| Citadel Securities | [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/?utm_source=Simplify&ref=Simplify) | Miami, FL | 4mo |
 | Citadel Securities | [Software Engineer – University Graduate](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/?utm_source=Simplify&ref=Simplify) | London, UK | 4mo |
 | Citadel Securities | [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
+| Citadel Securities | [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/?utm_source=Simplify&ref=Simplify) | Miami, FL | 4mo |
 | Citadel Securities | [Quantitative Research Analyst – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/?utm_source=Simplify&ref=Simplify) | London, UK Dublin, Ireland | 4mo |
 | Cybernetic Labs | [Full-Stack Software Engineer New Grad - Product](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4mo |
 | Cylake | [Software Engineer – University Grad](https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 4mo |
@@ -655,23 +1248,23 @@
 | Hudson River Trading | [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050&utm_source=Simplify&ref=Simplify) | NYC | 4mo |
 | InstaLILY | [Software Engineer 1 - General](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009?utm_source=Simplify&ref=Simplify) | SF NYC | 4mo |
 | Micron Technology | [Design Engineer New Grad - Design Engineer - DRAM Technology and Products](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=Simplify&ref=Simplify) | Boise, ID | 4mo |
-| Micron Technology | [HBM Product Manager – New College Grad 🎓](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify) | Boise, ID | 4mo |
 | Micron Technology | [New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805?utm_source=Simplify&ref=Simplify) | Boise, ID | 4mo |
+| Micron Technology | [HBM Product Manager – New College Grad 🎓](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify) | Boise, ID | 4mo |
 | Morse Micro | [Product Quality Engineer 1](https://jobs.ashbyhq.com/morse-micro/ca01644b-bb2f-4dda-8ea3-b3c3085e62fc/application?embed=true&utm_source=Simplify&ref=Simplify) | Irvine, CA | 4mo |
 | NVIDIA | [ASIC Design Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 4mo |
 | Nidec | [Software Engineer 1](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664?utm_source=Simplify&ref=Simplify) | St. Louis, MO | 4mo |
 | Notion | [Software Engineer – Early Career - AI](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application?utm_source=Simplify&ref=Simplify) | SF | 4mo |
-| Old Mission | [Software Engineer New Grad](https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
-| Old Mission | [Quantitative Trader New Grad](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 4mo |
 | Old Mission | [Quantitative Trader New Grad](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 4mo |
+| Old Mission | [Quantitative Trader New Grad](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 4mo |
 | Old Mission | [Quantitative Trader New Grad](https://jobs.ashbyhq.com/old-mission-capital/cec17eab-6e17-4248-aa35-3824392c056d/application?embed=true&utm_source=Simplify&ref=Simplify) | London, UK | 4mo |
+| Old Mission | [Software Engineer New Grad](https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
 | Palantir | [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply?utm_source=Simplify&ref=Simplify) | Chicago, IL | 4mo |
-| Palantir | [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
-| Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 4mo |
 | Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
+| Palantir | [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
+| Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
+| Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 4mo |
 | Palantir | [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 4mo |
 | Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify) | Denver, CO | 4mo |
-| Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&ref=Simplify) | NYC | 4mo |
 | Peraton | [Junior Software Engineer](https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 4mo |
 | Preference Model | [Member of Technical Staff New Grad - Machine Learning Capabilities 🎓](https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application?utm_source=Simplify&ref=Simplify) | Seattle, WA Toronto, ON, Canada SF | 4mo |
 | Pylon | [Software Engineer New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application?utm_source=Simplify&ref=Simplify) | SF | 4mo |
@@ -683,12 +1276,12 @@
 | Xterra AI | [Founding Research Scientist](https://jobs.ashbyhq.com/xterra%20ai/468e9870-0d18-468c-8fad-241b1a7566c0/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 4mo |
 | EXL | [Junior Software Developer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785?utm_source=Simplify&ref=Simplify) | United States | 5mo |
 | Markon | [Software Engineer 0](https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Fort Meade, MD | 5mo |
+| NVIDIA | [Software Engineer New Grad - Hardware Tools and Methodology 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 5mo |
 | NVIDIA | [ASIC Physical Design Engineer New Grad - Netlisting 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681?utm_source=Simplify&ref=Simplify) | Austin, TX Santa Clara, CA | 5mo |
 | NVIDIA | [Research Scientist New Grad - Electronic Design Automation 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 5mo |
-| NVIDIA | [Software Engineer New Grad - Hardware Tools and Methodology 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 5mo |
-| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 5mo |
-| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=Simplify&ref=Simplify) | NYC | 5mo |
 | Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 5mo |
+| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=Simplify&ref=Simplify) | NYC | 5mo |
+| Palantir | [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 5mo |
 | Peraton | [Junior Software Engineer](https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Annapolis Junction, MD | 5mo |
 | Quantiq | [Software Developer New Grad](https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=Simplify&ref=Simplify) | Austin, TX | 5mo |
 | Snowflake | [AI Research Scientist New Grad - Agents & Reinforcement Learning 🎓](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 5mo |
@@ -700,14 +1293,126 @@
 | Mytos | [Junior/Mid Software Engineer](https://jobs.lever.co/mytos/bbb558c0-d769-4b5f-a3a7-025642c2626d/apply?utm_source=Simplify&ref=Simplify) | London, UK | 6mo |
 | Wonderschool | [Early Career Software Engineer - Applied AI](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003?utm_source=Simplify&ref=Simplify) | SF | 6mo |
 | Aquatic Capital Management | [Software Engineer – Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002?utm_source=Simplify&ref=Simplify) | Chicago, IL NYC | 7mo |
+| Base-2 Solutions | [Software Engineer 🇺🇸](https://go.vansh.nyc/zP?utm_source=github-vansh-ouckah) | Annapolis Junction, MD | 7mo |
 | Ellipsis Labs | [Software Engineer – New Grads - Multiple Teams](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application?utm_source=Simplify&ref=Simplify) | NYC | 7mo |
 | FlexAI | [Software Engineer – New Grad](https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674?utm_source=Simplify&ref=Simplify) | San Jose, CA | 7mo |
 | GlobalFoundries | [Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=Simplify&ref=Simplify) | Austin, TX | 7mo |
-| NVIDIA | [Research Scientist – PhD New College Grad - Generative AI for Physical AI 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7mo |
 | NVIDIA | [ASIC Physical Design and Timing Engineer – New College Grad 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7mo |
+| NVIDIA | [Research Scientist – PhD New College Grad - Generative AI for Physical AI 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7mo |
 | Realm | [Software Engineer New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA | 7mo |
 | Sigma Computing | [Software Engineer New Grad](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003?utm_source=Simplify&ref=Simplify) | SF NYC | 7mo |
 | True Anomaly | [Software Engineer 1 - Full Stack](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007?utm_source=Simplify&ref=Simplify) | Long Beach, CA Denver, CO | 7mo |
 | Uncountable | [Product Manager – New Grad](https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application?utm_source=Simplify&ref=Simplify) | SF NYC | 7mo |
+| Tesla | [Maps & Navigation Algorithms Engineer, Vehicle Controls](https://go.vansh.nyc/z3?utm_source=github-vansh-ouckah) | Palo Alto, CA | 9mo |
+| Tesla | [Test Engineer, Optimus](https://go.vansh.nyc/z2?utm_source=github-vansh-ouckah) | Fremont, CA | 9mo |
+| IXL Learning | [New Grad: Software Engineer](https://go.vansh.nyc/yL?utm_source=github-vansh-ouckah) | Raleigh, NC | 10mo |
+| Renaissance Technologies | [Real-Time Trading Programmer 🇺🇸](https://go.vansh.nyc/yK?utm_source=github-vansh-ouckah) | East Setauket, NY | 10mo |
+| Renaissance Technologies | [Research Scientist 🇺🇸](https://go.vansh.nyc/yJ?utm_source=github-vansh-ouckah) | East Setauket, NY | 10mo |
+| Tesla | [AI Engineer, Reinforcement Learning, Self-Driving](https://go.vansh.nyc/yF?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
+| Tesla | [AI Engineer, Vision & Foundation Models, Optimus](https://go.vansh.nyc/yQ?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
+| Tesla | [Fullstack Software Engineer, Energy Products Software](https://go.vansh.nyc/yN?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
+| Thera | [Founding Engineer 🇺🇸](https://go.vansh.nyc/yc?utm_source=github-vansh-ouckah) | New York, NY | 11mo |
+| AgentMail | [Founding Engineer](https://go.vansh.nyc/xh?utm_source=github-vansh-ouckah) | San Francisco, CA | 12mo |
+| Figma | [Software Engineer, Full Stack](https://go.vansh.nyc/xa?utm_source=github-vansh-ouckah) | San Francisco, CA, New York, NY | 12mo |
+| Meta | [Data Engineer, Analytics](https://go.vansh.nyc/x1?utm_source=github-vansh-ouckah) | New York, NY | 12mo |
+| Qualcomm Innovation Center, Inc. | [Product Software Engineer](https://go.vansh.nyc/xi?utm_source=github-vansh-ouckah) | San Diego, CA | 12mo |
+| Tesla | [In Vehicle Test Engineer, Steering, Vehicle Software](https://go.vansh.nyc/xm?utm_source=github-vansh-ouckah) | East Liberty, OH | 12mo |
+| Valkyrie | [Derivatives Trader 🛂](https://go.vansh.nyc/xd?utm_source=github-vansh-ouckah) | Chicago, IL | 12mo |
+| Warp | [Software Engineer](https://go.vansh.nyc/x8?utm_source=github-vansh-ouckah) | Remote | 12mo |
+| Anthrogen | [Member of Technical Staff 🇺🇸](https://go.vansh.nyc/wf?utm_source=github-vansh-ouckah) | San Francisco, CA | 13mo |
+| Apten | [Software Engineer (Full Stack) 🇺🇸](https://go.vansh.nyc/vN?utm_source=github-vansh-ouckah) | San Francisco, CA | 13mo |
+| Claim Health (X25) | [Founding Engineer](https://go.vansh.nyc/wb?utm_source=github-vansh-ouckah) | New York, NY | 13mo |
+| DoorDash | [New Grad: Software Engineer I](https://go.vansh.nyc/uG?utm_source=github-vansh-ouckah) | New York, NY, San Francisco, CA, Los Angeles, CA, Seattle, WA, Sunnyvale, CA | 13mo |
+| HoneyWell | [Software Engineer I 🇺🇸](https://go.vansh.nyc/uz?utm_source=github-vansh-ouckah) | Clearwater, FL | 13mo |
+| Honeywell | [Software Engineer I 🇺🇸](https://go.vansh.nyc/uy?utm_source=github-vansh-ouckah) | Fort Mill, SC | 13mo |
+| Plaid | [Software Engineer 🛂](https://go.vansh.nyc/u9?utm_source=github-vansh-ouckah) | San Francisco, CA, New York, NY | 13mo |
+| Quadient | [Software Engineer](https://go.vansh.nyc/vj?utm_source=github-vansh-ouckah) | Vancouver, Canada | 13mo |
+| Revionics | [New Grad: Machine Learning Engineer](https://go.vansh.nyc/wq?utm_source=github-vansh-ouckah) | Austin, TX, Atlanta, GA | 13mo |
+| Tesla | [Machine Learning Infrastructure Simulation Engineer, Optimus](https://go.vansh.nyc/uL?utm_source=github-vansh-ouckah) | Palo Alto, CA | 13mo |
+| Uneekor | [Software Quality Assurance Engineer](https://go.vansh.nyc/v8?utm_source=github-vansh-ouckah) | Dallas, TX | 13mo |
+| Commure | [New Grad 2026: Software Engineer](https://go.vansh.nyc/r4?utm_source=github-vansh-ouckah) | Mountain View, CA | 14mo |
+| D3 Global Inc | [New Grad: Backend Engineer](https://go.vansh.nyc/t9?utm_source=github-vansh-ouckah) | Los Angeles, CA | 14mo |
+| DeepGrove | [ML Technical Staff](https://go.vansh.nyc/sy?utm_source=github-vansh-ouckah) | San Francisco, CA | 14mo |
+| Duolingo | [New Grad: Software Engineer](https://go.vansh.nyc/tE?utm_source=github-vansh-ouckah) | Pittsburgh, PA | 14mo |
+| Duolingo | [New Grad: Data Scientist](https://go.vansh.nyc/tD?utm_source=github-vansh-ouckah) | Pittsburgh, PA | 14mo |
+| IBM | [Software Developer](https://go.vansh.nyc/rg?utm_source=github-vansh-ouckah) | Sandy Springs, GA, Poughkeepsie, NY, Lowell, MA, Rochester, MN, Tucson, AZ, Research Triangle Park, NC, Durham, NC, Hopewell Junction, NY, San Jose, CA, Dallas, TX, Houston, TX, Austin, TX, Herndon, VA, New York, NY | 14mo |
+| MetroStar | [Associate Software Developer 🛂](https://go.vansh.nyc/rI?utm_source=github-vansh-ouckah) | Reston, VA | 14mo |
+| N1 | [New Grad Software Engineer - Backend Rust](https://go.vansh.nyc/rf?utm_source=github-vansh-ouckah) | Oakland, CA, New York, NY | 14mo |
+| SpiderRock | [New Grad 2026: Software Engineer](https://go.vansh.nyc/t8?utm_source=github-vansh-ouckah) | Chicago, IL | 14mo |
+| Tripadvisor | [Android Engineer](https://go.vansh.nyc/sO?utm_source=github-vansh-ouckah) | Ottawa, Canada | 14mo |
+| BRM | [Entry Level Software Engineer](https://go.vansh.nyc/ow?utm_source=github-vansh-ouckah) | San Francisco, CA | 15mo |
+| Boston Scientific | [Software Engineer I - Engineering - Development](https://go.vansh.nyc/oE?utm_source=github-vansh-ouckah) | Roseville, MN | 15mo |
+| Boston Scientific | [Software Engineer I - Engineering - Development](https://go.vansh.nyc/pe?utm_source=github-vansh-ouckah) | Roseville, MN | 15mo |
+| Boston Scientific | [Software Engineer I - Engineering - Development](https://go.vansh.nyc/oD?utm_source=github-vansh-ouckah) | Roseville, MN | 15mo |
+| Canonical | [Software Engineer - Python - Cloud](https://go.vansh.nyc/pU?utm_source=github-vansh-ouckah) | Remote | 15mo |
+| Citadel Securities | [C++ Software Engineer](https://go.vansh.nyc/pr?utm_source=github-vansh-ouckah) | Miami, FL | 15mo |
+| Hudson River Trading | [Trade Operations](https://go.vansh.nyc/mU?utm_source=github-vansh-ouckah) | Austin, TX | 15mo |
+| Hudson River Trading | [New Grad 2026: Algorithm Developer](https://go.vansh.nyc/pz?utm_source=github-vansh-ouckah) | New York, NY | 15mo |
+| Hudson River Trading | [Trade Operations](https://go.vansh.nyc/mT?utm_source=github-vansh-ouckah) | New York, NY | 15mo |
+| Jacobs | [Software Engineer, Entry](https://go.vansh.nyc/op?utm_source=github-vansh-ouckah) | Kennedy Space Center, FL | 15mo |
+| L2TMedia | [Junior Digital Media Data Analyst](https://go.vansh.nyc/pY?utm_source=github-vansh-ouckah) | Evanston, IL | 15mo |
+| Mathtech | [Associate Software Developer](https://go.vansh.nyc/oo?utm_source=github-vansh-ouckah) | Hamilton, NJ | 15mo |
+| Meta | [New Grad 2026: Product Security Engineer](https://go.vansh.nyc/nu?utm_source=github-vansh-ouckah) | Bellevue, WA, Menlo Park, CA | 15mo |
+| PayPal | [New Grad: Software Engineer](https://go.vansh.nyc/pV?utm_source=github-vansh-ouckah) | San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ, Austin, TX | 15mo |
+| PayPal | [New Grad: Software Engineer](https://go.vansh.nyc/qK?utm_source=github-vansh-ouckah) | San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ, Austin, TX | 15mo |
+| Prosidian Consulting | [ITSM IT Security Engineer I](https://go.vansh.nyc/p5?utm_source=github-vansh-ouckah) | Washington, DC | 15mo |
+| Qualcomm Canada ULC | [CPU Software Telemetry Tools Developer](https://go.vansh.nyc/qi?utm_source=github-vansh-ouckah) | Markham, Canada | 15mo |
+| Remodel Health | [Junior Software Engineer](https://go.vansh.nyc/oZ?utm_source=github-vansh-ouckah) | Indianapolis, IN | 15mo |
+| Shopify | [Infrastructure Engineers](https://go.vansh.nyc/nn?utm_source=github-vansh-ouckah) | Remote | 15mo |
+| SoFi | [New Grad 2025: Fullstack Software Engineer](https://go.vansh.nyc/pQ?utm_source=github-vansh-ouckah) | Seattle, WA, Helena, MT | 15mo |
+| Tesla | [Machine Learning Engineer, Model Optimization & Deployment, Optimus](https://go.vansh.nyc/o8?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15mo |
+| Tesla | [Machine Learning Engineer, Embodied Intelligence, Optimus](https://go.vansh.nyc/qO?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15mo |
+| Tria Federal | [Data Analyst-Level I 🇺🇸](https://go.vansh.nyc/pC?utm_source=github-vansh-ouckah) | Falls Church, VA | 15mo |
+| Balyasny Asset Management | [Systematic Equities Quantitative Researcher / Developer](https://go.vansh.nyc/lQ?utm_source=github-vansh-ouckah) | New York, NY | 16mo |
+| Candid Health | [New Grad: Software Engineer](https://go.vansh.nyc/mk?utm_source=github-vansh-ouckah) | San Francisco, CA, Denver, CO, New York, NY | 16mo |
+| Citadel Securities | [Software Engineer](https://go.vansh.nyc/lN?utm_source=github-vansh-ouckah) | Miami, FL, New York, NY | 16mo |
+| Citadel Securities | [New Grad: Quantitative Trader](https://go.vansh.nyc/lP?utm_source=github-vansh-ouckah) | Miami, FL, New York, NY | 16mo |
+| Meta | [Software Engineer](https://go.vansh.nyc/l9?utm_source=github-vansh-ouckah) | Menlo Park, CA | 16mo |
+| Old Mission | [New Grad 2026: Junior Quantitative Trader](https://go.vansh.nyc/me?utm_source=github-vansh-ouckah) | Chicago, IL | 16mo |
+| Old Mission | [New Grad 2026: Junior Software Engineer](https://go.vansh.nyc/md?utm_source=github-vansh-ouckah) | Chicago, IL | 16mo |
+| Palantir | [New Grad: Software Engineer](https://go.vansh.nyc/lA?utm_source=github-vansh-ouckah) | Denver, CO | 16mo |
+| Palantir | [New Grad: Software Engineer](https://go.vansh.nyc/m0?utm_source=github-vansh-ouckah) | Seattle, WA | 16mo |
+| Palantir | [New Grad: Software Engineer 🇺🇸](https://go.vansh.nyc/lE?utm_source=github-vansh-ouckah) | Palo Alto, CA | 16mo |
+| Palantir | [New Grad: Software Engineer 🇺🇸](https://go.vansh.nyc/lF?utm_source=github-vansh-ouckah) | Washington, DC | 16mo |
+| Palantir | [New Grad: Software Engineer 🇺🇸](https://go.vansh.nyc/lD?utm_source=github-vansh-ouckah) | New York, NY | 16mo |
+| Palantir | [New Grad: Software Engineer](https://go.vansh.nyc/lH?utm_source=github-vansh-ouckah) | New York, NY | 16mo |
+| Palantir | [New Grad: Software Engineer](https://go.vansh.nyc/lC?utm_source=github-vansh-ouckah) | New York, NY | 16mo |
+| Perplexity | [Associate Product Manager Program](https://go.vansh.nyc/mN?utm_source=github-vansh-ouckah) | San Francisco, CA | 16mo |
+| Porter | [Full Stack Engineer](https://go.vansh.nyc/mp?utm_source=github-vansh-ouckah) | New York, NY | 16mo |
+| Qualcomm | [Software Engineer - Hypervisor](https://go.vansh.nyc/lR?utm_source=github-vansh-ouckah) | San Diego, CA | 16mo |
+| Qualcomm | [Display SW Engineer](https://go.vansh.nyc/lo?utm_source=github-vansh-ouckah) | San Diego, CA | 16mo |
+| Qualcomm | [IOT Software Engineer](https://go.vansh.nyc/lg?utm_source=github-vansh-ouckah) | San Diego, CA | 16mo |
+| Qualcomm | [Software Product Application Engineer](https://go.vansh.nyc/lb?utm_source=github-vansh-ouckah) | San Diego, CA | 16mo |
+| Qualcomm Technologies, Inc. | [CPU Software Architecture Engineer](https://go.vansh.nyc/m8?utm_source=github-vansh-ouckah) | San Diego, CA | 16mo |
+| Qualcomm Technologies, Inc. | [GPU Software Engineer](https://go.vansh.nyc/mr?utm_source=github-vansh-ouckah) | San Diego, CA | 16mo |
+| Tesla | [Software Engineer, Machine Learning Integration, Optimus](https://go.vansh.nyc/lY?utm_source=github-vansh-ouckah) | Palo Alto, CA | 16mo |
+| Citadel Securities | [Systematic Options Trader](https://go.vansh.nyc/jZ?utm_source=github-vansh-ouckah) | Miami, FL | 17mo |
+| DRW | [Research Engineer](https://go.vansh.nyc/jY?utm_source=github-vansh-ouckah) | New York, NY | 17mo |
+| Da Vinci | [Graduate C++ Software Engineer](https://go.vansh.nyc/l1?utm_source=github-vansh-ouckah) | Miami, FL | 17mo |
+| Greenboard (W24) | [New Grad: Software Engineer](https://go.vansh.nyc/km?utm_source=github-vansh-ouckah) | New York, NY | 17mo |
+| IXL Learning | [New Grad: Software Engineer](https://go.vansh.nyc/k4?utm_source=github-vansh-ouckah) | Raleigh, NC | 17mo |
+| IXL Learning | [New Grad: Software Engineer](https://go.vansh.nyc/k3?utm_source=github-vansh-ouckah) | San Mateo, CA | 17mo |
+| Lumafield | [Backend Engineer 🛂](https://go.vansh.nyc/kC?utm_source=github-vansh-ouckah) | San Francisco, CA | 17mo |
+| Lyft | [Software Engineer, Rider](https://go.vansh.nyc/kO?utm_source=github-vansh-ouckah) | New York, NY | 17mo |
+| N1 | [Software Engineer (Backend Rust)](https://go.vansh.nyc/kv?utm_source=github-vansh-ouckah) | New York, NY | 17mo |
+| N1 | [Software Engineer (Full Stack)](https://go.vansh.nyc/ku?utm_source=github-vansh-ouckah) | New York, NY | 17mo |
+| Point72 | [Quantitative Developer](https://go.vansh.nyc/jX?utm_source=github-vansh-ouckah) | New York, NY | 17mo |
+| Qualcomm | [Modem Software and System Engineer](https://go.vansh.nyc/kY?utm_source=github-vansh-ouckah) | San Diego, CA | 17mo |
+| Qualcomm | [Product Software Engineer](https://go.vansh.nyc/kX?utm_source=github-vansh-ouckah) | San Diego, CA | 17mo |
+| Doppel | [Software Engineer](https://go.vansh.nyc/jo?utm_source=github-vansh-ouckah) | San Francisco, CA, New York, NY | 18mo |
+| KBR | [Full Stack Software Engineer](https://go.vansh.nyc/jC?utm_source=github-vansh-ouckah) | Moffett Field, CA | 18mo |
+| Qualcomm | [Graphics Software Kernel Mode Engineer](https://go.vansh.nyc/jL?utm_source=github-vansh-ouckah) | San Diego, CA | 18mo |
+| Qualcomm | [Software Engineer, Gaming AI, PC Compute](https://go.vansh.nyc/jK?utm_source=github-vansh-ouckah) | San Diego, CA | 18mo |
+| Qualcomm | [Graphics Software Engineer](https://go.vansh.nyc/jJ?utm_source=github-vansh-ouckah) | San Diego, CA | 18mo |
+| Qualcomm | [Software Engineer](https://go.vansh.nyc/jI?utm_source=github-vansh-ouckah) | San Diego, CA | 18mo |
+| Tower Research Capital | [New Grad: C++ Software Engineer, MTL](https://go.vansh.nyc/j2?utm_source=github-vansh-ouckah) | Montreal, Canada | 18mo |
+| 21CS | [Graduate Software Engineer](https://go.vansh.nyc/iL?utm_source=github-vansh-ouckah) | Morehead City, NC | 19mo |
+| LinkSquares | [Software Engineer](https://go.vansh.nyc/iO?utm_source=github-vansh-ouckah) | Remote, United States | 19mo |
+| Oracle | [Software Developer](https://go.vansh.nyc/iS?utm_source=github-vansh-ouckah) | Remote, Canada | 19mo |
+| Oracle | [Software Developer - Rotational Program - NetSuite](https://go.vansh.nyc/iR?utm_source=github-vansh-ouckah) | Kitchiner, Canada | 19mo |
+| Qualcomm | [Embedded DSP Software Engineer](https://go.vansh.nyc/i2?utm_source=github-vansh-ouckah) | San Diego, CA | 19mo |
+| Tesla | [Software Engineer, Traction Control & Stability](https://go.vansh.nyc/ig?utm_source=github-vansh-ouckah) | Palo Alto, CA | 19mo |
+| Thor Solutions | [Software Engineer I](https://go.vansh.nyc/iP?utm_source=github-vansh-ouckah) | Philadelphia, PA | 19mo |
+| Applied Intuition | [Research Engineer - New Grad (2027)](https://zapply.jobs/l/d/ashby-applied-45fc41cd-8280-4010-ba1f-def6114b3e39?s=gh-new-grad-software-engineering-jobs-2027) | Sunnyvale | 2026-08-14 |
 
 <!-- NEWGRAD_TABLE_END_DEREXXD -->
