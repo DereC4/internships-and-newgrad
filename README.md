@@ -2408,17 +2408,21 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Zurn Elkay Water Solutions | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065?utm_source=Simplify&ref=Simplify) | Downers Grove, IL | 29d |
 | ABB | [AI Engineering Intern - Business Systems](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714?utm_source=Simplify&ref=Simplify) | Cary, NC | 1mo |
 | ABB | [AI Engineering ERP Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711?utm_source=Simplify&ref=Simplify) | Cary, NC | 1mo |
+| ABB | [AI Engineering Intern - Business Systems](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714?utm_source=Simplify&ref=Simplify) | Cary, NC | 1mo |
 | ADT | [Hardware Engineering & Connected Devices Intern](https://go.vansh.nyc/b9?utm_source=github-vansh-ouckah) | Boca Raton, FL | 1mo |
 | ADT | [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475?utm_source=Simplify&ref=Simplify) | Boca Raton, FL | 1mo |
 | ADT | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393?utm_source=Simplify&ref=Simplify) | Boca Raton, FL | 1mo |
+| AGCO | [Embedded Software Engineer Intern](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Hesston, KS Jackson, MN | 1mo |
 | AGCO | [Embedded Software Engineer Intern](https://go.vansh.nyc/b4?utm_source=github-vansh-ouckah) | Hesston, KS, Jackson, MN | 1mo |
 | AGCO | [Embedded Software Engineer Intern](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Hesston, KS Jackson, MN | 1mo |
 | AMCA | [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009?utm_source=Simplify&ref=Simplify) | El Segundo, CA | 1mo |
 | AMCA | [Software Engineer Intern](https://go.vansh.nyc/E2?utm_source=github-vansh-ouckah) | El Segundo, CA | 1mo |
+| AMCA | [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009?utm_source=Simplify&ref=Simplify) | El Segundo, CA | 1mo |
 | AQR Capital Management | [Machine Learning Research Associate Intern 🎓](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 1mo |
 | AbbVie | [Associate Engineer Intern, Technical Development Program](https://go.vansh.nyc/at?utm_source=github-vansh-ouckah) | Worcester, MA | 1mo |
 | Acadian Asset Management | [Quantitative Investment Intern 🎓](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006&utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
 | Acuity | [Finance AI Product Management Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 1mo |
+| Acuity | [Product Management Technology Intern](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Conyers, GA | 1mo |
 | Acuity | [Finance AI Engineering Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 1mo |
 | Acuity | [Product Management Technology Intern](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Conyers, GA | 1mo |
 | AeroVironment | [Software Engineering Intern](https://go.vansh.nyc/ay?utm_source=github-vansh-ouckah) | Moorpark, CA | 1mo |
@@ -2454,8 +2458,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Arc | [Software Engineer Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008?utm_source=Simplify&ref=Simplify) | Torrance, CA | 1mo |
 | Arc | [Electrical Hardware Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | Torrance, CA | 1mo |
 | Arcesium | [Infrastructure Engineer Intern](https://go.vansh.nyc/ga?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
-| Arconic | [Software Developer Intern](https://go.vansh.nyc/1fc?utm_source=github-vansh-ouckah) | Davenport, IA | 1mo |
 | Arconic | [Software Developer Intern](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233?utm_source=Simplify&ref=Simplify) | Davenport, IA | 1mo |
+| Arconic | [Software Developer Intern](https://go.vansh.nyc/1fc?utm_source=github-vansh-ouckah) | Davenport, IA | 1mo |
 | Ardian | [Data Scientist Intern](https://go.vansh.nyc/9B?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Arista Networks | [Hardware Engineering Intern](https://go.vansh.nyc/1tu?utm_source=github-vansh-ouckah) | Nashua, NH | 1mo |
 | Armadin | [Frontend Engineer Intern - Member of Technical Staff](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
@@ -2481,8 +2485,10 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Atoms | [Electrical Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8869098002?utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | Atoms | [Software Engineering Intern](https://go.vansh.nyc/93?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
 | Atoms | [Electrical Engineer Intern](https://job-boards.greenhouse.io/atoms/jobs/8869094002?utm_source=Simplify&ref=Simplify) | SF | 1mo |
-| Aurora Innovation | [Embedded Software Engineer Intern, Lidar](https://go.vansh.nyc/1zg?utm_source=github-vansh-ouckah) | Bozeman, MT | 1mo |
+| Atoms | [Software Engineering Intern](https://go.vansh.nyc/93?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
+| Atoms | [Electrical Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8869098002?utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | Aurora Innovation | [LiDAR Systems Intern 🎓](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1mo |
+| Aurora Innovation | [Embedded Software Engineer Intern, Lidar](https://go.vansh.nyc/1zg?utm_source=github-vansh-ouckah) | Bozeman, MT | 1mo |
 | Auto-Owners Insurance | [Software Engineer Intern](https://go.vansh.nyc/gh?utm_source=github-vansh-ouckah) | Bedford, NH | 1mo |
 | AutoZone | [Information Technology Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451?utm_source=Simplify&ref=Simplify) | Memphis, TN | 1mo |
 | AutoZone | [Ecommerce Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427?utm_source=Simplify&ref=Simplify) | Memphis, TN | 1mo |
@@ -2514,6 +2520,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Cambridge Consultants | [Electronics Engineering Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988779101?utm_source=Simplify&ref=Simplify) | United Kingdom | 1mo |
 | CapTech Consulting | [Consulting Software Engineer Intern](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115?utm_source=Simplify&ref=Simplify) | Richmond, VA | 1mo |
 | Capital de Recherche Tower | [Machine Learning Intern](https://go.vansh.nyc/1te?utm_source=github-vansh-ouckah) | Montreal, Canada | 1mo |
+| Capstone Investment Advisors | [Quant Intern 🎓](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Capstone Investment Advisors | [Risk Tech Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002?utm_source=Simplify&ref=Simplify) | London, UK NYC | 1mo |
 | Capstone Investment Advisors | [Quant Intern 🎓](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Capstone Investment Advisors | [Tech Execution Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
@@ -2537,6 +2544,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Corgan | [Software Development Intern](https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Dallas, TX | 1mo |
 | Coveo | [Software Developer Intern, Solutions Engineering Core Team](https://go.vansh.nyc/1nB?utm_source=github-vansh-ouckah) | Montreal, Canada | 1mo |
 | Coveo | [Frontend Developer Intern](https://go.vansh.nyc/1o0?utm_source=github-vansh-ouckah) | Montreal, Canada | 1mo |
+| Coveo | [Software Developer Intern, Solutions Engineering Core Team](https://go.vansh.nyc/1nB?utm_source=github-vansh-ouckah) | Montreal, Canada | 1mo |
 | Cryptic Vector | [Full Stack Developer Intern](https://go.vansh.nyc/gf?utm_source=github-vansh-ouckah) | Liberty Township, OH | 1mo |
 | DV Trading | [Data Center Engineer Intern](https://go.vansh.nyc/89?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
 | Databricks | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8847738002&utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
@@ -2551,6 +2559,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Eaton | [C++ Developer Intern, Research & Development Engineering](https://go.vansh.nyc/b1?utm_source=github-vansh-ouckah) | Brossard, QC, Canada | 1mo |
 | Eaton | [Software Quality Assurance Engineering Intern](https://go.vansh.nyc/R4?utm_source=github-vansh-ouckah) | Minneapolis, MN | 1mo |
 | Eaton | [Electrical Engineer Intern/Co-op - Engineering](https://eaton.eightfold.ai/careers/job/687238597770?utm_source=Simplify&ref=Simplify) | Peachtree City, GA | 1mo |
+| Eaton | [C++ Developer Intern, Research & Development Engineering](https://go.vansh.nyc/b1?utm_source=github-vansh-ouckah) | Brossard, QC, Canada | 1mo |
+| Eaton | [Software Quality Assurance Engineering Intern](https://go.vansh.nyc/R4?utm_source=github-vansh-ouckah) | Minneapolis, MN | 1mo |
 | Election Systems & Software | [Information Systems Software Developer Intern](https://go.vansh.nyc/g1?utm_source=github-vansh-ouckah) | Omaha, NE | 1mo |
 | Electronic Arts | [Software Engineer Intern - Gameplay UI](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190?utm_source=Simplify&ref=Simplify) | Birmingham, UK | 1mo |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251?utm_source=Simplify&ref=Simplify) | Orlando, FL | 1mo |
@@ -2577,6 +2587,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Expedia Group | [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Expedia Group | [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306?utm_source=Simplify&ref=Simplify) | Seattle, WA Austin, TX San Jose, CA | 1mo |
 | Expedia Group | [Software Development Engineer Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311?utm_source=Simplify&ref=Simplify) | Seattle, WA Austin, TX San Jose, CA | 1mo |
+| Expedia Group | [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306?utm_source=Simplify&ref=Simplify) | Seattle, WA Austin, TX San Jose, CA | 1mo |
 | F5 | [Software Development Engineer Intern](https://go.vansh.nyc/F0?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
 | F5 | [Software Developer Intern](https://go.vansh.nyc/F6?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
 | Figma | [PhD Intern - Software Engineer - Graphics 🎓](https://boards.greenhouse.io/figma/jobs/6219995004?utm_source=Simplify&ref=Simplify) | SF NYC | 1mo |
@@ -2586,8 +2597,9 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | First Solar (US) | [Data Science Intern](https://go.vansh.nyc/K2?utm_source=github-vansh-ouckah) | Perrysburg, OH | 1mo |
 | Flint | [Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | Flint | [Engineering Intern](https://go.vansh.nyc/JI?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
-| Formlabs | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683&utm_source=Simplify&ref=Simplify) | Somerville, MA | 1mo |
+| Flint | [Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | Formlabs | [Build Team Intern](https://careers.formlabs.com/job/8212703/apply/?gh_jid=8212703&utm_source=Simplify&ref=Simplify) | Somerville, MA | 1mo |
+| Formlabs | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683&utm_source=Simplify&ref=Simplify) | Somerville, MA | 1mo |
 | Found Energy | [Data Engineer Co-op](https://go.vansh.nyc/EQ?utm_source=github-vansh-ouckah) | Cambridge, MA | 1mo |
 | G-Research | [Software Engineer Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | GCM Grosvenor | [IT Product & Strategy Intern](https://go.vansh.nyc/gb?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
@@ -2654,8 +2666,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Indie | [Applications Software Developer Intern](https://go.vansh.nyc/1nq?utm_source=github-vansh-ouckah) | Aliso Viejo, CA | 1mo |
 | Indie | [Design Verification Engineer Intern](https://go.vansh.nyc/1td?utm_source=github-vansh-ouckah) | Aliso Viejo, CA | 1mo |
 | Insulet Corporation | [Software Development Engineer in Test Co-op 🛂](https://go.vansh.nyc/fS?utm_source=github-vansh-ouckah) | Acton, MA | 1mo |
-| Intel | [Software Research Intern - PhD 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314?utm_source=Simplify&ref=Simplify) | Hillsboro, OR | 1mo |
 | Intel | [System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457?utm_source=Simplify&ref=Simplify) | Hillsboro, OR | 1mo |
+| Intel | [Software Research Intern - PhD 🎓](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314?utm_source=Simplify&ref=Simplify) | Hillsboro, OR | 1mo |
 | Inter Miami CF | [Business Intelligence Intern, Software Development](https://go.vansh.nyc/gl?utm_source=github-vansh-ouckah) | Miami, FL | 1mo |
 | Interclypse | [Junior Full Stack Software Engineer Intern](https://go.vansh.nyc/gn?utm_source=github-vansh-ouckah) | Annapolis Junction, MD | 1mo |
 | Intuit | [Marketing Intern - AI Tooling for Marketing Efficiency](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552?utm_source=Simplify&ref=Simplify) | SF Mountain View, CA | 1mo |
@@ -2681,7 +2693,6 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | KLA Corporation | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1?utm_source=Simplify&ref=Simplify) | Ann Arbor, MI | 1mo |
 | Keenfinity | [Software Test Automation Co-op](https://go.vansh.nyc/13W?utm_source=github-vansh-ouckah) | Fairport, NY | 1mo |
 | Keenfinity | [Embedded Firmware Engineer Co-op](https://go.vansh.nyc/17B?utm_source=github-vansh-ouckah) | Fairport, NY | 1mo |
-| Kensington | [Software Engineering Intern](https://go.vansh.nyc/aj?utm_source=github-vansh-ouckah) | Toronto, ON | 1mo |
 | Kensington | [Analytics Intern](https://go.vansh.nyc/9e?utm_source=github-vansh-ouckah) | Toronto, ON | 1mo |
 | Keysight Technologies | [R&D Software Engineer QA DevOps Intern 🇺🇸](https://go.vansh.nyc/Re?utm_source=github-vansh-ouckah) | Santa Rosa, CA, San Diego, CA | 1mo |
 | Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/Gc?utm_source=github-vansh-ouckah) | Calabasas, CA | 1mo |
@@ -2704,6 +2715,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | LSEG | [Finance Engineer Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Lawrence Livermore National Laboratory (LLNL) | [Power Systems Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/gj?utm_source=github-vansh-ouckah) | Livermore, CA | 1mo |
 | Lawrence Livermore National Laboratory (LLNL) | [Defense Science and Technology Intern](https://jobs.smartrecruiters.com/LLNL/3743990015740565?utm_source=Simplify&ref=Simplify) | Livermore, CA | 1mo |
+| Lawrence Livermore National Laboratory (LLNL) | [Power Systems Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/gj?utm_source=github-vansh-ouckah) | Livermore, CA | 1mo |
 | Lazard | [Quantitative Research Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
 | Leidos | [Systems Integration and Software Engineer Intern](https://go.vansh.nyc/1ns?utm_source=github-vansh-ouckah) | Atlantic City, NJ | 1mo |
 | Leonardo | [Software Engineer Placement Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282?utm_source=Simplify&ref=Simplify) | Basildon, UK | 30d |
@@ -2754,8 +2766,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Muon Space | [Electrical Engineer Intern](https://job-boards.greenhouse.io/muonspace/jobs/5255112007?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | Muon Space | [Software Engineering Intern, GNC](https://go.vansh.nyc/fU?utm_source=github-vansh-ouckah) | Mountain View, CA | 1mo |
 | Muon Space | [Flight Software Engineer Intern](https://go.vansh.nyc/E3?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
-| NBCUniversal | [Media Product Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | NBCUniversal | [Product Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
+| NBCUniversal | [Media Product Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | NCR Atleos | [Product Management Intern](https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1?utm_source=Simplify&ref=Simplify) | Dundee, UK | 1mo |
 | NVIDIA | [Systems Software Engineering Intern](https://go.vansh.nyc/Ro?utm_source=github-vansh-ouckah) | Santa Clara, CA | 1mo |
 | NVIDIA | [Deep Learning Computer Architecture Intern](https://go.vansh.nyc/Rn?utm_source=github-vansh-ouckah) | Santa Clara, CA | 1mo |
@@ -2780,6 +2792,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | POET | [Data Engineer Intern](https://go.vansh.nyc/JK?utm_source=github-vansh-ouckah) | Sioux Falls, SD | 1mo |
 | Pangram Labs | [AI Research Intern](https://go.vansh.nyc/1eR?utm_source=github-vansh-ouckah) | Brooklyn, NY | 1mo |
 | Papa John's | [Digital Development Intern](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 1mo |
+| Peraton | [Software Engineering Co-op](https://go.vansh.nyc/1o9?utm_source=github-vansh-ouckah) | San Diego, CA | 1mo |
 | Peraton | [Software Development Intern](https://go.vansh.nyc/1nx?utm_source=github-vansh-ouckah) | Topeka, KS | 1mo |
 | Peraton | [Mission Systems Software and Edge Computing Intern](https://go.vansh.nyc/1no?utm_source=github-vansh-ouckah) | United States | 1mo |
 | Peraton | [Software Developer Intern](https://peraton.jibeapply.com/jobs/172061?icims=1&utm_source=Simplify&ref=Simplify) | Topeka, KS | 1mo |
@@ -2793,6 +2806,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Point72 | [Data Research Fellowship](https://go.vansh.nyc/8m?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Point72 | [Fundamental Researcher Intern, Canvas](https://go.vansh.nyc/9l?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Point72 | [Software Engineer Intern](https://boards.greenhouse.io/point72/jobs/8885733002?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Point72 | [Data Research Fellowship](https://go.vansh.nyc/8m?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
+| Point72 | [Software Engineer Intern](https://go.vansh.nyc/9m?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | ProCogia | [LLM Research Intern](https://go.vansh.nyc/1tb?utm_source=github-vansh-ouckah) | Vancouver, Canada | 1mo |
 | Procter & Gamble | [R&D Intern - AI Research Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371?utm_source=Simplify&ref=Simplify) | Mason, OH | 1mo |
 | Procter & Gamble | [IT Technical Specialist Intern](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302?utm_source=Simplify&ref=Simplify) | Newcastle upon Tyne, UK | 1mo |
@@ -2821,6 +2836,10 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Radiance Technologies | [Modeling Engineer Intern - Analytics - Simulation Sciences](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 1mo |
 | Radiance Technologies | [Modeling Engineer Intern - Analytics, Simulation Sciences, Mass](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 1mo |
 | Radiance Technologies | [Modeling Engineer Intern - Analytics, Simulation Sciences, Mass](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 1mo |
+| Radiance Technologies | [Modeling Engineer Intern - Analytics, Simulation Sciences, Mass](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 1mo |
+| Radiance Technologies | [Modeling Engineer Intern - Analytics and Simulation Sciences](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 1mo |
+| Radiance Technologies | [Modeling Engineer Intern - Analytics - Simulation Sciences](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439?utm_source=Simplify&ref=Simplify) | Beavercreek, OH | 1mo |
+| Radiance Technologies | [Software Engineer Intern](https://go.vansh.nyc/Ju?utm_source=github-vansh-ouckah) | Dayton, OH | 1mo |
 | Realty Income | [Technology Intern](https://go.vansh.nyc/PY?utm_source=github-vansh-ouckah) | San Diego, CA | 1mo |
 | Red Ventures | [Launch Program Data Science Intern](https://go.vansh.nyc/1og?utm_source=github-vansh-ouckah) | Charlotte, NC | 1mo |
 | Revel | [Forward Deployed Engineer Intern, Software](https://go.vansh.nyc/1eT?utm_source=github-vansh-ouckah) | Los Angeles, CA, San Francisco, CA | 1mo |
@@ -2889,6 +2908,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Stryker | [Data Analytics Intern](https://go.vansh.nyc/J8?utm_source=github-vansh-ouckah) | Fort Wayne, IN | 1mo |
 | Susquehanna International Group | [Technology Co-op](https://go.vansh.nyc/9A?utm_source=github-vansh-ouckah) | Remote (US) | 1mo |
 | Susquehanna International Group | [Technical Business Analyst Co-op](https://go.vansh.nyc/a6?utm_source=github-vansh-ouckah) | Remote (US) | 1mo |
+| Susquehanna International Group | [Sell Side Research Rotational Program Intern](https://go.vansh.nyc/9p?utm_source=github-vansh-ouckah) | Remote (US) | 1mo |
 | Susquehanna International Group | [Business Analytics AI Co-op](https://go.vansh.nyc/a5?utm_source=github-vansh-ouckah) | Remote (US) | 1mo |
 | Susquehanna International Group | [Sell Side Research Rotational Program Intern](https://go.vansh.nyc/9p?utm_source=github-vansh-ouckah) | Remote (US) | 1mo |
 | Symbotic | [System Engineer Co-op](https://go.vansh.nyc/a8?utm_source=github-vansh-ouckah) | Brooksville, FL | 1mo |
@@ -2922,8 +2942,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent](https://go.vansh.nyc/Cu?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
 | Tower Research Capital | [Machine Learning Intern](https://go.vansh.nyc/9U?utm_source=github-vansh-ouckah) | Montreal, QC | 1mo |
 | Tradeweb | [Market Data Product Management Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Tradeweb | [Quantitative Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
 | Tradeweb | [Digital Assets Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301930?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Tradeweb | [Quantitative Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
 | TransMarket Group | [Junior Data Center/Desktop Engineer Intern](https://go.vansh.nyc/81?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
 | Two Sigma | [Hardware Engineering Intern](https://go.vansh.nyc/Jg?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Two Sigma | [Hardware Engineering Intern](https://twosigma.avature.net/careers/JobDetail/14289?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
@@ -2932,10 +2952,14 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Plano, TX | 1mo |
 | UL Solutions | [Product Management Intern](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625?utm_source=Simplify&ref=Simplify) | Northbrook, IL Chicago, IL | 1mo |
 | UL Solutions | [Data Science Intern](https://go.vansh.nyc/DO?utm_source=github-vansh-ouckah) | Northbrook, IL, Chicago, IL | 1mo |
+| UL Solutions | [Product Management Intern](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625?utm_source=Simplify&ref=Simplify) | Northbrook, IL Chicago, IL | 1mo |
 | Udig | [Software Engineer Intern](https://go.vansh.nyc/1t7?utm_source=github-vansh-ouckah) | Nashville, TN, Richmond, VA | 1mo |
 | Upstart | [Applied Scientist Intern](https://go.vansh.nyc/1m4?utm_source=github-vansh-ouckah) | Remote, United States | 1mo |
 | Vanguard | [College to Corporate Investment Systems Intern](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782?utm_source=Simplify&ref=Simplify) | Malvern, PA | 1mo |
 | Vanguard | [College to Corporate IT Intern, Application Development](https://go.vansh.nyc/1nK?utm_source=github-vansh-ouckah) | Malvern, PA | 1mo |
+| Vanguard | [IT Intern, Application Development](https://go.vansh.nyc/1nL?utm_source=github-vansh-ouckah) | Charlotte, NC | 1mo |
+| Vanguard | [IT Intern Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 1mo |
+| Vanguard | [College to Corporate Investment Systems Intern](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782?utm_source=Simplify&ref=Simplify) | Malvern, PA | 1mo |
 | Vanguard | [College to Corporate IT Intern - Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757?utm_source=Simplify&ref=Simplify) | Malvern, PA | 1mo |
 | Vanguard | [IT Intern, Application Development](https://go.vansh.nyc/1nL?utm_source=github-vansh-ouckah) | Charlotte, NC | 1mo |
 | Vanguard | [IT Intern Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781?utm_source=Simplify&ref=Simplify) | Charlotte, NC | 1mo |
@@ -2949,8 +2973,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Veterans United | [Software Engineer Intern](https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249?utm_source=Simplify&ref=Simplify) | Missouri | 1mo |
 | Veterans United Home Loans | [Software Engineer Intern](https://go.vansh.nyc/g4?utm_source=github-vansh-ouckah) | Remote, United States | 1mo |
 | Viget | [Project & Product Manager Intern 🛂](https://go.vansh.nyc/g9?utm_source=github-vansh-ouckah) | Boulder, CO | 1mo |
-| Voyager Technologies | [Software Engineering Intern 🇺🇸](https://go.vansh.nyc/fP?utm_source=github-vansh-ouckah) | Long Beach, CA | 1mo |
 | Voyager Technologies | [Software Engineer Intern](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009?utm_source=Simplify&ref=Simplify) | Long Beach, CA | 1mo |
+| Voyager Technologies | [Software Engineering Intern 🇺🇸](https://go.vansh.nyc/fP?utm_source=github-vansh-ouckah) | Long Beach, CA | 1mo |
 | W.R. Berkley | [Enterprise Architecture Co-op](https://go.vansh.nyc/ax?utm_source=github-vansh-ouckah) | Urbandale, IA | 1mo |
 | WTW | [Software Developer Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435?utm_source=Simplify&ref=Simplify) | Reigate, UK | 1mo |
 | Waabi | [Safety Methodologies Co-op](https://go.vansh.nyc/b5?utm_source=github-vansh-ouckah) | Toronto, ON, Canada, SF, Pittsburgh, PA | 1mo |
@@ -3191,9 +3215,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Capital de Recherche Tower | [Software Developer Intern](https://go.vansh.nyc/1t0?utm_source=github-vansh-ouckah) | Montreal, Canada | 2mo |
 | Charta Health | [Software Engineer Intern, FDE / Platform](https://go.vansh.nyc/1ex?utm_source=github-vansh-ouckah) | San Francisco, CA, New York, NY | 2mo |
 | CoVar | [Machine Learning Intern](https://go.vansh.nyc/1g3?utm_source=github-vansh-ouckah) | Durham, NC | 2mo |
-| Coinbase | [Software Engineer Intern](https://go.vansh.nyc/Mw?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
 | Coinbase | [Analytics Engineer Intern](https://go.vansh.nyc/Mt?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| Compeer Financial | [Engineering Intern](https://go.vansh.nyc/Ov?utm_source=github-vansh-ouckah) | Sun Prairie, WI, Mankato, MN, Bloomington, IL | 2mo |
+| Coinbase | [Software Engineer Intern](https://go.vansh.nyc/Mw?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
 | Compeer Financial | [Infrastructure Engineering Intern 🛂](https://go.vansh.nyc/Nd?utm_source=github-vansh-ouckah) | Lakeville, MN | 2mo |
 | Constellation Energy | [Information Technology Software Development Intern](https://go.vansh.nyc/MR?utm_source=github-vansh-ouckah) | Baltimore, MD | 2mo |
 | Copart | [QA Engineering Intern](https://go.vansh.nyc/6V?utm_source=github-vansh-ouckah) | Dallas, TX | 2mo |
@@ -3204,10 +3227,9 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Danaher Corporation | [IT Security Intern](https://go.vansh.nyc/N9?utm_source=github-vansh-ouckah) | Coralville, IA | 2mo |
 | Dayton Freight | [Software Developer Intern](https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job) | Dayton, OH | 60d |
 | Decagon | [Engineering Intern](https://go.vansh.nyc/Iz?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
-| Dell Technologies | [Hardware Engineering Intern, Infrastructure Solutions Group](https://go.vansh.nyc/In?utm_source=github-vansh-ouckah) | Round Rock, TX, Hopkinton, MA | 2mo |
 | Dell Technologies | [AI Solutions Intern, Product & Content Management](https://go.vansh.nyc/Io?utm_source=github-vansh-ouckah) | Round Rock, TX | 2mo |
+| Dell Technologies | [Hardware Engineering Intern, Infrastructure Solutions Group](https://go.vansh.nyc/In?utm_source=github-vansh-ouckah) | Round Rock, TX, Hopkinton, MA | 2mo |
 | Domino Data Lab | [Forward Deployed Engineer Intern](https://go.vansh.nyc/Qk?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
-| Dynamic Catholic | [Software Developer Intern, Commerce Cloud](https://go.vansh.nyc/1eB?utm_source=github-vansh-ouckah) | Erlanger, KY | 2mo |
 | Dynamic Catholic | [Front-End UX Intern 🛂](https://go.vansh.nyc/1eA?utm_source=github-vansh-ouckah) | Erlanger, KY | 2mo |
 | EHC | [Data Management Intern](https://go.vansh.nyc/Q3?utm_source=github-vansh-ouckah) | Birmingham, AL | 2mo |
 | Emerson Electric | [Software Engineer Co-op](https://go.vansh.nyc/MM?utm_source=github-vansh-ouckah) | Eden Prairie, MN | 2mo |
@@ -3215,8 +3237,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Exa | [Software Engineer Intern](https://go.vansh.nyc/7q?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
 | F&G | [IT Software Engineer Intern](https://go.vansh.nyc/1sU?utm_source=github-vansh-ouckah) | Des Moines, IA | 2mo |
 | Freeform | [Software Engineering Intern](https://go.vansh.nyc/7o?utm_source=github-vansh-ouckah) | Los Angeles, CA | 2mo |
-| Garmin | [Software Engineer Intern](https://go.vansh.nyc/Lo?utm_source=github-vansh-ouckah) | Chandler, AZ | 2mo |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/Oq?utm_source=github-vansh-ouckah) | Olathe, KS | 2mo |
+| Garmin | [Software Engineer Intern](https://go.vansh.nyc/Lo?utm_source=github-vansh-ouckah) | Chandler, AZ | 2mo |
 | Gecko Robotics | [Embedded Software Engineer Intern, RoboSPLAT Field Infra](https://go.vansh.nyc/It?utm_source=github-vansh-ouckah) | Pittsburgh, PA | 2mo |
 | Gemini | [Software Engineering Intern - Winter 2027](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272) | New York City, NY | 60d |
 | Google | [Student Researcher Intern](https://go.vansh.nyc/15I?utm_source=github-vansh-ouckah) | Waterloo, Canada, Toronto, Canada | 2mo |
@@ -3229,9 +3251,9 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Hewlett Packard Enterprise | [Software Engineer Intern](https://go.vansh.nyc/OA?utm_source=github-vansh-ouckah) | Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA | 2mo |
 | Hoffman Construction | [Data Analyst Intern](https://go.vansh.nyc/1eC?utm_source=github-vansh-ouckah) | Amarillo, TX | 2mo |
 | Honeywell | [Embedded Engineer Intern](https://go.vansh.nyc/Ou?utm_source=github-vansh-ouckah) | United States | 2mo |
+| Honeywell Aerospace | [Software Engineering Intern 🛂](https://go.vansh.nyc/1wq?utm_source=github-vansh-ouckah) | United States | 2mo |
 | Honeywell Aerospace | [Software AI Intern 🛂](https://go.vansh.nyc/1wr?utm_source=github-vansh-ouckah) | United States | 2mo |
 | Honeywell Aerospace | [Embedded Engineering Intern 🛂](https://go.vansh.nyc/1ws?utm_source=github-vansh-ouckah) | United States | 2mo |
-| Honeywell Aerospace | [Software Engineering Intern 🛂](https://go.vansh.nyc/1wq?utm_source=github-vansh-ouckah) | United States | 2mo |
 | Huntington Ingalls Industries | [Computer Engineering Intern](https://go.vansh.nyc/Iq?utm_source=github-vansh-ouckah) | Pascagoula, MS | 2mo |
 | Hyphenate | [Software Engineering Intern](https://go.vansh.nyc/17t?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | IAT Insurance Group | [Data & Integration Intern](https://go.vansh.nyc/Lt?utm_source=github-vansh-ouckah) | Milwaukee, WI | 2mo |
@@ -3252,6 +3274,9 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Lyft | [Software Engineer Intern, Backend](https://go.vansh.nyc/Qn?utm_source=github-vansh-ouckah) | Montreal, Canada | 2mo |
 | Lyft | [Software Engineer Intern, Backend](https://go.vansh.nyc/Qm?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
 | Lyft | [Data Engineer Intern](https://go.vansh.nyc/Ql?utm_source=github-vansh-ouckah) | Toronto, Canada | 2mo |
+| Lyft | [Software Engineer Intern, Backend](https://go.vansh.nyc/Qm?utm_source=github-vansh-ouckah) | San Francisco, CA | 2mo |
+| Lyft | [Software Engineer Intern, Backend](https://go.vansh.nyc/Qn?utm_source=github-vansh-ouckah) | Montreal, Canada | 2mo |
+| Lyft | [Software Engineer Intern, Machine Learning](https://go.vansh.nyc/Qo?utm_source=github-vansh-ouckah) | Toronto, Canada | 2mo |
 | M3 USA | [AI Engineering Intern (Remote)](https://go.vansh.nyc/1tm?utm_source=github-vansh-ouckah) | Remote, United States | 2mo |
 | Marvell | [Functional Validation Intern](https://go.vansh.nyc/Mb?utm_source=github-vansh-ouckah) | Santa Clara, CA, Boise, ID, Westborough, MA | 2mo |
 | Marvell | [Design for Test Intern](https://go.vansh.nyc/Ma?utm_source=github-vansh-ouckah) | Morrisville, NC, Santa Clara, CA, Boise, ID, Westborough, MA | 2mo |
@@ -3262,6 +3287,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Microsoft | [Security Assurance Intern](https://go.vansh.nyc/15H?utm_source=github-vansh-ouckah) | Redmond, WA | 2mo |
 | Millennium | [Applied AI Engineer Intern](https://go.vansh.nyc/7h?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | Millennium | [Quantitative Developer Intern](https://go.vansh.nyc/7g?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
+| Millennium | [Applied AI Engineer Intern](https://go.vansh.nyc/7h?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | Millennium | [Applied AI Engineer Intern](https://go.vansh.nyc/7f?utm_source=github-vansh-ouckah) | Miami, FL | 2mo |
 | Motorola | [FPGA Design Engineering Intern](https://go.vansh.nyc/Mq?utm_source=github-vansh-ouckah) | Schaumburg, IL | 2mo |
 | National Information Solutions Cooperative | [Software Development Intern](https://go.vansh.nyc/M8?utm_source=github-vansh-ouckah) | Lake St Louis, MO | 2mo |
@@ -3650,14 +3676,15 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Akuna Capital | [Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)](https://akunacapital.com/careers/job/8018847/) | Chicago, IL | 4mo |
 | Amazon | [Operations Finance Rotational Program Intern 🛂](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | Seattle, WA / Arlington, VA | 4mo |
 | Anduril | [Software Engineer Intern](https://go.vansh.nyc/3h?utm_source=github-vansh-ouckah) | Atlanta, GA, Boston, MA, Costa Mesa, CA, Irvine, CA, Reston, VA, Seattle, WA | 4mo |
-| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 4mo |
 | Arrowstreet Capital | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Boston, MA | 4mo |
+| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 4mo |
 | BAE Systems | [Software Engineering Intern I (Summer 2027) 🇺🇸](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) | Nashua, NH | 4mo |
 | Bank of America | [Quantitative Data Analyst Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | multiple US | 4mo |
 | Bank of America | [Global Technology Summer Analyst, Cybersecurity Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations) | multiple US | 4mo |
 | Bank of America | [Global Technology Summer Analyst, Business Analyst 🛂](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | multiple US | 4mo |
 | ByteDance | [Student Researcher, Vision Foundation Model (Seed)](https://joinbytedance.com/search/7623544831999346997) | San Jose, CA | 4mo |
 | ByteDance | [Student Researcher, Multimodal Interaction & World Model (Seed)](https://joinbytedance.com/search/7623548747208739077) | San Jose, CA | 4mo |
+| ByteDance | [Student Researcher, Vision Foundation Model (Seed)](https://joinbytedance.com/search/7623544831999346997) | San Jose, CA | 4mo |
 | CTGT | [Software Engineering Intern / Research Intern, Interpretability (Summer 2027)](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | San Francisco, CA | 4mo |
 | Capital One | [Product Development Internship Program (Summer 2027)](https://www.capitalonecareers.com/job/-/-/234/97421687312) | McLean, VA / Plano, TX | 4mo |
 | Chicago Trading Company | [Quant Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | 4mo |
@@ -3667,8 +3694,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Databricks | [Product Management Intern (Summer 2027)](https://job-boards.greenhouse.io/databricks/jobs/6883068002) | San Francisco, CA | 4mo |
 | Dedalus Labs | [Systems Engineer / Product Manager Intern (Summer 2027)](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) | San Francisco, CA | 4mo |
 | Delta Air Lines | [Reservations Co-op (Spring 2027, data analytics / process improvement)](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | Atlanta, GA | 4mo |
-| Five Rings | [Software Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York, NY | 4mo |
 | Five Rings | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York, NY | 4mo |
+| Five Rings | [Software Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York, NY | 4mo |
 | Flow Traders | [Quantitative Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | New York, NY | 4mo |
 | GE Appliances | [Software Engineering Co-op (Spring 2027)](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | Louisville, KY | 4mo |
 | GeoComply | [Browser Security Engineer Intern](https://go.vansh.nyc/QA?utm_source=github-vansh-ouckah) | Vancouver, Canada | 4mo |
@@ -3678,8 +3705,10 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | IMC Trading | [Hardware Engineer Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Chicago, IL | 4mo |
 | IMC Trading | [Quantitative Trader Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | 4mo |
 | IMC Trading | [Quantitative Research Intern (Summer 2027, BS / MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | 4mo |
+| IMC Trading | [Quantitative Trader Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | 4mo |
 | IMC Trading | [Software Engineer Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Chicago, IL | 4mo |
 | JPMorganChase | [Corporate Analyst Development Program Summer Analyst (2027) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) | New York, NY (multiple US) | 4mo |
+| JPMorganChase | [Markets Summer Analyst (2027, Sales / Trading / Structuring / Digital Markets) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | New York, NY (multiple US) | 4mo |
 | Jump Trading | [Quantitative Trader Intern](https://go.vansh.nyc/3k?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 4mo |
 | Jump Trading | [Campus Systems Engineer Intern](https://go.vansh.nyc/3t?utm_source=github-vansh-ouckah) | Chicago, IL | 4mo |
 | Jump Trading Group | [Campus UI Software Engineer Intern](https://go.vansh.nyc/3m?utm_source=github-vansh-ouckah) | Chicago, IL | 4mo |
@@ -3707,7 +3736,6 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Rippling | [Software Engineer Intern, Backend / Full Stack / ML (Winter 2027)](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | San Francisco, CA / New York, NY / Seattle, WA | 4mo |
 | Second Order Effects | [Electrical Engineering Intern (Summer 2027)](https://jobs.gem.com/soeffects/am9icG9zdDqLIuZagE8SU-HqhGf7TGYo) | El Segundo, CA / Redmond, WA | 4mo |
 | Serval | [Software Engineer Intern](https://go.vansh.nyc/1kU?utm_source=github-vansh-ouckah) | San Francisco, CA | 4mo |
-| Solar Turbines (Caterpillar) | [IT Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | San Diego, CA | 4mo |
 | Solar Turbines (Caterpillar) | [Business Analyst Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) | San Diego, CA | 4mo |
 | Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 4mo |
 | Susquehanna | [Operations Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10916) | Bala Cynwyd, PA | 4mo |
@@ -3745,6 +3773,7 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | Apple | [Hardware Technologies Engineering Intern](https://go.vansh.nyc/1tk?utm_source=github-vansh-ouckah) | United States | 6mo |
 | D. E. Shaw | [Quantitative Analyst Intern](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY | 6mo |
 | D. E. Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY | 6mo |
+| D. E. Shaw | [Quantitative Analyst Intern](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY | 6mo |
 | D. E. Shaw | [Quantitative Analyst Intern (PhD)](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY | 6mo |
 | DimeHealth AI | [Forward Deployed Engineering Intern](https://go.vansh.nyc/2r?utm_source=github-vansh-ouckah) | New York, NY | 6mo |
 | H&CO | [Software Development Intern](https://go.vansh.nyc/1K?utm_source=github-vansh-ouckah) | Coral Gables, FL | 6mo |
@@ -3770,6 +3799,8 @@ When I was in college (aka literally just a month ago) and in the horrible trenc
 | TikTok | [Applied Scientist Intern, Monetization GenAI (PhD, 2027 Start)](https://lifeattiktok.com/search/7631062649025857797) | San Jose, CA | 7mo |
 | TikTok | [Research Scientist Intern, E-commerce Recommendation LLM (PhD, 2027 Start)](https://lifeattiktok.com/search/7629187524074342709) | San Jose, CA / Seattle, WA | 7mo |
 | TikTok | [Applied Scientist Intern, Monetization Technology (PhD, 2027 Start)](https://lifeattiktok.com/search/7629248119245261061) | San Jose, CA | 7mo |
+| TikTok | [Applied Scientist Intern, Monetization GenAI (PhD, 2027 Start)](https://lifeattiktok.com/search/7631062649025857797) | San Jose, CA | 7mo |
+| TikTok | [Applied Scientist Intern, Business Integrity (PhD, 2027 Start)](https://lifeattiktok.com/search/7631063087262419205) | San Jose, CA | 7mo |
 | Colonist | [Product Developer Intern](https://go.vansh.nyc/1ek?utm_source=github-vansh-ouckah) | Remote, United States, Canada | 9mo |
 | Mesh Optical Technologies | [Associate Software Engineer Co-op](https://go.vansh.nyc/BQ?utm_source=github-vansh-ouckah) | Gardena, CA | 9mo |
 | BlackRock | [Summer Internship Program, AMERS (all tracks)](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | New York, NY (multiple US) | 10mo |
