@@ -1,4 +1,4 @@
-# 📊 Data Science & Analytics New Grad Roles
+# Data Science & Analytics New Grad Roles
 
 > 🔙 [Back to All New Grad Roles](../../NEWGRAD.md)
 
@@ -28,15 +28,15 @@ Total Listings: **34**
 | Goldbelt | [Junior Data Analyst](https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Falls Church, VA | 1mo |
 | ICF International | [Junior Data Scientist](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453?utm_source=Simplify&ref=Simplify) | Remote in USA | 1mo |
 | Integration Innovation (i3) | [Data Analyst - Junior-Associate](https://i3-corps.jibeapply.com/jobs/5307?icims=1&utm_source=Simplify&ref=Simplify) | Orlando, FL Huntsville, AL | 1mo |
-| Medpace | [Junior Business Intelligence Analyst](https://careers.medpace.com/jobs/12986?icims=1&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 1mo |
 | Medpace | [Junior Business Intelligence Analyst](https://careers.medpace.com/jobs/13058?icims=1&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 1mo |
+| Medpace | [Junior Business Intelligence Analyst](https://careers.medpace.com/jobs/12986?icims=1&utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 1mo |
 | Pinterest | [Master's University Graduate Data Scientist 🎓](https://www.pinterestcareers.com/jobs/?gh_jid=8140389&utm_source=Simplify&ref=Simplify) | 4 locationsPalo Alto, CA Seattle, WA SF NYC | 1mo |
 | ID.me | [Data Scientist New Grad 🎓](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Data Scientist New Grad - Computer Scientist - Decision Systems 🎓](https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Data Scientist/Engineer New Grad - Analytic Capabilities 🎓](https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Sensor Systems/Data Analytics New Grad](https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems 🎓](https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Data Analyst New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Sensor Systems/Data Analytics New Grad](https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Data Scientist New Grad - Computer Scientist - Decision Systems 🎓](https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems 🎓](https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | KBR | [Junior Data Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=Simplify&ref=Simplify) | Chantilly, VA | 2mo |
 | THG Ingenuity | [Graduate / Junior Data Scientist](https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101?utm_source=Simplify&ref=Simplify) | Manchester, UK | 2mo |
 | WSP | [Junior Geoscientist / Geochemist / Data Scientist](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94867?utm_source=Simplify&ref=Simplify) | 4 locationsCalgary, AB, Canada Edmonton, AB, Canada Whitehorse, YT, Canada Vancouver, BC, Canada | 2mo |

@@ -213,10 +213,10 @@ type categoryTrack struct {
 }
 
 var coreTracks = []categoryTrack{
-	{key: "SWE", title: "💻 Software Engineering", filename: "SWE.md"},
-	{key: "Quant", title: "📈 Quantitative Finance", filename: "QUANT.md"},
-	{key: "AI_ML", title: "🤖 AI & Machine Learning", filename: "AI_ML.md"},
-	{key: "Data", title: "📊 Data Science & Analytics", filename: "DATA.md"},
+	{key: "SWE", title: "Software Engineering", filename: "SWE.md"},
+	{key: "Quant", title: "Quantitative Finance", filename: "QUANT.md"},
+	{key: "AI_ML", title: "AI & Machine Learning", filename: "AI_ML.md"},
+	{key: "Data", title: "Data Science & Analytics", filename: "DATA.md"},
 }
 
 func writeTrackFiles(jobs []JobListing, subfolder, parentDoc, label string) {
@@ -281,7 +281,7 @@ func renderMainMarkdown(jobs []JobListing, isNewGrad bool) string {
 		sb.WriteString("> 📍 **Browsing: 💼 Internships** &nbsp;|&nbsp; 🔄 **Switch to: [🎓 New Grad Listings](NEWGRAD.md)**\n\n")
 	}
 
-	sb.WriteString("### 🎯 Filter by Track\n")
+	sb.WriteString("### Filter by Track\n")
 	for _, track := range coreTracks {
 		count := len(categoryMap[track.key])
 		sb.WriteString(fmt.Sprintf("- [%s (%d)](tracks/%s/%s)\n", track.title, count, subfolder, track.filename))

@@ -1,8 +1,8 @@
-# 📈 Quantitative Finance Internships
+# Quantitative Finance Internships
 
 > 🔙 [Back to All Internships](../../README.md)
 
-Total Listings: **110**
+Total Listings: **111**
 
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
@@ -29,22 +29,23 @@ Total Listings: **110**
 | Synthesis | [Quantitative Research Intern](https://apply.workable.com/synthesisim/j/C2932F1DE5/apply?utm_source=Simplify&ref=Simplify) | London, UK | 19d |
 | Bank of Montreal | [Quantitative Trading Analyst Co-op](https://go.vansh.nyc/Z0?utm_source=github-vansh-ouckah) | Toronto, Canada | 20d |
 | Infleqtion | [Quantum Software Intern](https://go.vansh.nyc/Xz?utm_source=github-vansh-ouckah) | Chicago, IL | 20d |
+| Infleqtion | [Summer 2027 Internship - Quantum Software - QSW](https://apply.workable.com/coldquanta/j/EB77DE8198/) | Chicago, IL | 20d |
 | Schonfeld | [DMFI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8324611?utm_source=Simplify&ref=Simplify) | NYC | 20d |
 | Amazon | [PhD Economics Intern - Finance, Macroeconomics, And Forecasting 🎓](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027?utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | 21d |
 | Arrowstreet Capital | [Investment Processes Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2027_R1557?utm_source=Simplify&ref=Simplify) | Boston, MA | 21d |
 | Federal Home Loan Bank of Indianapolis | [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 22d |
 | JP Morgan Chase | [Quant AI Associate Intern 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 22d |
-| Amazon | [PhD Economics Intern - Reduced Form Causal Inference 🎓](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027?utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | 25d |
 | Amazon | [Economics Intern - Structural IO 🎓](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027?utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | 25d |
+| Amazon | [PhD Economics Intern - Reduced Form Causal Inference 🎓](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027?utm_source=Simplify&ref=Simplify) | 4 locationsSeattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | 25d |
 | Glencore | [Industrial Placement Intern - Quantitative Research - Analytics](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101?utm_source=Simplify&ref=Simplify) | London, UK | 25d |
+| Intercontinental Exchange | [Quantitative Financial Analytics Intern 🎓](https://ice.jibeapply.com/jobs/14055?icims=1&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
+| Intercontinental Exchange | [Quantitative Engineer Intern 🎓](https://careers-ice.icims.com/jobs/14053/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
+| Intercontinental Exchange | [Data Science Intern](https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | NYC | 25d |
 | Intercontinental Exchange | [Quantitative Engineer Intern 🎓](https://ice.jibeapply.com/jobs/14053?icims=1&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
 | Intercontinental Exchange | [Financial Engineering Intern 🎓](https://careers-ice.icims.com/jobs/14059/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
 | Intercontinental Exchange | [Quantitative Research Intern 🎓](https://careers-ice.icims.com/jobs/14057/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
-| Intercontinental Exchange | [Quantitative Financial Analytics Intern 🎓](https://careers-ice.icims.com/jobs/14055/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
-| Intercontinental Exchange | [Quantitative Engineer Intern 🎓](https://careers-ice.icims.com/jobs/14053/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
-| Intercontinental Exchange | [Data Science Intern](https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | NYC | 25d |
-| Intercontinental Exchange | [Quantitative Financial Analytics Intern 🎓](https://ice.jibeapply.com/jobs/14055?icims=1&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
 | Intercontinental Exchange | [Quantitative Research Intern 🎓](https://ice.jibeapply.com/jobs/14057?icims=1&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
+| Intercontinental Exchange | [Quantitative Financial Analytics Intern 🎓](https://careers-ice.icims.com/jobs/14055/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
 | Constellation Energy | [Structuring & Portfolio Management Intern](https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | San Diego, CA | 26d |
 | InfiniteQuant | [Quantitative Researcher Intern](https://go.vansh.nyc/eP?utm_source=github-vansh-ouckah) | New York, NY | 26d |
 | Graviton | [Quantitative Researcher Intern 🎓](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002?utm_source=Simplify&ref=Simplify) | London, UK Amsterdam, Netherlands Singapore | 29d |
@@ -55,11 +56,11 @@ Total Listings: **110**
 | Brevan Howard | [Systematic Trading Intern - Systematic Trading](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Capstone Investment Advisors | [Risk Tech Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002?utm_source=Simplify&ref=Simplify) | London, UK NYC | 1mo |
 | Capstone Investment Advisors | [Quant Intern 🎓](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
-| JP Morgan Chase | [Quantitative Research Summer Analyst Internship - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | JP Morgan Chase | [Consumer & Community Banking Internship - Risk Modeling Associate Program 🎓](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061?utm_source=Simplify&ref=Simplify) | 5 locationsPalo Alto, CA Plano, TX Jersey City, NJ Columbus, OH Wilmington, DE | 1mo |
+| JP Morgan Chase | [Quantitative Research Summer Analyst Internship - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Jain Global | [Quant Research Intern - Systematic Trading 🎓](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
-| Jain Global | [Quant Research Intern 🎓](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | Jain Global | [Quant Modelling Intern 🎓](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
+| Jain Global | [Quant Research Intern 🎓](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | LSEG | [Quantitative Services Intern 🎓](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2?utm_source=Simplify&ref=Simplify) | Boston, MA | 1mo |
 | LSEG | [Finance Engineer Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269?utm_source=Simplify&ref=Simplify) | London, UK | 1mo |
 | LSEG | [Finance Engineer Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268?utm_source=Simplify&ref=Simplify) | NYC | 1mo |
@@ -78,16 +79,16 @@ Total Listings: **110**
 | Akuna Capital | [Quantitative Research Intern 🇺🇸](https://go.vansh.nyc/4z?utm_source=github-vansh-ouckah) | Chicago | 3mo |
 | Belvedere Trading | [Quantitative Trading Intern](https://go.vansh.nyc/6M?utm_source=github-vansh-ouckah) | Chicago, IL | 3mo |
 | Chicago Trading Company | [Quant Trading Intern](https://go.vansh.nyc/5a?utm_source=github-vansh-ouckah) | Chicago, IL | 3mo |
-| DRW | [Quantitative Research Intern](https://go.vansh.nyc/5q?utm_source=github-vansh-ouckah) | Chicago, IL, New York City, NY | 3mo |
 | DRW | [Quantitative Trading Analyst Intern](https://go.vansh.nyc/5r?utm_source=github-vansh-ouckah) | Chicago, IL | 3mo |
+| DRW | [Quantitative Research Intern](https://go.vansh.nyc/5q?utm_source=github-vansh-ouckah) | Chicago, IL, New York City, NY | 3mo |
 | Jane Street | [Sales and Trading Intern](https://go.vansh.nyc/47?utm_source=github-vansh-ouckah) | New York, NY | 3mo |
 | Jane Street | [Trading Desk Operations Engineer Intern](https://go.vansh.nyc/49?utm_source=github-vansh-ouckah) | New York, NY | 3mo |
 | Radix Trading | [Quantitative Technologist Intern, C++](https://go.vansh.nyc/3R?utm_source=github-vansh-ouckah) | Chicago, IL | 3mo |
 | Stevens Capital Management | [Quantitative Research Analyst Internship](https://go.vansh.nyc/4V?utm_source=github-vansh-ouckah) | Radnor, PA | 3mo |
 | Dime Line Trading | [Quantitative Developer Internship - 2027](https://www.dltrading.io/careers?gh_jid=7814660003) | Chicago, IL | 116d |
 | Anthelion Capital | [Quant Developer / Quant Research Intern - 2026/2027](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | New York City, NY | 117d |
-| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 4mo |
 | Arrowstreet Capital | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Boston, MA | 4mo |
+| Arrowstreet Capital | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | 4mo |
 | Bank of America | [Quantitative Data Analyst Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | multiple US | 4mo |
 | Chicago Trading Company | [Quant Trading Intern (Summer 2027)](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | 4mo |
 | Five Rings | [Quantitative Trader Intern (Summer 2027)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York, NY | 4mo |
@@ -95,8 +96,8 @@ Total Listings: **110**
 | IMC Trading | [Quantitative Trader Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | 4mo |
 | IMC Trading | [Quantitative Research Intern (Summer 2027, BS / MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | 4mo |
 | Jump Trading | [Quantitative Trader Intern](https://go.vansh.nyc/3k?utm_source=github-vansh-ouckah) | Chicago, IL, New York, NY | 4mo |
-| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) | Chicago, IL | 4mo |
 | Optiver | [Quantitative Research Intern (PhD, Chicago)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/) | Chicago, IL | 4mo |
+| Optiver | [Quantitative Intern](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) | Chicago, IL | 4mo |
 | Optiver | [Quantitative Research Intern (PhD, Austin)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/) | Austin, TX | 4mo |
 | Point72 | [Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/point72/jobs/7297642002) | New York, NY | 4mo |
 | Susquehanna | [Quantitative Systematic Trading Intern (PhD, Summer 2027)](https://careers.sig.com/jobs/10822) | New York, NY | 4mo |
@@ -108,16 +109,16 @@ Total Listings: **110**
 | Virtu Financial | [Quantitative Researcher Intern (2027, Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York, NY | 4mo |
 | JPMorganChase | [Markets Summer Analyst (2027, Sales / Trading / Structuring / Digital Markets) 🛂](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | New York, NY (multiple US) | 5mo |
 | SCM | [Quantitative Research Analyst Intern](https://go.vansh.nyc/17s?utm_source=github-vansh-ouckah) | Radnor, PA | 5mo |
-| Voloridge Investment Management | [Quantitative Developer Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | 5mo |
 | Voloridge Investment Management | [Quantitative Research Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | 5mo |
+| Voloridge Investment Management | [Quantitative Developer Intern (2027)](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | 5mo |
 | D. E. Shaw | [Quantitative Analyst Intern](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY | 6mo |
 | D. E. Shaw | [Quantitative Analyst Intern (PhD)](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY | 6mo |
 | Aquatic Capital | [Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | Chicago, IL | 7mo |
-| Point72 | [Quantitative Researcher Intern](https://go.vansh.nyc/1f?utm_source=github-vansh-ouckah) | New York, NY | 7mo |
 | Point72 | [Quantitative Developer Intern](https://go.vansh.nyc/1e?utm_source=github-vansh-ouckah) | New York, NY | 7mo |
+| Point72 | [Quantitative Researcher Intern](https://go.vansh.nyc/1f?utm_source=github-vansh-ouckah) | New York, NY | 7mo |
 | Scientech Research Capital | [Quantitative Developer Intern](https://go.vansh.nyc/Qy?utm_source=github-vansh-ouckah) | United States | 20mo |
 | Citi | [Markets Quantitative Analysis Summer Analyst](https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472) | New York, NY | N/A |
 | Cubist Systematic Strategies | [Quantitative Developer Intern](https://job-boards.greenhouse.io/point72/jobs/7297613002) | New York, NY | N/A |
-| Susquehanna | [Trading System Engineering Intern 🇺🇸](https://careers.sig.com/jobs/10837) | Bala Cynwyd, PA | N/A |
 | Susquehanna | [Quantitative Strategy Developer Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10838) | Bala Cynwyd, PA | N/A |
+| Susquehanna | [Trading System Engineering Intern 🇺🇸](https://careers.sig.com/jobs/10837) | Bala Cynwyd, PA | N/A |
 | Walleye Capital | [Quant Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | N/A |
