@@ -2,21 +2,22 @@
 
 > 🔙 [Back to All Internships](../../README.md)
 
-Total Listings: **325**
+Total Listings: **326**
 
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
 | Amgen | [Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027)](https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027) | United States - Remote | 0d |
 | Attain Partners | [Data Analytics Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=Simplify&ref=Simplify) | McLean, VA | 0d |
-| Booz Allen Hamilton | [University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253697?s=gh-internships-2027) | McLean, VA | 0d |
 | Booz Allen Hamilton | [University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253698?s=gh-internships-2027) | Fort Walton Beach, FL | 0d |
+| Booz Allen Hamilton | [University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253697?s=gh-internships-2027) | McLean, VA | 0d |
 | Bose | [Data Science Co-Op (NLP & GenAI)](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29251?s=gh-internships-2027) | MA Framingham | 0d |
 | Boston Scientific | [R&D Research Data Science Intern](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813968810?s=gh-internships-2027) | United States N/A | 0d |
 | Nelnet | [Intern - Data Analytics](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23367?s=gh-internships-2027) | Lincoln, NE | 0d |
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 0d |
-| Publicis Groupe | [PhD Data Science Intern 🎓](https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | 5 locationsBoston, MA Chicago, IL Westminster, CO Irving, TX Atlanta, GA | 0d |
 | Publicis Groupe | [PhD Data Science Intern 🎓](https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | 5 locationsBoston, MA Chicago, IL Westminster, CO Irving, TX Atlanta, GA | 0d |
+| Publicis Groupe | [PhD Data Science Intern 🎓](https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | 5 locationsBoston, MA Chicago, IL Westminster, CO Irving, TX Atlanta, GA | 0d |
 | S&P Global | [Summer Intern, Client Services, Equity Analytics Products](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027) | New York, NY | 0d |
+| T-Mobile | [Summer 2027 Business Intelligence Analyst Internship](https://zapply.jobs/l/d/workday-tmobile-external-REQ382847?s=gh-internships-2027) | New York, New York | 0d |
 
 <!-- DerexXD 0d divider -->
 
@@ -38,8 +39,8 @@ Total Listings: **325**
 | Micron | [Intern - Data Science, SMAI](https://zapply.jobs/l/d/eightfold-micron-45530213?s=gh-internships-2027) | Boise, Idaho, United States of... | 2d |
 | Micron | [Intern - Segment Marketing Data Analyst](https://zapply.jobs/l/d/eightfold-micron-45530040?s=gh-internships-2027) | San Jose, California, United... | 2d |
 | Fresenius Medical Care | [Analytics and AI Business Analyst Co-op](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277519?s=gh-internships-2027) | Lawrence, MA, USA | 3d |
-| ASML | [EUV Data Science and Analytics Intern](https://go.vansh.nyc/1yZ?utm_source=github-vansh-ouckah) | Austin, TX | 4d |
 | ASML | [Internship - EUV Data Science and Analytics](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357717?s=gh-internships-2027) | Austin, TX, USA | 4d |
+| ASML | [EUV Data Science and Analytics Intern](https://go.vansh.nyc/1yZ?utm_source=github-vansh-ouckah) | Austin, TX | 4d |
 | Ascension | [Intern Managed Care Analytics](https://zapply.jobs/l/d/phenom-ascension-15636?s=gh-internships-2027) | Saint Louis, MO | 4d |
 | Carrier Global | [Data Analytics Intern - Summer](https://zapply.jobs/l/d/workday-carrier-jobs-30220000?s=gh-internships-2027) | CAI23: Carrier-Indianapolis,... | 4d |
 | Cigna | [Healthcare Analytics Summer Intern - Start Date: May 24, 2027](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009857?s=gh-internships-2027) | Morris Plains, NJ | 4d |
@@ -58,8 +59,8 @@ Total Listings: **325**
 | Entegris | [Data Engineering Intern - Summer 2027](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15839?s=gh-internships-2027) | Aurora, IL | 5d |
 | Fresenius Medical Care | [Agentic AI Analytics Co-op](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277797?s=gh-internships-2027) | Lawrence, MA, USA | 5d |
 | Medpace | [Data Engineer Intern](https://go.vansh.nyc/1wk?utm_source=github-vansh-ouckah) | Cincinnati, OH | 5d |
-| Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj?utm_source=github-vansh-ouckah) | Redmond, WA | 5d |
 | Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) | Redmond, WA | 5d |
+| Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj?utm_source=github-vansh-ouckah) | Redmond, WA | 5d |
 | Nexus Cognitive Technologies | [Data Engineer Intern](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 5d |
 | Pinterest | [Sales Analytics Intern 2027 (USA)](https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027) | San Francisco, CA, US | 5d |
 | Seaspan | [Data Engineering Intern](https://go.vansh.nyc/1zc?utm_source=github-vansh-ouckah) | North Vancouver, Canada | 5d |
@@ -72,14 +73,14 @@ Total Listings: **325**
 | Vertex Pharmaceuticals | [Data Analytics Intern - OSD Process Data Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312?utm_source=Simplify&ref=Simplify) | Boston, MA | 5d |
 | Zoox | [Data Scientist Intern \[Summer 2027\]](https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027) | Foster City, CA | 5d |
 | ASML | [Data Scientist Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462?utm_source=Simplify&ref=Simplify) | Wilton, CT | 6d |
-| Airbnb | [Advanced Analytics Intern 🎓](https://careers.airbnb.com/positions/8380007?gh_jid=8380007&utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
 | Airbnb | [Advanced Analytics Intern](https://zapply.jobs/l/d/greenhouse-airbnb-8380007?s=gh-internships-2027) | United States | 6d |
-| Bloom Energy | [RMCC Data Science Intern](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25362?s=gh-internships-2027) | San Jose, California | 6d |
-| Bloom Energy | [Data Science Intern](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25360?s=gh-internships-2027) | San Jose, California | 6d |
+| Airbnb | [Advanced Analytics Intern 🎓](https://careers.airbnb.com/positions/8380007?gh_jid=8380007&utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
 | Bloom Energy | [Data Science Intern](https://go.vansh.nyc/1vm?utm_source=github-vansh-ouckah) | San Jose, CA | 6d |
-| Capital Power | [Data Science Intern](https://go.vansh.nyc/1y1?utm_source=github-vansh-ouckah) | Edmonton, Canada | 6d |
+| Bloom Energy | [Data Science Intern](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25360?s=gh-internships-2027) | San Jose, California | 6d |
+| Bloom Energy | [RMCC Data Science Intern](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25362?s=gh-internships-2027) | San Jose, California | 6d |
 | Capital Power | [Summer Student Intern - Data Analytics](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222?utm_source=Simplify&ref=Simplify) | Calgary, AB, Canada | 6d |
 | Capital Power | [Student Intern - Data Science](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1?utm_source=Simplify&ref=Simplify) | Edmonton, AB, Canada | 6d |
+| Capital Power | [Data Science Intern](https://go.vansh.nyc/1y1?utm_source=github-vansh-ouckah) | Edmonton, Canada | 6d |
 | Capital Power | [Data Analytics Intern](https://go.vansh.nyc/1y2?utm_source=github-vansh-ouckah) | Calgary, Canada | 6d |
 | CarGurus | [Data Analytics Engineer Intern](https://go.vansh.nyc/1xc?utm_source=github-vansh-ouckah) | Boston, MA | 6d |
 | Entegris | [Data Engineering Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839?utm_source=Simplify&ref=Simplify) | Aurora, IL | 6d |
@@ -89,9 +90,9 @@ Total Listings: **325**
 | Johns Hopkins Applied Physics Laboratory | [AI & Data Science Intern, Analytic Capabilities](https://go.vansh.nyc/1xh?utm_source=github-vansh-ouckah) | United States | 6d |
 | Mum Industries | [Business Intelligence & Data Analytics Intern](https://go.vansh.nyc/1x5?utm_source=github-vansh-ouckah) | Mentor, OH | 6d |
 | Paccar | [Data Engineering Intern](https://go.vansh.nyc/1x9?utm_source=github-vansh-ouckah) | United States | 6d |
-| Riot Games | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716&utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
-| Riot Games | [Data Engineering Intern - Summer 2027](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-internships-2027) | Los Angeles, USA | 6d |
 | Riot Games | [Data Engineering Intern 🛂](https://go.vansh.nyc/1sS?utm_source=github-vansh-ouckah) | Los Angeles, CA | 6d |
+| Riot Games | [Data Engineering Intern - Summer 2027](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-internships-2027) | Los Angeles, USA | 6d |
+| Riot Games | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716&utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
 | Sanofi | [Data Science & Digital Transformation Co-op](https://go.vansh.nyc/1vt?utm_source=github-vansh-ouckah) | Framingham, MA | 6d |
 | SharkNinja | [Data Science Intern](https://go.vansh.nyc/1wu?utm_source=github-vansh-ouckah) | Needham, MA | 6d |
 | Stanley Black & Decker | [Data Analyst Intern 🎓](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481?utm_source=Simplify&ref=Simplify) | Towson, MD | 6d |
@@ -115,9 +116,9 @@ Total Listings: **325**
 | Biodesix | [Data Analytics & Business Intelligence Intern](https://www.biodesix.com/careers/current-openings?gh_jid=4485182009&utm_source=Simplify&ref=Simplify) | Louisville, CO | 8d |
 | Biodesix | [Data Analytics & Business Intelligence Intern](https://go.vansh.nyc/1ps?utm_source=github-vansh-ouckah) | Louisville, CO | 8d |
 | Booz Allen Hamilton | [Data Scientist Intern](https://go.vansh.nyc/1sy?utm_source=github-vansh-ouckah) | McLean, VA | 8d |
-| DreamWorks Animation | [Studio Operations – Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109?utm_source=Simplify&ref=Simplify) | Universal City, LA | 8d |
-| DreamWorks Animation | [Data Science Intern, Advertising & Partnerships](https://go.vansh.nyc/1pJ?utm_source=github-vansh-ouckah) | New York, NY | 8d |
 | DreamWorks Animation | [Advertising & Partnerships: Data Science Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930?utm_source=Simplify&ref=Simplify) | NYC | 8d |
+| DreamWorks Animation | [Data Science Intern, Advertising & Partnerships](https://go.vansh.nyc/1pJ?utm_source=github-vansh-ouckah) | New York, NY | 8d |
+| DreamWorks Animation | [Studio Operations – Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109?utm_source=Simplify&ref=Simplify) | Universal City, LA | 8d |
 | Enova | [Analytics Intern](https://job-boards.greenhouse.io/enova/jobs/8366036?utm_source=Simplify&ref=Simplify) | Chicago, IL | 8d |
 | NBCUniversal | [Data Science Intern, Advertising & Partnerships](https://go.vansh.nyc/1oO?utm_source=github-vansh-ouckah) | New York, NY | 8d |
 | National Interstate Insurance | [Data Scientist Intern 🛂](https://go.vansh.nyc/1ni?utm_source=github-vansh-ouckah) | Lakeland, FL | 8d |
@@ -141,8 +142,8 @@ Total Listings: **325**
 | SharkNinja | [Applied AI & Analytics Co-op, AI](https://go.vansh.nyc/1la?utm_source=github-vansh-ouckah) | Miami, FL, Needham, MA | 11d |
 | Tinder | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply?utm_source=Simplify&ref=Simplify) | SF | 11d |
 | General Dynamics Information Technology | [AI/ML Data Science and Engineering Intern 🇺🇸](https://go.vansh.nyc/1hS?utm_source=github-vansh-ouckah) | Bossier City, LA | 12d |
-| Invesco | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091?utm_source=Simplify&ref=Simplify) | Dallas, TX | 12d |
 | Invesco | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1?utm_source=Simplify&ref=Simplify) | Dallas, TX | 12d |
+| Invesco | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091?utm_source=Simplify&ref=Simplify) | Dallas, TX | 12d |
 | Omya | [Data Scientist Co-op](https://go.vansh.nyc/1iz?utm_source=github-vansh-ouckah) | Cincinnati, OH | 12d |
 | PayPal | [Data Scientist Intern](https://go.vansh.nyc/1hy?utm_source=github-vansh-ouckah) | San Jose, CA | 12d |
 | PayPal | [Data Scientist Intern](https://paypal.eightfold.ai/careers/job/274922982821?utm_source=Simplify&ref=Simplify) | San Jose, CA | 12d |
@@ -185,42 +186,42 @@ Total Listings: **325**
 | Paccar | [Sales Administration Data Analyst Intern - Greenhouse Gas](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 15d |
 | ParetoHealth | [Analytics Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 15d |
 | Qube Research & Technologies | [Business Data Analytics Intern](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002?utm_source=Simplify&ref=Simplify) | London, UK | 15d |
-| Tesla | [Data Engineer Intern, Energy](https://go.vansh.nyc/1a3?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15d |
-| Tesla | [Data Analyst Intern, People Products](https://go.vansh.nyc/1a5?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15d |
-| Tesla | [Data Engineer Intern, Data Engineering & Business Intelligence](https://go.vansh.nyc/1ae?utm_source=github-vansh-ouckah) | Fremont, CA | 15d |
-| Tesla | [Data Engineer Intern, Applications Engineering](https://go.vansh.nyc/1af?utm_source=github-vansh-ouckah) | Fremont, CA | 15d |
 | Tesla | [Data Engineer Intern, Fleet Analytics](https://go.vansh.nyc/1az?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15d |
+| Tesla | [Data Analyst Intern, People Products](https://go.vansh.nyc/1a5?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15d |
+| Tesla | [Data Engineer Intern, Applications Engineering](https://go.vansh.nyc/1af?utm_source=github-vansh-ouckah) | Fremont, CA | 15d |
+| Tesla | [Data Engineer Intern, Data Engineering & Business Intelligence](https://go.vansh.nyc/1ae?utm_source=github-vansh-ouckah) | Fremont, CA | 15d |
+| Tesla | [Data Engineer Intern, Energy](https://go.vansh.nyc/1a3?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15d |
 | Booz Allen | [Summer Games Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783?utm_source=Simplify&ref=Simplify) | Detroit, MI | 16d |
-| ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c?utm_source=github-vansh-ouckah) | Seattle, WA | 16d |
+| ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
 | Sierra Nevada Corporation | [Data Science Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257?utm_source=Simplify&ref=Simplify) | Sparks, NV | 16d |
-| Signet Jewelers | [Data Analytics Intern](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1?utm_source=Simplify&ref=Simplify) | Akron, OH | 16d |
 | Signet Jewelers | [Data Analytics Intern](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317?utm_source=Simplify&ref=Simplify) | Akron, OH | 16d |
-| TikTok | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
+| Signet Jewelers | [Data Analytics Intern](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1?utm_source=Simplify&ref=Simplify) | Akron, OH | 16d |
 | TikTok | [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
-| TikTok | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
-| TikTok | [Data Science Project Intern, Advertisement](https://go.vansh.nyc/18k?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
-| TikTok | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
 | TikTok | [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
+| TikTok | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
+| TikTok | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
+| TikTok | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
+| TikTok | [Data Science Project Intern, Advertisement](https://go.vansh.nyc/18k?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
 | TikTok | [Data Engineer Intern, Monetization Data](https://go.vansh.nyc/18f?utm_source=github-vansh-ouckah) | San Jose, CA | 16d |
 | Divergent Technologies | [Business Intelligence Intern](https://job-boards.greenhouse.io/divergent/jobs/5393519008?utm_source=Simplify&ref=Simplify) | Torrance, CA | 18d |
 | Firework | [Data Engineer Intern](https://go.vansh.nyc/11I?utm_source=github-vansh-ouckah) | San Mateo, CA | 18d |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | [Data Analyst Intern](https://go.vansh.nyc/10v?utm_source=github-vansh-ouckah) | Cincinnati, OH | 18d |
 | GTI Energy | [Data Science Intern](https://go.vansh.nyc/12t?utm_source=github-vansh-ouckah) | Des Plaines, IL | 18d |
-| MITRE | [Data Science and Engineering Intern 🇺🇸](https://go.vansh.nyc/10t?utm_source=github-vansh-ouckah) | McLean, VA | 18d |
+| Molina Healthcare | [Customer Experience & Analytics Intern - Undergraduate](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169?utm_source=Simplify&ref=Simplify) | Remote in USA | 18d |
 | Molina Healthcare | [Data Analytics Intern](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160?utm_source=Simplify&ref=Simplify) | United States | 18d |
 | Molina Healthcare | [Healthcare Quality Analytics Intern](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139?utm_source=Simplify&ref=Simplify) | Kentucky | 18d |
-| Molina Healthcare | [Customer Experience & Analytics Intern - Undergraduate](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169?utm_source=Simplify&ref=Simplify) | Remote in USA | 18d |
 | Strada Education Foundation | [Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply?utm_source=Simplify&ref=Simplify) | Washington, DC | 18d |
 | TobogganLabs | [Data Science Intern](https://go.vansh.nyc/13r?utm_source=github-vansh-ouckah) | Montreal, Canada | 18d |
 | AXA | [Underwriting Data & Analytics Intern](https://careers.axa.com/jobs/25498?icims=1&utm_source=Simplify&ref=Simplify) | NYC | 19d |
 | GM financial | [Data Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197?utm_source=Simplify&ref=Simplify) | Arlington, TX | 19d |
+| MITRE | [Data Science and Engineering Intern 🇺🇸](https://go.vansh.nyc/10t?utm_source=github-vansh-ouckah) | McLean, VA | 19d |
 | SageSure | [Data Science Product Analyst Intern](https://go.vansh.nyc/1oj?utm_source=github-vansh-ouckah) | Fairfield, CA | 19d |
 | Sallie Mae | [Data Science and Engineering Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659?utm_source=Simplify&ref=Simplify) | Newark, DE Arlington County, Arlington, VA | 19d |
 | Tesla | [Data Engineer Intern - Energy](https://www.tesla.com/careers/search/job/287982?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 19d |
-| Applied Materials | [Data Scientist Intern](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=Simplify&ref=Simplify) | Austin, TX | 20d |
 | Applied Materials | [Data Scientist Intern - Master's 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 20d |
 | Applied Materials | [Business Intelligence Analyst Intern 🎓](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 20d |
+| Applied Materials | [Data Scientist Intern](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=Simplify&ref=Simplify) | Austin, TX | 20d |
 | Constellation Energy | [Geothermal Production Analytics Engineer Intern](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Middletown, CA | 20d |
 | Federal Home Loan Bank of Indianapolis | [MPP Data Analytics Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 20d |
 | GM Financial | [Data Engineer Intern](https://go.vansh.nyc/Zs?utm_source=github-vansh-ouckah) | Arlington, TX | 20d |
@@ -253,25 +254,25 @@ Total Listings: **325**
 | Trinity Life Sciences | [Data Science Intern](https://go.vansh.nyc/1wF?utm_source=github-vansh-ouckah) | Waltham, MA, New York, NY | 22d |
 | ConnectPrep | [Data Analyst Intern](https://go.vansh.nyc/BG?utm_source=github-vansh-ouckah) | Remote, United States | 23d |
 | Royal Bank of Canada | [Data Engineer Intern](https://go.vansh.nyc/OF?utm_source=github-vansh-ouckah) | Vancouver, Canada | 23d |
-| Auto-Owners Insurance | [Business Intelligence Developer Intern](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772?utm_source=Simplify&ref=Simplify) | Lansing, MI | 25d |
 | Auto-Owners Insurance | [Business Intelligence Developer Intern 🛂](https://go.vansh.nyc/h0?utm_source=github-vansh-ouckah) | Lansing, MI | 25d |
-| ID.me | [Analytics Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 25d |
+| Auto-Owners Insurance | [Business Intelligence Developer Intern](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772?utm_source=Simplify&ref=Simplify) | Lansing, MI | 25d |
 | ID.me | [Analytics Engineer Intern](https://go.vansh.nyc/h1?utm_source=github-vansh-ouckah) | Mountain View, CA | 25d |
+| ID.me | [Analytics Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 25d |
+| Intercontinental Exchange | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1&utm_source=Simplify&ref=Simplify) | NYC | 25d |
 | Intercontinental Exchange | [Audit Analytics Intern](https://ice.jibeapply.com/jobs/14069?icims=1&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
 | Intercontinental Exchange | [Audit Analytics Intern](https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Atlanta, GA | 25d |
-| Intercontinental Exchange | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1&utm_source=Simplify&ref=Simplify) | NYC | 25d |
 | Simbe Robotics | [Data Analytics & Data Science Intern](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply?utm_source=Simplify&ref=Simplify) | Burlingame, CA | 25d |
 | Simbe Robotics | [Data Analytics & Data Science Intern](https://go.vansh.nyc/hK?utm_source=github-vansh-ouckah) | Burlingame, CA | 25d |
-| CVS Health | [Innovation & Technology Data Science Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067?utm_source=Simplify&ref=Simplify) | NYC | 26d |
 | CVS Health | [Innovation & Technology Internship - Data Science 🎓](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038?utm_source=Simplify&ref=Simplify) | NYC | 26d |
+| CVS Health | [Innovation & Technology Data Science Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067?utm_source=Simplify&ref=Simplify) | NYC | 26d |
 | KION Group | [Software Analytics Co-op](https://go.vansh.nyc/f3?utm_source=github-vansh-ouckah) | Grand Rapids, MI | 26d |
-| Kion Group | [Software Analytics Co-op](https://kiongroup.wd3.myworkdayjobs.com/en-US/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723) | Grand Rapids, MI | 26d |
 | Kion Group | [Software Analytics Co-op](https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1) | Grand Rapids, MI | 26d |
+| Kion Group | [Software Analytics Co-op](https://kiongroup.wd3.myworkdayjobs.com/en-US/kion_scs/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723) | Grand Rapids, MI | 26d |
 | LexisNexis Risk Solutions | [Data Science & Fraud Analytics Placement Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888?utm_source=Simplify&ref=Simplify) | London, UK | 26d |
 | Pattern | [Data Science Intern](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply?utm_source=Simplify&ref=Simplify) | Lehi, UT | 26d |
 | Rivian and Volkswagen Group Technologies | [Data Engineering Intern, AI & Analytics](https://go.vansh.nyc/fI?utm_source=github-vansh-ouckah) | Palo Alto, CA, Irvine, CA | 26d |
-| Allstate | [Data Science Intern, Core Telematics](https://go.vansh.nyc/ff?utm_source=github-vansh-ouckah) | Remote, United States | 27d |
 | Allstate | [Data Analytics Engineer Intern](https://go.vansh.nyc/fe?utm_source=github-vansh-ouckah) | Remote, United States | 27d |
+| Allstate | [Data Science Intern, Core Telematics](https://go.vansh.nyc/ff?utm_source=github-vansh-ouckah) | Remote, United States | 27d |
 | American Family Insurance Group | [Business Intelligence Enablement Intern](https://go.vansh.nyc/fc?utm_source=github-vansh-ouckah) | Madison, WI, Boston, MA | 27d |
 | Analytic Partners | [Data Science Co-op](https://go.vansh.nyc/dz?utm_source=github-vansh-ouckah) | Miami, FL | 27d |
 | Booz Allen | [Enterprise Cybersecurity Data and Business Intelligence Analyst Intern](https://go.vansh.nyc/fl?utm_source=github-vansh-ouckah) | McLean, VA | 27d |
@@ -289,8 +290,8 @@ Total Listings: **325**
 | DraftKings | [Data Science Intern](https://go.vansh.nyc/en?utm_source=github-vansh-ouckah) | Boston, MA | 1mo |
 | DriveTime | [Data Analytics Intern](https://go.vansh.nyc/PR?utm_source=github-vansh-ouckah) | Dallas, TX, Tempe, AZ | 1mo |
 | Epic Games | [Data Science Intern](https://go.vansh.nyc/1t5?utm_source=github-vansh-ouckah) | Cary, NC | 1mo |
-| First Solar (US) | [Data Science Intern, Device Characterization](https://go.vansh.nyc/H7?utm_source=github-vansh-ouckah) | Perrysburg, OH | 1mo |
 | First Solar (US) | [Data Science Intern](https://go.vansh.nyc/K2?utm_source=github-vansh-ouckah) | Perrysburg, OH | 1mo |
+| First Solar (US) | [Data Science Intern, Device Characterization](https://go.vansh.nyc/H7?utm_source=github-vansh-ouckah) | Perrysburg, OH | 1mo |
 | Found Energy | [Data Engineer Co-op](https://go.vansh.nyc/EQ?utm_source=github-vansh-ouckah) | Cambridge, MA | 1mo |
 | Garmin | [Data Scientist Intern](https://go.vansh.nyc/1nn?utm_source=github-vansh-ouckah) | Louisville, CO | 1mo |
 | IAT Insurance Group | [Data Engineering & Visualization Intern](https://go.vansh.nyc/JL?utm_source=github-vansh-ouckah) | Raleigh, NC | 1mo |
@@ -321,9 +322,9 @@ Total Listings: **325**
 | Hoffman Construction | [Data Analyst Intern](https://go.vansh.nyc/1eC?utm_source=github-vansh-ouckah) | Amarillo, TX | 2mo |
 | LLNL | [Data Science Institute Undergraduate Intern](https://go.vansh.nyc/1tp?utm_source=github-vansh-ouckah) | Livermore, CA | 2mo |
 | Lyft | [Data Engineer Intern](https://go.vansh.nyc/Ql?utm_source=github-vansh-ouckah) | Toronto, Canada | 2mo |
-| Navy Federal | [Associate Data Scientist Intern](https://go.vansh.nyc/1ux?utm_source=github-vansh-ouckah) | Vienna, VA | 2mo |
 | Navy Federal | [Associate Data Engineer Intern](https://go.vansh.nyc/1up?utm_source=github-vansh-ouckah) | Vienna, VA | 2mo |
 | Navy Federal | [Business Intelligence Analyst Associate Intern](https://go.vansh.nyc/Mx?utm_source=github-vansh-ouckah) | Vienna, VA | 2mo |
+| Navy Federal | [Associate Data Scientist Intern](https://go.vansh.nyc/1ux?utm_source=github-vansh-ouckah) | Vienna, VA | 2mo |
 | Newell Brands | [Sales AI & Analytics Developer Intern](https://go.vansh.nyc/IG?utm_source=github-vansh-ouckah) | Huntersville, NC | 2mo |
 | Universal Health Services | [Software Engineer Intern, Data Analytics](https://go.vansh.nyc/M0?utm_source=github-vansh-ouckah) | King of Prussia, PA | 2mo |
 | Crowe | [Data Analytics Developer Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) | Chicago, IL | 89d |
