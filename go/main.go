@@ -166,7 +166,8 @@ func main() {
 	badges.WriteString(fmt.Sprintf("![Unique Listings](https://img.shields.io/badge/Unique_Listings-%d-brightgreen?style=flat&logo=briefcase)\n", len(uniqueJobs)))
 	badges.WriteString(fmt.Sprintf("![Companies](https://img.shields.io/badge/Companies-%d-blue?style=flat&logo=building)\n", uniqueCompanyCount))
 
-	internshipMarkdown := renderSectionedMarkdown(uniqueJobs, false)
+	writeTrackFiles(uniqueJobs, "internships", "README.md", "Internships")
+	internshipMarkdown := renderMainMarkdown(uniqueJobs, false)
 
 	content, _ := os.ReadFile("../README.md")
 	updatedReadme := string(content)
@@ -191,7 +192,8 @@ func main() {
 	uniqueNewGradJobs := keepLiveJobs(deduplicateJobs(newGradJobs))
 	slices.SortFunc(uniqueNewGradJobs, compareJobListings)
 
-	newGradMarkdown := renderSectionedMarkdown(uniqueNewGradJobs, true)
+	writeTrackFiles(uniqueNewGradJobs, "newgrad", "NEWGRAD.md", "New Grad Roles")
+	newGradMarkdown := renderMainMarkdown(uniqueNewGradJobs, true)
 
 	newGradContent, _ := os.ReadFile("../NEWGRAD.md")
 	updatedNewGrad := string(newGradContent)
@@ -204,50 +206,36 @@ func main() {
 
 }
 
-type categoryDef struct {
-	key    string
-	title  string
-	anchor string
+type categoryTrack struct {
+	key      string
+	title    string
+	filename string
 }
 
-var coreCategories = []categoryDef{
-	{key: "SWE", title: "💻 Software Engineering", anchor: "-software-engineering"},
-	{key: "Quant", title: "📈 Quantitative Finance", anchor: "-quantitative-finance"},
-	{key: "AI_ML", title: "🤖 AI & Machine Learning", anchor: "-ai--machine-learning"},
-	{key: "Data", title: "📊 Data Science & Analytics", anchor: "-data-science--analytics"},
-	{key: "Other", title: "🛠️ Other Tech Roles", anchor: "-other-tech-roles"},
+var coreTracks = []categoryTrack{
+	{key: "SWE", title: "💻 Software Engineering", filename: "SWE.md"},
+	{key: "Quant", title: "📈 Quantitative Finance", filename: "QUANT.md"},
+	{key: "AI_ML", title: "🤖 AI & Machine Learning", filename: "AI_ML.md"},
+	{key: "Data", title: "📊 Data Science & Analytics", filename: "DATA.md"},
 }
 
-func renderSectionedMarkdown(jobs []JobListing, isNewGrad bool) string {
+func writeTrackFiles(jobs []JobListing, subfolder, parentDoc, label string) {
+	os.MkdirAll("../tracks/"+subfolder, 0755)
+
 	categoryMap := make(map[string][]JobListing)
 	for _, job := range jobs {
-		cat := job.Category
-		if cat == "" {
-			cat = "Other"
-		}
-		categoryMap[cat] = append(categoryMap[cat], job)
+		categoryMap[job.Category] = append(categoryMap[job.Category], job)
 	}
 
-	var sb strings.Builder
+	for _, track := range coreTracks {
+		catJobs := categoryMap[track.key]
+		var sb strings.Builder
 
-	if isNewGrad {
-		sb.WriteString("> 📍 **Browsing: 🎓 New Grad Listings** &nbsp;|&nbsp; 🔄 **Switch to: [💼 Internships](README.md)**\n\n")
-	} else {
-		sb.WriteString("> 📍 **Browsing: 💼 Internships** &nbsp;|&nbsp; 🔄 **Switch to: [🎓 New Grad Listings](NEWGRAD.md)**\n\n")
-	}
-
-	sb.WriteString("### 🎯 Quick Filters\n")
-	for _, cat := range coreCategories {
-		count := len(categoryMap[cat.key])
-		sb.WriteString(fmt.Sprintf("- [%s (%d)](#%s)\n", cat.title, count, cat.anchor))
-	}
-	sb.WriteString("\n---\n\n")
-
-	for _, cat := range coreCategories {
-		catJobs := categoryMap[cat.key]
-		if len(catJobs) == 0 {
-			continue
-		}
+		sb.WriteString(fmt.Sprintf("# %s %s\n\n", track.title, label))
+		sb.WriteString(fmt.Sprintf("> 🔙 [Back to All %s](../../%s)\n\n", label, parentDoc))
+		sb.WriteString(fmt.Sprintf("Total Listings: **%d**\n\n", len(catJobs)))
+		sb.WriteString("| Company | Role | Location | Age |\n")
+		sb.WriteString("| --- | --- | --- | --- |\n")
 
 		hasZeroDayJobs := false
 		for _, job := range catJobs {
@@ -256,11 +244,6 @@ func renderSectionedMarkdown(jobs []JobListing, isNewGrad bool) string {
 				break
 			}
 		}
-
-		sb.WriteString(fmt.Sprintf("## %s\n\n", cat.title))
-		sb.WriteString("[⬆ Back to Top](#-quick-filters)\n\n")
-		sb.WriteString("| Company | Role | Location | Age |\n")
-		sb.WriteString("| --- | --- | --- | --- |\n")
 
 		dividerWritten := false
 		for _, job := range catJobs {
@@ -274,7 +257,59 @@ func renderSectionedMarkdown(jobs []JobListing, isNewGrad bool) string {
 			roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
 			sb.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
 		}
-		sb.WriteString("\n")
+
+		os.WriteFile(fmt.Sprintf("../tracks/%s/%s", subfolder, track.filename), []byte(sb.String()), 0644)
+	}
+}
+
+func renderMainMarkdown(jobs []JobListing, isNewGrad bool) string {
+	categoryMap := make(map[string][]JobListing)
+	for _, job := range jobs {
+		categoryMap[job.Category] = append(categoryMap[job.Category], job)
+	}
+
+	subfolder := "internships"
+	if isNewGrad {
+		subfolder = "newgrad"
+	}
+
+	var sb strings.Builder
+
+	if isNewGrad {
+		sb.WriteString("> 📍 **Browsing: 🎓 New Grad Listings** &nbsp;|&nbsp; 🔄 **Switch to: [💼 Internships](README.md)**\n\n")
+	} else {
+		sb.WriteString("> 📍 **Browsing: 💼 Internships** &nbsp;|&nbsp; 🔄 **Switch to: [🎓 New Grad Listings](NEWGRAD.md)**\n\n")
+	}
+
+	sb.WriteString("### 🎯 Filter by Track\n")
+	for _, track := range coreTracks {
+		count := len(categoryMap[track.key])
+		sb.WriteString(fmt.Sprintf("- [%s (%d)](tracks/%s/%s)\n", track.title, count, subfolder, track.filename))
+	}
+	sb.WriteString("\n---\n\n")
+
+	sb.WriteString("| Company | Role | Location | Age |\n")
+	sb.WriteString("| --- | --- | --- | --- |\n")
+
+	hasZeroDayJobs := false
+	for _, job := range jobs {
+		if job.Age == "0d" {
+			hasZeroDayJobs = true
+			break
+		}
+	}
+
+	dividerWritten := false
+	for _, job := range jobs {
+		if hasZeroDayJobs && !dividerWritten && job.Age != "0d" {
+			sb.WriteString("\n<!-- DerexXD 0d divider -->\n\n")
+			sb.WriteString("| Company | Role | Location | Age |\n")
+			sb.WriteString("| --- | --- | --- | --- |\n")
+			dividerWritten = true
+		}
+
+		roleLink := fmt.Sprintf("[%s](%s)", job.Role, job.Link)
+		sb.WriteString(fmt.Sprintf("| %s | %s | %s | %s |\n", job.Company, roleLink, job.Location, job.Age))
 	}
 
 	return sb.String()
