@@ -7,4 +7,5 @@ type JobListing struct {
 	Link     string
 	Age      string
 	NewGrad  bool
+	Category string
 }
