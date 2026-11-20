@@ -13,25 +13,25 @@ Total Listings: **70**
 
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| Crest Industries | [Data Engineer I](https://zapply.jobs/l/d/lever-crestoperations-29980a5d-fc0f-4606-b69f-ba18e32edfde?s=gh-new-grad-software-engineering-jobs-2027) | Ruston, Louisiana | 1d |
 | Roblox | [Data Scientist – PhD Early Career - Safety 🎓](https://careers.roblox.com/jobs/8384186?gh_jid=8384186&utm_source=Simplify&ref=Simplify) | San Mateo, CA | 1d |
-| BIS Safety Software | [Junior Data Analyst](https://go.vansh.nyc/1BF?utm_source=github-vansh-ouckah) | Sherwood Park, Canada | 2d |
 | Blue Cross Blue Shield of Michigan | [Data Science Analyst I](https://go.vansh.nyc/1DR?utm_source=github-vansh-ouckah) | Detroit, MI | 2d |
+| Crest Industries | [Data Engineer I](https://zapply.jobs/l/d/lever-crestoperations-29980a5d-fc0f-4606-b69f-ba18e32edfde?s=gh-new-grad-software-engineering-jobs-2027) | Ruston, Louisiana | 2d |
+| BIS Safety Software | [Junior Data Analyst](https://go.vansh.nyc/1BF?utm_source=github-vansh-ouckah) | Sherwood Park, Canada | 3d |
 | Booz Allen Hamilton | [Scientific Data Engineering Specialist](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251925?s=gh-new-grad-software-engineering-jobs-2027) | McLean, VA | 4d |
 | Luxfer MEL Technologies | [Junior Data Engineer](https://luxfermeltechnologiesuk.applytojob.com/apply/7D3Toqbi0l/Junior-Data-Engineer?utm_source=Simplify&ref=Simplify) | Swinton, Manchester, UK | 6d |
 | UTHealth Houston | [Clinical Business Intelligence Analyst](https://go.vansh.nyc/1zn?utm_source=github-vansh-ouckah) | San Antonio, TX | 6d |
 | Adobe | [Data Scientist New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462?utm_source=Simplify&ref=Simplify) | San Jose, CA | 7d |
 | BAE Systems | [Data Scientist_ SPLUNK](https://zapply.jobs/l/d/phenom-bae-systems-131115BR?s=gh-new-grad-software-engineering-jobs-2027) | Sterling, Virginia | 7d |
 | Kyndryl | [Early Career Consult Program - Associate Data Engineer](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870?utm_source=Simplify&ref=Simplify) | Frisco, TX | 8d |
-| MITRE | [Associate Data Scientist 🇺🇸](https://go.vansh.nyc/1w6?utm_source=github-vansh-ouckah) | Clarksburg, WV | 8d |
 | Tidal Wave Auto Spa | [Junior Data Analyst](https://tidalwaveautospa.wd1.myworkdayjobs.com/TWAS/job/Thomaston-GA/Junior-Data-Analyst_R11470?utm_source=Simplify&ref=Simplify) | Birmingham, AL Peachtree Corners, GA Thomaston, GA | 8d |
+| MITRE | [Associate Data Scientist 🇺🇸](https://go.vansh.nyc/1w6?utm_source=github-vansh-ouckah) | Clarksburg, WV | 9d |
 | Coreintels | [New Grad: Data Analyst](https://go.vansh.nyc/1rr?utm_source=github-vansh-ouckah) | Remote | 10d |
 | National Grid | [New Grad 2027: Associate Data Analyst, Electric Projects Estimating](https://go.vansh.nyc/1rO?utm_source=github-vansh-ouckah) | Waltham, MA | 11d |
 | Cardinal Health | [Data & Analytics Early Career Development Program](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569?utm_source=Simplify&ref=Simplify) | Dublin, OH | 13d |
 | Vancouver Coastal Health | [Junior Business Advisor - Data & Analytics](https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Vancouver, BC, Canada | 13d |
 | Cardinal Health | [New Grad 2027: Data & Analytics Development Program](https://go.vansh.nyc/1jL?utm_source=github-vansh-ouckah) | Dublin, OH | 15d |
-| ByteDance | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154?utm_source=github-vansh-ouckah) | Seattle, WA | 19d |
 | ByteDance | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/15s?utm_source=github-vansh-ouckah) | San Jose, CA | 19d |
+| ByteDance | [New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)](https://go.vansh.nyc/154?utm_source=github-vansh-ouckah) | Seattle, WA | 19d |
 | TikTok | [New Grad 2027: Data Engineer, Monetization Data](https://go.vansh.nyc/160?utm_source=github-vansh-ouckah) | San Jose, CA | 19d |
 | TikTok | [New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture](https://go.vansh.nyc/17m?utm_source=github-vansh-ouckah) | San Jose, CA | 19d |
 | TikTok | [New Grad 2027: Data Engineer, Data Platform - Global Live](https://go.vansh.nyc/174?utm_source=github-vansh-ouckah) | San Jose, CA | 19d |
@@ -59,17 +59,17 @@ Total Listings: **70**
 | Veeva Systems | [New Grad 2027: Data Analyst, Marketing Analytics](https://go.vansh.nyc/Ua?utm_source=github-vansh-ouckah) | New York, NY | 1mo |
 | Global Lending Services | [New Grad 2027: Data Scientist](https://go.vansh.nyc/Px?utm_source=github-vansh-ouckah) | Greenville, SC | 2mo |
 | ID.me | [Data Scientist New Grad 🎓](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Data Analyst New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems 🎓](https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Data Scientist New Grad - Computer Scientist - Decision Systems 🎓](https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
-| Johns Hopkins Applied Physics Laboratory | [Data Scientist/Engineer New Grad - Analytic Capabilities 🎓](https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Data Analyst New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Sensor Systems/Data Analytics New Grad](https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Data Scientist/Engineer New Grad - Analytic Capabilities 🎓](https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
+| Johns Hopkins Applied Physics Laboratory | [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems 🎓](https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | KBR | [Junior Data Engineer](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=Simplify&ref=Simplify) | Chantilly, VA | 2mo |
 | Procter & Gamble | [New Grad 2027: Data Science (Master's)](https://go.vansh.nyc/Pj?utm_source=github-vansh-ouckah) | Cincinnati, OH | 2mo |
 | THG Ingenuity | [Graduate / Junior Data Scientist](https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101?utm_source=Simplify&ref=Simplify) | Manchester, UK | 2mo |
 | Texas Instruments | [Data Engineer, Career Accelerator Program](https://go.vansh.nyc/KQ?utm_source=github-vansh-ouckah) | Richardson, TX | 2mo |
-| TikTok | [New Grad 2027: Data Engineer, Data Platform Global Live](https://go.vansh.nyc/Pp?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
 | TikTok | [New Grad 2027: Data Engineer, Data Platform E-commerce](https://go.vansh.nyc/Po?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
+| TikTok | [New Grad 2027: Data Engineer, Data Platform Global Live](https://go.vansh.nyc/Pp?utm_source=github-vansh-ouckah) | San Jose, CA | 2mo |
 | WSP | [Junior Geoscientist / Geochemist / Data Scientist](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94867?utm_source=Simplify&ref=Simplify) | 4 locationsCalgary, AB, Canada Edmonton, AB, Canada Whitehorse, YT, Canada Vancouver, BC, Canada | 2mo |
 | WTW | [Data Scientist New Grad - Insurance Consulting](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605389?utm_source=Simplify&ref=Simplify) | London, UK Reigate, UK | 2mo |
 | Duke University | [Analytics Engineer](https://go.vansh.nyc/Ab?utm_source=github-vansh-ouckah) | Durham, NC | 3mo |
