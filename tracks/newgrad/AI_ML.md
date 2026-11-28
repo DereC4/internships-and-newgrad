@@ -6,70 +6,70 @@ Total Listings: **129**
 
 | Company | Role | Location | Age |
 | --- | --- | --- | --- |
-| Scout AI | [New Grad 2027: AI Engineer, AI/ML and Agent Harnessing](https://go.vansh.nyc/1K3?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 1d |
-| Scout AI | [AI Engineer New Grad - AI/ML and Agent Harnessing](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true&utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
-| Ayo Semiconductor | [Machine Learning Researcher (Master's)](https://go.vansh.nyc/1JW?utm_source=github-vansh-ouckah) | Boston, MA | 2d |
-| Ayo Semiconductor | [Machine Learning Engineer (Master's)](https://go.vansh.nyc/1JX?utm_source=github-vansh-ouckah) | Boston, MA | 2d |
-| Applied Materials | [AI Engineer/Data Scientist](https://go.vansh.nyc/1Lx?utm_source=github-vansh-ouckah) | Santa Clara, CA | 3d |
-| General Motors | [Entry-Level – AI/Machine Learning Researcher](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621753?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View, California,... | 3d |
-| Keysight Technologies | [Machine Learning Engineer, RL & Optimization (Master's)](https://go.vansh.nyc/1Kr?utm_source=github-vansh-ouckah) | Santa Rosa, CA | 4d |
+| Scout AI | [AI Engineer New Grad - AI/ML and Agent Harnessing](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true&utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 2d |
+| Scout AI | [New Grad 2027: AI Engineer, AI/ML and Agent Harnessing](https://go.vansh.nyc/1K3?utm_source=github-vansh-ouckah) | Sunnyvale, CA | 2d |
+| Ayo Semiconductor | [Machine Learning Researcher (Master's)](https://go.vansh.nyc/1JW?utm_source=github-vansh-ouckah) | Boston, MA | 3d |
+| Ayo Semiconductor | [Machine Learning Engineer (Master's)](https://go.vansh.nyc/1JX?utm_source=github-vansh-ouckah) | Boston, MA | 3d |
+| Applied Materials | [AI Engineer/Data Scientist](https://go.vansh.nyc/1Lx?utm_source=github-vansh-ouckah) | Santa Clara, CA | 4d |
+| General Motors | [Entry-Level – AI/Machine Learning Researcher](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621753?s=gh-new-grad-software-engineering-jobs-2027) | Mountain View, California,... | 4d |
+| Keysight Technologies | [Machine Learning Engineer, RL & Optimization (Master's)](https://go.vansh.nyc/1Kr?utm_source=github-vansh-ouckah) | Santa Rosa, CA | 5d |
 | Bitdeer | [New Grad 2027: AI Engineering](https://go.vansh.nyc/1D9?utm_source=github-vansh-ouckah) | San Jose, CA | 8d |
-| Senstar | [Machine Learning Developer](https://go.vansh.nyc/1B2?utm_source=github-vansh-ouckah) | Waterloo, Canada | 10d |
+| Senstar | [Machine Learning Developer](https://go.vansh.nyc/1B2?utm_source=github-vansh-ouckah) | Waterloo, Canada | 11d |
 | Empire State Realty Trust | [Applied AI Engineer 1](https://go.vansh.nyc/1zo?utm_source=github-vansh-ouckah) | New York, NY | 14d |
-| SambaNova | [New Grad: Machine Learning Engineer](https://go.vansh.nyc/1qm?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 17d |
 | Techstra Solutions | [AI Engineer (Master's)](https://go.vansh.nyc/1sr?utm_source=github-vansh-ouckah) | Pittsburgh, PA | 17d |
-| Netholabs | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 18d |
+| SambaNova | [New Grad: Machine Learning Engineer](https://go.vansh.nyc/1qm?utm_source=github-vansh-ouckah) | Austin, TX, San Jose, CA | 18d |
+| Netholabs | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 19d |
 | Valsoft | [AI Engineer 1](https://go.vansh.nyc/1lL?utm_source=github-vansh-ouckah) | Montreal, Canada | 21d |
-| Preference Model | [New Grad: Member of Technical Staff - Machine Learning Capabilities](https://go.vansh.nyc/1fI?utm_source=github-vansh-ouckah) | San Francisco, CA | 23d |
+| Preference Model | [New Grad: Member of Technical Staff - Machine Learning Capabilities](https://go.vansh.nyc/1fI?utm_source=github-vansh-ouckah) | San Francisco, CA | 24d |
 | SambaNova Systems | [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004&utm_source=Simplify&ref=Simplify) | Austin, TX San Jose, CA | 24d |
 | Integration Innovation (i3) | [Junior Machine Learning Engineer](https://i3-corps.jibeapply.com/jobs/5417?icims=1&utm_source=Simplify&ref=Simplify) | Arlington County, Arlington, VA | 25d |
-| ByteDance | [New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness](https://go.vansh.nyc/14H?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14J?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14N?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| ByteDance | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14Q?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| ByteDance | [New Grad 2027: Machine Learning Backend Engineer (AML MLDev)](https://go.vansh.nyc/14R?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14T?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)](https://go.vansh.nyc/14V?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer](https://go.vansh.nyc/14X?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World Model)](https://go.vansh.nyc/14Z?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist (Seed Model - Speech)](https://go.vansh.nyc/157?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)](https://go.vansh.nyc/15a?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer](https://go.vansh.nyc/15h?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| ByteDance | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15i?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| ByteDance | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15k?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: LLM Backend Engineer (Applied Machine Learning)](https://go.vansh.nyc/15m?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)](https://go.vansh.nyc/15o?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| ByteDance | [New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/15r?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation](https://go.vansh.nyc/17h?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, Visual Search 🛂](https://go.vansh.nyc/17j?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer (Lead Ads)](https://go.vansh.nyc/19A?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, Ads Delivery](https://go.vansh.nyc/172?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16W?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| TikTok | [New Grad 2027: Machine Learning MLOps Engineer](https://go.vansh.nyc/16J?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, Search-Basic Ranking 🛂](https://go.vansh.nyc/16I?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer (Ads Targeting)](https://go.vansh.nyc/16C?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation 🛂](https://go.vansh.nyc/16v?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall](https://go.vansh.nyc/16r?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)](https://go.vansh.nyc/161?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, Commerce Ads](https://go.vansh.nyc/162?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)](https://go.vansh.nyc/163?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16p?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)](https://go.vansh.nyc/164?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16b?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live](https://go.vansh.nyc/16e?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer (Search Ads)](https://go.vansh.nyc/16h?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16k?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Research Scientist, Monetization Technology - Business Integrity (Master's)](https://go.vansh.nyc/16l?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16m?utm_source=github-vansh-ouckah) | Seattle, WA | 26d |
-| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o?utm_source=github-vansh-ouckah) | San Jose, CA | 26d |
-| Goaly | [Applied AI Engineer](https://go.vansh.nyc/13P?utm_source=github-vansh-ouckah) | Palo Alto, CA | 27d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration](https://go.vansh.nyc/14N?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness](https://go.vansh.nyc/14H?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14I?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14J?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist (Seed Model - LLM)](https://go.vansh.nyc/14M?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14Q?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| ByteDance | [New Grad 2027: Machine Learning Backend Engineer (AML MLDev)](https://go.vansh.nyc/14R?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist, Seed Model - Vision](https://go.vansh.nyc/14S?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control](https://go.vansh.nyc/14T?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)](https://go.vansh.nyc/14V?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer](https://go.vansh.nyc/14X?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World Model)](https://go.vansh.nyc/14Z?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist (Seed Model - Speech)](https://go.vansh.nyc/157?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)](https://go.vansh.nyc/15a?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Research Scientist (ML Recommendation Systems)](https://go.vansh.nyc/15c?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer](https://go.vansh.nyc/15h?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| ByteDance | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15i?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| ByteDance | [New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer](https://go.vansh.nyc/15k?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: LLM Backend Engineer (Applied Machine Learning)](https://go.vansh.nyc/15m?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)](https://go.vansh.nyc/15o?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| ByteDance | [New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)](https://go.vansh.nyc/15r?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Ads Delivery](https://go.vansh.nyc/172?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16W?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| TikTok | [New Grad 2027: Machine Learning MLOps Engineer](https://go.vansh.nyc/16J?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Search-Basic Ranking 🛂](https://go.vansh.nyc/16I?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (Ads Targeting)](https://go.vansh.nyc/16C?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation 🛂](https://go.vansh.nyc/16v?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall](https://go.vansh.nyc/16r?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16p?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Governance](https://go.vansh.nyc/16o?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16m?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| TikTok | [New Grad 2027: Research Scientist, Monetization Technology - Business Integrity (Master's)](https://go.vansh.nyc/16l?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety](https://go.vansh.nyc/16k?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (Search Ads)](https://go.vansh.nyc/16h?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Visual Search 🛂](https://go.vansh.nyc/17j?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live](https://go.vansh.nyc/16e?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation](https://go.vansh.nyc/16b?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)](https://go.vansh.nyc/164?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)](https://go.vansh.nyc/163?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, Commerce Ads](https://go.vansh.nyc/162?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)](https://go.vansh.nyc/161?utm_source=github-vansh-ouckah) | Seattle, WA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer (Lead Ads)](https://go.vansh.nyc/19A?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| TikTok | [New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation](https://go.vansh.nyc/17h?utm_source=github-vansh-ouckah) | San Jose, CA | 27d |
+| Goaly | [Applied AI Engineer](https://go.vansh.nyc/13P?utm_source=github-vansh-ouckah) | Palo Alto, CA | 28d |
 | NVIDIA | [Applied Machine Learning Engineer, AI for VLSI Design (Master's)](https://go.vansh.nyc/11n?utm_source=github-vansh-ouckah) | Santa Clara, CA | 28d |
-| Brain Co. | [New Grad 2027: AI/ML Engineer](https://go.vansh.nyc/As?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
 | Brain Co. | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
+| Brain Co. | [New Grad 2027: AI/ML Engineer](https://go.vansh.nyc/As?utm_source=github-vansh-ouckah) | San Francisco, CA | 1mo |
 | ByteDance | [Research Scientist New Grad - Video and Edge - Multimedia Lab 🎓](https://jobs.bytedance.com/en/position/7670374385110599989/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | Handshake | [Machine Learning Engineer 1](https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
 | NVIDIA | [Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
@@ -83,42 +83,42 @@ Total Listings: **129**
 | TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph](https://go.vansh.nyc/HR?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
 | TikTok | [New Grad 2027: Research Scientist Graduate](https://go.vansh.nyc/Dh?utm_source=github-vansh-ouckah) | Seattle, WA | 1mo |
 | TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce User Growth](https://go.vansh.nyc/HS?utm_source=github-vansh-ouckah) | San Jose, CA | 1mo |
-| TikTok | [Research Scientist New Grad 🎓](https://lifeattiktok.com/search/7695927144126253317?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
 | TikTok | [Machine Learning Engineer New Grad - E-Commerce User Growth](https://lifeattiktok.com/search/7694352871949682997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
+| TikTok | [Research Scientist New Grad 🎓](https://lifeattiktok.com/search/7695927144126253317?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1mo |
 | TikTok | [Research Scientist New Grad - Conversational AI 🎓](https://lifeattiktok.com/search/7670685496821713205?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
 | iManage | [Applied AI Engineer](https://go.vansh.nyc/Hz?utm_source=github-vansh-ouckah) | Chicago, IL | 1mo |
-| Adobe | [New Grad 2027: Machine Learning Engineer (Master's)](https://go.vansh.nyc/L6?utm_source=github-vansh-ouckah) | Seattle, WA, San Francisco, CA, Austin, TX, San Jose, CA, Waltham, MA, New York, NY, Lehi, UT | 2mo |
 | Adobe | [Machine Learning Engineer New Grad 🎓](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085?utm_source=Simplify&ref=Simplify) | 7 locationsSeattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT | 2mo |
+| Adobe | [New Grad 2027: Machine Learning Engineer (Master's)](https://go.vansh.nyc/L6?utm_source=github-vansh-ouckah) | Seattle, WA, San Francisco, CA, Austin, TX, San Jose, CA, Waltham, MA, New York, NY, Lehi, UT | 2mo |
 | Atlassian | [New Grad 2027: Machine Learning Engineer](https://go.vansh.nyc/1tW?utm_source=github-vansh-ouckah) | Seattle, WA | 2mo |
 | Garner Health | [New Grad 2027: Associate Applied Scientist 🛂](https://go.vansh.nyc/O3?utm_source=github-vansh-ouckah) | New York, NY | 2mo |
 | Johns Hopkins Applied Physics Laboratory | [Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence 🎓](https://careers.jhuapl.edu/jobs/59888?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Peraton | [Artificial Intelligence/Machine Learning Engineer 1](https://peraton.jibeapply.com/jobs/171011?icims=1&utm_source=Simplify&ref=Simplify) | Laurel, MD | 2mo |
 | Qualcomm | [New Grad: Machine Learning Engineer - AI Processors](https://go.vansh.nyc/1tT?utm_source=github-vansh-ouckah) | Markham, Canada | 2mo |
 | Quora | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify) | Remote in USA Remote in Canada | 2mo |
+| ByteDance | [Research Scientist New Grad - Infrastructure System Lab 🎓](https://jobs.bytedance.com/en/position/7665108869591140613/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | ByteDance | [Research Scientist New Grad - Distributed NoSQL Database Systems 🎓](https://jobs.bytedance.com/en/position/7668365143156721973/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | ByteDance | [Research Scientist New Grad - Multi-modal Agentic Databases 🎓](https://jobs.bytedance.com/en/position/7665104241446652213/detail?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| ByteDance | [Research Scientist New Grad - AI for Infrastructure 🎓](https://jobs.bytedance.com/en/position/7667291055662811445/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | ByteDance | [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | ByteDance | [Research Scientist New Grad - Computational Imaging 🎓](https://jobs.bytedance.com/en/position/7665836153219959093/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| ByteDance | [Research Scientist New Grad - AI for Infrastructure 🎓](https://jobs.bytedance.com/en/position/7667291055662811445/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| ByteDance | [Research Scientist New Grad - Infrastructure System Lab 🎓](https://jobs.bytedance.com/en/position/7665108869591140613/detail?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | Goaly | [AI Research Scientist – Early Career 🎓](https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37/application?embed=true&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 3mo |
 | Johns Hopkins Applied Physics Laboratory | [New Grad 2027: Artificial Intelligence and Complex Systems BS/MS](https://go.vansh.nyc/Pl?utm_source=github-vansh-ouckah) | Laurel, MD | 3mo |
 | Procter & Gamble | [New Grad 2027: Data and AI Engineering](https://go.vansh.nyc/Pk?utm_source=github-vansh-ouckah) | Cincinnati, OH | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Search Quality 🎓](https://lifeattiktok.com/search/7665793152026740997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Scientist New Grad - Recommendation 🎓](https://lifeattiktok.com/search/7663389363824773381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Data Search - Visual Search 🎓](https://lifeattiktok.com/search/7667346535273007413?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
-| TikTok | [Machine Learning Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665989163791403269?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph](https://go.vansh.nyc/PG?utm_source=github-vansh-ouckah) | San Jose, CA | 3mo |
-| TikTok | [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665977123255896325?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Machine Learning Infrastructure Engineer New Grad - Ads Infra](https://lifeattiktok.com/search/7668693662561634613?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665973724622342453?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
-| TikTok | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Research Scientist New Grad - TikTok Recommendation](https://lifeattiktok.com/search/7663389956951918853?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
 | TikTok | [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Data Search - Visual Search 🎓](https://lifeattiktok.com/search/7667346535273007413?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Machine Learning Engineer New Grad - Search Ads](https://lifeattiktok.com/search/7669698543896054069?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Search Quality 🎓](https://lifeattiktok.com/search/7665793152026740997?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665977123255896325?utm_source=Simplify&ref=Simplify) | Seattle, WA | 3mo |
+| TikTok | [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Scientist New Grad - Recommendation 🎓](https://lifeattiktok.com/search/7663389363824773381?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Machine Learning Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665989163791403269?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663388039600883973?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
+| TikTok | [Research Scientist New Grad - Trust and Safety 🎓](https://lifeattiktok.com/search/7665973724622342453?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | TikTok | [Machine Learning Engineer New Grad - Recommendation](https://lifeattiktok.com/search/7663389745178757429?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3mo |
 | NVIDIA | [Research Scientist New Grad - Robotics Research 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473?utm_source=Simplify&ref=Simplify) | Seattle, WA | 4mo |
 | Preference Model | [Member of Technical Staff New Grad - Machine Learning Capabilities 🎓](https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application?utm_source=Simplify&ref=Simplify) | Seattle, WA Toronto, ON, Canada SF | 4mo |
@@ -128,10 +128,10 @@ Total Listings: **129**
 | NVIDIA | [Research Scientist – PhD New College Grad - Generative AI for Physical AI 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 7mo |
 | Evolver | [GenAI Engineer (Python)](https://go.vansh.nyc/1Kt?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
 | Renaissance Technologies | [Research Scientist 🇺🇸](https://go.vansh.nyc/yJ?utm_source=github-vansh-ouckah) | East Setauket, NY | 10mo |
-| Tesla | [AI Engineer, Vision & Foundation Models, Optimus](https://go.vansh.nyc/yQ?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
 | Tesla | [AI Engineer, Reinforcement Learning, Self-Driving](https://go.vansh.nyc/yF?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
+| Tesla | [AI Engineer, Vision & Foundation Models, Optimus](https://go.vansh.nyc/yQ?utm_source=github-vansh-ouckah) | Palo Alto, CA | 10mo |
 | Revionics | [New Grad: Machine Learning Engineer](https://go.vansh.nyc/wq?utm_source=github-vansh-ouckah) | Austin, TX, Atlanta, GA | 13mo |
 | Tesla | [Machine Learning Infrastructure Simulation Engineer, Optimus](https://go.vansh.nyc/uL?utm_source=github-vansh-ouckah) | Palo Alto, CA | 13mo |
-| Tesla | [Machine Learning Engineer, Model Optimization & Deployment, Optimus](https://go.vansh.nyc/o8?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15mo |
 | Tesla | [Machine Learning Engineer, Embodied Intelligence, Optimus](https://go.vansh.nyc/qO?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15mo |
+| Tesla | [Machine Learning Engineer, Model Optimization & Deployment, Optimus](https://go.vansh.nyc/o8?utm_source=github-vansh-ouckah) | Palo Alto, CA | 15mo |
 | Tesla | [Software Engineer, Machine Learning Integration, Optimus](https://go.vansh.nyc/lY?utm_source=github-vansh-ouckah) | Palo Alto, CA | 17mo |
